@@ -1,4 +1,5 @@
 naacl.github.com
 ================
 
-NAACL website
+new NAACL website using Jekyll and github pages hosting
+
