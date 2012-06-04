@@ -1,8 +1,55 @@
-<html>
-<head>
-</head>
-<body>
-<h1>Stub for new NAACL web page</h1>
-<p>New Jekyll page coming here. Soonish.</p>
-</body>
-</html>
+---
+layout: default
+title: 
+pageclass: frontpage
+---
+
+<div class="span9">
+<div class="hero-unit">
+<h1><img alt="NAACL HLT 2012" height="180px" src="images/naacl2012logo.png"></img></h1>
+<hr>
+<!-- <h1>NAACL HLT 2012</h1> -->
+<p>
+The 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies
+</p>
+<p>
+Held at the Le Centre Sheraton Montréal
+1201, boul. René-Lévesque ouest, Montréal, (Québec), Canada, H3B-2L7
+</p>
+<p>
+June 3-8, 2012
+</p>
+<p>
+Email: acl-AT-aclweb.org
+</p>
+<p><a class="btn btn-primary btn-large" href="http://naacl2012.org">Learn more &raquo;</a></p>
+</div>
+<h1>News</h1>
+    <div class="more">
+    {% assign years = '' %}
+    {% for post in site.posts %}
+        {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+        {% if year != lastyear %}
+        {% capture years %}{{ years | append:' ' | append:year }}{% endcapture %}
+        {% assign lastyear = year %}
+        {% endif %}
+    {% endfor %}
+    {% stringtolist years %}
+        <ul class="yearlist">
+            {% for year in years limit:5 %}
+            <li><a href="{{ site.baseurl }}posts#year{{ year }}">{{ year }}</a></li>
+            {% endfor %}
+            <li><a href="{{ site.baseurl }}posts">All</a></li>
+        </ul>
+    {% endstringtolist %}
+    </div><!--/span-->
+
+    <div class="span9 contentarea">
+    {% for post in site.posts limit:5 %}
+    <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title | inline_textile }}</a> <small class="date">{{ post.date | date_to_string }}</small></h2>
+    {{ post.content }}
+    {% endfor %}
+    </div><!--/span-->
+
+<hr>
+

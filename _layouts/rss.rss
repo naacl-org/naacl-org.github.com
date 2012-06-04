@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+	<title>{{ page.title }}{% if page.title %} - {% endif %}naacl.org</title>
+	<link>{{ site.baseurl }}</link>
+	<description>
+		{{ page.title }}{% if page.title %} - for the{% else %}The{% endif %} North American Chapter of the Association for Computational Linguistics: NAACL. 
+	</description>
+	<lastBuildDate>{{ site.time | date: '%a, %d %b %Y %H:%M:%S %z' }}</lastBuildDate>
+
+	{{ content }}
+</channel>
+</rss>

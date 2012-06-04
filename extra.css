@@ -1,0 +1,130 @@
+p {
+    margin-bottom: 5px;
+}
+
+blockquote p { 
+    font-size: 13px;
+    line-height: 18px;
+    margin-bottom: 5px;
+}
+
+.yearlist {
+	text-align: center;
+	display: inline;
+	margin-left: 0;
+	padding-left: 0;
+}
+.yearlist li {
+	list-style-type: none;
+	display: inline;
+	padding-left: 0;
+	padding-right: 0.5em;
+	border-style: none;
+}
+
+.more .yearlist li {
+	font-size: 13px;
+	line-height: 18px;
+}
+.yearlist li {
+	font-size: 18px;
+	line-height: 24px;
+}
+
+.pageheader {
+	padding-bottom: 4px;
+}
+.pageheader h1 {
+	font-size: 48px;
+	border-style: none none solid none;
+	border-width: thin;
+	border-color: #dddddd;
+	padding-bottom: 4px;
+}
+.publication .pageheader h1 {
+	font-size: 18px;
+	line-height: 27px;
+}
+.frontpage .contentarea h1 {
+	border-style: none none solid none;
+	border-width: thin;
+	border-color: #dddddd;
+}
+.contentarea h1 {
+	padding-top: 10px;
+}
+.contentarea h2 {
+	padding-top: 10px;
+}
+.software .contentarea h1 {
+	border-style: none none solid none;
+	border-width: thin;
+	border-color: #dddddd;
+}
+.people .contentarea h1 {
+	border-style: none none solid none;
+	border-width: thin;
+	border-color: #dddddd;
+}
+
+.mainlinks img {
+	padding-left: 9px;
+	padding-bottom: 9px;
+}
+
+.publicationlinks {
+	text-align: center;
+	display: inline;
+	margin-left: 0;
+	padding-left: 0;
+}
+.publicationlinks li {
+	list-style-type: none;
+	display: inline;
+	padding-left: 0;
+	padding-right: 0.2em;
+	border-style: none;
+}
+
+.bibliography {
+	padding-top: 10px;
+}
+
+.bibliography .publicationlinks li {
+	font-size: 11px;
+}
+.referencelist .publicationlinks li {
+	font-size: 11px;
+}
+.publicationlinks li {
+	font-size: 18px;
+}
+
+.mainlinks h1 {
+	font-size: 13px;
+	line-height: 18px;
+	font-weight: normal;
+}
+
+.contentarea img.pull-right {
+	clear: right;
+}
+
+.carousel-imagearea {
+	width: 590px;
+	height: 243px;
+}
+
+div.date {
+	font-size: 18px;
+	line-height: 36px;
+	font-weight: normal;
+	color: #999999;
+}
+
+.copyright {
+	padding-top:10px;
+	padding-bottom:10px;
+	font-size: 11px;
+	color: #999999;
+}
