@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "NAACL HLT 2012 begins in Montreal, Canada"
+root: ../../
 ---
 
-!{{ site.baseurl }}images/naacl2012logo.png(NAACL HLT 2012 begins in Montreal, Canada)!
+!>{{ post.root }}images/naacl2012logo.png(NAACL HLT 2012 begins in Montreal, Canada)!
 
 The 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies
 

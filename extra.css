@@ -128,3 +128,15 @@ div.date {
 	font-size: 11px;
 	color: #999999;
 }
+
+.navigate {padding: 0.15em 0 1px 0; margin: 0 1.2em 0 0;
+  border-bottom: 1px solid #CC9;
+  text-align: left; font: 0.85em Arial, Verdana, sans-serif;}
+.navigate li {display: inline;}
+.navigate li a, #navigate li span {margin: 0; padding: 0.15em 0.33em 1px; border-left: 1px solid #CC9;}
+.navigate li span {background: #E3E3B6; color: #552;}
+.navigate li a {background: white; font-style: italic;}
+.navigate li a:visited:hover {background: rgb(175,142,165);}
+.navigate li a:link:hover {background: rgb(114,114,134);}
+.navigate a:hover {background: #993; color: white; border-bottom: 1px solid #993; border-top: 1px solid #996;}
+

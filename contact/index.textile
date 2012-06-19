@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact
+root: ../
 ---
 
 h1. Contact NAACL

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About
+root: ../
 ---
 
 For contact information, see the "contact":{{ site.baseurl }}contact page.
