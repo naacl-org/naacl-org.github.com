@@ -39,7 +39,7 @@ root: ./
 
       <div class="span9 contentarea">
         {% for post in site.posts limit:5 %}
-        <h2><a href="{{ root }}{{ post.url }}">{{ post.title | inline_textile }}</a> <small class="date">{{ post.date | date_to_string }}</small></h2>
+        <h2><a href="{{ root }}{{ post.url }}">{{ post.title }}</a> <small class="date">{{ post.date | date_to_string }}</small></h2>
         {{ post.content }}
         {% endfor %}
       </div><!--/span-->

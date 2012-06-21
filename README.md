@@ -1,4 +1,4 @@
-naacl.github.com
+naacl-org.github.com
 ================
 
 new NAACL website using Jekyll and github pages hosting
