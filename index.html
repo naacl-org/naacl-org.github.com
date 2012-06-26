@@ -26,14 +26,12 @@ root: ./
             {% assign lastyear = year %}
             {% endif %}
         {% endfor %}
-        {% stringtolist years %}
-            <ul class="yearlist">
-                {% for year in years limit:5 %}
-                <li><a href="{{ root }}posts#year{{ year }}">{{ year }}</a></li>
-                {% endfor %}
-                <li><a href="{{ root }}posts">All</a></li>
-            </ul>
-        {% endstringtolist %}
+        <ul class="navigate">
+            {% for year in years limit:5 %}
+            <li><a href="{{ root }}posts#year{{ year }}">{{ year }}</a></li>
+            {% endfor %}
+            <li><a href="{{ root }}posts">All</a></li>
+        </ul>
       </div><!--/span-->
 
       <div class="span9 contentarea">

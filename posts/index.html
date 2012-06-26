@@ -13,13 +13,11 @@ root: ../
 	{% assign lastyear = year %}
 	{% endif %}
 {% endfor %}
-{% stringtolist years %}
-	<ul class="yearlist">
-		{% for year in years limit:5 %}
-		<li><a href="{{ post.root }}#year{{ year }}">{{ year }}</a></li>
-		{% endfor %}
-	</ul>
-{% endstringtolist %}
+<ul class="yearlist">
+    {% for year in years limit:5 %}
+    <li><a href="{{ post.root }}#year{{ year }}">{{ year }}</a></li>
+    {% endfor %}
+</ul>
 
 {% assign lastyear = nil %}
 {% for post in site.posts %}
