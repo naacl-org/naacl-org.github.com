@@ -75,7 +75,7 @@ h3. Candidacy Statement
 
 I feel like I need to be working on promoting stricter term limits for the NAACL treasurer so that people don't keep re-nominating me for this job!   In the meantime, I'll continue trying to solve the (sometimes difficult) optimization problems of allowing low NAACL fees and effective outreach while not landing NAACL in a fiscal hole.
 
-h2. Board Member | <a href="http://www.isi.edu/~chiang/">David Chiang</a> | USC and ISI
+h2. Board Member (2011-2012) | <a href="http://www.isi.edu/~chiang/">David Chiang</a> | USC and ISI
 
 !>{height:150px}http://www.isi.edu/~chiang/images/voynich.jpg(David Chiang)!
 
@@ -87,7 +87,7 @@ h3. Candidacy Statement
 
 Three things that I learned from being a local organizer for HLT 2010 that I would apply myself to as part of the executive board: (1) Being a local organizer is hard work, and it's hard to convince people to do it.  If we want future conferences to be in great locations, we need to look for more incentives or support structures for future local organizers.  (2) NAACL does a lot for students -- for example, the student research workshop, the student volunteer program, the best student paper award, various student scholarships -- but these programs are not always coordinated so as to benefit the students who need it most. I would work to make NAACL's overall outreach to students more effective toward the goal of forming excellent NLP researchers. (3) Despite its name, NAACL exists for computational linguistics research in all the Americas, not just North America. I will work to make our activities reflect this expanded mission more, ideally towards holding a future HLT conference in Latin America.
 
-h2. Board Member | <a href="http://www.cs.rochester.edu/~gildea/">Daniel Gildea</a> | University of Rochester 
+h2. Board Member (2011-2012) | <a href="http://www.cs.rochester.edu/~gildea/">Daniel Gildea</a> | University of Rochester 
 
 !>{height:150px}http://www.cs.rochester.edu/~gildea/gildea-small.jpg(Daniel Gildea)!
 
@@ -101,7 +101,7 @@ My first goal as a board member would be to maintain the quality of the NAACL co
 
 I would also like to improve outreach to undergraduates in order to encourage more students to enter our field.  One way to do this is to advertise the summer school as widely as possible to attract students from colleges without NLP faculty.  I would also like to explore the idea of having NAACL serve as a sort of clearinghouse for summer Research Experiences for Undergraduates (REUs).
 
-h2. Board Member | <a href="http://faculty.washington.edu/ebender/">Emily Bender</a> | University of Washington
+h2. Board Member (2012-2013) | <a href="http://faculty.washington.edu/ebender/">Emily Bender</a> | University of Washington
 
 !>{height:150px}http://www.compling.uw.edu/Graphics/bender.jpg(Emily Bender)!
 
@@ -119,7 +119,7 @@ Reviewing is central to the quality of conferences and publications.  The reputa
 
 Reinvigorating interdisciplinarity: Solving big problems in human language technology requires both sophisticated algorithms and understanding of the domain of application of those algorithms.  Yet, the integration of linguistic knowledge in our field falls short of this ideal.  I will work towards bringing relevant Linguistics to NAACL in the form of tutorials, building connections to NASSLLI, and other means of making Linguistics accessible to HLT researchers.
 
-h2. Board Member | <a href="http://www1.ccls.columbia.edu/~mdiab/">Mona Diab</a> | Columbia University
+h2. Board Member (2012-2013) | <a href="http://www1.ccls.columbia.edu/~mdiab/">Mona Diab</a> | Columbia University
 
 !>{height:150px}http://www1.ccls.columbia.edu/~mdiab/images/MonaDiab.jpg(Mona Diab)!
 
