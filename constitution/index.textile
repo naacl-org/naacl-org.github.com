@@ -103,3 +103,7 @@ h2. Amendments
 * December 2000
 * January 2005 (approved by vote of the NAACL December 2004)
 
+h2. Other Policies
+
+bq. Some other policies are also described in the meeting minutes of the NAACL board.
+
