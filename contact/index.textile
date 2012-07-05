@@ -1,14 +1,11 @@
 ---
 layout: default
-title: Contact
+title: Contact NAACL
 root: ../
 ---
 
-h1. Contact NAACL
+You can contact the NAACL Board by emailing <i>naacl-contact _at_ aclweb dot org</i>
 
-Contact email. Make one?
+Our parent organization, the Association for Computational Linguistics (ACL) has a mailing address and contact information: <a href="http://www.aclweb.org/index.php?option=com_contact&Itemid=3">Contact the ACL</a>.
 
-h1. Mailing Address
-
-Do we have a mailing address?
 
