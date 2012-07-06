@@ -1,6 +1,7 @@
 ---
 layout: default
 title: NAACL Officers 2012
+group: "navigation"
 root: ../
 ---
 

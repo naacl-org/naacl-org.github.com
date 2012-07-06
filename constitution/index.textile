@@ -1,6 +1,7 @@
 ---
 layout: default
 title: NAACL Constitution
+group: "navigation"
 root: ../
 ---
 

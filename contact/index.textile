@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact NAACL
+group: "navigation"
 root: ../
 ---
 

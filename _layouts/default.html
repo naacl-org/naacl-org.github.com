@@ -52,10 +52,11 @@
           </div>
           <div class="nav-collapse">
             <ul class="nav">
-              <li><a href="{{ root }}index.html">Home</a></li>
+              <!-- <li><a href="{{ root }}index.html">Home</a></li> -->
               <li><a href="{{ root }}about/index.html">About</a></li>
-              <li><a href="{{ root }}contact/index.html">Contact</a></li>
+              <!-- <li><a href="{{ root }}contact/index.html">Contact</a></li> -->
               <li><a href="{{ root }}posts/index.html">News</a></li>
+              <li><a href="{{ root }}all.xml">RSS <img align="top" height="12px" src="{{ root }}images/rss.png"></a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>
@@ -68,6 +69,10 @@
           <div class="well sidebar-nav">
             <ul class="nav nav-list">
               <li class="nav-header">Navigation</li>
+              {% assign pages_list = site.pages %}
+              {% assign group = 'navigation' %}
+              {% include pages_list %}
+<!-- 
               <li class="active"><a href="{{ root }}index.html">Home</a></li>
               <li><a href="{{ root }}about/index.html">About</a></li>
               <li><a href="{{ root }}contact/index.html">Contact</a></li>
@@ -76,7 +81,8 @@
               <li class="nav-header">Documents</li>
               <li><a href="{{ root }}officers/officers-2012.html">Officers</a></li>
               <li><a href="{{ root }}index.html">Minutes of Board Meetings</a></li>
-              <li><a href="{{ root }}constitution/index.html">Constitution</a></li>
+              <li><a href="{{ root }}constitution/index.html">Constitution</a></li> 
+-->
               <li class="nav-header">Conferences</li>
               <li><a href="http://aclweb.org/anthology/">ACL Anthology</a></li>
               <li><a href="http://www.naaclhlt2012.org">NAACL HLT 2012</a></li>
