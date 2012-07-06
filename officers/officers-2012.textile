@@ -5,6 +5,15 @@ group: "navigation"
 root: ../
 ---
 
+<div class="more">
+<ul class="navigate">
+    {% for year in (2011..2012) limit:5 %}
+    <li><a href="{{ root }}officers-{{ year }}.html">{{ year }}</a></li>
+    {% endfor %}
+    <li><a href="{{ root }}index.html">All</a></li>
+</ul>
+</div>
+
 h2. Officers
 
 table(table).
@@ -75,6 +84,14 @@ Christopher Manning is an Associate Professor of Computer Science and Linguistic
 h3. Candidacy Statement
 
 I feel like I need to be working on promoting stricter term limits for the NAACL treasurer so that people don't keep re-nominating me for this job!   In the meantime, I'll continue trying to solve the (sometimes difficult) optimization problems of allowing low NAACL fees and effective outreach while not landing NAACL in a fiscal hole.
+
+h2. Past Chair (2010-2011) | <a href="http://www.cs.pitt.edu/~hwa">Rebecca Hwa</a> | University of Pittsburgh
+
+!>http://www.cs.pitt.edu/people/faculty/hwa.jpg(Rebecca Hwa)!
+
+h3. Candidacy Statement
+
+My experience over the past two years as a member of the NAACL executive board has emphasized to me that our organization has many responsibilities in addition to maintaining a high quality scientific conference and supporting the NAACL summer school. I seek the opportunity to further serve NAACL as the chairperson of the executive board so to sharpen our mission of promoting cooperation with an increasingly broader set of related communities as our organization grows. Recently, the board has begun several exploratory programs such as the sponsorship of regional workshops, the Latin America Fund, and the student tutorial fund. If elected, I will work with the board to formalize and scale up the successful programs. I also strongly believe in our mission to encourage participation from students. While the NAACL summer school and the student research workshop are both successful programs that have received enthusiastic participant feedback, they reach a relatively small percentage of students. I would like to explore ways of reaching out to students from schools that do not have a strong computational linguistics presence. For instance, the board can help expand the community's student friendly online resources. Finally, I will work with both the ACL executive board and the NAACL board to ensure the continued success of our conferences.
 
 h2. Board Member (2011-2012) | <a href="http://www.isi.edu/~chiang/">David Chiang</a> | USC and ISI
 
