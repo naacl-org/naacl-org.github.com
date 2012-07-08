@@ -9,7 +9,7 @@ h3. Minutes of the NAACL Board Meetings
 
 <ul>
     {% for year in (2009..2010) %}
-    <li><a href="{{ site.baseurl }}/minutes/{{ year }}/index.html">Minutes for {{ year }} board meeting</a></li>
+    <li><a href="{{ site.baseurl }}/minutes/{{ year }}/index.html">Minutes of the {{ year }} board meeting</a></li>
     {% endfor %}
 </ul>
 
