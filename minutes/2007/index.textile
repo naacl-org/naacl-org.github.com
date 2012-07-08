@@ -5,7 +5,7 @@ root: ../../
 ---
 
 <ul>
-<li><a href="2007-06-minutes.html">June 4, 2007 board meeting minutes</a></li>
+<li><a href="2007-04-minutes.html">Apr 22, 2007 board meeting minutes</a></li>
 <li><a href="2007-naacl-treasurer-rpt.pdf">Treasurer's report 2007</a></li>
 </ul>
 
