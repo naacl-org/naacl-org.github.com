@@ -1,0 +1,13 @@
+---
+layout: default
+title: Minutes of the 2010 board meeting
+root: ../../
+---
+
+<ul>
+<li><a href="2010-Jun-1-minutes.html">Jun 1, 2010 board meeting minutes</a></li>
+<li><a href="">Treasurer's Report 2010</a></li>
+<li><a href="">Scholarship Program: JHU Summer School 2010</a></li>
+<li><a href="">Latin American Fund: Jun 2009 - Jun 2010</a></li>
+</ul>
+
