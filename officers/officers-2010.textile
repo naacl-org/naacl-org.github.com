@@ -17,20 +17,21 @@ table(table).
 h2. Executive Board
 
 table(table).
+| Board Member | Chris Brew |  Ohio State University | 2009-2010 |
+| Board Member | Ted Pedersen | University of Minnesota, Duluth | 2009-2010 |
 | Board Member | Chris Callison-Burch |  Johns Hopkins University | 2010-2011 |
 | Board Member | Kristina Toutanova | Microsoft Research | 2010-2011 |
-| Board Member | David Chiang | University of Southern California and Information Sciences Institute | 2011-2012 |
-| Board Member | Daniel Gildea | University of Rochester | 2011-2012 |
 
 h2. Nominating Committee
 
 table(table).
+| Regina Barzilay | MIT | 2008-2010 |
+| Lillian Lee | Cornell University | 2008-2010 |
+| Mary Harper | University of Maryland | 2008-2010 |
 | Jennifer Chu-Carroll | IBM | 2009-2011 |
-| Bill Dolan | Microsoft | 2010-2012 |
+| Bill Dolan | Microsoft | 2009-2011 |
 | Hal Daume III | University of Utah | 2010-2012 |
 | Suzanne Stevenson | University of Toronto | 2010-2012 |
-| Chris Brew | Ohio State University | 2011-2013 |
-| Ted Pedersen | University of Minnesota, Duluth | 2011-2013 |
 
 h3. Ex-Officio Board Members
 

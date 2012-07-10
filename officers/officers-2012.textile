@@ -5,14 +5,7 @@ group: "navigation"
 root: ../
 ---
 
-<div class="more">
-<ul class="navigate">
-    {% for year in (2011..2012) limit:5 %}
-    <li><a href="{{ root }}officers-{{ year }}.html">{{ year }}</a></li>
-    {% endfor %}
-    <li><a href="{{ root }}index.html">All</a></li>
-</ul>
-</div>
+{% include officers_year_list %}
 
 h2. Officers
 
