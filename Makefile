@@ -1,5 +1,4 @@
 BASEURL=http://naacl-org.github.com/
-LIVEDIR=/net/local-adhara/gn-data/htdocs/fas/sites/natlang/
 LOCALDIR=$(PWD)/_local
 
 # Build locally.
