@@ -123,7 +123,7 @@ h2. Emerging Regions Funds
 ## Northwestern NLP Workshop -- (report received)
 ## Not funded in 2009-2010: NLP in Psychology (Argentina) - notified Feb 27 not funded
 # General guidelines:
-## link to the CfP (also contains evaluation guidelines): https://docs.google.com/document/d/1zvAoLMNVCsFWbHTqg3lehsQsUgt2iMVyaG7j8UosGaU/edit?hl=en&authkey=CIGo3v8I#  
+## "Link to the CFP":https://docs.google.com/document/d/1zvAoLMNVCsFWbHTqg3lehsQsUgt2iMVyaG7j8UosGaU/edit?hl=en&authkey=CIGo3v8I (also contains evaluation guidelines)
 ## Two proposal deadlines: September 1, 2010 and March 1, 2011
 ## Event should fall within 2-9 months of deadline
 ## brief summary of basic criteria:
