@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Minutes from 2011 board meeting"
+title: "Minutes from the 2011 board meeting"
 root: ../../
 ---
 
