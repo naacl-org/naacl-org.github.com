@@ -4,26 +4,43 @@ title: "Minutes from 2011 board meeting"
 root: ../../
 ---
 
+bq. (still under review by the NAACL Board)
+
+h2. Attendance
+
+* Rebecca Hwa (Chair)
+* Chris Manning (Treasurer)
+* Anoop Sarkar (Secretary)
+* Owen Rambow (Past Chair)
+* Chris Callison-Burch (Board member)
+* Kristina Toutanova (Board member)
+* David Chiang (Board member)
+* Dan Gildea (Board member)
+
 h2. Financial Discussions
 # NAACL 2010 -- strategies to prevent huge losses in the future.
-# TO DISCUSS: proposed financial redistribution w/r/t ACL (Graeme)
+## NAACL 2010 in LA led to a huge loss, roughly half of the contingency fund was depleted.
+## The various reasons were discussed including the lower than expected registration and the budget negotiated with the hotel.
+# Discussion on the proposed financial redistribution with respect to ACL (discussion led by Graeme Hirst who is ACL treasurer)
+## The proposed change would lead to a less control by NAACL over the overall NAACL budget which would be controlled by ACL, but ACL would continue to shoulder the risk at a conference loss.
+## This would amortize risk across the different ACL chapters (NAACL and EACL) to a central ACL budget
+## After discussion, no particular decision was reached.
 
 h2. NAACL-HLT 2013
-# STATUS:signed with Westin, Atlanta for June 9- June 14.-- will ICML take place in the following week?
-# TODO: 
+# STATUS: signed with Westin, Atlanta for June 9 -- June 14. Will ICML take place in the following week?
+# TODO items:
 ## Recruit local arrangements oversight committee (contact members in Gatech, Emory, etc.)
 ## Still need to fix banquet venue (e.g., coca cola museum, aquarium)
 ## Find General Conference Chair (GCC) & PC co-chair.
 ### Past conference chairs list: http://aclweb.org/aclwiki/index.php?title=Conference_Chairs
 ### Past other chairs list: http://www.aclweb.org/aclwiki/index.php?title=Additional_conference_chairs
 
-
 h2. NAACL-HLT 2012  
 # Montreal Sheraton for the week of June 3 -- June 8.
 # Guy Lapalme and Sabine Bergler have both agreed to be on the advisory committee.
 # Discussion issuess: 
-## the handling of double submission?  Current solution: general double submission ok, but not with ACL 
-## potential problems with having the submission deadline one week before ACL deadline?
+## The board discussed the handling of double submissions. Current solution: general double submission ok, but not with ACL 
+## The board discussed potential problems with having the submission deadline one week before ACL deadline? It was proposed to discuss this further with the program chairs and general chair.
 # GCC  -- Jennifer Chu-Carroll has agreed to be the general conference chair
 # PC Chairs nominated:
 ## Eric Fosler-Lussier 
@@ -44,7 +61,7 @@ h2. Nomination Committee Reform
 ## That they will need to write a candidacy statement and biosketch, and by what date.
 ## The expectation that they will attend the Board meetings that occur at the annual NAACL conferences, at their own expense 
 # Draft initial wordings of constitution changes (circulate within the Board for comments).
-## idea: past board members should expect 2-3 years of commitment. Members may leave after 2 years if nomcom has at least 3 members w/o them.
+## Idea: past board members should expect 2-3 years of commitment. Members may leave after 2 years if nomcom has at least 3 members without them. This happens in practice anyway as busier members of the official nom-com committee do not contribute as much as those who can spare the time.
 
 h2. Emerging Regions Funds (was: Latin American Funds & Regional Workshop Funds)
 # Time frame: deadline on 3/15 and 9/15 (default point persons: David)
@@ -67,7 +84,7 @@ h2. SRW at NAACL-HLT 2010
 
 
 h2. NAACL-HLT 2010
-# RH summarized lessons learned to ACL 2011 committee.
+# The chair (Rebecca Hwa) summarized lessons learned to ACL 2011 committee.
 # Conference logistics:
 ## short papers -- same deadline as long? Yes.
 ## should the authors be given an extra page to address reviewer comments? Yes.
@@ -75,9 +92,9 @@ h2. NAACL-HLT 2010
 ## registration fee structure: built-in member fee or separate member/non-member reg. fee? Built-in member reg. fee
 ## updating info to the authors so that they expect that they should consider the deadline for camera ready as the "public release" date.
 ## authors whose papers have been nominated best papers would like to make public this information. Fine
-## deadline coordination with ACL: RH should bring up discussion at ACL Exec.
+## deadline coordination with ACL: The chair should bring up this discussion at ACL Exec.
 # Student Travel Fund (2011, $6000. Default point person, Chris CB)
-## STATUS 2010 committee: Chris CB (point person), Chris M, and Kristina (3 awards (1 US, 2 Europe) out of 7 applications).
+## STATUS 2010 committee: Chris Callison-Burch (point person), Chris Manning, and Kristina Toutanova. 3 awards (1 US, 2 Europe) out of 7 applications.
 
 h2. NAACL-HLT 2012  
 # STATUS as of 6/18/2011
@@ -87,9 +104,9 @@ h2. NAACL-HLT 2012
  
 h2. Emerging Regions Funds 
 
-# formerly called the Latin American Funds & Regional Workshop Funds
-# TODO: determine budget for next year
-# STATUS: Budget for 2010-2011: $5000 (default point persons: David)
+# Formerly called the Latin American Funds & Regional Workshop Funds
+# On the agenda was to determine the budget for next year
+# STATUS: Budget for 2010-2011: $5000 (default point person: David Chiang)
 # March 2011: funded 3/5 proposals
 # Already committed support for 2010-2011
 ## IBERAMIA workshop on NLP and Web Based Technologies (November 1, 2010) : $1,500, post-event report pending
@@ -98,14 +115,13 @@ h2. Emerging Regions Funds
 ## ELiC 2011: $1500
 ## NLPW 2011:  $500
 ## Not funded in 2010-2011: Proposals from Peru and Colombia where events that were rather unclear and organizers seemed not terribly well focused - not funded, but suggested they hold very small local events first just to get some experience in staging events.
-# Historical records:
-# Committed supports in 2009-2010:
+# Historical records: Committed supports in 2009-2010
 ## PROPOR (April Brazil) - funded for $1,000 TO DO : Transfer occurred March 16. (report received)
 ## ELiC (July Argentina) - funded for $1,500. Transfer occurred March 9. (report received)
 ## NAACL-HLT 2010 Young Investigator Workshop (June) - funded for $1,000 (report received)
 ## STIL 2009 -- past. link added, post-event report posted (done)
 ## Northwestern NLP Workshop -- (report received)
-# Not funded in 2009-2010: NLP in Psychology (Argentina) - notified Feb 27 not funded
+## Not funded in 2009-2010: NLP in Psychology (Argentina) - notified Feb 27 not funded
 # General guidelines:
 ## link to the CfP (also contains evaluation guidelines): https://docs.google.com/document/d/1zvAoLMNVCsFWbHTqg3lehsQsUgt2iMVyaG7j8UosGaU/edit?hl=en&authkey=CIGo3v8I#  
 ## Two proposal deadlines: September 1, 2010 and March 1, 2011
@@ -113,8 +129,7 @@ h2. Emerging Regions Funds
 ## brief summary of basic criteria:
 ### Whether the budget is primarily used for students
 ### The "bang for the buck" -- how well will the event encourage researchers to collaborate?
-# Anoop posted the resulting info on the main naacl webpage.
-
+# Anoop posted the resulting info on the main NAACL webpage.
 
 h2. Outreach programs
 # JHU Summer School
@@ -127,10 +142,9 @@ h2. Outreach programs
 # NACLO (north american computational linguistics olympiad -- for high schoolers, budget $5000)
 ## [ChrisM: Unless we're taking a more pro-active role, I'm not sure that this needs a point person.  Up until now, I've just written a check every year, and the organizers have dealt with contacting NLP people and encouraging them to sign up to host competitions, etc.]
 # LSA Linguistic Institute 2011
-## STATUS -- Thanks to Anoop and Kristina T. for the ad design.
+## STATUS -- Thanks to Anoop Sarkar and Kristina Toutanova for the ad design.
 ## We agreed to sponsor the program at $10K. 
 ## We will not be selecting graduate student fellowships. We will sponsor courses.
-
 
 h2. Sponsorship representatives
 # Background: overall organization is that there is an ACL-wide sponsorship committee that consists of two regional representatives from each chapter. Each representative serves for two years. The terms are staggered so that we need to recommend one person every year. 
@@ -140,12 +154,11 @@ h2. Sponsorship representatives
 
 h2. Industry Relations
 # Point person: Kristina
-# TO DO/DISCUSS: 
-## Any plans for 2011 or 2012?
+# Discussion of plans for 2011 or 2012.
 ## Ron Kaplan was a keynote speaker at Text Analytics (2010). Maybe there is some future ties to be made there?
 ## Recruit technology showcase with exhibitions and demos?
 ## Set up spaces for companies to recruit?
 # STATUS:
-## had an industrial panel at NAACL-HLT 2010
-## some feedback from business meeting: people would like to see more involvement from industry members who are not affiliated with a large research lab
+## NAACL had an industrial panel at NAACL-HLT 2010
+## Some feedback from business meeting: people would like to see more involvement from industry members who are not affiliated with a large research lab
 
