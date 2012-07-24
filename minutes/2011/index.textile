@@ -6,6 +6,9 @@ root: ../../
 
 bq. (still under review by the NAACL Board)
 
+* Date: June 20, 2011 
+* Location: ACL-HLT 2011 in Portland, USA
+
 h2. Attendance
 
 * Rebecca Hwa (Chair)
