@@ -21,6 +21,7 @@ h2. Attendance
 * Dan Gildea (Board member)
 
 h2. Financial Discussions
+# <a href="NAACL_Treasurers_Report_2011.pdf">Link to Treasurer's report</a>
 # NAACL 2010 -- strategies to prevent huge losses in the future.
 ## NAACL 2010 in LA led to a huge loss, roughly half of the contingency fund was depleted.
 ## The various reasons were discussed including the lower than expected registration and the budget negotiated with the hotel.

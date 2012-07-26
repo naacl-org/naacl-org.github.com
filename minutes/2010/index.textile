@@ -6,8 +6,8 @@ root: ../../
 
 <ul>
 <li><a href="2010-Jun-1-minutes.html">Jun 1, 2010 board meeting minutes</a></li>
-<li><a href="">Treasurer's Report 2010</a></li>
-<li><a href="">Scholarship Program: JHU Summer School 2010</a></li>
-<li><a href="">Latin American Fund: Jun 2009 - Jun 2010</a></li>
+<li><a href="NAACL_Treasurers_Report_2010.pdf">Treasurer's Report 2010</a></li>
+<li><a href="NAACL-JHU-Scholarship-Summary-2010.pdf ">Scholarship Program: JHU Summer School 2010</a></li>
+<li><a href="LA-Fund-Summary-2010.pdf">Latin American Fund: Jun 2009 - Jun 2010</a></li>
 </ul>
 

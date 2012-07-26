@@ -1,0 +1,73 @@
+---
+layout: default
+title: "Minutes from the 2012 board meeting"
+root: ../../
+---
+
+bq. (still under review by the NAACL Board)
+
+* Date: June 20, 2011 
+* Location: NAACL-HLT 2012 in Montreal, Canada
+
+h2. Treasurer's Report: Chris Manning
+
+* <a href="2012-treasurers-report.pdf">Link to Treasurer's report</a>
+* write off the outstanding donation from AT&T Interactive
+* discussion about the following points:
+** Our agreeing to a submission deadline a week before ACL’s was a huge mistake, which undermined submissions to NAACL and strained the viability of the conference.  Reviewing load during the break is the only concern. The difference in time in the submission deadlines should be at least the same as the dates of the conference. (hirst, manning, ccb)
+** We need to be clearer and stricter about the option to cancel tutorials and workshops that do not look like they can be run at a surplus. Do it early (hirst). Rooms are usually not charged separately but there are people costs. Optimal number of tutorials is 6 not 8. Total number of attendees is usually 250. Difficult to say in advance which tutorial is the one that will under-perform in registration. Min number should be 12-15 people or we cancel a tutorial. (pris) 
+*** --> For NAACL, number of tutorials is set to be at most 6. Voted and passed unanimously.
+*** --> For NAACL, we need at least 10 early registrants at the end of early registration to go ahead. Priscilla would communicate this information to the general chair and tutorial chairs. Voted and passed unanimously.
+** The banquet has always run at a loss, despite the ever-higher banquet fees. We should at least consider abandoning it for NAACL and replacing it with some cheaper option (e.g., a pub night). 
+*** manning suggested a poster evening. rhwa asked if we can have a banquet sometimes but not others, depending on the venue.
+*** --> Ask the community at the business meeting about whether we should upgrade the poster session and get rid of the banquet which has always run at a loss.
+** We should notice that workshops are a huge part of this NAACL, and we should consider doing things to develop that side of things more (e.g., we could have workshops over more than 2 days by one of several variant means). 
+*** --> Single-day workshop overlap with the tutorial. ccb will tell the general chair and workshop chairs of the next NAACL. The tutorial chair and the workshop chair should work together to schedule the day before the conference.
+** We should notice the reversal that has occurred: previously ACLs were financially dubious, whereas NAACLs always did fine, but lately ACLs have done well, but NAACLs have been much less solid financially. Of course, the number of sample points is small, but I think we need to pay attention to that. 
+*** not clear why NAACL is flat in submission rate, but ACL is growing by leaps and bounds. do they have the same impact factor.
+** We should consider ways to get more sponsorship coming to NAACL event. It should be one of the most appealing language technology events to sponsor.
+*** ACL this year has sponsorship of ~35K while NAACL has ~30K. So sponsorship is doing well for NAACL.
+*** mona pointed out that we can explore sponsorship from other places such as Qatar.
+*** on a tangential point, we should be more pro-active in advertising to the local community.
+*** --> get the publicity chair to issue press releases, and engage the local community
+*** manning: new communities like text analytics, etc. are bypassing NAACL and ACL.
+
+h2. Finalize Chairs for NAACL 2013
+
+* The board considered several candidates who are willing to be considered for PC co-chair.
+* Lucy V. is the general chair.
+* Usually 3 chairs for NLP, speech and IR. This time, drop IR as per previous recommendations.
+** --> Pick two names
+
+* more speech names? we came up with a list of speech people who would be good.
+* rhwa. what about Salim Roukos (he was PC in 2004)
+* ccb will ask Katrin Kirchoff
+
+h2. Funding projects
+
+* JHU Summer School
+* NACLO
+* LSA Summer Institute
+** --> Continue to fund the above 3 initiatives
+* (EMILY) NASSLLI
+** --> Emily will be the contact person between NAACL and NASSLLI. We can consider future collaborations or sponsorships on a case by case basis.
+* Regional workshops
+** --> budget was $6K. perhaps not spent?
+* Video recording equipment, Vimeo hosting
+** ccb: $10K per conference if a company does it. Do it ourselves with student volunteers?
+** anoop suggests asking for sponsorship of the video lectures.
+* Cash prize for best software distributed with a NAACL paper
+** --> Defer decision until we find someone to do it.
+
+h2. Submission dates for NAACL 2013
+
+* Dec 10 for NAACL
+* Feb 25 for ACL
+** --> sounds good.
+
+h2. Other Business
+
+* (ANOOP) Nominating committee update
+* (ANOOP) new NAACL website and some decisions about legacy information from the current site
+
+
