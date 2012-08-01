@@ -140,3 +140,8 @@ div.date {
 .navigate li a:link:hover {background: rgb(114,114,134);}
 .navigate a:hover {background: #993; color: white; border-bottom: 1px solid #993; border-top: 1px solid #996;}
 
+a.external:after {
+    padding-left: 5px;
+    content: url(images/external.png);
+}
+
