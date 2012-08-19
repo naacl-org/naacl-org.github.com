@@ -107,4 +107,5 @@ h2. Amendments
 h2. Other Policies
 
 bq. Some other policies are also described in the meeting minutes of the NAACL board.
+*Important*: Always refer to the "ACL policies":http://www.aclweb.org/policies/ when a particular case is not covered by the NAACL Constitution.
 
