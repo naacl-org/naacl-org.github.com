@@ -9,6 +9,16 @@ bq. (still under review by the NAACL Board)
 * Date: June 20, 2011 
 * Location: NAACL-HLT 2012 in Montreal, Canada
 
+h2. Attendance
+
+* Chris Callison-Burch (Chair)
+* Chris Manning (Treasurer)
+* Anoop Sarkar (Secretary)
+* Rebecca Hwa (Past Chair) -- on the phone
+* Dan Gildea (Board member)
+* Emily Bender (Board member)
+* Mona Diab (Board member)
+
 h2. Treasurer's Report: Chris Manning
 
 * <a href="2012-treasurers-report.pdf">Link to Treasurer's report</a>
