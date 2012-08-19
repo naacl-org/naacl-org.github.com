@@ -29,6 +29,6 @@ root: ../
 	<ul>
 	{% assign lastyear = year %}
 	{% endif %}
-	<li>{{ post.date | date_to_string }} &mdash; <a href="{{ post.root }}/_site/{{ post.url }}/index.html">{{ post.title }}</a></li>
+	<li>{{ post.date | date_to_string }} &mdash; <a href="{{ site.baseurl }}/{{ post.url }}/index.html">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
