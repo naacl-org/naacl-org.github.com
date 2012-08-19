@@ -64,8 +64,14 @@ h2. Other Business
 * Anoop Sarkar presented an update on the nominating committee for the new NAACL election to be held in December 2012.
 ** The nominating committee was formed a few weeks before NAACL 2012 was held in Montreal.
 ** The full nominating committee is as follows:
-*** Hal Daume (chair)
-*** Owen Rambow
+*** Hal Daume (chair) 2010-2012
+*** Owen Rambow 2010-2012
+*** Bill Dolan 2010-2012
+*** Suzanne Stevenson 2010-2012
+*** Chris Brew 2011-2013
+*** Ted Pedersen 2011-2013
+*** Kristina Toutanova 2012-2014
+
 * Anoop Sarkar presented a demo of the new NAACL website and there was some discussion on how to handle legacy information from the current naacl.org web site
 ** DECISION: Keep as much legacy information as possible from the older website. The original files from the previous web site will be passed down to the next Secretary.
 
