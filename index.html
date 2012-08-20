@@ -13,6 +13,7 @@ root: ./
 
   <h1>News</h1>
       <div class="more">
+<!--
         {% assign years = '' %}
         {% for post in site.posts %}
             {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
@@ -21,9 +22,11 @@ root: ./
             {% assign lastyear = year %}
             {% endif %}
         {% endfor %}
+-->
         <ul class="navigate">
-            {% for year in years limit:5 %}
-            <li><a href="{{ root }}posts#year{{ year }}">{{ year }}</a></li>
+            {% for post in site.posts reversed %}
+            {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+            <li><a href="{{ root }}posts/#year{{ year }}/">{{ year }}</a></li>
             {% endfor %}
             <li><a href="{{ root }}posts">All</a></li>
         </ul>
