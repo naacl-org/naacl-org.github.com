@@ -24,7 +24,7 @@ root: ./
         {% endfor %}
 -->
         <ul class="navigate">
-            {% for post in site.posts reversed %}
+            {% for post in site.posts limit:5 %}
             {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
             <li><a href="{{ root }}posts/index.html#year{{ year }}">{{ year }}</a></li>
             {% endfor %}

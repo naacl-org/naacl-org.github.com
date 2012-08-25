@@ -15,7 +15,7 @@ root: ../
 	{% endif %}
 {% endfor %}
     <ul class="navigate">
-        {% for post in site.posts reversed %}
+        {% for post in site.posts %}
         {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
         <li><a href="{{ site.baseurl }}posts/index.html#year{{ year }}">{{ year }}</a></li>
         {% endfor %}
@@ -30,7 +30,7 @@ root: ../
 -->
 
 {% assign lastyear = nil %}
-{% for post in site.posts reversed %}
+{% for post in site.posts %}
 	{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
 	{% if year != lastyear %}
 	{% if lastyear != nil %}</ul>{% endif %}
