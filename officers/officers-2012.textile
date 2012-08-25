@@ -82,6 +82,10 @@ h2. Past Chair (2010-2011) | <a href="http://www.cs.pitt.edu/~hwa">Rebecca Hwa</
 
 !>http://www.cs.pitt.edu/people/faculty/hwa.jpg(Rebecca Hwa)!
 
+h3. Bio
+
+Rebecca Hwa is an Associate Professor in the Department of Computer Science at the University of Pittsburgh. Her recent research focus is on multilingual processing and machine translation.  Before joining Pitt, she was a postdoc at University of Maryland.  She received her PhD from Harvard University and her B.S. from UCLA. She currently serves as the Past Chair of the NAACL executive board; she has been an area co-chair for NAACL/HLT (2007) and for EMNLP (2005,2008); and she has served on the editorial board of Computational Linguistics (2003-2005).
+
 h3. Candidacy Statement
 
 My experience over the past two years as a member of the NAACL executive board has emphasized to me that our organization has many responsibilities in addition to maintaining a high quality scientific conference and supporting the NAACL summer school. I seek the opportunity to further serve NAACL as the chairperson of the executive board so to sharpen our mission of promoting cooperation with an increasingly broader set of related communities as our organization grows. Recently, the board has begun several exploratory programs such as the sponsorship of regional workshops, the Latin America Fund, and the student tutorial fund. If elected, I will work with the board to formalize and scale up the successful programs. I also strongly believe in our mission to encourage participation from students. While the NAACL summer school and the student research workshop are both successful programs that have received enthusiastic participant feedback, they reach a relatively small percentage of students. I would like to explore ways of reaching out to students from schools that do not have a strong computational linguistics presence. For instance, the board can help expand the community's student friendly online resources. Finally, I will work with both the ACL executive board and the NAACL board to ensure the continued success of our conferences.
