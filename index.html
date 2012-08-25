@@ -23,20 +23,24 @@ root: ./
             {% endif %}
         {% endfor %}
 -->
-        <ul class="navigate">
-            {% for post in site.posts limit:5 %}
-            {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+    <ul class="navigate">
+        {% assign lastyear = nil %}
+        {% for post in site.posts limit:5 %}
+        {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+        {% if year != lastyear %}
             <li><a href="{{ root }}posts/index.html#year{{ year }}">{{ year }}</a></li>
-            {% endfor %}
-            <li><a href="{{ root }}posts/index.html">All</a></li>
-        </ul>
-      </div><!--/span-->
+            {% assign lastyear = year %}
+        {% endif %}
+        {% endfor %}
+        <li><a href="{{ root }}posts/index.html">All</a></li>
+    </ul>
+</div><!--/span-->
 
-      <div class="span9 contentarea">
+<div class="span9 contentarea">
         {% for post in site.posts limit:5 %}
         <h2><a href="{{ root }}{{ post.url }}">{{ post.title }}</a> <small class="date">{{ post.date | date_to_string }}</small></h2>
         {{ post.content }}
         {% endfor %}
-      </div><!--/span-->
+</div><!--/span-->
 </div>
 
