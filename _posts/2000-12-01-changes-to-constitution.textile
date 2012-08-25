@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Changes to the NAACL Constitution"
+title: "Changes to the NAACL Constitution 2000"
 root: ../../
 ---
 
