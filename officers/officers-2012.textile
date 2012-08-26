@@ -20,7 +20,7 @@ h2. Executive Board
 table(table).
 | Board Member | David Chiang | University of Southern California and Information Sciences Institute | 2011-2012 |
 | Board Member | Daniel Gildea | University of Rochester | 2011-2012 |
-| Board Member | Emily Bender | University of Washington | 2012-2013 |
+| Board Member | Emily M. Bender | University of Washington | 2012-2013 |
 | Board Member | Mona Diab | Columbia University | 2012-2013 |
 
 h2. Nominating Committee
@@ -116,9 +116,9 @@ My first goal as a board member would be to maintain the quality of the NAACL co
 
 I would also like to improve outreach to undergraduates in order to encourage more students to enter our field.  One way to do this is to advertise the summer school as widely as possible to attract students from colleges without NLP faculty.  I would also like to explore the idea of having NAACL serve as a sort of clearinghouse for summer Research Experiences for Undergraduates (REUs).
 
-h2. Board Member (2012-2013) | <a href="http://faculty.washington.edu/ebender/">Emily Bender</a> | University of Washington
+h2. Board Member (2012-2013) | <a href="http://faculty.washington.edu/ebender/">Emily M. Bender</a> | University of Washington
 
-!>{height:150px}http://www.compling.uw.edu/Graphics/bender.jpg(Emily Bender)!
+!>{height:150px}http://www.compling.uw.edu/Graphics/bender.jpg(Emily M. Bender)!
 
 h3. Bio
 
