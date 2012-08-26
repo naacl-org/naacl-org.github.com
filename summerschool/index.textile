@@ -9,7 +9,7 @@ h3. NAACL-Supported Two-Week Summer School in Human Language Technologies at Joh
 
 <p>
 <ul>
-    {% for year in (2011..2012) %}
+    {% for year in (2011..2012) reversed %}
     <li><a href="{{ site.baseurl }}/summerschool/{{ year }}/index.html">{{ year }} Summer School</a></li>
     {% endfor %}
 </ul>
