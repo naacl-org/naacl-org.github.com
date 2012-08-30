@@ -1,0 +1,8 @@
+---
+layout: post
+title: "New NAACL officers in 2012"
+root: ../../
+---
+
+The NAACL elections for 2012 are now over. The <a href="{{ site.baseurl }}/officers/officers-2012.html">new NAACL board members for 2012</a> have been announced for the 2012-2013 term.
+
