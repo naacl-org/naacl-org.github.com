@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Post-conference reports on NAACL HLT 2010"
+root: ../../
+---
+
+!{width: 300px}{{ site.baseurl }}/images/naacl10_logo_horiz.600px.png(NAACL HLT 2010 logo)!
+
+<a href="{{ site.baseurl }}/minutes/2011/index.html">Post-conference reports on NAACL HLT 2010</a> have been posted.
+
+
