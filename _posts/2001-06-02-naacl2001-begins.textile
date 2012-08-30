@@ -1,0 +1,12 @@
+---
+layout: post
+title: "NAACL 2001 begins"
+root: ../../
+---
+
+The second meeting of the North American Chapter of the ACL (NAACL) begins in Carnegie Mellon University, Pittsburgh, PA, USA on Jun 2, 2001. The conference is from Jun 2-7, 2001.
+
+Useful links:
+* "NAACL 2001 conference website":http://www.cs.cmu.edu/~ref/naacl2001.html
+* "NAACL 2001 proceedings":http://aclweb.org/anthology/N/N01/
+
