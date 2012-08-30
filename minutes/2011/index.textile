@@ -4,15 +4,12 @@ title: Minutes of the 2011 board meeting
 root: ../../
 ---
 
-<ul>
-<li><a href="Jun-20-2011-minutes.html">Jun 20, 2011 board meeting minutes</a></li>
-<li><a href="NAACL_Treasurers_Report_2011.pdf">Treasurer's Report 2011</a></li>
-<li>NAACL HLT 2010 Reports:
-<ul>
-<li><a href="NAACL_HLT_2010_General_Report.pdf">NAACL HLT 2010 General Report</a>
-<li><a href="NAACL_HLT_2010_ProgramChairsReport.pdf">NAACL HLT 2010 Program Chairs Report</a>
-<li><a href="NAACL_HLT_2010_WorkshopReport.pdf">NAACL HLT 2010 Workshops Report</a>
-</ul>
-</li>
-</ul>
+h2. Minutes
+* <a href="Jun-20-2011-minutes.html">Jun 20, 2011 board meeting minutes</a>
+* <a href="NAACL_Treasurers_Report_2011.pdf">Treasurer's Report 2011</a>
+
+h2. NAACL HLT 2010 Reports
+* <a href="NAACL_HLT_2010_General_Report.pdf">NAACL HLT 2010 General Report</a>
+* <a href="NAACL_HLT_2010_ProgramChairsReport.pdf">NAACL HLT 2010 Program Chairs Report</a>
+* <a href="NAACL_HLT_2010_WorkshopReport.pdf">NAACL HLT 2010 Workshops Report</a>
 
