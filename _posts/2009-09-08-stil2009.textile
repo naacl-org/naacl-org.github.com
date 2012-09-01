@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "STIL 2009 begins"
+title: "STIL 2009 in Brazil"
 root: ../../
 ---
 
-The 7th Brazilian Symposium in Information and Human Language Technology (STIL) begins in University of São Paulo, São Carlos, Brazil on Sep 8, 2009. The conference is from Sep 8-11, 2009.
+The 7th Brazilian Symposium in Information and Human Language Technology (STIL) begins in University of São Paulo, São Carlos, Brazil was held from Sep 8-11, 2009.
 
 STIL 2009 received financial sponsorship from NAACL.
 
