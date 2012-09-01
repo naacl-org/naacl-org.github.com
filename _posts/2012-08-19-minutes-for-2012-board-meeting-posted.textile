@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Minutes from NAACL 2012 Board Meeting Posted"
+title: "Minutes from NAACL 2012 Board Meeting"
 root: ../../
 ---
 
