@@ -10,3 +10,14 @@ root: ../
 The North American Chapter of the Association for Computational Linguistics (NAACL) provides a regional focus for members of the Association for Computational Linguistics (ACL) in North America as well as in Central and South America, organizes annual conferences, promotes cooperation and information exchange among related scientific and professional societies, encourages and facilitates ACL membership by people and institutions in the Americas, and provides a source of information on regional activities for the ACL Executive Committee.
 
 For contact information, see the "contact":{{ site.baseurl }}/contact/index.html page.
+
+h3. About the naacl.org website
+
+This website was designed and developed by "Anoop Sarkar":http://www.cs.sfu.ca/~anoop (Secretary of the NAACL board from 2009-2012) in 2012 to deliver on an election promise to create a new naacl.org website.
+
+Thanks to the students from the "SFU Natural Language Lab":http://natlang.cs.sfu.ca for helping to port information from the older hand-written HTML site to the new on, especially thanks to Max Whitney and Marzieh Razavi.
+
+The website was built using "jekyll":http://jekyllrb.com/ and is hosted on "github":http://github.com. The website source can be viewed on the "naacl-org github repository":https://github.com/naacl-org/naacl-org.github.com.
+
+The readme.md file on the github repository explains how to maintain the website and add new information, such as new posts, minutes, officers, etc.
+

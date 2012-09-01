@@ -8,3 +8,8 @@ We have rolled out the new website for naacl.org. We hope you will find it more 
 
 We have tried our best to move the archival information from the old web site to the new one. However, there might be missing information and if you notice any such omissions we would hearing about it.
 
+The website was designed and developed by "Anoop Sarkar":http://www.cs.sfu.ca/~anoop in his role as Secretary of the NAACL Board, where part of his responsibility is the upkeep of the NAACL organization website (each NAACL conference every year has a webmaster appointed by the general chair and sub-chairs of the conference). 
+
+Thanks to the students from the "SFU Natural Language Lab":http://natlang.cs.sfu.ca for helping to port information from the older hand-written HTML site to the new on, especially thanks to Max Whitney and Marzieh Razavi.
+
+More information about the website appears in the "About NAACL":{{ site.baseurl }}/about/index.html section of this website.
