@@ -5,7 +5,7 @@ pageclass: frontpage
 root: ./
 ---
 
-<div class="span9 contentarea">
+<div class="span10 contentarea">
   <div class="alert alert-info">
   <h2>The North American Chapter of the Association for Computational Linguistics</h2>
   <p><img width="350px" height="auto" src="{{ site.baseurl }}/images/naacl-poster-sm.jpg" alt="NAACL Poster"></p>
@@ -37,7 +37,7 @@ root: ./
     </ul>
 </div><!--/span-->
 
-<div class="span9 contentarea">
+<div class="span10 contentarea">
         {% for post in site.posts limit:5 %}
         <h2><a href="{{ root }}{{ post.url }}">{{ post.title }}</a> <small class="date">{{ post.date | date_to_string }}</small></h2>
         {{ post.content }}
