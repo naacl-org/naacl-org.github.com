@@ -1,0 +1,79 @@
+Report from NAACL, June 2008   Owen Rambow, Chapter Board Chair
+
+1. Elections
+
+The NAACL election was held electronically in the Fall of 2007.   
+Rebecca Hwa (Pitt) and Hal Daume (Utah) replace Regina Barzilay and  
+Mary Harper on the Board.  Suzanne Stevenson (Toronto) replaces  
+Lillian Lee as secretary, and Chris Manning (treasurer) and Owen  
+Rambow (chair) ran unopposed for re-election.  Kathy McCoy as ex- 
+officio member is replaced by Graeme Hirst, who now is board member  
+for two reasons (past NAACL chair and ACL treasurer), but with only  
+one vote.  The board thus now has only eight members.
+
+
+2. Executive Committee Meetings
+
+The Board converses regularly by e-mail.  In addition, in 2008, the  
+Board will meet in person at the ACL2008:HLT conference in Columbus.   
+This needs to be scheduled asap (competition with ACL Board for time).
+
+
+3. Shadow Account Status
+
+The NAACL bank balance stood at $75,226 at the end of May, 2008. The  
+increase reflected accounting for HLT-NAACL 2004 (large surplus) and 
+ACL 2005.  We aim to account for NAACL 2006 finances soon, and  
+another surplus is expected.  We assume NAACL 2007 made a loss.  The  
+other major expenses for the past year were supporting the Johns  
+Hopkins summer school, the Stanford LSA Linguistic Institute, and the  
+computational linguistics olympiad (NAMCLO).
+
+
+4. North American conference in 2007
+
+A detailed report on the NAACL HLT 2007 conference is on the
+NAACL website:
+http://www.naacl.org/archives/2007/conf-chairs-and-subchairs-report.html
+The conference drew a disappointingly small number of attendants,  
+which we attribute to the early paper submission deadlines, the early  
+conference data (April), the small number of workshops (5), and  
+perhaps the location.  We have concluded that the NAACL conference  
+should never be that early again.
+
+
+5. North American conference in 2008
+
+The 2008 conference is being organized jointly with ACL and a summary  
+of progress can be found here: http://tangra.si.umich.edu/~radev/ 
+aclsec/reports-winter08/ACL2008-report.doc .
+
+
+6. North American conference in 2009
+
+NAACL HLT 2009 will take place in Boulder, Colorado, in June 2009.   
+Mari Ostendorf is conference chair, Martha Palmer and James Martin  
+are local organizers.  Jennifer Chu-Carrol is the NAACL Board member  
+in charge of coordination.
+
+
+7. North American conference in 2010
+
+A call for proposals has been issued.  We have had excellent bids, and will
+shortly make a decision which will be announced promptly.
+
+
+8. Support for Summer Schools and Other Educational Outreach
+
+There was enormous interest in our scholarships at the LSA Summer  
+Institute 2007; we will probably change the procedure if we do it again,  
+there seemed an inordinate amount of administrative overhead.  NACLO  
+(the North American Computational Linguistics Olympiad) was  
+apparently a great success, and we ares supporting NACLO 2008 with $3,000.  
+As usual, we will also be sponsoring students to attend the summer
+courses in computational linguistics that is held in conjunction with  
+the summer CLSP workshops at the Johns Hopkins University; acceptance
+notices are about to be sent out.
+
+
+
