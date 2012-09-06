@@ -5,7 +5,6 @@ pageclass: frontpage
 root: ./
 ---
 
-<div class="span10 contentarea">
   <div class="hero-unit">
   <a href="2013/CFP.html"><img alt="NAACL HLT 2013" width="100%" src="images/naacl2013logo.png"></img></a>
   <hr>
@@ -13,7 +12,6 @@ root: ./
   <p>The 2013 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies will be held in Atlanta, Georgia from June 9-14, 2013</p>
   <p><a class="btn btn-primary btn-large" href="2013/CFP.html">Read the CFP &raquo;</a></p>
   </div>
-</div>
 
 <!--
   <div class="alert alert-info">
@@ -23,8 +21,8 @@ root: ./
   </div>
 -->
 
-      <div class="more">
   <h1>News</h1>
+  <div class="more">
 <!--
         {% assign years = '' %}
         {% for post in site.posts %}
@@ -46,13 +44,9 @@ root: ./
         {% endfor %}
         <li><a href="{{ root }}posts/index.html">All</a></li>
     </ul>
-</div><!--/span-->
 
-<div class="span10 contentarea">
-        {% for post in site.posts limit:5 %}
-        <h2><a href="{{ root }}{{ post.url }}">{{ post.title }}</a> <small class="date">{{ post.date | date_to_string }}</small></h2>
-        {{ post.content }}
-        {% endfor %}
-</div><!--/span-->
-</div>
+    {% for post in site.posts limit:5 %}
+    <h2><a href="{{ root }}{{ post.url }}">{{ post.title }}</a> <small class="date">{{ post.date | date_to_string }}</small></h2>
+    {{ post.content }}
+    {% endfor %}
 
