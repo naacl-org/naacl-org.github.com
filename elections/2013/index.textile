@@ -118,8 +118,6 @@ h4. Candidacy Statement
 I would be excited to work on initiatives that grow participation in NAACL and improve the reviewing process. A few examples include: (1) standardizing a late fall paper submission deadline to eliminate conflict with ACL, (2) supporting reviewing reform efforts to minimize redundant effort while adding new tools for identifying and addressing poor quality reviews before they are seen by authors, (3) supporting coordination with the TACL journal including TACL paper talks at NAACL, and finally (4) increasing NAACL's support for the summer school, regional workshops, and the computational linguistic olympiad to grow student participation. 
 
 
-Candidate statements will be posted at http://naacl.org/elections/2013
-
 h2. Additional nominations:
 
 Additional nominations can be submitted until November 30th, 2012.  To make a nomination, three or more NAACL members should send email to Anoop Sarkar, the NAACL secretary, expressing support for the nominee and giving evidence that he or she will serve if elected.  (It is recommended that this evidence consist of a forwarded email from the nominee containing a candidate statement, a biographical sketch, homepage URL, and a brief affirmation of intent to serve if elected.) In addition, the nominees for Chair should meet the criteria set out in the NAACL constitution.
