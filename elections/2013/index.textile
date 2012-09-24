@@ -134,5 +134,5 @@ Sincerely,
 
 bq. Anoop Sarkar
 NAACL Secretary
-(anoop@cs.sfu.ca)
+(anoop __at__ cs.sfu.ca)
 
