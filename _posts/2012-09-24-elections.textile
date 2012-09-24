@@ -8,8 +8,6 @@ Dear NAACL members,
 
 The Nominating Committee for the North American Chapter of the Association for Computational Linguistics (NAACL) has chosen the following candidates for the open positions on the NAACL board with two year terms beginning January 2013. Additional nominations can be made until November 30th, 2012.
 
-The candidates selected by the Nominating Committee are as follows.
-
 h3. Board Member nominees (two openings):
 
 * Katrin Erk
@@ -68,7 +66,7 @@ For more information about the NAACL, NAACL officer responsibilities, and NAACL 
 
 Sincerely,
 
-Anoop Sarkar
+bq. Anoop Sarkar
 NAACL Secretary
 (anoop@cs.sfu.ca)
 
