@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "NAACL Board Elections for 2013-2014 Officers"
+layout: default
+title: "Candidate Statements for 2013 NAACL Board Elections"
 root: ../../
 ---
 
@@ -10,7 +10,7 @@ The Nominating Committee for the North American Chapter of the Association for C
 
 The candidates selected by the Nominating Committee are as follows.
 
-h3. Board Member nominees (two openings):
+h2. Board Member nominees (two openings):
 
 * Katrin Erk
   University of Texas at Austin
@@ -52,13 +52,13 @@ h3. Board Member nominees (two openings):
   University of Washington
   http://homes.cs.washington.edu/~lsz/
 
-Candidate statements will be posted at "www.naacl.org/elections/2013":{{ site.baseurl }}/elections/2013/index.html.
+Candidate statements will be posted at http://naacl.org/elections/2013
 
-h3. Additional nominations:
+h2. Additional nominations:
 
 Additional nominations can be submitted until November 30th, 2012.  To make a nomination, three or more NAACL members should send email to Anoop Sarkar, the NAACL secretary, expressing support for the nominee and giving evidence that he or she will serve if elected.  (It is recommended that this evidence consist of a forwarded email from the nominee containing a candidate statement, a biographical sketch, homepage URL, and a brief affirmation of intent to serve if elected.) In addition, the nominees for Chair should meet the criteria set out in the NAACL constitution.
 
-h3. Election process:
+h2. Election process:
 
 The voting period will begin once the final slate of candidates and voting instructions are announced (soon after November 30th), and is scheduled to close on December 20th.
 

@@ -4,8 +4,6 @@ title: "Minutes from the 2012 board meeting"
 root: ../../
 ---
 
-bq. (still under review by the NAACL Board)
-
 * Date: June 20, 2011 
 * Location: NAACL-HLT 2012 in Montreal, Canada
 
