@@ -10,45 +10,35 @@ The Nominating Committee for the North American Chapter of the Association for C
 
 h3. Board Member nominees (two openings):
 
-* Katrin Erk
+* "Katrin Erk":http://www.katrinerk.com/
   University of Texas at Austin
-  http://www.katrinerk.com/
 
-* Julia Hirschberg
+* "Julia Hirschberg":http://www.cs.columbia.edu/~julia/
   Columbia University
-  http://www.cs.columbia.edu/~julia/
 
-* Julia Hockenmaier
+* "Julia Hockenmaier":http://www.cs.uiuc.edu/~juliahmr/
   University of Illinois at Urbana-Champaign
-  http://www.cs.uiuc.edu/~juliahmr/
 
-* Diana Inkpen
+* "Diana Inkpen":http://www.site.uottawa.ca/~diana/
   University of Ottawa
-  http://www.site.uottawa.ca/~diana/
-
-* Greg Kondrak
+  
+* "Greg Kondrak":http://webdocs.cs.ualberta.ca/~kondrak/
   University of Alberta
-  http://webdocs.cs.ualberta.ca/~kondrak/
 
-* Ani Nenkova
+* "Ani Nenkova":http://www.cis.upenn.edu/~nenkova/
   University of Pennsylvania
-  http://www.cis.upenn.edu/~nenkova/
 
-* Vincent Ng
+* "Vincent Ng":http://www.hlt.utdallas.edu/~vince/
   University of Texas at Dallas
-  http://www.hlt.utdallas.edu/~vince/
 
-* Chris Quirk
+* "Chris Quirk":http://research.microsoft.com/en-us/people/chrisq/
   Microsoft Research
-  http://research.microsoft.com/en-us/people/chrisq/
 
-* William Schuler
+* "William Schuler":http://www.ling.ohio-state.edu/~schuler/
   The Ohio State University
-  http://www.ling.ohio-state.edu/~schuler/
 
-* Luke Zettlemoyer 
+* "Luke Zettlemoyer":http://homes.cs.washington.edu/~lsz/
   University of Washington
-  http://homes.cs.washington.edu/~lsz/
 
 Candidate statements will be posted at "www.naacl.org/elections/2013":{{ site.baseurl }}/elections/2013/index.html.
 
