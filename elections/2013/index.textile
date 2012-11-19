@@ -8,7 +8,7 @@ The Nominating Committee for the North American Chapter of the Association for C
 
 h2. Treasurer (one opening):
 
-h3. "Joel Tetrault":http://www.cs.rochester.edu/~tetreaul/
+h3(#tetrault). "Joel Tetrault":http://www.cs.rochester.edu/~tetreaul/
 
 h4. Bio
 
@@ -20,7 +20,7 @@ The NAACL treasurer monitors and reports on the finances of the organization, an
 
 In addition to the above duties, the Treasurer is an active member of the Board.  Over the last decade, the field of Computational Linguistics has grown considerably: there are more universities and companies with CL groups and researchers, and researchers from all corners of the world attending and submitting to conferences.  With the number of major conferences staying roughly the same year after year, the competitiveness has increased thus putting more pressure on reviewers to provide high quality reviews in a timely fashion.  In my years reviewing and also serving as a chair for different conferences and workshops, many of the same people are repeatedly called upon to provide upwards of 6 and sometimes 10 reviews for a single conference, which is problematic when they are called upon to review for other conferences in the same time frame.  In order to maintain the high quality of NAACL and associated workshops, I will 1) work to increase the number of capable reviewers such that all reviewers have a manageable load at any time, and 2) work to defining standards for reviewing such that papers in different tracks are reviewed in the same manner.
 
-h3. "Michael White":http://www.ling.ohio-state.edu/~mwhite/
+h3(#white). "Michael White":http://www.ling.ohio-state.edu/~mwhite/
 
 h4. Bio
 
@@ -32,7 +32,7 @@ The last time NAACL elected a new treasurer, the candidate admitted that he was 
 
 h2. Board Member nominees (two openings):
 
-h3. "Katrin Erk":http://www.katrinerk.com/
+h3(#erk). "Katrin Erk":http://www.katrinerk.com/
 
 h4. Bio
 
@@ -43,7 +43,7 @@ h4. Candidacy Statement
 To me, one of the central characteristics of computational linguistics is its interdisciplinarity. In its (actually quite short) history, computational linguistics has drawn on linguistics, psychology/cognition, artificial intelligence, formal logic, and machine learning, to name just a few of the related disciplines. I think we need to do our best to preserve this interdisciplinarity. It is a source of new ideas and new research directions, and it helps us get a better understanding of phenomena and a notion of what the bigger picture is. And frankly, it is fun. Concretely, one area I would focus on, if elected to the board, is reviewing: We should (once more) think about how our reviewing process can best identify high-quality papers that are interdisciplinary and off the beaten track. Another area where we can foster our interdisciplinarity is the conferences: prodding people to submit tutorials and workshops that bridge disciplines, and continuing to invite plenary speakers from adjacent disciplines. 
 
 
-h3. "Julia Hirschberg":http://www.cs.columbia.edu/~julia/
+h3(#hirschberg). "Julia Hirschberg":http://www.cs.columbia.edu/~julia/
 
 h4. Bio
 
@@ -54,7 +54,7 @@ h4. Candidacy Statement
 My goal in joining the NAACL board would be twofold:  a) to increase participation of researchers in speech and audio processing and in image and video in NAACL conferences and activities; and b) to increase the participation of women and minorities in computational linguistics.  Since my PhD research at UPenn I have worked to broaden participation in NLP in terms of genre and ethnicity/gender.   My own work has attempted to combine NLP with speech processing.   I have attempted to increase participation of women and minorities in NLP since my PhD, but supporting diversity at Bell Labs, AT&T Labs, Columbia, and the broader community.  I have also tried to broaden the scope of computational linguistics research to include interdisciplinariy work in the humanities and social sciences, as well as more practical engineering endeavors. 
 
 
-h3. "Julia Hockenmaier":http://www.cs.uiuc.edu/~juliahmr/
+h3(#hockenmaier). "Julia Hockenmaier":http://www.cs.uiuc.edu/~juliahmr/
 
 h4. Bio
 
@@ -65,7 +65,7 @@ h4. Candidacy Statement
 As a member of the NAACL Executive Board, I would like to work towards:  (1) maintaining the status of the main conference as an important place to present research, exchange ideas, and catch up with colleagues. I believe physical meetings are essential for the vitality of our community, even if their status may change in the age of electronic journals.  (2) turning the Student Research Workshop from a place to present work that isn't quite ready for the main conference into a venue that promotes excellence in graduate research, and foster a sense of community among the next generation of CL/NLP researchers.  Overall, the traditional SRW is rather ineffective, because it only reaches a very small fraction of the grad student population.  I believe we should explore other formats, such as a doctoral consortium with a few oral presentations from more senior students, a larger poster session for more junior students, and perhaps panel sessions with senior researchers on topics of interest.  (3) making sure NAACL has a voice in public discussions that concern, and may shape, the future of computer science research and education in North America. I believe that (NA)ACL should consider joining the Computing Research Association (CRA), which would allow us to participate in such discussions, along with other professional societies such as AAAI, ACM, or SIAM. 
 
 
-h3. "Diana Inkpen":http://www.site.uottawa.ca/~diana/
+h3(#inkpen). "Diana Inkpen":http://www.site.uottawa.ca/~diana/
 
 h4. Bio
 
@@ -76,7 +76,7 @@ h4. Candidacy Statement
 If elected to the NAACL board, I will support and enhance the current ACL initiatives, by finding ways to strengthen the involvement of the researchers and students from US, Canada, Central America, and South America. I think that the involvement of US researchers is strong at the moment, while more encouragement is needed for Canada and more support is needed for the Central and South America. Also, stronger collaboration between research centres, universities, and companies from these regions is needed, especially now when the industry is open to computational linguistics applications.   Another particular issue that I would like to address is the re-organization of the ACL Wiki repository of resources. At the moment it does not contain many resources and it does not separate them by categories. I propose a separation into corpora / annotated datasets / tools, with cross-links to the index of language-specific resources. I also propose to include the datasets and evaluations tools resulted from the many shared tasks from our field, in order to make the ACL repository a real central access point. 
 
 
-h3. "Greg Kondrak":http://webdocs.cs.ualberta.ca/~kondrak/
+h3(#kondrak). "Greg Kondrak":http://webdocs.cs.ualberta.ca/~kondrak/
 
 h4. Bio
 
@@ -87,7 +87,7 @@ h4. Candidacy Statement
 I have attended nearly all NAACL meetings since the beginning in 2000, so I am familiar with the organization and the conference matters. In order to maintain the high quality of NAACL, it needs to adapt and evolve with the times. With respect to financial considerations, I am against introducing separate conference fees for each paper presentation, which is becoming standard at some NLP conferences. Instead, we should implement other ways of increasing the funding. NAACL is a competitive conference, which is one of the reasons why it is always worthwhile to attend it. On the other hand, the tradition of allowing simultaneous submissions to other conferences facilitates rapid dissemination of research results. An issue that requires careful attention are overlapping deadlines of the ACL and NAACL conferences, as evidenced by the lower number of submissions in 2012. If elected, I would investigate streamlining the reviewing process by cross-referencing the records from other conferences. I would also work towards holding one of the NAACL meetings in Latin America. 
 
 
-h3. "Ani Nenkova":http://www.cis.upenn.edu/~nenkova/
+h3(#nenkova). "Ani Nenkova":http://www.cis.upenn.edu/~nenkova/
 
 h4. Bio
 
@@ -98,7 +98,7 @@ h4. Candidacy Statement
 My goal as a NAACL board member will be to strengthen the sense of community, which I view as a necessity given its continual growth. In particular, I will focus on support for young members and on seeking ways to improve reviewing practices.  In the past, transforming the student session into a doctoral consortium (DC) has proven to be successful for the NAACL environment. I would like to follow up on these changes and establish the DC as a more general place for career mentoring for young researchers, including more structured panels on job search, career planning, and responsibilities as members of a larger research community.  Reviewing is one of these responsibilities, and it is, needless to say, often a controversial topic. Most people have their horror stories about bad reviewers or about their frustrating experience as a reviewer. Easy fixes are not likely to exist to address all problems---best papers have previously been rejected, not so good papers have been accepted by busy distracted reviewers, the same paper has been submitted five times without a single edit between submissions.  Part of the existing discrepancies are due to the lack of a forum where we can discuss the common standards and best practices we would like to adopt and apply as a community. I will work to organize such informal discussion both online and during the NAACL conference.  
 
 
-h3. "Vincent Ng":http://www.hlt.utdallas.edu/~vince/
+h3(#ng). "Vincent Ng":http://www.hlt.utdallas.edu/~vince/
 
 h4. Bio
 
@@ -109,7 +109,7 @@ h4. Candidacy Statement
 If elected, I will focus my efforts on two issues.  First, I would like to help feature our student researchers and their work by developing a system through which they can easily create their own profiles. This system can be modeled after the ACL Member Portal, but I want it to have better search facilities and provide more flexibility in profile creation. I believe that this system could serve a few purposes: (1) it can help us better keep track of the young researchers of our field, as our community has grown considerably in the past decade; and (2) it may allow recruiters to take a more active role in the recruiting process, by assisting them in more easily identifying and contacting students who are qualified for their full-time/internship positions. I would especially like to advertise this system to related communities, such as bioinformatics and machine learning, where researchers often have projects needing people with linguistic expertise and may be interested working with or hiring the graduates in our community.  Second, I would like to work on some of the issues regarding our annual conference. One such issue concerns the reviewing process: submissions, especially those for which reviewers do not have a unanimous recommendation, are being handled in an inconsistent manner across different areas. It may be helpful to develop specific guidelines for area chairs in making decisions. Jian Su (the Conference Officer of the ACL Exec Board) and I had some preliminary discussion on this issue when area-chairing for a recent ACL conference, and I hope to work with her to make recommendations to the NAACL Exec Committee. Another issue concerns mentoring. NAACL began as a conference primarily for North American NLP researchers. Since there has been increasing participation from Europe, Asia, and Latin America, I would like to examine the possibility of having a mentoring service program for NAACL and defining its scope in a way that can make it useful to researchers. 
 
 
-h3. "Chris Quirk":http://research.microsoft.com/en-us/people/chrisq/
+h3(#quirk). "Chris Quirk":http://research.microsoft.com/en-us/people/chrisq/
 
 h4. Bio
 
@@ -120,7 +120,7 @@ h4. Candidacy Statement
 NAACL is a leading organization in our field, yet there are opportunities for further growth. Our conference primarily exists to educate those new to our field, disseminate new ideas into the community, and accelerate the rate of innovation by allowing researchers to communicate. I believe we can make advances in each of these areas. Members of our community already have free and easy access to the papers at our conference. However, that represents only a fraction of the overall conference experience. We can expand the audience and impact of our conferences by capturing more of this content. For instance, we could record audio, video, and/or slides from tutorials, lectures, and invited talks, include posters in the anthology, and encourage online interaction about submissions (such as voting for top papers). Such additional open access resources and commentary would foster education and encourage the free flow of ideas. Our conferences should also explore new modes of interaction in addition to traditional oral presentations and poster sessions. This past year’s NLP Idol was a novel venue for revisiting important papers of the past, opening a broad discussion of our field, its history, and its potential future to the current audience. NAACL should continue to explore such methods of encouraging interaction and discussion to keep our future exciting yet well informed. 
 
 
-h3. "William Schuler":http://www.ling.ohio-state.edu/~schuler/
+h3(#schuler). "William Schuler":http://www.ling.ohio-state.edu/~schuler/
 
 h4. Bio
 
@@ -131,7 +131,7 @@ h4. Candidacy Statement
 I have long been interested in mathematical models of human language, not only from a software engineering perspective, as one who hopes to apply these models, but also from a theoretical linguistic and cognitive scientific perspective, as one who hopes to inform these models.  I think these communities have much untapped potential for collaboration.  As a NAACL board member I would act to encourage interdisciplinary work by computer scientists, linguistics, and cognitive scientists. 
 
 
-h3. "Luke Zettlemoyer":http://homes.cs.washington.edu/~lsz/
+h3(#zettlemoyer). "Luke Zettlemoyer":http://homes.cs.washington.edu/~lsz/
 
 h4. Bio
 
