@@ -54,11 +54,11 @@ All the candidate statements are posted at "www.naacl.org/elections/2013":{{ sit
 
 h3. Additional nominations:
 
-Additional nominations can be submitted until November 30th, 2012.  To make a nomination, three or more NAACL members should send email to Anoop Sarkar, the NAACL secretary, expressing support for the nominee and giving evidence that he or she will serve if elected.  (It is recommended that this evidence consist of a forwarded email from the nominee containing a candidate statement, a biographical sketch, homepage URL, and a brief affirmation of intent to serve if elected.) In addition, the nominees for Chair should meet the criteria set out in the NAACL constitution.
+Additional nominations can be submitted until November 20th, 2012.  To make a nomination, three or more NAACL members should send email to Anoop Sarkar, the NAACL secretary, expressing support for the nominee and giving evidence that he or she will serve if elected.  (It is recommended that this evidence consist of a forwarded email from the nominee containing a candidate statement, a biographical sketch, homepage URL, and a brief affirmation of intent to serve if elected.) In addition, the nominees for Chair should meet the criteria set out in the NAACL constitution.
 
 h3. Election process:
 
-The voting period will begin once the final slate of candidates and voting instructions are announced (soon after November 30th), and is scheduled to close on December 20th.
+The voting period will begin once the final slate of candidates and voting instructions are announced (soon after November 20th), and is scheduled to close on December 15th.
 
 Many thanks to the Nominating Committee -- Hal Daume (Chair), Ted Pedersen, Suzanne Stevenson, Chris Brew, Kristina Toutanova, Owen Rambow -- for doing the hard work of putting together an excellent slate of nominees.
 
