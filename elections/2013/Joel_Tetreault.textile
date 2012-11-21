@@ -4,7 +4,7 @@ title: "Candidate Statements for 2013 NAACL Board Elections"
 root: ../../
 ---
 
-h3. "Joel Tetrault":http://www.cs.rochester.edu/~tetreaul/
+h3. "Joel Tetreault":http://www.cs.rochester.edu/~tetreaul/
 
 h4. Bio
 
