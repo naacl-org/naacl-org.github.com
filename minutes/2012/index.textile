@@ -84,3 +84,22 @@ h2. Other Business
 * Anoop Sarkar presented a demo of the new NAACL website and there was some discussion on how to handle legacy information from the current naacl.org web site
 ** DECISION: Keep as much legacy information as possible from the older website. The original files from the previous web site will be passed down to the next Secretary.
 
+h2. Post meeting decisions over email
+
+h3. Nov 7, 2012
+
+Chris Callison-Burch called for a vote on hiring Weyond to do video recordings of the tutorial and the main conference at NAACL 2013. The estimated budget for this would approximately $12K.
+
+The vote was taken by email and the following members voted YES.
+
+* Chris Manning
+* Anoop Sarkar
+* Dan Gildea
+* Mona Diab
+* Emily Bender
+* Graeme Hirst
+* Chris Callison-Burch
+
+There were no abstentions or NO votes, so NAACL is going to implement this motion. NAACL hopes to find industry sponsors for this activity for this pilot and going forward. There was some discussion on how soon (live or a few weeks after the conference) the videos should be available online. There was also discussion on generating revenue using ads, or tracking popularity using other means.
+
+
