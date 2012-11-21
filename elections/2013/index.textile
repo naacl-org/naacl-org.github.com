@@ -8,7 +8,7 @@ The Nominating Committee for the North American Chapter of the Association for C
 
 h2. Treasurer (one opening):
 
-h3(#tetrault). "Joel Tetrault":http://www.cs.rochester.edu/~tetreaul/
+h3(#tetreault). "Joel Tetreault":http://www.cs.rochester.edu/~tetreaul/
 
 h4. Bio
 

@@ -10,7 +10,7 @@ The Nominating Committee for the North American Chapter of the Association for C
 
 h3. Treasurer (one opening):
 
-* "Joel Tetrault":http://www.cs.rochester.edu/~tetreaul/
+* "Joel Tetreault":http://www.cs.rochester.edu/~tetreaul/
   Nuance Communications
 
 * "Michael White":http://www.ling.ohio-state.edu/~mwhite/
