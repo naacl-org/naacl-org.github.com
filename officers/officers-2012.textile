@@ -1,7 +1,6 @@
 ---
 layout: default
 title: NAACL Officers 2012
-group: "navigation"
 root: ../
 ---
 
@@ -80,7 +79,7 @@ I feel like I need to be working on promoting stricter term limits for the NAACL
 
 h2. Past Chair (2010-2011) | <a href="http://www.cs.pitt.edu/~hwa">Rebecca Hwa</a> | University of Pittsburgh
 
-!>http://www.cs.pitt.edu/people/faculty/hwa.jpg(Rebecca Hwa)!
+!>http://chronicle2.pitt.edu/media/pcc060109/images/1HWA_rebecca.jpg(Rebecca Hwa)!
 
 h3. Bio
 
