@@ -6,7 +6,7 @@ root: ../../
 
 h2. Decisions made over email
 
-h3. Nov 7, 2012
+h3. Feb 4, 2013
 
 Chris Callison-Burch called for a discussion and subsequent vote on discontinuing thumb drives at NAACL conferences.
 
