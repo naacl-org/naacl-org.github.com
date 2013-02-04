@@ -8,7 +8,7 @@ root: ../
 h3. Minutes of the NAACL Board Meetings
 
 <ul>
-    {% for year in (2000..2012) %}
+    {% for year in (2000..2013) %}
     <li><a href="{{ site.baseurl }}/minutes/{{ year }}/index.html">Minutes from {{ year }}</a></li>
     {% endfor %}
 </ul>

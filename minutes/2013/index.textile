@@ -1,0 +1,40 @@
+---
+layout: default
+title: "Minutes for 2013"
+root: ../../
+---
+
+h2. Decisions made over email
+
+h3. Nov 7, 2012
+
+Chris Callison-Burch called for a discussion and subsequent vote on discontinuing thumb drives at NAACL conferences.
+
+Matt Post, one of this year's publications co-chairs has been in contact with our publisher (Omnipress) about producing the thumb drives.  He provided them with an initial estimate of 850 USB thumb drives, based on previous years' attendance.  The estimate for producing and shipping the drives is $8,580 ($10.09 per drive).
+
+Matt suggested that we should consider discontinuing the thumb drive or making it an optional extra that could be added at the time of registration, and that the savings could be re-directed to other distribution means (e.g. better WiFi on-site, or an App for interacting with the proceedings and conference schedule).
+
+This matter discussed with the NAACL-HLT 2013 Program Chairs and General Chair. It was pointed out that when Hal Daume was the publication chair for ICML, they disbanded the memory sticks.  There were few complaints and the saved a lot of money.
+
+The vote was taken by email and the following members voted YES.
+
+Votes in favor:
+* Emily Bender
+* Chris Callison-Burch
+* Mona Diab
+* Katrin Erk
+* Julia Hirschberg
+* Rebecca Hwa
+* Anoop Sarkar
+* Joel Tetreault
+
+Abstained:
+* Graeme Hirst
+
+There were no NO votes, so NAACL is going to implement this motion. 
+
+A few points arose during the discussion. 
+
+* We hope to have a few thumb drives in the registration desk for people to make copies into their devices. 
+* We hope there will be a possibility to cache the proceedings on the local network obviating large fees for downloading the proceedings over the hotel wifi network.
+
