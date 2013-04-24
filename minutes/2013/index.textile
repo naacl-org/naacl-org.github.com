@@ -6,6 +6,14 @@ root: ../../
 
 h2. Decisions made over email
 
+h3. Mar 14, 2013
+
+Matt Post, the publications co-chair for NAACL 2013 proposed the creation of a digital version of the program handbook for NAACL 2013. This would be a mobile app that would allow conference goers to view and organize their schedules, see which talks are being held where, and provide the information that a hard copy program handbook usually provides. The chair (Chris Callison-Burch) called for discussion on this proposal on Mar 11, 2013. 
+
+There was a discussion among the board members. The issue of cost came up. There is a savings of $10K from discontinuing thumb drives for distributing the proceedings. We cannot save money on printing fewer hard copy program hanbooks as there is a contract in place with Omnipress to have handbooks printed this year for all attendees of NAACL 2013 (at a cost of around $3,800, about $4.50 per book). So, this year, we cannot give the option to either have the mobile app or the hardcopy program handbook. But in future conferences, there is the potential to save on printing costs if most people will use the app version of the program handbook. The development of the app for NAACL 2013 was priced at $6900 from CrowdCompass.
+
+The board unanimously approved the expenditure for the development of the program handbook app for NAACL 2013 (only Rebecca Hwa abstained but she was away from her email). Chris Callison-Burch negotiated a better price than the earlier quote with the price for two conferences (this year's NAACL and the next year's) for $5K each. The board hopes to recover $7K extra this year, either from registration fees or from increased sponsorships to cover the additional cost.
+
 h3. Feb 4, 2013
 
 Chris Callison-Burch called for a discussion and subsequent vote on discontinuing thumb drives at NAACL conferences.
