@@ -4,7 +4,7 @@ title: "Minutes from the 2012 board meeting"
 root: ../../
 ---
 
-* Date: June 20, 2011 
+* Date: June 20, 2012
 * Location: NAACL-HLT 2012 in Montreal, Canada
 
 h2. Attendance
