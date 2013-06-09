@@ -11,3 +11,8 @@ root: ../../
 <li><a href="LA-Fund-Summary-2010.pdf">Latin American Fund: Jun 2009 - Jun 2010</a></li>
 </ul>
 
+h2. NAACL HLT 2010 Reports
+* <a href="NAACL_HLT_2010_General_Report.pdf">NAACL HLT 2010 General Report</a>
+* <a href="NAACL_HLT_2010_ProgramChairsReport.pdf">NAACL HLT 2010 Program Chairs Report</a>
+* <a href="NAACL_HLT_2010_WorkshopReport.pdf">NAACL HLT 2010 Workshops Report</a>
+
