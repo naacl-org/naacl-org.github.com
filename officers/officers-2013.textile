@@ -26,14 +26,14 @@ table(table).
 h2. Nominating Committee
 
 table(table).
-| Hal Daume III (Chair) | University of Utah | 2010-2012 |
-| Suzanne Stevenson | University of Toronto | 2010-2012 |
-| Chris Brew | Ohio State University | 2011-2013 |
-| Ted Pedersen | University of Minnesota, Duluth | 2011-2013 |
+| Hal Daume III (Chair) | University of Utah | 2008-2009 |
+| Suzanne Stevenson | University of Toronto | 2008-2009 |
+| Chris Brew | Ohio State University | 2009-2010 |
+| Ted Pedersen | University of Minnesota, Duluth | 2009-2010 |
 | Kristina Toutanova | Microsoft Research | 2010-2011 |
 | Owen Rambow | Columbia University | 2009-2010 |
 
-Next year David Chiang (2011-2012) and Dan Gildea (2011-2012) will join the nominating committee.
+For the elections to be held in 2013, Christopher Manning (2011-2012), David Chiang (2011-2012) and Dan Gildea (2011-2012) will join the nominating committee.
 
 h2. Ex-Officio Board Members
 
