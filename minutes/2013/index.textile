@@ -151,6 +151,8 @@ h3. Discuss GC/PC Chairs for NAACL 2015
 
 Discussion about picking general chair and program chairs for NAACL 2015.
 
+<hr />
+
 h2. Decisions made over email
 
 h3. Apr 30, 2013
