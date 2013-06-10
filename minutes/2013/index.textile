@@ -28,6 +28,8 @@ h4. Firsts at NAACL HLT 2013
 * TACL papers presented. 
 ** 6 papers split up into 4 oral and 2 poster (same percent as NAACL papers). In the future, it may well be that all TACL papers will be oral. An alternative is for TACL reviewers to decide poster versus oral at time of acceptance.
 ** Papers accepted to NAACL first, then TACL papers added to program. This does not scale.
+** The TACL website might be more explicit about the type of presentation TACL authors will have at ACL or NAACL. Right now there is no explicit mention that "presentation" may be poster as well as oral.  
+** *ACTION ITEM* CCB will contact the TACL editors about revising their website.
 
 * Reviewer pool was unified across areas.
 ** Area chairs chose reviewers and then the union of reviewers was sent a request to review.
