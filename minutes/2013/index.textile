@@ -43,7 +43,7 @@ h4. Firsts at NAACL HLT 2013
 ** Poster versus oral. Only oral presentations are recorded, but not posters. Upload videos for posters? TBD.
 ** Standardize when the general chair and program chairs are selected. TBD.
 ** Publication chairs should be co-chairs for 2 years with overlapping terms.
-** NAACL publication chairs needed more interaction with \*SEM publication chairs.
+** NAACL publication chairs needed more interaction with @*SEM@ publication chairs.
 ** What should the target acceptance rate be? 
 ** Best 10 year retrospective award.
 ** Invite papers from related areas? 
@@ -61,9 +61,9 @@ h4. Firsts at NAACL HLT 2013
 * Workshop deadline dates for NAACL (Q from Joel)
 ** Maybe the workshop deadlines are too late? Probably affected the number of submissions to workshops.
 
-* 3rd day of \*SEM (Q from CCB)
-** \*SEM is joint between SIGLEX and SIGSEM.
-** The 3rd day was because of SEMEVAL (comes from SIGLEX). SEMEVAL is 2 days. \*SEM is 2 days. Total of 3 days.
+* 3rd day of @*SEM@ (Q from CCB)
+** @*SEM@ is joint between SIGLEX and SIGSEM.
+** The 3rd day was because of SEMEVAL (comes from SIGLEX). SEMEVAL is 2 days. @*SEM@ is 2 days. Total of 3 days.
 ** *ACTION ITEM* The NAACL Board should ensure that conferences colocated with NAACL should not have their own workshops.
 
 * Registration Stats: Priscilla
@@ -120,8 +120,8 @@ Two requests from Ted:
 
 * Report per-area acceptance for NAACL. 
 ** This is already done during the business meeting of NAACL. Perhaps can be posted online as well. 
-** *ACTION ITEM* CCB to see if this can be done
-* The influence of \*SEM on NAACL. 
+** *ACTION ITEM* CCB to see if the per area acceptance rates can be posted online. Perhaps the general chair report can just include these stats and we would put that online as a matter of course.
+* The influence of @*SEM@ on NAACL. 
 ** This was discussed in the previous point about co-located conferences and workshops.
 ** See previous *ACTION ITEM* on conferences co-located with NAACL.
 
