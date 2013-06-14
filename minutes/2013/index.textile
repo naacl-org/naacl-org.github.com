@@ -13,13 +13,15 @@ h3. Attendance
 
 * Emily Bender (Board member) -- on the phone
 * Chris Callison-Burch (Chair)
-* Graeme Hirst (ACL Representative)
-* Rebecca Hwa (Past Chair)
 * Mona Diab (Board member)
 * Katrin Erk (Board member)
+* Graeme Hirst (ACL Representative)
+* Rebecca Hwa (Past Chair)
 * Julia Hirschberg (Board member)
+* Priscilla Rasmussen (ACL/NAACL)
 * Anoop Sarkar (Secretary)
 * Joel Tetrault (Treasurer)
+* Lucy Vanderwende (NAACL HLT 2013 General Chair)
 
 h3. NAACL HLT 2013 Report: Lucy Vanderwende
 
