@@ -1,0 +1,9 @@
+---
+layout: default
+title: Policies
+group: "navigation"
+root: ../
+---
+
+* "Constitution of the North American ACL":{{ site.baseurl }}/constitution/index.html
+
