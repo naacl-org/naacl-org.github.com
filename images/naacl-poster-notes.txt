@@ -1,0 +1,10 @@
+
+The map for the poster was built on Google Maps.
+
+Here is the public map for the NAACL conferences from maps.google.com (it is a map served from Anoop Sarkar's google account):
+
+http://goo.gl/maps/OaEzF
+
+The KML file is in the current directory: googlemaps-naacl.kml
+
+(unsure if this will be enough to transfer to another service or not but it is the only download that maps.google.com provides.

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>NAACL</name>
+  <description><![CDATA[NAACL conferences (and ACL conferences in North America) since 2000]]></description>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>NAACL 2012</name>
+    <description><![CDATA[<img src="http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=45.506347,-73.564453&amp;thumb=0">]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>-73.564453,45.506348,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>NAACL 2010</name>
+    <description><![CDATA[<img src="http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=34.034453,-118.278809&amp;thumb=0">]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-118.278809,34.034454,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>ACL 2011</name>
+    <description><![CDATA[<img src="http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=45.521744,-122.717285&amp;thumb=0">]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-122.717285,45.521744,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>NAACL 2009</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>-105.270996,40.010788,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>NAACL 2007</name>
+    <description><![CDATA[<img src="http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=43.165123,-77.629395&amp;thumb=0">]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>-77.629395,43.165123,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>NAACL 2006</name>
+    <description><![CDATA[<img src="http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=40.713956,-74.014893&amp;thumb=0">]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>-74.014893,40.713955,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>NAACL 2004</name>
+    <description><![CDATA[<img src="http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=42.358544,-71.059570&amp;thumb=0">]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-71.059570,42.358543,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>NAACL 2003</name>
+    <description><![CDATA[<img src="http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=53.553363,-113.488770&amp;thumb=0">]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-113.488770,53.553364,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>NAACL 2001</name>
+    <description><![CDATA[<img src="http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=40.442767,-79.996948&amp;thumb=0">]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>-79.996948,40.442768,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>NAACL 2000</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>-122.343750,47.591347,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>ACL 2008</name>
+    <description><![CDATA[<img src="http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=39.964491,-83.001709&amp;thumb=0">]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>-83.001709,39.964493,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>ACL 2005</name>
+    <description><![CDATA[<img src="http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=42.265114,-83.732300&amp;thumb=0">]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-83.732300,42.265114,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>ACL 2002</name>
+    <description><![CDATA[<img src="http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=39.943436,-75.168457&amp;thumb=0">]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>-75.168457,39.943436,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>ELIC 2010</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>-58.373161,-34.608418,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Propor 2010</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>-51.262207,-30.012032,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>STIL 2009</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>-47.898563,-22.002508,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>CiCLing</name>
+    <description><![CDATA[<br><div><br>&nbsp;</div><img src="http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=19.427050,-99.127571&amp;thumb=0">]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>-99.127571,19.427050,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>NAACL 2013</name>
+    <description><![CDATA[<a href="http://www.google.com/search?hl=en&amp;authuser=0&amp;q=atlanta+ga&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=aCyUUbiFLqatiAKEtIHoCg&amp;sig2=PH5TQ8nZl13z4OhTuWhWnw&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=33.748995,-84.387982&amp;thumb=0"></a>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>-84.387985,33.748997,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
