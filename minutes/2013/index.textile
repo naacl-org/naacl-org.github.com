@@ -4,6 +4,13 @@ title: "Minutes for 2013"
 root: ../../
 ---
 
+h2. Slides from Business Meeting
+
+* "NAACL 2013 Business Meeting":NAACL_2013_business_meeting.pdf (Chris Callison-Burch)
+* "NAACL 2013 Attendees by Country":2013-NAACL-Attendees-By-Country.pdf
+* "NAACL Registration Statistics":2013-NAACL-registration-stats-June11.pdf
+* "NAACL 2013 Treasurer Report Presentation":NAACL_Treasurer_Presentation_2013.pdf
+
 h2. Minutes from NAACL Board Meeting on June 9, 2013
 
 * Date: June 9, 2013 
@@ -78,7 +85,7 @@ Daniel Marcu is next year's ACL 2014 general chair.
 
 h3. Treasurer's Report: Joel Tetrault
 
-* Treasurer report by Joel Tetrault.
+* "Treasurer report":NAACL_Treasurer_Report_2013.pdf by Joel Tetrault.
 * Discussion about registration fees and sponsorship expenses.
 * Suggestion to have a multi-year contract with a hotel chain to save money over multiple years.
 ** Not enough bids, so we go to a system where Priscilla is the local arrangements chair.
