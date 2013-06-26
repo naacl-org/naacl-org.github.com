@@ -11,6 +11,12 @@ The North American Chapter of the Association for Computational Linguistics (NAA
 
 For contact information, see the "contact":{{ site.baseurl }}/contact/index.html page.
 
+h3. Contact NAACL
+
+You can contact the NAACL Board by emailing <i>naacl-contact _at_ aclweb dot org</i>
+
+Our parent organization, the Association for Computational Linguistics (ACL) has a mailing address and contact information: <a href="http://www.aclweb.org/index.php?option=com_contact&Itemid=3">Contact the ACL</a>.
+
 h3. About the naacl.org website
 
 This website was designed and developed by "Anoop Sarkar":http://www.cs.sfu.ca/~anoop (Secretary of the NAACL board from 2009-2011 and 2011-2013) in 2012.
