@@ -1,0 +1,10 @@
+---
+layout: default
+title: "Calls"
+group: "navigation"
+root: ../
+---
+
+* "NAACL-Supported Two-Week Summer School in Human Language Technologies at Johns Hopkins University":summerschool/index.html
+* Emerging Regions Funding
+
