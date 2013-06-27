@@ -5,5 +5,7 @@ group: "navigation"
 root: ../
 ---
 
-* "Constitution of the North American ACL":{{ site.baseurl }}/constitution/index.html
+* "Constitution of the North American ACL":constitution.html
+* "ACL Official Policies":http://www.aclweb.org/policies/
+* "ACL Wiki":http://aclweb.org/aclwiki/
 
