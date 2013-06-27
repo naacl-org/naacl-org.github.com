@@ -15,21 +15,23 @@ root: ./
   </div>
 -->
 
+<div class="row-fluid">
+  <div class="span8 visible-tablet visible-desktop">
   <div class="alert alert-info visible-tablet visible-desktop" style="overflow: auto;">
   <h2>The North American Chapter of the Association for Computational Linguistics</h2>
   <p><img width="350px" height="auto" src="{{ site.baseurl }}/images/naacl-poster-2013sm.png" alt="NAACL Poster"></p>
   <div class="well well-small">The North American Chapter of the Association for Computational Linguistics (NAACL) provides a regional focus for members of the Association for Computational Linguistics (ACL) in North America as well as in Central and South America, organizes annual conferences, promotes cooperation and information exchange among related scientific and professional societies, encourages and facilitates ACL membership by people and institutions in the Americas, and provides a source of information on regional activities for the ACL Executive Committee.</div>
   </div>
+  </div>
 
-<div class="row-fluid">
-
-  <div class="span3 visible-tablet visible-desktop">
+  <div class="span4 visible-tablet visible-desktop">
   <a class="twitter-timeline" data-dnt=true href="https://twitter.com/naacl" data-widget-id="257327005056516096">Tweets by @naacl</a>
   <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 <p><a href="https://twitter.com/search/?q=%23naacl2013">Tweets about #naacl2013</a></p>
   </div><!--/span-->
 
- <div class="span9">
+</div>
+
   <h1>News</h1>
   <div class="more">
     <ul class="navigate">
@@ -48,7 +50,5 @@ root: ./
     <h2><a href="{{ root }}{{ post.url }}">{{ post.title }}</a> <small class="date">{{ post.date | date_to_string }}</small></h2>
     {{ post.content }}
     {% endfor %}
-  </div><!--/span-->
 
-</div><!--/row-fluid-->
 
