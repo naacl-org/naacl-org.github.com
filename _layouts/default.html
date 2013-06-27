@@ -49,14 +49,13 @@
           </a>
           <a class="brand visible-phone" href="{{ root }}index.html">NAACL</a>
           <a class="brand visible-tablet visible-desktop" href="{{ root }}index.html">North American Chapter of the ACL</a>
-          <div class="btn-group pull-right">
-              <a href="{{ root }}all.xml">RSS Feed</a>
-          </div>
+          <!-- <div class="btn-group pull-right"> </div> -->
           <div class="nav-collapse">
             <ul class="nav">
               {% assign pages_list = site.pages %}
               {% assign group = 'navigation' %}
               {% include pages_list %}
+              <li><a href="{{ root }}all.xml">RSS Feed</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>
