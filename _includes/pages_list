@@ -1,4 +1,4 @@
-{% assign sorted_pages = page_list|sort:"name" %}
+{% assign sorted_pages = page_list|sort_by:title %}
 {% for node in sorted_pages %}
   {% if group == null or group == node.group %}
     {% if page.url == node.url %}
