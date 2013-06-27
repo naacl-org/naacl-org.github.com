@@ -1,4 +1,5 @@
-{% for node in pages_list %}
+{% assign sorted_pages = pages_list | sort:"name" %}
+{% for node in sorted_pages %}
   {% if group == null or group == node.group %}
     {% if page.url == node.url %}
       <li class="active"><a href="{{site.baseurl}}/{{node.url}}" class="active">{{node.title}}</a></li>
