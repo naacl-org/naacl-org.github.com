@@ -14,6 +14,10 @@ Examples of proposals that might help to build community could include financial
 
 Proposals will be evaluated by a committee consisting of members of the NAACL Executive Board. 
 
+There is a Google Group related to NAACL activites in South America:
+
+* Discussion group "NAACL-Latin-America":https://groups.google.com/forum/#!forum/naacl-latin-america
+
 <p>
 <ul>
     {% for year in (2013..2013) reversed %}
