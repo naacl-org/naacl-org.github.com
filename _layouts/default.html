@@ -47,12 +47,12 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </a>
-          <a class="brand visible-phone" href="{{ root }}index.html">NAACL: N American ACL</a>
+          <a class="brand visible-phone" href="{{ root }}index.html">North American ACL</a>
           <a class="brand visible-tablet visible-desktop" href="{{ root }}index.html">North American Chapter of the ACL</a>
           <!-- <div class="btn-group pull-right"> </div> -->
           <div class="nav-collapse">
             <ul class="nav">
-              {% assign page_list = site.pages | sort:"name" %}
+              {% assign page_list = site.pages | sort:"title" %}
               {% assign group = 'navigation' %}
               {% include pages_list %}
               <li><a href="{{ root }}all.xml">RSS Feed</a></li>
