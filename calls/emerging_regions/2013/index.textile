@@ -17,8 +17,9 @@ Examples of proposals that might help to build community could include financial
 
 Proposals will be evaluated by a committee consisting of members of the NAACL Executive Board. 
 
-###. table(table).
-###. | "Submit a proposal":https://docs.google.com/a/natlang.net/forms/d/1qE9dg48F_7yuQnXcUD8BZjOiEBb1V9cMfNQZAVKWwis/edit |
+<!-- table(table).
+| "Submit a proposal":https://docs.google.com/a/natlang.net/forms/d/1qE9dg48F_7yuQnXcUD8BZjOiEBb1V9cMfNQZAVKWwis/edit |
 
-###. If you have any questions about this CFP please send them to naacl-contact@aclweb.org
+If you have any questions about this CFP please send them to naacl-contact@aclweb.org
+-->
 
