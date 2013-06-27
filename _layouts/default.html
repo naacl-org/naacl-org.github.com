@@ -47,18 +47,17 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </a>
-          <a class="brand" href="{{ root }}index.html">North American Chapter of the ACL</a>
+          <a class="brand visible-phone" href="{{ root }}index.html">NAACL</a>
+          <a class="brand visible-tablet visible-desktop" href="{{ root }}index.html">North American Chapter of the ACL</a>
           <div class="btn-group pull-right">
-            <a class="btn btn-primary" href="{{ root }}index.html">naacl.org</a>
+              <a href="{{ root }}all.xml">RSS Feed</a>
             <!-- <a class="btn btn-primary" href="{{ site.baseurl }}/posts/2012-11-17-elections2/index.html">Elections 2013!</a> -->
           </div>
           <div class="nav-collapse">
             <ul class="nav">
-              <!-- <li><a href="{{ root }}index.html">Home</a></li> -->
-              <!-- <li><a href="{{ root }}about/index.html">About</a></li> -->
-              <!-- <li><a href="{{ root }}contact/index.html">Contact</a></li> -->
-              <!-- <li><a href="{{ root }}posts/index.html">News</a></li> -->
-              <!-- <li><a href="{{ root }}all.xml">RSS <img align="top" height="12px" src="{{ root }}images/rss.png"></a></li> -->
+              {% assign pages_list = site.pages %}
+              {% assign group = 'navigation' %}
+              {% include pages_list %}
               <li><a href="{{ root }}all.xml">RSS Feed</a></li>
             </ul>
           </div><!--/.nav-collapse -->
@@ -68,26 +67,17 @@
 
     <div class="container-fluid">
       <div class="row-fluid">
-        <div class="span3">
+<!--
           <div class="well sidebar-nav">
             <ul class="nav nav-list">
               <li class="nav-header">Navigation</li>
               {% assign pages_list = site.pages %}
               {% assign group = 'navigation' %}
               {% include pages_list %}
-<!-- 
-              <li class="active"><a href="{{ root }}index.html">Home</a></li>
-              <li><a href="{{ root }}about/index.html">About</a></li>
-              <li><a href="{{ root }}contact/index.html">Contact</a></li>
-              <li><a href="{{ root }}posts/index.html">News</a></li>
-              <li><a href="{{ root }}all.xml">RSS <img align="top" height="12px" src="{{ root }}images/rss.png"></a></li>
-              <li class="nav-header">Documents</li>
-              <li><a href="{{ root }}officers/officers-2012.html">Officers</a></li>
-              <li><a href="{{ root }}index.html">Minutes of Board Meetings</a></li>
-              <li><a href="{{ root }}constitution/index.html">Constitution</a></li> 
--->
             </ul>
           </div><!--/.well -->
+-->
+        <div class="span3">
           <a class="twitter-timeline" data-dnt=true href="https://twitter.com/naacl" data-widget-id="257327005056516096">Tweets by @naacl</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
         <p><a href="https://twitter.com/search/?q=%23naacl2013">Tweets about #naacl2013</a></p>
