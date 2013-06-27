@@ -1,0 +1,24 @@
+---
+layout: default
+title: "2013 Emerging Regions CFP"
+root: ../../../
+---
+
+h3. CALL FOR PROPOSALS NAACL Emerging Regions Fund 
+
+table(table).
+| 15 August 2013 (midnight PST) for events to take place between September 2013 and September 2014 |
+
+At their June 2010 meeting, the NAACL Executive Board decided to merge two small funds programs created in 2009 (the Latin American Fund and  the Regional Conferences Fund) to form the Emerging Regions Fund. This newly created fund is intended to assist the creation of a larger and more cohesive Computational Linguistics community in Latin America, and to enhance more regional interactions among students and researchers anywhere in the Americas. 
+
+There will be two deadlines for proposals in the coming year, and approximately half of the funds will be awarded after each deadline. NAACL recognizes that each region has specific needs and concerns, and so we are open to a wide range of possible proposals, subject to the constraint that these awards are intended to support individuals, institutions, or events located in the Americas, and to support travel within the Americas. NAACL will not support travel to or from locations outside of the Americas, and in general travel should be limited to a specific region in the Americas. 
+
+Examples of proposals that might help to build community could include financial support for regional conferences or workshops, or providing financial or material support for Natural Language Processing and Computational Linguistics classes at colleges and universities in Latin America. In addition, NAACL has a long tradition of supporting student participation in conferences, summer schools, and NLP/CL competitions, and would give high priority to such efforts in Latin America or at regional events in the Americas. Note that this fund is not intended to support student travel to the NAACL HLT conference, as there is a separate fund available for the purpose. 
+
+Proposals will be evaluated by a committee consisting of members of the NAACL Executive Board. 
+
+table(table).
+| "Submit a proposal":https://docs.google.com/a/natlang.net/forms/d/1qE9dg48F_7yuQnXcUD8BZjOiEBb1V9cMfNQZAVKWwis/edit |
+
+If you have any questions about this CFP please send them to naacl-contact@aclweb.org
+
