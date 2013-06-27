@@ -22,7 +22,7 @@ h3. NAACL Researchers
 You can connect to researchers that are part of the NAACL community through the following online resources:
 
 * "ACL Member Portal":http://aclweb.org/portal/
-* "aclweb.org":http://www.aclweb.org/
+* "aclweb.org":http://newsite.aclweb.org/
 * "Latin American Researchers":http://www.d.umn.edu/~tpederse/registry/registry.cgi
 
 You can join NAACL by joining our parent organization, ACL:
