@@ -7,7 +7,7 @@ root: ../../../
 h3. CALL FOR PROPOSALS NAACL Emerging Regions Fund 
 
 table(table).
-| 15 August 2013 (midnight PST) for events to take place between September 2013 and September 2014 |
+| Deadline | 15 August 2013 (midnight PST) for events to take place between September 2013 and September 2014 |
 
 At their June 2010 meeting, the NAACL Executive Board decided to merge two small funds programs created in 2009 (the Latin American Fund and  the Regional Conferences Fund) to form the Emerging Regions Fund. This newly created fund is intended to assist the creation of a larger and more cohesive Computational Linguistics community in Latin America, and to enhance more regional interactions among students and researchers anywhere in the Americas. 
 

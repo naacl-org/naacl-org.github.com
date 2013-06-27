@@ -1,10 +1,8 @@
 ---
 layout: default
-title: "Emerging Regions Funding"
+title: "NAACL Emerging Regions Funding"
 root: ../../
 ---
-
-h3. NAACL Emerging Regions Funding
 
 At their June 2010 meeting, the NAACL Executive Board decided to merge two small funds programs created in 2009 (the Latin American Fund and  the Regional Conferences Fund) to form the Emerging Regions Fund. This newly created fund is intended to assist the creation of a larger and more cohesive Computational Linguistics community in Latin America, and to enhance more regional interactions among students and researchers anywhere in the Americas. 
 
@@ -14,9 +12,9 @@ Examples of proposals that might help to build community could include financial
 
 Proposals will be evaluated by a committee consisting of members of the NAACL Executive Board. 
 
-There is a Google Group related to NAACL activites in South America:
+There is a Google Group related to NAACL activites in South America: "NAACL-Latin-America":https://groups.google.com/forum/#!forum/naacl-latin-america
 
-* Discussion group "NAACL-Latin-America":https://groups.google.com/forum/#!forum/naacl-latin-america
+h3. Call for Proposals
 
 <p>
 <ul>
