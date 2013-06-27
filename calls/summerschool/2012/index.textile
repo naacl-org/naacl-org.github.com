@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "2012 Summer School at JHU"
-root: ../../
+root: ../../../
 ---
 
 h2. 2012 NAACL-Supported Two-Week Summer School in Human Language Technologies at Johns Hopkins University
