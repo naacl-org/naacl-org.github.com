@@ -1,7 +1,6 @@
 ---
 layout: default
 title: NAACL Officers 2013
-group: "navigation"
 root: ../
 ---
 
