@@ -9,7 +9,7 @@ h2. Slides from Business Meeting
 * "NAACL 2013 Business Meeting":NAACL_2013_business_meeting.pdf (Chris Callison-Burch)
 * "NAACL 2013 Attendees by Country":2013-NAACL-Attendees-By-Country.pdf
 * "NAACL Registration Statistics":2013-NAACL-registration-stats-June11.pdf
-* "NAACL 2013 Treasurer Report Presentation":NAACL_Treasurer_Presentation_2013.pdf
+* "NAACL 2013 Treasurer Report Presentation":NAACL_Treasurer_Presentation_2013.pdf (Joel Tetreault)
 
 h2. Minutes from NAACL Board Meeting on June 9, 2013
 
@@ -27,7 +27,7 @@ h3. Attendance
 * Julia Hirschberg (Board member)
 * Priscilla Rasmussen (ACL/NAACL)
 * Anoop Sarkar (Secretary)
-* Joel Tetrault (Treasurer)
+* Joel Tetreault (Treasurer)
 * Lucy Vanderwende (NAACL HLT 2013 General Chair)
 
 h3. NAACL HLT 2013 Report: Lucy Vanderwende
@@ -150,11 +150,13 @@ LSA sent us an email with survey questions to get the perspective of computation
 
 h3. Post conference survey: CCB
 
+A survey collecting information from NAACL attendees will be sent out. The results will help us plan for future NAACLs.
+
 "Example survey by CCB":https://docs.google.com/forms/d/1KwVQuqNclWQ_qRFwfx9l9Iroq64Izcff_r5MogqNB3w/viewform?edit_requested=true
 
 h3. Emerging Regions fund: Anoop 
 
-*ACTION ITEM* Ask for a budget of \$1000 max. Total budget of \$2000.
+*ACTION ITEM* Ask for a budget of $1000 max. Total budget of $2000.
 
 h3. Discuss GC/PC Chairs for NAACL 2015
 
