@@ -5,6 +5,7 @@ group: "navigation"
 root: ../
 ---
 
-h3. "NAACL-Supported Two-Week Summer School in Human Language Technologies at Johns Hopkins University":summerschool/index.html
+h3. "Summer School at Johns Hopkins University":summerschool/index.html
+
 h3. Emerging Regions Funding
 
