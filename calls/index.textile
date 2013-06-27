@@ -5,7 +5,7 @@ group: "navigation"
 root: ../
 ---
 
-h3. "Summer School at Johns Hopkins University":summerschool/index.html
-
-h3. Emerging Regions Funding
+table(table).
+| "Summer School at Johns Hopkins University":summerschool/index.html |
+| Emerging Regions Funding |
 
