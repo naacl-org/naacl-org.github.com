@@ -1,0 +1,15 @@
+---
+layout: default
+title: NAACL Conference Anti-Harassment Policy
+root: ../
+---
+
+**THIS IS A DRAFT VERSION**
+
+The open exchange of ideas and the freedom of thought and expression are central to the aims and goals of a NAACL conference; these require an environment that recognizes the inherent worth of every person and group, that fosters dignity, understanding, and mutual respect, and that embraces diversity. For these reasons, we have created an explicit anti-harassment policy for NAACL conferences.
+
+Harassment is unwelcome or hostile behavior, including speech that intimidates, creates discomfort, or interferes with a person's participation or opportunity for participation, in the NAACL conference. We aim for NAACL conferences to be an environment where harassment in any form does not happen, including but not limited to harassment based on race, gender, religion, age, color, national origin, ancestry, disability, sexual orientation, or gender identity. Harassment includes degrading verbal comments, deliberate intimidation, stalking, harassing photography or recording, inappropriate physical contact, and unwelcome sexual attention.
+
+Conference organizers are requested to report serious incidents to any member of the "NAACL Board":http://naacl.org/officers/index.html or to Priscilla Rasmussen, who is usually available at the registration desk of the conference.
+
+bq. This policy is a heavily modified version of the "SIGPLAN Conference Anti-Harassment Policy":http://www.sigplan.org/Resources/Policies/Anti-harassment
