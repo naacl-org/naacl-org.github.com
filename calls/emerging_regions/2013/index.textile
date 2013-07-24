@@ -22,3 +22,26 @@ table(table).
 
 If you have any questions about this CFP please send them to naacl-contact@aclweb.org
 
+Convocatoria 2013 Para Regiones Emergentes
+
+Convocatoria a presentación de propuestas del Fondo de Regiones Emergentes de la NAACL
+
+table(table).
+| Fecha límite | Agosto 31, (medianoche Hora Estándar del Pacífico) para eventos que se llevarán a cabo entre Septiembre de 2013 y Septiembre de 2014 |
+
+El objetivo del fondo para regiones emergentes de la NAACL es apoyar la formación de una comunidad latinoamericana de computación lingüística cohesiva, y fomentar más interacciones regionales entre estudiantes e investigadores en cualquier región de América.
+
+Para los que no alcancen esta fecha límite, habrá otra fecha límite en diciembre para propuestas de eventos que ocurran el próximo año. Cabe aclarar que dependiendo de los fondos alocados durante este ciclo, puede ser que no se pueda apoyar en su totalidad propuestas recibidas después de diciembre. Por lo tanto pedimos que por favor traten de mandar sus propuestas para el ciclo actual. 
+
+La NAACL reconoce que cada región tiene necesidades específicas, así que estamos abiertos a una gran diversidad de posibles propuestas, sujetas a las restricciones de que los fondos tienen el propósito de apoyar individuos, instituciones, o eventos localizados en América, y apoyar viajes dentro del continente Americano. La NAACL no apoyará viajes hacia o desde lugares fuera del continente Americano, y en general, los viajes deben de ser restringidos a una región específica de América.
+
+Ejemplos de propuestas que puedan ayudar a establecer una comunidad de investigación pueden incluir apoyo económico para conferencias o talleres regionales, o dar apoyo económico, o material, para ofrecer cursos de procesamiento de lenguaje natural (PLN) o computación lingüística (CL) en colegios o universidades en América Latina. Además, la NAACL tiene una larga tradición de dar apoyo a estudiantes para su participación en conferencias, escuelas de verano, y competencias de PLN/CL, y le dará mayor prioridad a esfuerzos de este tipo en América Latina, o en eventos regionales en el continente Americano. Cabe resaltar que este fondo no tiene la intención de apoyar estudiantes para que viajen a la conferencia de la NAACL HLT, dado que hay otros fondos disponibles para este propósito.
+
+Las propuestas serán evaluadas por un comité formado por miembros de la mesa directiva de la NAACL. 
+
+table(table).
+| "Meter propuesta":https://docs.google.com/forms/d/1qE9dg48F_7yuQnXcUD8BZjOiEBb1V9cMfNQZAVKWwis/viewform |
+
+Cualquier pregunta relacionada con esta convocatoria por favor mandarla por correo electrónico a naacl-contact@aclweb.org
+ 
+
