@@ -24,3 +24,27 @@ h3. Call for Proposals
 </ul>
 </p>
 
+
+h2. Fondo para Regiones Emergentes de la NAACL 
+
+En la junta de Junio 2010, la mesa directiva de la NAACL decidió combinar dos programas de pequeños fondos creados en 2009 (el Fondo Latinoamericano y el Fondo de Conferencias Regionales) para formar el Fondo para Regiones Emergentes. Este nuevo fondo tiene la intención de apoyar la creación de una comunidad de computación lingüística cohesiva en Latinoamérica, y fomentar más interacciones regionales entre estudiantes e investigadores en cualquier región de América.
+
+Habrá dos fechas límite para recibir propuestas en el próximo año, y aproximadamente la mitad de los fondos será alocado en cada ciclo. La NAACL reconoce que cada región tiene necesidades específicas, así que estamos abiertos a una gran diversidad de posibles propuestas, sujetas a las restricciones de que los fondos tienen el propósito de apoyar individuos, instituciones, o eventos localizados en América, y apoyar viajes dentro del continente Americano. La NAACL no apoyará viajes hacia o desde lugares fuera del continente Americano, y en general, los viajes deberán ser restringidos a una región específica de América.
+
+Ejemplos de propuestas que puedan ayudar a establecer una comunidad de investigación pueden incluir apoyo económico para conferencias o talleres regionales, o dar apoyo económico, o material, para ofrecer cursos de procesamiento de lenguaje natural (PLN) o computación lingüística (CL) en colegios o universidades en América Latina. Además, la NAACL tiene una larga tradición de dar apoyo a estudiantes para su participación en conferencias, escuelas de verano, y competencias de PLN/CL, y le dará mayor prioridad a esfuerzos de este tipo en América Latina, o en eventos regionales en el continente Americano. Cabe resaltar que este fondo no tiene la intención de apoyar estudiantes para que viajen a la conferencia de la NAACL HLT, dado que hay otros fondos disponibles para este propósito.
+
+Las propuestas serán evaluadas por un comité formado por miembros de la mesa directiva de la NAACL. 
+
+Hay un grupo en Google relacionado con actividades en América Latina: "NAACL-Latin-America":https://groups.google.com/forum/#!forum/naacl-latin-america
+
+h3. Convocatoria de Propuestas
+
+<p>
+<ul>
+    {% for year in (2013..2013) reversed %}
+    <li><a href="{{ site.baseurl }}/calls/emerging_regions/{{ year }}/index.html">Convocatoria {{ year }} 2013 del Fondo para Regiones Emergentes</a></li>
+    {% endfor %}
+</ul>
+</p>
+
+
