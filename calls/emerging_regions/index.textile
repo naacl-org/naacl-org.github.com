@@ -42,7 +42,7 @@ h3. Convocatoria de Propuestas
 <p>
 <ul>
     {% for year in (2013..2013) reversed %}
-    <li><a href="{{ site.baseurl }}/calls/emerging_regions/{{ year }}/index.html">Convocatoria {{ year }} 2013 del Fondo para Regiones Emergentes</a></li>
+    <li><a href="{{ site.baseurl }}/calls/emerging_regions/{{ year }}/index.html">Convocatoria {{ year }} del Fondo para Regiones Emergentes</a></li>
     {% endfor %}
 </ul>
 </p>
