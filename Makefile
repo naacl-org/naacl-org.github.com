@@ -1,13 +1,10 @@
-BASEURL=http://naacl-org.github.com/
-LOCALDIR=$(PWD)/_local
-
 # Build locally.
 all:
-	jekyll --base-url="$(BASEURL)"
+	jekyll build
 
 # Build locally with the base-url set for testing. Don't copy to the live site from here.
 local:
-	jekyll --base-url="file://$(LOCALDIR)" "$(LOCALDIR)"
+	jekyll build --config=_localconfig.yml
 
 clean:
 	rm -rf _site _local

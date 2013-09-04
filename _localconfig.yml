@@ -1,0 +1,3 @@
+baseurl: "file:///Users/anoop/git/naacl-org.github.com/_site/"
+root: "file:///Users/anoop/git/naacl-org.github.com/_site/"
+permalink: posts/:year-:month-:day-:title
