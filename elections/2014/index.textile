@@ -8,11 +8,11 @@ The Nominating Committee for the North American Chapter of the Association for C
 
 h2. Chair (one opening):
 
-h3(#daume). "==Hal Daum&ecute; III==":http://www.umiacs.umd.edu/~hal/
+h3(#daume). "Hal Daumé III":http://www.umiacs.umd.edu/~hal/
 
 h4. Bio
 
-Hal Daum&ecute; III is or was: an Associate Professor at UMD in CS and Linguistics; program co-chair of NAACL 2013; NAACL exec member; ed board member for CL, JAIR and MLJ; author of the NLPers blog; assistant professor at U of Utah; grad student at ISI; intern at Microsoft; sponsorship chair for NAACL; sponsorship and pubs chair for ICML; publicity chair for ACL and ICML; avid workshop organizer and tutorial giver; amazed you read this far; former co-director of the UMD CLIP lab.
+Hal Daumé III is or was: an Associate Professor at UMD in CS and Linguistics; program co-chair of NAACL 2013; NAACL exec member; ed board member for CL, JAIR and MLJ; author of the NLPers blog; assistant professor at U of Utah; grad student at ISI; intern at Microsoft; sponsorship chair for NAACL; sponsorship and pubs chair for ICML; publicity chair for ACL and ICML; avid workshop organizer and tutorial giver; amazed you read this far; former co-director of the UMD CLIP lab.
 
 h4. Candidacy Statement
 
