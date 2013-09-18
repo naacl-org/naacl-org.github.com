@@ -8,7 +8,7 @@ The Nominating Committee for the North American Chapter of the Association for C
 
 h2. Chair (one opening):
 
-h3(#daume). "Hal Daum&ecute; III":http://www.umiacs.umd.edu/~hal/
+h3(#daume). "==Hal Daum&ecute; III==":http://www.umiacs.umd.edu/~hal/
 
 h4. Bio
 
