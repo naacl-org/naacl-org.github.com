@@ -4,6 +4,8 @@ title: "Candidate Statements for 2014 NAACL Board Elections"
 root: ../../
 ---
 
+**STILL INCOMPLETE**
+
 The Nominating Committee for the North American Chapter of the Association for Computational Linguistics (NAACL) has chosen the following candidates for the open positions on the NAACL board with two year terms beginning January 2014. Additional nominations can be made until October 31, 2013.
 
 h2. Chair (one opening):
