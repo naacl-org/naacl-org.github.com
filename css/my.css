@@ -1,3 +1,7 @@
+#linker {
+  margin-left: auto ;
+  margin-right: auto ;
+}
 .page-header ul {
     padding: 0;
     list-style-type: none;
