@@ -1,0 +1,96 @@
+---
+subject: "NAACL Board Elections for 2013-2014 Officers"
+---
+
+Dear NAACL members,
+
+The Nominating Committee for the North American Chapter of the
+Association for Computational Linguistics (NAACL) has chosen the
+following candidates for the open positions on the NAACL board with
+two year terms beginning January 2013. Additional nominations can
+be made until November 30th, 2012.
+
+Board Member nominees (two openings):
+
+* Katrin Erk
+  University of Texas at Austin
+  http://www.katrinerk.com/
+
+* Julia Hirschberg
+  Columbia University
+  http://www.cs.columbia.edu/~julia/
+
+* Julia Hockenmaier
+  University of Illinois at Urbana-Champaign
+  http://www.cs.uiuc.edu/~juliahmr/
+
+* Diana Inkpen
+  University of Ottawa
+  http://www.site.uottawa.ca/~diana/
+
+* Greg Kondrak
+  University of Alberta
+  http://webdocs.cs.ualberta.ca/~kondrak/
+
+* Ani Nenkova
+  University of Pennsylvania
+  http://www.cis.upenn.edu/~nenkova/
+
+* Vincent Ng
+  University of Texas at Dallas
+  http://www.hlt.utdallas.edu/~vince/
+
+* Chris Quirk
+  Microsoft Research
+  http://research.microsoft.com/en-us/people/chrisq/
+
+* William Schuler
+  The Ohio State University
+  http://www.ling.ohio-state.edu/~schuler/
+
+* Luke Zettlemoyer 
+  University of Washington
+  http://homes.cs.washington.edu/~lsz/
+
+Candidate statements will be posted at http://naacl.org/elections/2013
+
+Additional nominations:
+
+Additional nominations can be submitted until November 30th, 2012.
+To make a nomination, three or more NAACL members should send email
+to Anoop Sarkar, the NAACL secretary, expressing support for the
+nominee and giving evidence that he or she will serve if elected.
+(It is recommended that this evidence consist of a forwarded email
+from the nominee containing a candidate statement, a biographical
+sketch, homepage URL, and a brief affirmation of intent to serve
+if elected.) In addition, the nominees for Chair should meet the
+criteria set out in the NAACL constitution.
+
+Election process:
+
+The voting period will begin once the final slate of candidates and
+voting instructions are announced (soon after November 30th), and
+is scheduled to close on December 20th.
+
+Many thanks to the Nominating Committee -- Hal Daume (Chair), Ted
+Pedersen, Suzanne Stevenson, Chris Brew, Kristina Toutanova, Owen
+Rambow -- for doing the hard work of putting together an excellent
+slate of nominees.
+
+For more information about the NAACL, NAACL officer responsibilities,
+and NAACL election procedures, please see the NAACL home page,
+www.naacl.org, and the NAACL constitution, which is available there.
+
+Lapsed Members:
+
+If you were a member of the NAACL last year or the year before and
+wish to participate in these elections, please renew your membership
+for 2012 and you will also receive instructions to vote in this
+election.
+
+Sincerely,
+
+Anoop Sarkar
+NAACL Secretary
+(anoop __at__ cs.sfu.ca)
+
