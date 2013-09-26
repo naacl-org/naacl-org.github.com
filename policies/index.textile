@@ -6,6 +6,7 @@ root: ../
 ---
 
 * "Constitution of the North American ACL":constitution.html
+* "NAACL Anti-Harassment Policy":anti-harassment.html
 * "ACL Official Policies":http://www.aclweb.org/policies/
 * "ACL Wiki":http://aclweb.org/aclwiki/
 
