@@ -1,0 +1,5 @@
+---
+layout: default
+title: "Candidate Statements for 2013 NAACL Board Elections"
+root: ../../
+---
