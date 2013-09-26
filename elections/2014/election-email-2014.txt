@@ -34,51 +34,25 @@ Secretary (one opening):
 
 Board Member nominees (two openings):
 
-"Colin Cherry":https://sites.google.com/site/colinacherry/
-"Matt Post":http://cs.jhu.edu/~post/
-"Thamar Solorio":http://www.cis.uab.edu/solorio/
-"Eduard Hovy":http://www.cs.cmu.edu/~hovy/
-"Mark Dredze":http://www.cs.jhu.edu/~mdredze/
+* Colin Cherry
+  National Research Council Canada
+  https://sites.google.com/site/colinacherry/
 
-* Katrin Erk
-  University of Texas at Austin
-  http://www.katrinerk.com/
+* Matt Post
+  Johns Hopkins University
+  http://cs.jhu.edu/~post/
 
-* Julia Hirschberg
-  Columbia University
-  http://www.cs.columbia.edu/~julia/
+* Thamar Solorio
+  University of Alabama at Birmingham
+  http://www.cis.uab.edu/solorio/
 
-* Julia Hockenmaier
-  University of Illinois at Urbana-Champaign
-  http://www.cs.uiuc.edu/~juliahmr/
+* Eduard Hovy
+  Carnegie Mellon University
+  http://www.cs.cmu.edu/~hovy/
 
-* Diana Inkpen
-  University of Ottawa
-  http://www.site.uottawa.ca/~diana/
-
-* Greg Kondrak
-  University of Alberta
-  http://webdocs.cs.ualberta.ca/~kondrak/
-
-* Ani Nenkova
-  University of Pennsylvania
-  http://www.cis.upenn.edu/~nenkova/
-
-* Vincent Ng
-  University of Texas at Dallas
-  http://www.hlt.utdallas.edu/~vince/
-
-* Chris Quirk
-  Microsoft Research
-  http://research.microsoft.com/en-us/people/chrisq/
-
-* William Schuler
-  The Ohio State University
-  http://www.ling.ohio-state.edu/~schuler/
-
-* Luke Zettlemoyer 
-  University of Washington
-  http://homes.cs.washington.edu/~lsz/
+* Mark Dredze
+  Johns Hopkins University
+  http://www.cs.jhu.edu/~mdredze/
 
 Candidate statements will be posted at http://naacl.org/elections/2014
 
