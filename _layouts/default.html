@@ -38,18 +38,6 @@
         </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-<!--
-            {% assign page_list = site.pages | sort:"name" %}
-            {% for node in page_list %}
-              {% if node.group == 'navigation' %}
-                {% if page.url == node.url %}
-                  <li class="active"><a href="{{site.baseurl}}/{{node.url}}" class="active">{{node.title}}</a></li>
-                {% else %}
-                  <li><a href="{{site.baseurl}}/{{node.url}}">{{node.title}}</a></li>
-                {% endif %}
-              {% endif %}
-            {% endfor %}
--->
             <li><a href="{{ site.baseurl }}/about/index.html">About</a></li>
             <li><a href="{{ site.baseurl }}/calls/index.html">Calls</a></li>
             <li><a href="{{ site.baseurl }}/minutes/index.html">Minutes</a></li>
