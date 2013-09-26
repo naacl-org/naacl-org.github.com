@@ -40,7 +40,7 @@
           <ul class="nav navbar-nav">
             {% assign page_list = site.pages | sort:"name" %}
             {% assign group = 'navigation' %}
-            {% include pages_list %}
+            {% include 'pages_list' %}
             <li><a href="{{ site.baseurl }}/all.xml">RSS Feed</a></li>
           </ul>
         </div><!-- navbar-collapse -->
