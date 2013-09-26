@@ -4,11 +4,21 @@ title: "Candidate Statements for 2014 NAACL Board Elections"
 root: ../../
 ---
 
-**STILL INCOMPLETE**
-
 The Nominating Committee for the North American Chapter of the Association for Computational Linguistics (NAACL) has chosen the following candidates for the open positions on the NAACL board with two year terms beginning January 2014. Additional nominations can be made until October 31, 2013.
 
+The names below appear in random order.
+
 h2. Chair (one opening):
+
+h3(#chiang). "David Chiang":http://www.isi.edu/~chiang/
+
+h4. Bio
+
+David Chiang is Research Assistant Professor in the USC Department of Computer Science and Project Leader at the USC Information Sciences Institute. He earned his PhD from the University of Pennsylvania in 2004. He was the local organizer for NAACL HLT 2010 in Los Angeles, and a member of the NAACL executive board in 2011-2012. He has served on the editorial boards of CL, JAIR, and MT Journal, and is an action editor for Transactions of the ACL. He has been an area chair at ACL, EMNLP, and IJCNLP, and publications chair for EMNLP 2009.
+
+h4. Candidacy Statement
+
+I want to see NAACL carry out its mission of supporting NLP research in the Americas better than ever. Things that can improve include: (1) Get universities or research labs interested again in hosting the HLT conference. Combining local and non-local effort is the best way to create a conference that is a great experience for everyone. (2) Continue to reform the reviewing process. For example, it should now be feasible to reduce reviewer load by assigning resubmitted papers the same reviewers (at the program committee's discretion). We should also think creatively about ways of improving both precision and recall in reviewing. (3) Rename the organization with the recursive acronym "NAACL: the chapter in the Americas of the ACL" to accurately represent its scope, and locate a future HLT conference in Latin America.
 
 h3(#daume). "Hal Daumé III":http://www.umiacs.umd.edu/~hal/
 
@@ -22,6 +32,16 @@ NAACL as a conference is great, and we can improve: reviewing, physical and virt
 
 h2. Secretary (one opening):
 
+h3(#white). "Michael White":http://www.ling.ohio-state.edu/~mwhite/
+
+h4. Bio
+
+Michael White is an Associate Professor in the Department of Linguistics at The Ohio State University. Since obtaining his Ph.D. in Computer and Information Science from the University of Pennsylvania, he has worked for many years in the fields of natural language generation and dialogue systems, first at CoGenTex, Inc., then across the pond at the University of Edinburgh, and most recently at Ohio State. He has served as local sponsorship chair for ACL 2008 and publications co-chair for ACL 2012; served on the SIGGEN board and Computational Linguistics editorial board; co-organized an NSF workshop on shared tasks in NLG, the INLG 2008 conference, and the first surface realization shared task challenge; and helped lead OSU to become one of the top NACLO hosts in terms of participation.
+
+h4. Candidacy Statement
+
+One of the main duties of the NAACL secretary is to maintain NAACL's web presence.  The last time NAACL elected a new secretary, the candidate stated that he intended to update the naacl.org website not only to look better, but also to be more functional.  With Anoop Sarkar having largely accomplished this mission, I thought it might be safe to run for secretary on the platform of simply trying not to make a hash of his good work, and perhaps even trying to further his goal of archiving useful information about the NAACL conferences, such as videos of tutorials.  However, I am told that the secretary is also likely be the point person on any new social media outreach NAACL might undertake.  As such, I thought I should also promise to work with the NAACL board to develop and implement policies for any proposed increase in the use of social media, with the goal of raising NAACL's visibility while avoiding embarrassing gaffes.  For example, social media might be used to highlight mentions of computational linguistics in the popular press.  Finally, as a board member, I would be particularly keen to support outreach efforts for students, including continued support for the NACLO competition, as well as efforts to encourage interchanges and collaborations with linguists and cognitive scientists.
+
 h3(#kondrak). "Greg Kondrak":http://webdocs.cs.ualberta.ca/~kondrak/
 
 h4. Bio
@@ -30,7 +50,7 @@ After receiving his undergraduate degree in 1990 from the Warsaw University, Gre
 
 h4. Candidacy Statement
 
-I have attended nearly all NAACL meetings since the beginning in 2000, so I am familiar with the organization and the conference matters. In order to maintain the high quality of NAACL, it needs to adapt and evolve with the times. With respect to financial considerations, I am against introducing separate conference fees for each paper presentation, which is becoming standard at some NLP conferences. Instead, we should implement other ways of increasing the funding. NAACL is a competitive conference, which is one of the reasons why it is always worthwhile to attend it. On the other hand, the tradition of allowing simultaneous submissions to other conferences facilitates rapid dissemination of research results. An issue that requires careful attention are overlapping deadlines of the ACL and NAACL conferences, as evidenced by the lower number of submissions in 2012. If elected, I would investigate streamlining the reviewing process by cross-referencing the records from other conferences. I would also work towards holding one of the NAACL meetings in Latin America. 
+I have attended nearly all NAACL meetings since the beginning in 2000, so I am familiar with the organization and the conference. In order to maintain the high quality of NAACL, it needs to adapt and evolve with the times. With respect to financial considerations, I am against introducing separate conference fees for each paper presentation, which is becoming standard at some conferences. Instead, we should implement other ways of increasing the funding. NAACL is a competitive conference, which is one of the reasons why it is always worthwhile to attend it. On the other hand, the tradition of allowing simultaneous submissions to other conferences facilitates rapid dissemination of research results. An issue that requires careful attention are overlapping deadlines with other NLP conferences, as well as the interaction with TACL. If elected, I would investigate streamlining the reviewing process by cross-referencing the records from other conferences. I would also work towards holding one of the NAACL meetings in Latin America.
 
 h2. Board Member nominees (two openings):
 
@@ -38,19 +58,68 @@ h3(#cherry). "Colin Cherry":https://sites.google.com/site/colinacherry/
 
 h4. Bio
 
+Colin Cherry is a Research Officer at the National Research Council Canada. Previously, he was a Researcher at Microsoft Research. He received his Ph.D. in Computing Science from the University of Alberta in 2007. His primary research area is machine translation, but he has also been known to venture into parsing, morphology and clinical text processing. He is currently on the editorial board of Computational Linguistics, and has recently served as workshop co-chair of HLT-NAACL 2012 and publications co-chair of HLT-NAACL 2013.
+
 h4. Candidacy Statement
 
-h3(#dredze). "Mark Dredze":http://www.cs.jhu.edu/~mdredze/
+Looking at past candidacy statements over the years, I suspect that it is difficult to know exactly what one’s role on the NAACL Executive Board will look like before serving. Knowing that, I am reluctant to promise any sort of sweeping or inspiring change should I be elected. Instead, I can only assure you that I am a big fan of NAACL and its initiatives, such as the emerging regions fund. If elected, I will do my utmost to maintain and enhance these services, especially those that affect students  and under-represented regions, which are the main drivers for NAACL’s continued growth.
+
+h3(#post). "Matt Post":http://cs.jhu.edu/~post/
 
 h4. Bio
 
+Matt Post is a Senior Research Scientist at the Human Language Technology Center of Excellence (HLTCOE) at Johns Hopkins University, which he first joined as a postdoctoral researcher working in machine translation. His research interests include machine translation, language modeling, and grammaticality, with syntactic approaches to these tasks serving as a common underlying theme. He received his Ph.D. from the University of Rochester. He has co-organized the Workshop on Statistical Machine Translation for the past two years, and in 2013 served as the NAACL Publications co-chair.
+
 h4. Candidacy Statement
+
+As a member of the NAACL executive committee, my goals would be to (a) increase community efforts towards reproducibility of research and (b) improve the conference management process.
+
+Reproducibility is the cornerstone of good science, and yet it receives far less attention than primary research contributions. This imbalance has contributed to very low reproducibility rates that have been reported in certain scientific fields, and undermines scientific pursuits in a number of ways. Computer scientists are well positioned to make reproducibility easy, but doing so still requires extra work on the part of both the reproducer and the reproducee, which is often unrewarded. While our community has an established habit of sharing code and data, these efforts fall far short of what they should be. As part of keeping our house in order, NAACL should explore and pursue ways to reward efforts in the area of reproducibility.
+
+A point of distinction for our research community is the extensive body of code used to produce our annual proceedings and conference manuals. This has been built up over the years and yields useful, high-quality publications. While improvements are made each year to this codebase and the conference management system that surrounds it (including the recent unified login system for reviewers), there remains a lot of relearning, trial-and-error, redundant effort, and subsequent frustration on the part of each year's conference organizers, reviewers, and submitters. Softconf has been very helpful in this process so far, but there is much more that could be done were someone to give it some time, money, and attention.
 
 h3(#solorio). "Thamar Solorio":http://www.cis.uab.edu/solorio/
 
 h4. Bio
 
+Thamar Solorio is an assistant professor in the Department of Computer and Information Sciences at the University of Alabama at Birmingham. Before joining UAB she was a postdoctoral researcher in the Department of Computer Science at the University of Texas at Dallas. She received her PhD in 2005 from the National Institute of Astrophysics, Optics, and Electronics, in Puebla, Mexico. Her research areas include author profiling and attribution in social media, text reuse detection, analysis of mixed-language data, information extraction in clinical records, and the design of NLP approaches for language assessment that can contribute to early identification of language impairment in children or neurological conditions in adults. She co-chaired the first Young Investigators Workshop for languages of the Americas held in conjunction with NAACL 2010. She served as area chair for ACL in 2011 and 2013, and served as faculty mentor for the ACL Student Research Workshop in 2011. She has been a member of the National System of Researchers (abbreviated SNI in Spanish) since 2010.
+
 h4. Candidacy Statement
+
+NAACL is very welcoming of researchers and practitioners from many different fields who share an interest in language analysis and processing. While I highly value this inclusive environment, I think there is still room for improvement. If elected to the board, I want to push for the implementation of new practices that will allow researchers from vulnerable groups (ethnic, gender, and linguistic minorities, people with different sexual orientation or identity, and people with disabilities) to stay in this field and continue, or begin participating in our yearly conferences. For example, I would like to see that we offer some form of day care arrangements for researchers in need to bring their small children to the conference. Other conferences, such as the Grace Hopper events, offer day care so participants can take full advantage of the conference. Some conferences provide educational material with the conference bag aimed at sensitizing all participants of old fashioned practices that perpetuate an "old-boys's club" culture. I would like our community to have a dialogue about this and seek the adoption of best practices that strive to broaden the diversity of the field. The board meeting this year voted to adopt an anti-harassment policy. I would like to also have a policy that describes how the board will address complaints of this nature that includes clear language about the process and resulting actions.
+
+I would also like to work harder in reaching out to other regions of the Americas that remain underrepresented in our conferences. One idea would be to make sure researchers from these regions are represented in the NAACL board and are involved in the Conference and Program Committees. I also want to ensure we offer continued mentoring service for researchers with little experience writing papers in English, as well as the enhancement and continuation of initiatives like the Emerging Regions fund. There has to be more dialogue between people from those regions and the NAACL board to facilitate understanding and recognition of common goals and opportunities to work together.
+
+h3(#hovy). "Eduard Hovy":http://www.cs.cmu.edu/~hovy/
+
+h4. Bio
+
+Eduard Hovy recently joined the Language Technologies Institute at CMU, after heading the Natural Language Group at USC/ISI for many years.  He has performed research in topics like coreference, summarization, text mining, information extraction, QA, machine translation evaluation, and language generation.  He served as the President of ACL in 2001.  
+
+h4. Candidacy Statement
+
+I have two goals.  First, NAACL is ten years old this year.  It has developed rather differently than was originally intended, and does not fulfill its potential as a bridge between other more-mature areas of language technology (including IR and Speech Recognition).  It was suggested that I (as one of the establishers of the society) may help in exploring a wider role for the NAACL and the conference.  Second, as described in www.force11.org, the potential of new forms of publication (pdf+code+corpus, interrelated with other publications, with tools to analyze and process them in interesting ways) is a vision that can deeply change all of scholarly publication, in sciences and humanities alike.  Our community is the one to make [much of] this possible.  I would like to make this happen.
+
+h3(#dredze). "Mark Dredze":http://www.cs.jhu.edu/~mdredze/
+
+h4. Bio
+
+Mark Dredze is an Assistant Research Professor at Johns Hopkins University in the Department of Computer Science in the Whiting School of Engineering. He is a member of the Human Language Technology Center of Excellence (HLTCOE) and the Center for Language and Speech Processing (CLSP). He received his PhD from the University of Pennsylvania in 2009. Mark has served as an area chair for ACL and NAACL. His research focuses on machine learning in natural language processing, with applications including information extraction, social media and health informatics.
+
+h4. Candidacy Statement
+
+The goal of the annual NAACL conference is to select and promote the best research. We continuously improve our paper review and selection processes to ensure a high quality conference. In recent years, other Computer Science communities have developed and tested new ideas for improving their processes. My goal is to bring the best of these ideas to NAACL.
+
+- Review Assignments: Over the past two years I have developed and run an automated system for assigning reviewers to areas (implemented at ACL 2012 and NAACL 2013.) The system has resulted in a better area load balance and fewer reviewing emergencies. I'd like to formalize this system and make it a community standard. Furthermore, I'd like to extend the idea to automating paper assignments using machine learning. The ML community (e.g. ICML and NIPS) has done this and we should do the same.
+
+- Poster sessions: While accepted NAACL papers are assigned an oral or poster presentation based on the most suitable presentation format, the reality is that posters are perceived as second tier papers. Yet each format has its own advantages; poster presenters benefit tremendously from extended informal discussions as opposed to short Q&A sessions. Other conferences (e.g. NIPS) view posters differently: every paper is presented as a poster, and some are given oral presentations as advertisements. We should consider a similar system and better utilize our own poster sessions.
+
+- Paper formats: NAACL has a tradition of soliciting short papers, which enables excellent contributions that don't need 8 pages. However, our guidelines for short papers (e.g. "work in progress", "a negative result") don't reflect our expectations. Additionally, papers are forced into either short (4 pages) or long paper models (8), but some papers need only five pages and as a result are penalized by reviewers. Other communities have used more flexible systems; papers can vary in length as needed (up to 8 pages.) Papers are judged based on the quality of contribution for the length of presentation, preventing paper padding to reach a higher limit (or cut unnecessarily to reach 4 pages.) We need to reconsider the goals of the short paper category and consider these other models.
+
+- Program Chair Tenures: Each year we have (typically) two NAACL program chairs who, after spending a year learning how to run the conference, end up with a list of great ideas for improvements. However, its a one year job, so the list is never used and we lose valuable ideas. One alternative would be two year PC tenures with a new PC member each year. The junior member runs the typical proceedings process, while the senior member focuses on conference changes based on previous experience. This structural change would ensure an ongoing effort to improve NAACL.
+
+I intend to draw upon lessons learned by other CS communities to bring the best ideas to NAACL.
+
 
 h2. Additional nominations:
 
@@ -69,7 +138,6 @@ Nomination committee for the 2013 elections:
 * Kristina Toutanova
 * Owen Rambow
 * Christopher Manning
-* David Chiang 
 * Dan Gildea
 
 For more information about the NAACL, NAACL officer responsibilities, and NAACL election procedures, please see the NAACL home page, www.naacl.org, and the NAACL constitution, which is available there.

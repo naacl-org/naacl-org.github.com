@@ -1,5 +1,5 @@
 ---
-subject: "NAACL Board Elections for 2013-2014 Officers"
+subject: "NAACL Board Elections for 2014-2015 Officers"
 ---
 
 Dear NAACL members,
@@ -7,10 +7,38 @@ Dear NAACL members,
 The Nominating Committee for the North American Chapter of the
 Association for Computational Linguistics (NAACL) has chosen the
 following candidates for the open positions on the NAACL board with
-two year terms beginning January 2013. Additional nominations can
-be made until November 30th, 2012.
+two year terms beginning January 2014. Additional nominations can
+be made until October 31st, 2013.
+
+The names below appear in random order.
+
+Chair (one opening):
+
+* David Chiang
+  University of Southern California
+  http://www.isi.edu/~chiang/
+
+* Hal Daumé III
+  University of Maryland
+  http://www.umiacs.umd.edu/~hal/
+
+Secretary (one opening):
+
+* Michael White
+  The Ohio State University
+  http://www.ling.ohio-state.edu/~mwhite/
+
+* Greg Kondrak
+  University of Alberta
+  http://webdocs.cs.ualberta.ca/~kondrak/
 
 Board Member nominees (two openings):
+
+"Colin Cherry":https://sites.google.com/site/colinacherry/
+"Matt Post":http://cs.jhu.edu/~post/
+"Thamar Solorio":http://www.cis.uab.edu/solorio/
+"Eduard Hovy":http://www.cs.cmu.edu/~hovy/
+"Mark Dredze":http://www.cs.jhu.edu/~mdredze/
 
 * Katrin Erk
   University of Texas at Austin
@@ -52,30 +80,37 @@ Board Member nominees (two openings):
   University of Washington
   http://homes.cs.washington.edu/~lsz/
 
-Candidate statements will be posted at http://naacl.org/elections/2013
+Candidate statements will be posted at http://naacl.org/elections/2014
 
 Additional nominations:
 
-Additional nominations can be submitted until November 30th, 2012.
+Additional nominations can be submitted until October 31st, 2013.
 To make a nomination, three or more NAACL members should send email
-to Anoop Sarkar, the NAACL secretary, expressing support for the
-nominee and giving evidence that he or she will serve if elected.
-(It is recommended that this evidence consist of a forwarded email
-from the nominee containing a candidate statement, a biographical
-sketch, homepage URL, and a brief affirmation of intent to serve
-if elected.) In addition, the nominees for Chair should meet the
-criteria set out in the NAACL constitution.
+to Anoop Sarkar (anoop __at__ sfu.ca), the NAACL secretary, expressing
+support for the nominee and giving evidence that he or she will
+serve if elected.  (It is recommended that this evidence consist
+of a forwarded email from the nominee containing a candidate
+statement, a biographical sketch, homepage URL, and a brief affirmation
+of intent to serve if elected.) In addition, the nominees for Chair
+should meet the criteria set out in the NAACL constitution.
 
 Election process:
 
 The voting period will begin once the final slate of candidates and
-voting instructions are announced (soon after November 30th), and
-is scheduled to close on December 20th.
+voting instructions are announced (soon after October 31st, 2013),
+and is scheduled to close on December 15th, 2013.
 
-Many thanks to the Nominating Committee -- Hal Daume (Chair), Ted
-Pedersen, Suzanne Stevenson, Chris Brew, Kristina Toutanova, Owen
-Rambow -- for doing the hard work of putting together an excellent
-slate of nominees.
+Many thanks to the Nominating Committee for doing the hard work of
+putting together an excellent slate of nominees.
+
+Nomination committee for the 2013 elections:
+
+* Chris Brew (chair)
+* Ted Pedersen
+* Kristina Toutanova
+* Owen Rambow
+* Christopher Manning
+* Dan Gildea
 
 For more information about the NAACL, NAACL officer responsibilities,
 and NAACL election procedures, please see the NAACL home page,
@@ -85,7 +120,7 @@ Lapsed Members:
 
 If you were a member of the NAACL last year or the year before and
 wish to participate in these elections, please renew your membership
-for 2012 and you will also receive instructions to vote in this
+for 2013 and you will also receive instructions to vote in this
 election.
 
 Sincerely,
