@@ -22,7 +22,7 @@ table(table).
 
 If you have any questions about this CFP please send them to naacl-contact __at__ aclweb.org
 
-h3. Convocatoria Para Regiones Emergentes 2013
+h3. Convocatoria Para Regiones Emergentes 2013[1]
 
 Convocatoria a presentación de propuestas del Fondo de Regiones Emergentes de la NAACL
 
@@ -44,9 +44,8 @@ table(table).
 
 Cualquier pregunta relacionada con esta convocatoria por favor mandarla por correo electrónico a naacl-contact __at__ aclweb.org
 
-bq. Thanks to Thamar Solorio for the Spanish translation.
  
-h3. Chamada de Propostas de 2013 para o Fundo da NAACL para Regiões Emergentes
+h3. Chamada de Propostas de 2013 para o Fundo da NAACL para Regiões Emergentes[2]
 
 Prazo de submissão: 31 de Agosto de 2013 para eventos que ocorrerão entre Setembro de 2013 e Setembro de 2014.
 
@@ -63,4 +62,6 @@ table(table).
 
 Se você tem qualquer dúvida sobre esta chamada, por favor encaminhe-a para naacl-contact __at__ aclweb.org
 
-bq. Thanks to Thiago A. S. Pardo for the Brazilian Portuguese translation.
+fn1. Thanks to Thamar Solorio for the Spanish translation.
+
+fn2. Thanks to Thiago A. S. Pardo for the Brazilian Portuguese translation.
