@@ -47,4 +47,29 @@ h3. Convocatoria de Propuestas
 </ul>
 </p>
 
+bq. Thanks to Thamar Solorio for the Spanish translation.
+
+h2. Fundo da NAACL para Regiões Emergentes
+
+Em seu encontro em Junho de 2010, o conselho executivo da NAACL decidiu unir dois programas pequenos de financiamento criados em 2009 (o Fundo Latino-americano e o Fundo para Conferências Regionais) para formar o Fundo para Regiões Emergentes. Esse fundo recém-criado destina-se a apoiar a criação de uma comunidade de Linguística Computacional maior e mais coesa na América Latina e a aumentar as interações regionais entre estudantes e pesquisadores das Américas.
+
+Haverá dois prazos para submissões de propostas no próximo ano e aproximadamente metade dos fundos será distribuída após cada prazo. A NAACL reconhece que cada região tem suas necessidades e preocupações específicas. Portanto, estamos abertos a uma grande variedade de propostas possíveis, sujeitas a restrição de que esse fundo destina-se a apoiar indivíduos, instituições ou eventos localizados nas Américas, assim como viagens nas Américas. A NAACL não apoiará viagens envolvendo regiões fora das Américas e, em geral, as viagens devem ser limitadas a regiões específicas das Américas.
+
+Exemplos de propostas que podem ajudar a estabelecer comunidades de pesquisa podem incluir apoio financeiro para conferências ou workshops regionais, ou requisitar apoio financeiro ou material para cursos de Processamento de Linguagem Natural e Linguística Computacional em universidades na América Latina. Além disso, a NAACL tem uma longa tradição de apoiar a participação de estudantes em conferências, escolas de verão e competições da área, e daria grande prioridade a esse tipo de esforço na América Latina ou em eventos regionais nas Américas. Note que este fundo não se destina a apoiar viagens de estudantes a conferências da NAACL HLT, pois há outro fundo específico para este fim.
+
+As propostas serão avaliadas por um comitê consistindo de membros do conselho executivo da NAACL.
+
+Há um grupo do Google relacionado às atividades da NAACL na América do Sul: "NAACL-Latin-America":https://groups.google.com/forum/#!forum/naacl-latin-america
+
+h3. Chamada de Propostas
+
+<p>
+<ul>
+    {% for year in (2013..2013) reversed %}
+    <li><a href="{{ site.baseurl }}/calls/emerging_regions/{{ year }}/index.html">Chamada de {{ year }} para Regiões Emergentes</a></li>
+    {% endfor %}
+</ul>
+</p>
+
+bq. Thanks to Thiago A. S. Pardo for the Brazilian Portuguese translation.
 

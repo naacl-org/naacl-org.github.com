@@ -39,9 +39,28 @@ Ejemplos de propuestas que puedan ayudar a establecer una comunidad de investiga
 
 Las propuestas serán evaluadas por un comité formado por miembros de la mesa directiva de la NAACL. 
 
+bq. Thanks to Thamar Solorio for the Spanish translation.
+
 table(table).
 | "Meter propuesta":https://docs.google.com/forms/d/1qE9dg48F_7yuQnXcUD8BZjOiEBb1V9cMfNQZAVKWwis/viewform |
 
 Cualquier pregunta relacionada con esta convocatoria por favor mandarla por correo electrónico a naacl-contact __at__ aclweb.org
  
+h3. Chamada de Propostas de 2013 para o Fundo da NAACL para Regiões Emergentes
 
+Prazo de submissão: 31 de Agosto de 2013 para eventos que ocorrerão entre Setembro de 2013 e Setembro de 2014.
+
+O propósito do Fundo da NAACL para Regiões Emergentes é apoiar a criação de uma comunidade de Linguística Computacional maior e mais coesa na América Latina e o aumento das interações regionais entre estudantes e pesquisadores das Américas.
+
+Se você não consegue atender a este prazo, haverá outro em Dezembro para propostas no próximo ano. Entretanto, dependendo dos fundos distribuídos nesta chamada atual, podemos não conseguir financiar completamente as propostas depois de Dezembro. Portanto, se puder, recomendamos que tente submeter a esta primeira chamada. A NAACL reconhece que cada região tem suas necessidades e preocupações específicas. Portanto, estamos abertos a uma grande variedade de propostas possíveis, sujeitas a restrição de que esse fundo destina-se a apoiar indivíduos, instituições ou eventos localizados nas Américas, assim como viagens nas Américas. A NAACL não apoiará viagens envolvendo regiões fora das Américas e, em geral, as viagens devem ser limitadas a regiões específicas das Américas.
+
+Exemplos de propostas que podem ajudar a estabelecer comunidades de pesquisa podem incluir apoio financeiro para conferências ou workshops regionais, ou requisitar apoio financeiro ou material para cursos de Processamento de Linguagem Natural e Linguística Computacional em universidades na América Latina. Além disso, a NAACL tem uma longa tradição de apoiar a participação de estudantes em conferências, escolas de verão e competições da área, e daria grande prioridade a esse tipo de esforço na América Latina ou em eventos regionais nas Américas. Note que este fundo não se destina a apoiar viagens de estudantes a conferências da NAACL HLT, pois há outro fundo específico para este fim.
+
+As propostas serão avaliadas por um comitê consistindo de membros do conselho executivo da NAACL.
+
+table(table).
+| "Submeta uma proposta":https://docs.google.com/forms/d/1qE9dg48F_7yuQnXcUD8BZjOiEBb1V9cMfNQZAVKWwis/viewform |
+
+Se você tem qualquer dúvida sobre esta chamada, por favor encaminhe-a para naacl-contact __at__ aclweb.org
+
+bq. Thanks to Thiago A. S. Pardo for the Brazilian Portuguese translation.
