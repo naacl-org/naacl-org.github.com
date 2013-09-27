@@ -72,4 +72,5 @@ h3. Chamada de Propostas
 
 
 fn1. Thanks to Thamar Solorio for the Spanish translation.
+
 fn2. Thanks to Thiago A. S. Pardo for the Brazilian Portuguese translation.
