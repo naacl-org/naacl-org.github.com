@@ -17,10 +17,10 @@ Examples of proposals that might help to build community could include financial
 
 Proposals will be evaluated by a committee consisting of members of the NAACL Executive Board. 
 
+If you have any questions about this CFP please send them to naacl-contact __at__ aclweb.org
+
 table(table).
 | "Submit a proposal":https://docs.google.com/forms/d/1qE9dg48F_7yuQnXcUD8BZjOiEBb1V9cMfNQZAVKWwis/viewform |
-
-If you have any questions about this CFP please send them to naacl-contact __at__ aclweb.org
 
 h3. Convocatoria Para Regiones Emergentes 2013[1]
 
@@ -39,12 +39,11 @@ Ejemplos de propuestas que puedan ayudar a establecer una comunidad de investiga
 
 Las propuestas serán evaluadas por un comité formado por miembros de la mesa directiva de la NAACL. 
 
+Cualquier pregunta relacionada con esta convocatoria por favor mandarla por correo electrónico a naacl-contact __at__ aclweb.org
+
 table(table).
 | "Meter propuesta":https://docs.google.com/forms/d/1qE9dg48F_7yuQnXcUD8BZjOiEBb1V9cMfNQZAVKWwis/viewform |
 
-Cualquier pregunta relacionada con esta convocatoria por favor mandarla por correo electrónico a naacl-contact __at__ aclweb.org
-
- 
 h3. Chamada de Propostas de 2013 para o Fundo da NAACL para Regiões Emergentes[2]
 
 Prazo de submissão: 31 de Agosto de 2013 para eventos que ocorrerão entre Setembro de 2013 e Setembro de 2014.
@@ -57,10 +56,11 @@ Exemplos de propostas que podem ajudar a estabelecer comunidades de pesquisa pod
 
 As propostas serão avaliadas por um comitê consistindo de membros do conselho executivo da NAACL.
 
+Se você tem qualquer dúvida sobre esta chamada, por favor encaminhe-a para naacl-contact __at__ aclweb.org
+
 table(table).
 | "Submeta uma proposta":https://docs.google.com/forms/d/1qE9dg48F_7yuQnXcUD8BZjOiEBb1V9cMfNQZAVKWwis/viewform |
 
-Se você tem qualquer dúvida sobre esta chamada, por favor encaminhe-a para naacl-contact __at__ aclweb.org
 
 fn1. Thanks to Thamar Solorio for the Spanish translation.
 
