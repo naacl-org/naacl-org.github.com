@@ -39,12 +39,12 @@ Ejemplos de propuestas que puedan ayudar a establecer una comunidad de investiga
 
 Las propuestas serán evaluadas por un comité formado por miembros de la mesa directiva de la NAACL. 
 
-bq. Thanks to Thamar Solorio for the Spanish translation.
-
 table(table).
 | "Meter propuesta":https://docs.google.com/forms/d/1qE9dg48F_7yuQnXcUD8BZjOiEBb1V9cMfNQZAVKWwis/viewform |
 
 Cualquier pregunta relacionada con esta convocatoria por favor mandarla por correo electrónico a naacl-contact __at__ aclweb.org
+
+bq. Thanks to Thamar Solorio for the Spanish translation.
  
 h3. Chamada de Propostas de 2013 para o Fundo da NAACL para Regiões Emergentes
 
