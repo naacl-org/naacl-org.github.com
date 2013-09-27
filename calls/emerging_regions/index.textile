@@ -25,7 +25,7 @@ h3. Call for Proposals
 </p>
 
 
-h2. Fondo para Regiones Emergentes de la NAACL 
+h2. Fondo para Regiones Emergentes de la NAACL[1]
 
 En la junta de Junio 2010, la mesa directiva de la NAACL decidió combinar dos programas de pequeños fondos creados en 2009 (el Fondo Latinoamericano y el Fondo de Conferencias Regionales) para formar el Fondo para Regiones Emergentes. Este nuevo fondo tiene la intención de apoyar la creación de una comunidad de computación lingüística cohesiva en Latinoamérica, y fomentar más interacciones regionales entre estudiantes e investigadores en cualquier región de América.
 
@@ -47,9 +47,8 @@ h3. Convocatoria de Propuestas
 </ul>
 </p>
 
-bq. Thanks to Thamar Solorio for the Spanish translation.
 
-h2. Fundo da NAACL para Regiões Emergentes
+h2. Fundo da NAACL para Regiões Emergentes[2]
 
 Em seu encontro em Junho de 2010, o conselho executivo da NAACL decidiu unir dois programas pequenos de financiamento criados em 2009 (o Fundo Latino-americano e o Fundo para Conferências Regionais) para formar o Fundo para Regiões Emergentes. Esse fundo recém-criado destina-se a apoiar a criação de uma comunidade de Linguística Computacional maior e mais coesa na América Latina e a aumentar as interações regionais entre estudantes e pesquisadores das Américas.
 
@@ -71,5 +70,6 @@ h3. Chamada de Propostas
 </ul>
 </p>
 
-bq. Thanks to Thiago A. S. Pardo for the Brazilian Portuguese translation.
 
+fn1. Thanks to Thamar Solorio for the Spanish translation.
+fn2. Thanks to Thiago A. S. Pardo for the Brazilian Portuguese translation.
