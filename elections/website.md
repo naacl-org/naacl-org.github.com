@@ -37,22 +37,34 @@ This assumes a bare bones CentOS 6 install.
     SSLCertificateFile /etc/pki/tls/certs/ca.crt
     SSLCertificateKeyFile /etc/pki/tls/private/ca.key
     # Quit and save the file and then restart Apache
-    /etc/init.d/httpd restart
+    sudo /etc/init.d/httpd restart
 
 ## Restart the web server gracefully in case of reboots
 
-    crontab -e
+    sudo crontab -e
     # edit the crontab file to look like the following:
     # make sure the web server keeps running
     0,15,30,45 * * * * /usr/sbin/apachectl graceful >> /dev/null
 
-# Get ElectAssist
+# Set up ElectAssist
 
-Email Ulrich Germann <ulrich.germann@gmail.com> to obtain ElectAssist. These instructions are for version 1.5. Unpack it.
-
-    cd $HOME
-    tar zxvf ElectAssist-1.5.tgz
+Email Ulrich Germann <ulrich.germann@gmail.com> to obtain ElectAssist. You will get a tarball ElectAssist-x.y.tgz. These instructions are for version 1.5.
 
 The manual is in ElectAssist/admin/ElectAssist-Manual.html
 
+The following steps can be used to set up ElectAssist running as root (not recommended unless you are on a VM).
 
+1. login as the user (here we assume root) as whom the web server will be running
+
+    sudo bash
+    cd $HOME
+    tar zxvf ElectAssist-1.5.tgz
+
+2. create a directory for the current year
+
+    mkdir naacl-elections-2014
+    cd naacl-elections-2014
+    mkdir cgi
+    cp ../../ElectAssist/cgi/sample-ballot.html cgi/ballot.html
+
+    
