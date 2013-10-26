@@ -1,0 +1,48 @@
+# Instructions to set up ElectAssist on a web server
+
+This assumes a bare bones CentOS 6 install.
+
+## Set up packages on CentOS 6
+
+    sudo yum check-update
+    sudo yum install git
+    sudo yum install screen
+    sudo yum groupinstall "Development tools"
+    sudo yum install zlib-devel bzip2-devel openssl-devel ncurses-devel sqlite-devel readline-devel tk-devel
+    sudo yum install mod_ssl openssl
+
+## Generate self-signed certificate
+
+    mkdir $HOME/naacl-elections
+    cd $HOME/naacl-elections
+
+    # Generate private key 
+    openssl genrsa -out ca.key 1024 
+
+    # Generate CSR 
+    openssl req -new -key ca.key -out ca.csr
+
+    # Generate Self Signed Key
+    openssl x509 -req -days 365 -in ca.csr -signkey ca.key -out ca.crt
+
+    # Copy the files to the correct locations
+    sudo cp ca.crt /etc/pki/tls/certs
+    sudo cp ca.key /etc/pki/tls/private/ca.key
+    sudo cp ca.csr /etc/pki/tls/private/ca.csr
+
+## Update the Apache SSL configuration file
+
+    vi +/SSLCertificateFile /etc/httpd/conf.d/ssl.conf
+    # Change the paths to match where the Certificate and Key files are stored:
+    SSLCertificateFile /etc/pki/tls/certs/ca.crt
+    SSLCertificateKeyFile /etc/pki/tls/private/ca.key
+    # Quit and save the file and then restart Apache
+    /etc/init.d/httpd restart
+
+## Restart the web server gracefully in case of reboots
+
+    crontab -e
+    # edit the crontab file to look like the following:
+    # make sure the web server keeps running
+    0,15,30,45 * * * * /usr/sbin/apachectl graceful >> /dev/null
+
