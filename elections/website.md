@@ -46,3 +46,13 @@ This assumes a bare bones CentOS 6 install.
     # make sure the web server keeps running
     0,15,30,45 * * * * /usr/sbin/apachectl graceful >> /dev/null
 
+# Get ElectAssist
+
+Email Ulrich Germann <ulrich.germann@gmail.com> to obtain ElectAssist. These instructions are for version 1.5. Unpack it.
+
+    cd $HOME
+    tar zxvf ElectAssist-1.5.tgz
+
+The manual is in ElectAssist/admin/ElectAssist-Manual.html
+
+
