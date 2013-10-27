@@ -32,7 +32,7 @@ NAACL as a conference is great, and we can improve: reviewing, physical and virt
 
 h2. Secretary (one opening):
 
-h3(#white). "Michael White":http://www.ling.ohio-state.edu/~mwhite/
+h3(#white). "Michael White":https://u.osu.edu/white.1240/
 
 h4. Bio
 
