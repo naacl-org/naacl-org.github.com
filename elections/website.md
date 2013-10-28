@@ -10,11 +10,9 @@ This assumes a bare bones CentOS 6 install.
     sudo yum groupinstall "Development tools"
     sudo yum install zlib-devel bzip2-devel openssl-devel ncurses-devel sqlite-devel readline-devel tk-devel
     sudo yum install mod_ssl openssl
+    sudo yum install mod_perl
 
 ## Generate self-signed certificate
-
-    mkdir $HOME/naacl-elections
-    cd $HOME/naacl-elections
 
     # Generate private key 
     openssl genrsa -out ca.key 1024 
@@ -32,10 +30,20 @@ This assumes a bare bones CentOS 6 install.
 
 ## Update the Apache SSL configuration file
 
-    vi +/SSLCertificateFile /etc/httpd/conf.d/ssl.conf
+    sudo vi +/SSLCertificateFile /etc/httpd/conf.d/ssl.conf
     # Change the paths to match where the Certificate and Key files are stored:
     SSLCertificateFile /etc/pki/tls/certs/ca.crt
     SSLCertificateKeyFile /etc/pki/tls/private/ca.key
+
+## Enable CGI execution
+
+    sudo vi /etc/httpd/conf/httpd.conf
+
+1. Add ExecCGI to Options of Directory "/var/www/html"
+2. Uncomment: AddHandler cgi-script .cgi
+
+## Restart httpd
+
     # Quit and save the file and then restart Apache
     sudo /etc/init.d/httpd restart
 
@@ -62,9 +70,7 @@ The following steps can be used to set up ElectAssist running as root (not recom
 
 2. create a directory for the current year
 
-    mkdir naacl-elections-2014
-    cd naacl-elections-2014
-    mkdir cgi
-    cp ../../ElectAssist/cgi/sample-ballot.html cgi/ballot.html
+    cp -r ElectAssist ElectAssist-201x
 
-    
+3. Create files for the election: ElectionParameters.pm and ballot-201x.html based on the files in elections/2014/ElectAssist-files in the naacl github repository.
+

@@ -139,7 +139,7 @@ $page_header = "";
 $page_header  = join("\n",
                      "<div align=center>",
                      "<font size=2>",
-                     "2014 <a href="http://naacl.org">NAACL</a> Board elections",
+                     '2014 <a href=\"http://naacl.org\">NAACL</a> Board elections',
                      "</font>",
                      "<div>",
                      "<hr>");
