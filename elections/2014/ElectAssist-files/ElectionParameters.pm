@@ -7,7 +7,7 @@ package ElectionParameters;
 use strict;
 no strict 'vars';
 
-$ElectAssist_ROOT = "/root/ElectAssist-2014";
+$ElectAssist_ROOT = "/home/anoop/ElectAssist-2014";
 $ElectAssist_ROOT =~ s/\/$//;
 # if you use the standard setup described in the manual 
 # you won't need to change $pindir, $votesdir, $error_log,

@@ -40,7 +40,12 @@ This assumes a bare bones CentOS 6 install.
     sudo vi /etc/httpd/conf/httpd.conf
 
 1. Add ExecCGI to Options of Directory "/var/www/html"
-2. Uncomment: AddHandler cgi-script .cgi
+2. Add: AddHandler cgi-script .cgi
+3. More steps for mod_perl (copy here from httpd.conf later)
+
+## Check permissions
+
+    sudo chown -R apache:apache /home/anoop/ElectAssist-2014
 
 ## Restart httpd
 
