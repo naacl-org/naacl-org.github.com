@@ -137,11 +137,10 @@ $page_header = "";
 # optional: if you want to provide a link to your organization's homepage,
 # the election title, or some other kind of page header, define it here:
 $page_header  = join("\n",
+                     "<link href=\"http://naacl.org/css/bootstrap.min.css\" rel=\"stylesheet\" media=\"screen\">
                      "<div align=center>",
-                     "<font size=2>",
-                     '2014 <a href=\"http://naacl.org\">NAACL</a> Board elections',
-                     "</font>",
-                     "<div>",
+                     '<h1>2014 NAACL Board elections</h1>',
+                     "</div>",
                      "<hr>");
 
 return 1;
