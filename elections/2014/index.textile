@@ -74,6 +74,49 @@ The goal of the annual NAACL conference is to select and promote the best resear
 
 I intend to draw upon lessons learned by other CS communities to bring the best ideas to NAACL.
 
+h3(#bender). "Emily Bender":http://faculty.washington.edu/ebender/
+
+h4. Bio
+
+Emily M. Bender is an Associate Professor of Linguistics and an Adjunct Associate Professor of Computer Science and Engineering at the University of Washington, where she has been a member of the faculty since 2003. Her primary research interests are in multilingual grammar engineering and deep linguistic processing. She is the Linguistic Society of America’s delegate to the ACL and the faculty director of UW’s professional MS in Computational Linguistics. In 2009 she co-organized a panel session on computational methods in support of linguistic analysis at LSA and an NSF-sponsored workshop on Cyberinfrastructure for Linguistics.
+
+h4. Candidacy Statement
+
+I see three main priorities for NAACL: Reproducibility, Reviewing, and Reinvigorating interdisciplinarity in our field.
+
+Reproducibility is the hallmark of scientific work. The ability to publish data and code in ACL-published proceedings is an enormous step towards reproducibility. However, there is still work to be done to make sure that the published resources are in fact useful in advancing the state of the art. For example, CC BY-NC-SA 3.0 is not the right license for every NAACL-HLT author. Furthermore, we have not yet worked out how to efficiently and effectively review these materials.
+
+Reviewing is central to the quality of conferences and publications.  The reputation of the NAACL-HLT conference elicits considerable effort on the part of reviewers, yet there is still room to improve the way that that effort is focused. A system of incentives to encourage reviewing that is fair, rigorous, and constructive could include feedback to reviewers by area chairs, co-reviewers and even authors as well as recognition for outstanding reviewing.
+
+Reinvigorating interdisciplinarity: Solving big problems in human language technology requires both sophisticated algorithms and understanding of the domain of application of those algorithms. Yet, the integration of linguistic knowledge in our field falls short of this ideal. I will continue to work towards bringing relevant Linguistics to NAACL in the form of tutorials, building connections to NASSLLI, and other means of making Linguistics accessible to HLT researchers.  
+
+h3(#hockenmaier). "Julia Hockenmaier":http://www.cs.uiuc.edu/~juliahmr/
+
+h4. Bio
+
+Julia Hockenmaier is an Assistant Professor of Computer Science at the University of Illinois at Urbana-Champaign. She works on statistical parsing and grammar induction with expressive grammar formalisms, as well as on models that use NLP and computer vision to associate images with sentences that describe what is depicted in them. She has also worked on the application of parsing algorithms to protein folding. Julia received her PhD from the University of Edinburgh under the supervision of Mark Steedman, and did a postdoc with Aravind Joshi at the University of Pennsylvania. She co-chaired CoNLL 2013, is a member of the editorial boards of Computational Linguistics, the Journal of Artificial Intelligence Research, and the ACM Transactions on Asian Language Processing. She is on the AAAI-2014 Senior Program Committee, has been on the NAACL-HLT Senior Program Committee, and is a regular member of the program committee for the various ACL conferences. She has participated in ACL/EACL/NAACL student research workshops as author, student organizer and faculty adviser, and was a member of the first EACL student board. 
+
+h4. Candidacy Statement
+
+As a member of the NAACL Executive Board, I would like to work towards securing the status of our conferences and workshops as an important place to present research, exchange ideas, and catch up with colleagues. 
+Physical meetings are essential for the vitality of our community. But the format of the main conference needs to change to accommodate the growth of the field. Currently, only some papers get presented as long talks, and even the poster sessions are getting increasingly crowded. This is unfair, and clearly unsustainable. At CoNLL-2013, we gave every paper a 15-minute slot (and a poster). Despite some initial doubts, this worked very well. With three parallel sessions, we could accommodate up to 180 15-minute slots in a three day conference (that works out to five hours of talks per day, and would still leave time for invited speakers, and poster sessions in the evenings).  
+
+As our membership and conference attendance increase, our workshops have to play an increasingly important role. I would like to strengthen the role of both the Student Research Workshop and our regular workshops. The SRW needs to be known as a venue that promotes excellence in graduate research, and that fosters a sense of community among the next generation of CL/NLP researchers. Similar to e.g. the NIPS workshops, we should also encourage regular workshops that consist mainly of invited talks and discussions. There is no incentive to publish one's best work at a workshop, but it can be really productive and stimulating to get a group of people who are all working on similar topics in the same room for a day.
+
+As a long term goal, I would also like to make sure that NAACL has a voice in public discussions that concern, and may shape, the future of computer science research and education in North America. I believe that (NA)ACL should consider joining the Computing Research Association (CRA), which would allow us to participate in such discussions, along with other professional societies such as AAAI, ACM, or SIAM. 
+
+h3(#solorio). "Thamar Solorio":http://www.cis.uab.edu/solorio/
+
+h4. Bio
+
+Thamar Solorio is an assistant professor in the Department of Computer and Information Sciences at the University of Alabama at Birmingham. Before joining UAB she was a postdoctoral researcher in the Department of Computer Science at the University of Texas at Dallas. She received her PhD in 2005 from the National Institute of Astrophysics, Optics, and Electronics, in Puebla, Mexico. Her research areas include author profiling and attribution in social media, text reuse detection, analysis of mixed-language data, information extraction in clinical records, and the design of NLP approaches for language assessment that can contribute to early identification of language impairment in children or neurological conditions in adults. She co-chaired the first Young Investigators Workshop for languages of the Americas held in conjunction with NAACL 2010. She served as area chair for ACL in 2011 and 2013, and served as faculty mentor for the ACL Student Research Workshop in 2011. She has been a member of the National System of Researchers (abbreviated SNI in Spanish) since 2010.
+
+h4. Candidacy Statement
+
+NAACL is very welcoming of researchers and practitioners from many different fields who share an interest in language analysis and processing. While I highly value this inclusive environment, I think there is still room for improvement. If elected to the board, I want to push for the implementation of new practices that will allow researchers from vulnerable groups (ethnic, gender, and linguistic minorities, people with different sexual orientation or identity, and people with disabilities) to stay in this field and continue, or begin participating in our yearly conferences. For example, I would like to see that we offer some form of day care arrangements for researchers in need to bring their small children to the conference. Other conferences, such as the Grace Hopper events, offer day care so participants can take full advantage of the conference. Some conferences provide educational material with the conference bag aimed at sensitizing all participants of old fashioned practices that perpetuate an "old-boys's club" culture. I would like our community to have a dialogue about this and seek the adoption of best practices that strive to broaden the diversity of the field. The board meeting this year voted to adopt an anti-harassment policy. I would like to also have a policy that describes how the board will address complaints of this nature that includes clear language about the process and resulting actions.
+
+I would also like to work harder in reaching out to other regions of the Americas that remain underrepresented in our conferences. One idea would be to make sure researchers from these regions are represented in the NAACL board and are involved in the Conference and Program Committees. I also want to ensure we offer continued mentoring service for researchers with little experience writing papers in English, as well as the enhancement and continuation of initiatives like the Emerging Regions fund. There has to be more dialogue between people from those regions and the NAACL board to facilitate understanding and recognition of common goals and opportunities to work together.
+
 h3(#hovy). "Eduard Hovy":http://www.cs.cmu.edu/~hovy/
 
 h4. Bio
@@ -93,48 +136,6 @@ Colin Cherry is a Research Officer at the National Research Council Canada. Prev
 h4. Candidacy Statement
 
 Looking at past candidacy statements over the years, I suspect that it is difficult to know exactly what one’s role on the NAACL Executive Board will look like before serving. Knowing that, I am reluctant to promise any sort of sweeping or inspiring change should I be elected. Instead, I can only assure you that I am a big fan of NAACL and its initiatives, such as the emerging regions fund. If elected, I will do my utmost to maintain and enhance these services, especially those that affect students  and under-represented regions, which are the main drivers for NAACL’s continued growth.
-
-h3(#solorio). "Thamar Solorio":http://www.cis.uab.edu/solorio/
-
-h4. Bio
-
-Thamar Solorio is an assistant professor in the Department of Computer and Information Sciences at the University of Alabama at Birmingham. Before joining UAB she was a postdoctoral researcher in the Department of Computer Science at the University of Texas at Dallas. She received her PhD in 2005 from the National Institute of Astrophysics, Optics, and Electronics, in Puebla, Mexico. Her research areas include author profiling and attribution in social media, text reuse detection, analysis of mixed-language data, information extraction in clinical records, and the design of NLP approaches for language assessment that can contribute to early identification of language impairment in children or neurological conditions in adults. She co-chaired the first Young Investigators Workshop for languages of the Americas held in conjunction with NAACL 2010. She served as area chair for ACL in 2011 and 2013, and served as faculty mentor for the ACL Student Research Workshop in 2011. She has been a member of the National System of Researchers (abbreviated SNI in Spanish) since 2010.
-
-h4. Candidacy Statement
-
-NAACL is very welcoming of researchers and practitioners from many different fields who share an interest in language analysis and processing. While I highly value this inclusive environment, I think there is still room for improvement. If elected to the board, I want to push for the implementation of new practices that will allow researchers from vulnerable groups (ethnic, gender, and linguistic minorities, people with different sexual orientation or identity, and people with disabilities) to stay in this field and continue, or begin participating in our yearly conferences. For example, I would like to see that we offer some form of day care arrangements for researchers in need to bring their small children to the conference. Other conferences, such as the Grace Hopper events, offer day care so participants can take full advantage of the conference. Some conferences provide educational material with the conference bag aimed at sensitizing all participants of old fashioned practices that perpetuate an "old-boys's club" culture. I would like our community to have a dialogue about this and seek the adoption of best practices that strive to broaden the diversity of the field. The board meeting this year voted to adopt an anti-harassment policy. I would like to also have a policy that describes how the board will address complaints of this nature that includes clear language about the process and resulting actions.
-
-I would also like to work harder in reaching out to other regions of the Americas that remain underrepresented in our conferences. One idea would be to make sure researchers from these regions are represented in the NAACL board and are involved in the Conference and Program Committees. I also want to ensure we offer continued mentoring service for researchers with little experience writing papers in English, as well as the enhancement and continuation of initiatives like the Emerging Regions fund. There has to be more dialogue between people from those regions and the NAACL board to facilitate understanding and recognition of common goals and opportunities to work together.
-
-h3(#post). "Matt Post":http://cs.jhu.edu/~post/
-
-h4. Bio
-
-Matt Post is a Senior Research Scientist at the Human Language Technology Center of Excellence (HLTCOE) at Johns Hopkins University, which he first joined as a postdoctoral researcher working in machine translation. His research interests include machine translation, language modeling, and grammaticality, with syntactic approaches to these tasks serving as a common underlying theme. He received his Ph.D. from the University of Rochester. He has co-organized the Workshop on Statistical Machine Translation for the past two years, and in 2013 served as the NAACL Publications co-chair.
-
-h4. Candidacy Statement
-
-As a member of the NAACL executive committee, my goals would be to (a) increase community efforts towards reproducibility of research and (b) improve the conference management process.
-
-Reproducibility is the cornerstone of good science, and yet it receives far less attention than primary research contributions. This imbalance has contributed to very low reproducibility rates that have been reported in certain scientific fields, and undermines scientific pursuits in a number of ways. Computer scientists are well positioned to make reproducibility easy, but doing so still requires extra work on the part of both the reproducer and the reproducee, which is often unrewarded. While our community has an established habit of sharing code and data, these efforts fall far short of what they should be. As part of keeping our house in order, NAACL should explore and pursue ways to reward efforts in the area of reproducibility.
-
-A point of distinction for our research community is the extensive body of code used to produce our annual proceedings and conference manuals. This has been built up over the years and yields useful, high-quality publications. While improvements are made each year to this codebase and the conference management system that surrounds it (including the recent unified login system for reviewers), there remains a lot of relearning, trial-and-error, redundant effort, and subsequent frustration on the part of each year's conference organizers, reviewers, and submitters. Softconf has been very helpful in this process so far, but there is much more that could be done were someone to give it some time, money, and attention.
-
-h3(#bender). "Emily Bender":http://faculty.washington.edu/ebender/
-
-h4. Bio
-
-Emily M. Bender is an Associate Professor of Linguistics and an Adjunct Associate Professor of Computer Science and Engineering at the University of Washington, where she has been a member of the faculty since 2003. Her primary research interests are in multilingual grammar engineering and deep linguistic processing. She is the Linguistic Society of America’s delegate to the ACL and the faculty director of UW’s professional MS in Computational Linguistics. In 2009 she co-organized a panel session on computational methods in support of linguistic analysis at LSA and an NSF-sponsored workshop on Cyberinfrastructure for Linguistics.
-
-h4. Candidacy Statement
-
-I see three main priorities for NAACL: Reproducibility, Reviewing, and Reinvigorating interdisciplinarity in our field.
-
-Reproducibility is the hallmark of scientific work. The ability to publish data and code in ACL-published proceedings is an enormous step towards reproducibility. However, there is still work to be done to make sure that the published resources are in fact useful in advancing the state of the art. For example, CC BY-NC-SA 3.0 is not the right license for every NAACL-HLT author. Furthermore, we have not yet worked out how to efficiently and effectively review these materials.
-
-Reviewing is central to the quality of conferences and publications.  The reputation of the NAACL-HLT conference elicits considerable effort on the part of reviewers, yet there is still room to improve the way that that effort is focused. A system of incentives to encourage reviewing that is fair, rigorous, and constructive could include feedback to reviewers by area chairs, co-reviewers and even authors as well as recognition for outstanding reviewing.
-
-Reinvigorating interdisciplinarity: Solving big problems in human language technology requires both sophisticated algorithms and understanding of the domain of application of those algorithms. Yet, the integration of linguistic knowledge in our field falls short of this ideal. I will continue to work towards bringing relevant Linguistics to NAACL in the form of tutorials, building connections to NASSLLI, and other means of making Linguistics accessible to HLT researchers.  
 
 h3(#ji). "Heng Ji":http://nlp.cs.rpi.edu/hengji.html
 
@@ -172,6 +173,20 @@ I would like to continue on the board to serve the community in several aspects:
 3. I think we should strive to create solid links to the industrial world without losing sight of the theoretical underpinnings of computational linguistics, linguistics, and cognition by promoting sound scientific exploration that could have interesting implications on our understanding of natural language and the human mind. This goal can be achieved via papers/ opinion papers (which already exist) but also encourage panel discussions similar to workshop sessions; 
 4. I would like to help increase the visibility of NAACL beyond North America into Latin America and work on facilitating the visibility of NAACL in Africa and the Middle East; 
 5. NAACL is at the forefront of our conferences and I believe it should play a significant role in popularizing our science beyond the technical confines of our conferences/academia/industry to more lay venues allowing for more creative advertising for our field.
+
+h3(#post). "Matt Post":http://cs.jhu.edu/~post/
+
+h4. Bio
+
+Matt Post is a Senior Research Scientist at the Human Language Technology Center of Excellence (HLTCOE) at Johns Hopkins University, which he first joined as a postdoctoral researcher working in machine translation. His research interests include machine translation, language modeling, and grammaticality, with syntactic approaches to these tasks serving as a common underlying theme. He received his Ph.D. from the University of Rochester. He has co-organized the Workshop on Statistical Machine Translation for the past two years, and in 2013 served as the NAACL Publications co-chair.
+
+h4. Candidacy Statement
+
+As a member of the NAACL executive committee, my goals would be to (a) increase community efforts towards reproducibility of research and (b) improve the conference management process.
+
+Reproducibility is the cornerstone of good science, and yet it receives far less attention than primary research contributions. This imbalance has contributed to very low reproducibility rates that have been reported in certain scientific fields, and undermines scientific pursuits in a number of ways. Computer scientists are well positioned to make reproducibility easy, but doing so still requires extra work on the part of both the reproducer and the reproducee, which is often unrewarded. While our community has an established habit of sharing code and data, these efforts fall far short of what they should be. As part of keeping our house in order, NAACL should explore and pursue ways to reward efforts in the area of reproducibility.
+
+A point of distinction for our research community is the extensive body of code used to produce our annual proceedings and conference manuals. This has been built up over the years and yields useful, high-quality publications. While improvements are made each year to this codebase and the conference management system that surrounds it (including the recent unified login system for reviewers), there remains a lot of relearning, trial-and-error, redundant effort, and subsequent frustration on the part of each year's conference organizers, reviewers, and submitters. Softconf has been very helpful in this process so far, but there is much more that could be done were someone to give it some time, money, and attention.
 
 
 h2. Additional nominations:
