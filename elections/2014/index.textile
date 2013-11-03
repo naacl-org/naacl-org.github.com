@@ -6,7 +6,11 @@ root: ../../
 
 The Nominating Committee for the North American Chapter of the Association for Computational Linguistics (NAACL) has chosen the following candidates for the open positions on the NAACL board with two year terms beginning January 2014. Additional nominations can be made until October 31, 2013.
 
-The names below appear in random order.
+Time for additional nominations has passed.  If you are a NAACL member this year, you will be emailed a PIN which you will need in order to submit your vote at the following election website:
+
+    http://naacl-election.cs.sfu.ca
+
+The names below and on the ballot appear in a (fixed) random order.
 
 h2. Chair (one opening):
 
