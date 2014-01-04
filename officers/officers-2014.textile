@@ -22,6 +22,11 @@ table(table).
 | Board Member | Emily M. Bender | University of Washington | 2014-2016 |
 | Board Member | Eduard Hovy | Carnegie Mellon University | 2014-2016 |
 
+h2. Ex-Officio Board Members
+
+table(table).
+| Graeme Hirst | University of Toronto | ACL Treasurer |
+
 h2. Nominating Committee
 
 * Chris Brew (chair)
@@ -30,11 +35,6 @@ h2. Nominating Committee
 * Owen Rambow
 * Christopher Manning
 * Dan Gildea
-
-h2. Ex-Officio Board Members
-
-table(table).
-| Graeme Hirst | University of Toronto | ACL Treasurer |
 
 h2. Chair (2014-2016) |  "Hal Daumé III":http://www.umiacs.umd.edu/~hal/ | University of Maryland
 
