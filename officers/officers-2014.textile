@@ -9,8 +9,8 @@ root: ../
 h2. Officers
 
 table(table).
-| Chair | Hal Daumé III | University of Maryland | 2014-2016 |
-| Secretary | Michael White | The Ohio State University | 2014-2016 |
+| Chair | Hal Daumé III | University of Maryland | 2014-2015 |
+| Secretary | Michael White | The Ohio State University | 2014-2015 |
 | Treasurer | Joel Tetreault | Nuance Communications | 2013-2014 |
 | Past Chair | Chris-Callison Burch | University of Pennsylvania | 2012-2013 |
 
@@ -19,8 +19,8 @@ h2. Executive Board
 table(table).
 | Board Member | Katrin Erk | University of Texas at Austin |  2013-2014 |
 | Board Member | Julia Hirschberg | Columbia University | 2013-2014 |
-| Board Member | Emily M. Bender | University of Washington | 2014-2016 |
-| Board Member | Eduard Hovy | Carnegie Mellon University | 2014-2016 |
+| Board Member | Emily M. Bender | University of Washington | 2014-2015 |
+| Board Member | Eduard Hovy | Carnegie Mellon University | 2014-2015 |
 
 h2. Ex-Officio Board Members
 
@@ -36,7 +36,7 @@ h2. Nominating Committee
 * Christopher Manning
 * Dan Gildea
 
-h2. Chair (2014-2016) |  "Hal Daumé III":http://www.umiacs.umd.edu/~hal/ | University of Maryland
+h2. Chair (2014-2015) |  "Hal Daumé III":http://www.umiacs.umd.edu/~hal/ | University of Maryland
 
 !>{height:150px}http://www.umiacs.umd.edu/~hal/portrait.jpg(Hal Daume III)!
 
@@ -48,7 +48,7 @@ h4. Candidacy Statement
 
 NAACL as a conference is great, and we can improve: reviewing, physical and virtual socialization, and memory of the past. NAACL as an organization is also fantastic, and we can take an active leadership role in promoting NLP/CL as a field within the Americas.
 
-h2. Secretary (2014-2016) | "Michael White":https://u.osu.edu/white.1240/ | The Ohio State University
+h2. Secretary (2014-2015) | "Michael White":https://u.osu.edu/white.1240/ | The Ohio State University
 
 !>{height:150px}http://u.osu.edu/white.1240/files/2013/10/white1240-1sc4vn1.jpg(Michael White)!
 
@@ -110,7 +110,7 @@ h4. Candidacy Statement
 
 My goal in joining the NAACL board would be twofold:  a) to increase participation of researchers in speech and audio processing and in image and video in NAACL conferences and activities; and b) to increase the participation of women and minorities in computational linguistics.  Since my PhD research at UPenn I have worked to broaden participation in NLP in terms of genre and ethnicity/gender.   My own work has attempted to combine NLP with speech processing.   I have attempted to increase participation of women and minorities in NLP since my PhD, but supporting diversity at Bell Labs, AT&T Labs, Columbia, and the broader community.  I have also tried to broaden the scope of computational linguistics research to include interdisciplinariy work in the humanities and social sciences, as well as more practical engineering endeavors. 
 
-h2. Board Member (2014-2016) | "Emily M. Bender":http://faculty.washington.edu/ebender/ | University of Washington
+h2. Board Member (2014-2015) | "Emily M. Bender":http://faculty.washington.edu/ebender/ | University of Washington
 
 !>{height:150px}http://www.compling.uw.edu/Graphics/bender.jpg(Emily M. Bender)!
 
@@ -128,7 +128,7 @@ Reviewing is central to the quality of conferences and publications.  The reputa
 
 Reinvigorating interdisciplinarity: Solving big problems in human language technology requires both sophisticated algorithms and understanding of the domain of application of those algorithms.  Yet, the integration of linguistic knowledge in our field falls short of this ideal.  I will work towards bringing relevant Linguistics to NAACL in the form of tutorials, building connections to NASSLLI, and other means of making Linguistics accessible to HLT researchers.
 
-h2. Board Member (2014-2016) | "Eduard Hovy":http://www.cs.cmu.edu/~hovy/ | Carnegie Mellon University
+h2. Board Member (2014-2015) | "Eduard Hovy":http://www.cs.cmu.edu/~hovy/ | Carnegie Mellon University
 
 !>{height:150px}http://www.cs.cmu.edu/~hovy/bio-image-hovy.png(Eduard Hovy)!
 
