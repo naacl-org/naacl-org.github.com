@@ -30,6 +30,8 @@ You can join NAACL by joining our parent organization, ACL:
 
 h3. About the naacl.org website
 
+The naacl.org website is maintained by the current NAACL Secretary.
+
 This website was designed and developed by "Anoop Sarkar":http://www.cs.sfu.ca/~anoop (Secretary of the NAACL board from 2009-2011 and 2011-2013) in 2012.
 
 Thanks to the students from the "SFU Natural Language Lab":http://natlang.cs.sfu.ca for helping to port information from the older hand-written HTML site to the new on, especially thanks to Marzieh Razavi, Max Whitney, Majid Razmara, Ann Clifton and Ravikiran Vadlapudi.
