@@ -22,12 +22,7 @@ Links under Navigation side bar
 -------------------------------
 
 1. The basic layout of the site is defined in _layouts/default.html
-2. The Navigation side bar is generated using the following code in default.html:
-              <li class="nav-header">Navigation</li>
-              {% assign pages_list = site.pages %}
-              {% assign group = 'navigation' %}
-              {% include pages_list %}
-3. All pages which have 'group: "navigation"' included in their header information (see, e.g., about/index.textile) are automatically included in the above Navigation links for the website.
+2. Add new links to the menu bar by editing the section in the above file called <ul class="nav navbar-nav">
 
 Adding a new set of Officers
 ----------------------------
