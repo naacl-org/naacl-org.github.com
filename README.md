@@ -17,6 +17,7 @@ Adding Posts
 
 1. Adding a new file in the _posts directory adds a new post after you git add the file and git commit and push it to github.com
 2. The file can be in textile or markdown or simply html format. You must add the header information (just copy and edit the header from another post).
+3. Run ./new.rb "Title of post" to create a new post
 
 Links under Navigation side bar
 -------------------------------
