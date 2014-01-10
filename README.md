@@ -17,10 +17,10 @@ Adding Posts
 
 1. Adding a new file in the _posts directory adds a new post after you git add the file and git commit and push it to github.com
 2. The file can be in textile or markdown or simply html format. You must add the header information (just copy and edit the header from another post).
-3. Run ./new.rb "Title of post" to create a new post
+3. Run ./new.rb "Title of post" to create a new post in the _posts directory. It creates a file with the current date.
 
-Links under Navigation side bar
--------------------------------
+Links under Navigation bar
+--------------------------
 
 1. The basic layout of the site is defined in _layouts/default.html
 2. Add new links to the menu bar by editing the section in the above file called <ul class="nav navbar-nav">
@@ -29,10 +29,8 @@ Adding a new set of Officers
 ----------------------------
 
 1. Copy the previous years officers file to the new year, e.g. copy officers-2012.textile to officers-2013.textile
-2. Edit the previous year file to remove the line 'group: "navigation"', e.g. remove this line from officers-2012.textile
-3. Keep the line 'group: "navigation"' in the new file, e.g. keep this line in officers-2013.textile
-4. The list of previous years for all the officers is stored in the file _includes/officers_year_list -- Change this file to add the new year.
-5. If the number of years grows too large, edit the file _includes/officers_year_list to add a limit: change '{% for year in (2000..2012) %}' to '{% for year in (2000..2012) limit:5 %}'
+2. The list of previous years for all the officers is stored in the file _includes/officers_year_list -- Change this file to add the new year.
+3. If the number of years grows too large, edit the file _includes/officers_year_list to add a limit: change '{% for year in (2000..2012) %}' to '{% for year in (2000..2012) limit:5 %}'
 
 Adding new minutes for board meetings 
 -------------------------------------
