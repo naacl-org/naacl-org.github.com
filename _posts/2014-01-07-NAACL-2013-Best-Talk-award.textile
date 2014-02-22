@@ -21,7 +21,3 @@ We selected the winner by distributing the video recordings of the 4 nominated t
 The goal of the award is to recognize NAACL presenters to put together excellent talks and to promote good scientific communication within our community.  Sebastian’s talk describes an extremely exciting research agenda, and he managed to convey his research in a way that engages the audience and sparks their intellectual curiosity.  
 
 Congratulations to Sebastian and to all of the Best Talk Award nominees!
-
-Best Regards,
-Chris Callison-Burch
-NAACL Chairman 
