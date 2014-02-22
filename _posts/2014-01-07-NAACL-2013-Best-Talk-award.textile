@@ -6,7 +6,7 @@ root: ../../
 
 At the NAACL 2013 conference in Atlanta we recorded all of the main session oral presentations and the tutorials.  You can watch the videos online at <a href="http://techtalks.tv/naacl/2013/">techtalks.tv/naacl/</a> or by following the links in the <a href="http://aclweb.org/anthology/N/N13/">NAACL 2013 page in the ACL anthology</a>.
 
-The NAACL Board has decided to use the videos to create a Best Talk award.  We nominated the 4 talks got the most votes in the <a href="2013/post-conference-survey.pdf">NAACL 2013 post-conference survey</a>.  The survey was sent out to conference attendees immediately after the conference, and it included the question "What was your favorite <b>talk</b> at the conference?".  173 people responded to the survey (25% of all conference goers).  
+The NAACL Board decided to use the videos to create a Best Talk award.  We nominated the 4 talks got the most votes in the <a href="2013/post-conference-survey.pdf">NAACL 2013 post-conference survey</a>.  The survey was sent out to conference attendees immediately after the conference, and it included the question "What was your favorite <b>talk</b> at the conference?".  173 people responded to the survey (25% of all conference goers).  
 
 The nominees were:
 <ul>
