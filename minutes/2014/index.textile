@@ -1,0 +1,24 @@
+---
+layout: default
+title: "Minutes for 2014"
+root: ../../
+---
+
+h2. Minutes from NAACL Board Meeting
+
+* Date: ...
+* Location: ACL/NAACL-HLT 2014 in Baltimore, MD, USA
+
+h3. Attendance
+
+* ...
+
+<hr />
+
+h2. Decisions made over email
+
+h3. March 4, 2014
+
+The NAACL board unanimously voted to approve the addition of implementation guidelines to the "Anti-Harassment Policy":../../policies/anti-harassment.html
+
+
