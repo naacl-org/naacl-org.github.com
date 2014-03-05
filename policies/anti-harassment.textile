@@ -22,5 +22,5 @@ h3. Implementation
 
 * In the complaint is deemed serious enough, or if there are repeated purposed offenses by the same individual, the situation should be dealt with on a case-by-case basis, taking care to ensure that the accused offender can defend himself or herself.
 
-* The victim should always be told what the outcome of their complaint is.
+* The complainant should always be told what the outcome of their complaint is.
 
