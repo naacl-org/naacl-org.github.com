@@ -1,2 +1,3 @@
 baseurl: http://naacl-org.github.com
 permalink: posts/:year-:month-:day-:title
+markdown: kramdown
