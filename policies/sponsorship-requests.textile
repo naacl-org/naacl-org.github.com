@@ -1,0 +1,41 @@
+---
+layout: default
+title: NAACL Policy on Sponsorship or Endorsement Requests
+root: ../
+---
+
+h3. Procedure for acceptance
+
+# Outside organization asks for endorsement for some event, and includes 
+  #* description of activity, event, organization, etc. 
+  #* statement of level of endorsement requested 
+  #* description of the use of funding (if any requested) 
+# NAACL Board discusses whether the event is appropriate for NAACL endorsement 
+# NAACL Chair calls for a vote
+# If the request is approved, we decide on the level/type to offer 
+
+h3. Criteria for endorsement
+
+* Consonant with the goals of NAACL 
+* Requester appears to be professionally/competently run 
+* If sponsorship is requested, use of funds will be adequately monitored and reported 
+
+
+h3. Levels/types of endorsement
+
+* Without sponsorship: 
+  *# we provide to the endorsed party the language they should use saying that we endorse them; 
+     specifically, they may include on their materials the phrase "endorsed by NAACL" and the 
+     NAACL logo
+  *# we list the event/resource/activity/organization on our website, and optionally post a notice on social media
+  *# we may include a flier or other materials in our conference materials 
+  *# we may send appropriate information to our members 
+* With sponsorship: 
+  *# all the above, plus 
+  *# we provide some amount of money to the endorsed party 
+
+h3. Endorsement language 
+
+NAACL is an organization devoted to furthering the study and practice of computational linguistics in North America.  It is a chapter of the international "Association of Computational Linguistics (ACL)":http://www.aclweb.org.  
+
+Members of NAACL include researchers, university organization, and private and public sector organizations.  These members approach computational linguistics with different interests, concerns, and levels of participation.  Often these interests are complementary.  Sometimes they may compete.  For this reason, NAACL endorses initiatives and activities that enable its members to work together to solve common problems, discuss questions of mutual interest, and become engaged in the world of computational linguistics research and practice.  NAACL does not itself take a position on these external activities or initiatives beyond broadly supporting research and development work in its field.
