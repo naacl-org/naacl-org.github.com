@@ -17,8 +17,24 @@ h3. Attendance
 
 h2. Decisions made over email
 
+h3. February 16, 2014
+
+The NAACL chair approved the "technical sponsorship" of the IEEE SLT-2014 Workshop (with no monetary sponsorship).
+
 h3. March 4, 2014
 
 The NAACL board unanimously voted to approve the addition of implementation guidelines to the "Anti-Harassment Policy":../../policies/anti-harassment.html
 
+h3. March 28, 2014
 
+The NAACL board selected the Denver Sheraton as the venue for NAACL 2015 and either San Diego Starwood hotel for NAACL 2016, in order to co-locate with ICML in 2016 and to enable better negotiating power by going with Starwood for both years.
+
+h3. April 29, 2014
+
+The NAACL board unanimously voted to approve the "Policy on Sponsorship or Endorsement Requests":../../policies/sponsorship-requests.html
+
+The NAACL board unanimously voted to endorse the "All Children Reading Enabling Writers Challenge":http://allchildrenreading.org/challenge/
+
+h3. May 4, 2014
+
+Rada Mihalcea agreed to serve as general chair for NAACL 2015 with Joyce Chai and Anoop Sarkar as program co-chairs.
