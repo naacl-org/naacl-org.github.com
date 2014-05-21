@@ -10,8 +10,6 @@ Harassment and hostile behavior are unwelcome at any NAACL conference. This incl
 
 If you are a victim of harassment or hostile behavior at a NAACL conference, or otherwise witness harassment or hostile behavior, please contact any current member of the "NAACL Board":http://naacl.org/officers/index.html or contact Priscilla Rasmussen, who is usually available at the registration desk of the conference. Please be assured that if you approach us, your concerns will be kept in strict confidence, and we will consult with you on the actions taken by the Board.
 
-bq. This policy is a heavily modified version of the "SIGPLAN Conference Anti-Harassment Policy":http://www.sigplan.org/Resources/Policies/Anti-harassment
-
 h3. Implementation
 
 * This policy should be posted prominently on all conference and workshop webpages. The board ensures compliance.
@@ -23,4 +21,6 @@ h3. Implementation
 * In the complaint is deemed serious enough, or if there are repeated offenses by the same individual, the situation should be dealt with on a case-by-case basis, taking care to ensure that the accused offender can defend himself or herself.
 
 * The complainant should always be told what the outcome of their complaint is.
+
+bq. This policy is a heavily modified version of the "SIGPLAN Conference Anti-Harassment Policy":http://www.sigplan.org/Resources/Policies/Anti-harassment
 
