@@ -28,7 +28,7 @@ h3. Reinstating two-year terms for pubs chairs: Hal for Rada
 
 h3. Treasurer's Report: Joel
 
-* "Treasurer report":NAACL_Treasurer_Report_2014.pdf
+* Joel led discussion of "his report":NAACL_Treasurer_Report_2014.pdf
 * The board agreed to the treasurer's recommendation to continue funding the LSA Summer Institute and NACLO at $5k each and the Emerging Regions fund at up to $3k.
 * Graeme reported that it was not yet clear whether the ACL/NAACL-HLT conference would make a profit (despite record attendance) as many costs scale linearly with additional attendees and larger venues are generally more expensive.
 * Chris reported that the JHU summer workshops are unlikely to continue (for personnel reasons) and thus NAACL need not plan on supporting them going forward.
@@ -39,8 +39,8 @@ h3. Treasurer's Report: Joel
 h3. Overview of ACL 2014 reports: Hal
 
 * Conference chairs' reports:
-** http://69.195.124.161/~aclwebor/adminwiki/index.php?title=2014Q3_Reports:_General_Chair
-** http://69.195.124.161/~aclwebor/adminwiki/index.php?title=2014Q3_Reports:_Program_Chairs
+** "ACL General Chair":http://69.195.124.161/~aclwebor/adminwiki/index.php?title=2014Q3_Reports:_General_Chair
+** "ACL Program Chairs":http://69.195.124.161/~aclwebor/adminwiki/index.php?title=2014Q3_Reports:_Program_Chairs
 * Hal led discussion of tracking reviewer quality info on START; no special role for NAACL envisioned at present.
 * Anoop plans to discuss incorporating Mark Dredze's reviewer load balancing tool into START with Rich Gerber.
 * The board agreed that supplementary materials submitted with conference papers should be anonymized, contra the ACL decision, but that it would be better for NAACL and ACL to be in agreement on this policy.
@@ -58,7 +58,7 @@ h3. Pre-publication policies: Hal for ACL
 
 h3. Social media policy: Mike
 
-* Mike led discussion of whether NAACL should consider adopting a social media policy to discourage unprofessional online behavior, e.g. in live tweeting about the conference.
+* Mike led discussion of whether NAACL should consider adopting a social media policy, e.g. to discourage unprofessional behavior in live tweeting about the conference.
 * The board agreed that there does not yet appear to be a compelling need for a social media policy per se, though social media should be covered by other policies.
 * Increased use of social media was also discussed, with the board agreeing to make announcements regularly on Twitter as well as the website, and with the use of social media during conferences left up to the organizers.
 
@@ -82,13 +82,11 @@ bq. Elections shall be conducted annually as follows: the Nominating Committee s
 * Hal noted that the nominating committee has begun its work and that he recommends the committee suggest no more than two nominees per position.
 
 * Outgoing members:
-
 ** Katrin Erk (Board Member)
 ** Julia Hirschberg (Board Member)
 ** Joel Tetreault (Treasurer)
 
 * Nominating Committee for 2014 elections:
-
 ** David Chiang 
 ** Mona Diab
 ** Dan Gildea
