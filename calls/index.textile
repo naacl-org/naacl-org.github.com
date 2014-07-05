@@ -6,6 +6,6 @@ root: ../
 ---
 
 table(table).
-| "NAACL Summer School at Johns Hopkins University":summerschool/index.html |
 | "NAACL Emerging Regions Funding":emerging_regions/index.html |
+| "NAACL Summer School at Johns Hopkins University":summerschool/index.html |
 

@@ -4,7 +4,7 @@ title: "NAACL Emerging Regions Funding"
 root: ../../
 ---
 
-At their June 2010 meeting, the NAACL Executive Board decided to merge two small funds programs created in 2009 (the Latin American Fund and the Regional Conferences Fund) to form the Emerging Regions Fund. This newly created fund is intended to assist the creation of a larger and more cohesive Computational Linguistics community in Latin America, and to enhance more regional interactions among students and researchers anywhere in the Americas. 
+At their June 2010 meeting, the NAACL Executive Board decided to merge two small funds programs created in 2009 (the Latin American Fund and the Regional Conferences Fund) to form the Emerging Regions Fund. This fund is intended to assist the creation of a larger and more cohesive Computational Linguistics community in Latin America, and to enhance more regional interactions among students and researchers anywhere in the Americas. 
 
 There will be two deadlines for proposals in the coming year, and approximately half of the funds will be awarded after each deadline. NAACL recognizes that each region has specific needs and concerns, and so we are open to a wide range of possible proposals, subject to the constraint that these awards are intended to support individuals, institutions, or events located in the Americas, and to support travel within the Americas. NAACL will not support travel to or from locations outside of the Americas, and in general travel should be limited to a specific region in the Americas. 
 
@@ -18,7 +18,7 @@ h3. Call for Proposals
 
 <p>
 <ul>
-    {% for year in (2013..2013) reversed %}
+    {% for year in (2013..2014) reversed %}
     <li><a href="{{ site.baseurl }}/calls/emerging_regions/{{ year }}/index.html">{{ year }} Emerging Regions CFP</a></li>
     {% endfor %}
 </ul>
@@ -27,7 +27,7 @@ h3. Call for Proposals
 
 h2. Fondo para Regiones Emergentes de la NAACL[1]
 
-En la junta de Junio 2010, la mesa directiva de la NAACL decidió combinar dos programas de pequeños fondos creados en 2009 (el Fondo Latinoamericano y el Fondo de Conferencias Regionales) para formar el Fondo para Regiones Emergentes. Este nuevo fondo tiene la intención de apoyar la creación de una comunidad de computación lingüística cohesiva en Latinoamérica, y fomentar más interacciones regionales entre estudiantes e investigadores en cualquier región de América.
+En la junta de Junio 2010, la mesa directiva de la NAACL decidió combinar dos programas de pequeños fondos creados en 2009 (el Fondo Latinoamericano y el Fondo de Conferencias Regionales) para formar el Fondo para Regiones Emergentes. Este fondo tiene la intención de apoyar la creación de una comunidad de computación lingüística cohesiva en Latinoamérica, y fomentar más interacciones regionales entre estudiantes e investigadores en cualquier región de América.
 
 Habrá dos fechas límite para recibir propuestas en el próximo año, y aproximadamente la mitad de los fondos será alocado en cada ciclo. La NAACL reconoce que cada región tiene necesidades específicas, así que estamos abiertos a una gran diversidad de posibles propuestas, sujetas a las restricciones de que los fondos tienen el propósito de apoyar individuos, instituciones, o eventos localizados en América, y apoyar viajes dentro del continente Americano. La NAACL no apoyará viajes hacia o desde lugares fuera del continente Americano, y en general, los viajes deberán ser restringidos a una región específica de América.
 
@@ -50,7 +50,7 @@ h3. Convocatoria de Propuestas
 
 h2. Fundo da NAACL para Regiões Emergentes[2]
 
-Em seu encontro em Junho de 2010, o conselho executivo da NAACL decidiu unir dois programas pequenos de financiamento criados em 2009 (o Fundo Latino-americano e o Fundo para Conferências Regionais) para formar o Fundo para Regiões Emergentes. Esse fundo recém-criado destina-se a apoiar a criação de uma comunidade de Linguística Computacional maior e mais coesa na América Latina e a aumentar as interações regionais entre estudantes e pesquisadores das Américas.
+Em seu encontro em Junho de 2010, o conselho executivo da NAACL decidiu unir dois programas pequenos de financiamento criados em 2009 (o Fundo Latino-americano e o Fundo para Conferências Regionais) para formar o Fundo para Regiões Emergentes. Esse fundo destina-se a apoiar a criação de uma comunidade de Linguística Computacional maior e mais coesa na América Latina e a aumentar as interações regionais entre estudantes e pesquisadores das Américas.
 
 Haverá dois prazos para submissões de propostas no próximo ano e aproximadamente metade dos fundos será distribuída após cada prazo. A NAACL reconhece que cada região tem suas necessidades e preocupações específicas. Portanto, estamos abertos a uma grande variedade de propostas possíveis, sujeitas a restrição de que esse fundo destina-se a apoiar indivíduos, instituições ou eventos localizados nas Américas, assim como viagens nas Américas. A NAACL não apoiará viagens envolvendo regiões fora das Américas e, em geral, as viagens devem ser limitadas a regiões específicas das Américas.
 
