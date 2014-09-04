@@ -12,20 +12,6 @@ Time for additional nominations has passed.  If you are a NAACL member this year
 
 The last date to vote is December 15, 2014. The names below and on the ballot appear in a (fixed) random order.
 
-<!--
-h2. Treasurer (one opening):
-
-h3(#tetreault). "Joel Tetreault":http://www.cs.rochester.edu/~tetreaul/
-
-h4. Bio
-
-[TBD]
-
-h4. Candidacy Statement
-
-[TBD]
--->
-
 h2. Board Member nominees (two openings):
 
 h3(#xia). "Fei Xia":https://faculty.washington.edu/fxia/
