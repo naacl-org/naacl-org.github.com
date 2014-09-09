@@ -12,6 +12,20 @@ Time for additional nominations has passed.  If you are a NAACL member this year
 
 The last date to vote is December 15, 2014. The names below and on the ballot appear in a (fixed) random order.
 
+h2. Treasurer (one opening):
+
+h3(#tetreault). "Joel Tetreault":http://www.cs.rochester.edu/~tetreaul/
+
+h4. Bio
+
+Joel Tetreault is a Senior Research Scientist at Yahoo Labs in NYC.  Previously he was Senior Principal Manager at Nuance Communications and Senior Managing Research Scientist at Educational Testing Service.  His research interests include discourse processing, grammatical error detection, automated essay scoring, and dialogue systems. He received his PhD at the University of Rochester and was a postdoctoral researcher at the University of Pittsburgh before joining ETS. He is the current NAACL Treasurer, served as Area Chair for NAACL 2010, Session Chairs for NAACL/ACL 2010-2013, Exhibits Chair for NAACL 2012, co-organizes the Building Educational Applications workshop since 2008, and maintains the "primary conference calendar":http://www.cs.rochester.edu/~tetreaul/conferences.html for our community" (since 2004).
+
+h4. Candidacy Statement
+
+The NAACL Treasurer monitors and reports on the finances of the organization, provides feedback to the NAACL board on which practices have been successful and how best to use our budget for the future.  Over the last two years as NAACL Treasurer, my primary focus was to rebuild our bank account.  A healthy bank account is important for two reasons.  First, it allows us to fund important computational linguistics activities such as North American Computational Linguistics Olympiad (NACLO) and NLP conferences in emerging regions such as Central and South America.  Activities such as these are likely to have a long-term effect on the growth of our field.  Second, it allows us to better absorb any potential losses from a future NAACL conference.  I worked with the rest of the NAACL board, Priscilla Rasmussen, and the previous treasurer, Chris Manning, to implement a sound strategy to rebuild our bank account.  While our state of affairs has improved, there is still much work still to be done.  If elected, I want to 1) continue with a conservative plan for our spending, 2) be aggressive and creative about seeking sponsorship and 3) minimize the risk of a conference operating at a loss.
+
+For more information on NAACL financials, please see the "2014 Treasurer's report":http://naacl.org/minutes/2014/NAACL_Treasurer_Report_2014.pdf.
+
 h2. Board Member nominees (two openings):
 
 h3(#xia). "Fei Xia":https://faculty.washington.edu/fxia/
