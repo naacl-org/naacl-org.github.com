@@ -18,7 +18,7 @@ h3(#tetreault). "Joel Tetreault":http://www.cs.rochester.edu/~tetreaul/
 
 h4. Bio
 
-Joel Tetreault is a Senior Research Scientist at Yahoo Labs in NYC.  Previously he was Senior Principal Manager at Nuance Communications and Senior Managing Research Scientist at Educational Testing Service.  His research interests include discourse processing, grammatical error detection, automated essay scoring, and dialogue systems. He received his PhD at the University of Rochester and was a postdoctoral researcher at the University of Pittsburgh before joining ETS. He is the current NAACL Treasurer, served as Area Chair for NAACL 2010, Session Chairs for NAACL/ACL 2010-2013, Exhibits Chair for NAACL 2012, co-organizes the Building Educational Applications workshop since 2008, and maintains the "primary conference calendar":http://www.cs.rochester.edu/~tetreaul/conferences.html for our community" (since 2004).
+Joel Tetreault is a Senior Research Scientist at Yahoo Labs in NYC.  Previously he was Senior Principal Manager at Nuance Communications and Senior Managing Research Scientist at Educational Testing Service.  His research interests include discourse processing, grammatical error detection, automated essay scoring, and dialogue systems. He received his PhD at the University of Rochester and was a postdoctoral researcher at the University of Pittsburgh before joining ETS. He is the current NAACL Treasurer, served as Area Chair for NAACL 2010, Session Chairs for NAACL/ACL 2010-2013, Exhibits Chair for NAACL 2012, co-organizes the Building Educational Applications workshop since 2008, and maintains the "primary conference calendar":http://www.cs.rochester.edu/~tetreaul/conferences.html for our community (since 2004).
 
 h4. Candidacy Statement
 
