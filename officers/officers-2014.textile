@@ -11,7 +11,7 @@ h2. Officers
 table(table).
 | Chair | Hal Daumé III | University of Maryland | 2014-2015 |
 | Secretary | Michael White | The Ohio State University | 2014-2015 |
-| Treasurer | Joel Tetreault | Nuance Communications | 2013-2014 |
+| Treasurer | Joel Tetreault | Yahoo Labs | 2013-2014 |
 | Past Chair | Chris-Callison Burch | University of Pennsylvania | 2012-2013 |
 
 h2. Executive Board
@@ -60,13 +60,13 @@ h4. Candidacy Statement
 
 One of the main duties of the NAACL secretary is to maintain NAACL's web presence.  The last time NAACL elected a new secretary, the candidate stated that he intended to update the naacl.org website not only to look better, but also to be more functional.  With Anoop Sarkar having largely accomplished this mission, I thought it might be safe to run for secretary on the platform of simply trying not to make a hash of his good work, and perhaps even trying to further his goal of archiving useful information about the NAACL conferences, such as videos of tutorials.  However, I am told that the secretary is also likely be the point person on any new social media outreach NAACL might undertake.  As such, I thought I should also promise to work with the NAACL board to develop and implement policies for any proposed increase in the use of social media, with the goal of raising NAACL's visibility while avoiding embarrassing gaffes.  For example, social media might be used to highlight mentions of computational linguistics in the popular press.  Finally, as a board member, I would be particularly keen to support outreach efforts for students, including continued support for the NACLO competition, as well as efforts to encourage interchanges and collaborations with linguists and cognitive scientists.
 
-h2. Treasurer (2013-2014) | "Joel Tetreault":http://www.cs.rochester.edu/~tetreaul/ | Nuance Communications
+h2. Treasurer (2013-2014) | "Joel Tetreault":http://www.cs.rochester.edu/~tetreaul/ | Yahoo Labs
 
 !>{height:150px}http://farm4.staticflickr.com/3492/3939838335_b908dbea4b_z.jpg(Joel Tetreault)!
 
 h4. Bio
 
-Joel Tetreault just started a new position at Nuance Communications as a Senior Principal Manager of Core NL in their Silicon Valley Research Lab.  Previously he was a Senior Managing Research Scientist at Educational Testing Service.  His research interests include discourse processing, grammatical error detection, automated essay scoring, anaphora, and dialogue systems.  He received his PhD at the University of Rochester and was a postdoctoral researcher at the University of Pittsburgh before joining ETS. He has co-organized the Building Educational Applications workshop since 2008, served as an Area Chair for NAACL 2010, Session Chairs for NAACL 2010 and 2011, and Exhibits Chair for NAACL 2012.
+Joel Tetreault is a Senior Research Scientist at Yahoo Labs in NYC.  Previously he was Senior Principal Manager at Nuance Communications and Senior Managing Research Scientist at Educational Testing Service.  His research interests include discourse processing, grammatical error detection, automated essay scoring, anaphora, and dialogue systems.  He received his PhD at the University of Rochester and was a postdoctoral researcher at the University of Pittsburgh before joining ETS. He has co-organized the Building Educational Applications workshop since 2008, served as an Area Chair for NAACL 2010, Session Chairs for NAACL 2010 and 2011, and Exhibits Chair for NAACL 2012.
 
 h4. Candidacy Statement
 
