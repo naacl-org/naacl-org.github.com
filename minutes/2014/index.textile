@@ -99,6 +99,20 @@ bq. Elections shall be conducted annually as follows: the Nominating Committee s
 
 h2. Decisions made over email
 
+h3. September, 16, 2014
+
+Emily Bender and Katrin Erk reported on the Emerging Regions Fund decisions as follows.
+
+We received six applications to the Emerging Regions Fund call and chose to fund two at (up to $1500) each:
+
+* NLP Hackathon in Mexico, $1500 to support the travel of 10 participants http://golem.iimas.unam.mx/hackatonpln
+
+* $1500 to support student participation at PROPOR in Brazil
+
+In approving $3k we have maxed out this fund for this year, and won't be issuing another call until next time around (next summer, if approved).
+
+Two of the other proposals were from individual students to support their own travel to conferences at which they had papers accepted.  We determined that such individual support was not within the remit of the program.
+
 h3. May 20, 2014
 
 The NAACL board unanimously voted to approve funding of $5000 for NACLO in 2014 as in previous years.
