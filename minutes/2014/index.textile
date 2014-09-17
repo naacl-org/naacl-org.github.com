@@ -105,7 +105,7 @@ Emily Bender and Katrin Erk reported on the Emerging Regions Fund decisions as f
 
 We received six applications to the Emerging Regions Fund call and chose to fund two at (up to $1500) each:
 
-* NLP Hackathon in Mexico, $1500 to support the travel of 10 participants http://golem.iimas.unam.mx/hackatonpln
+* "NLP Hackathon":http://golem.iimas.unam.mx/hackatonpln in Mexico, $1500 to support the travel of 10 participants 
 
 * $1500 to support student participation at PROPOR in Brazil
 
