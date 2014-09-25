@@ -6,20 +6,20 @@ root: ../
 
 h3. Procedure for acceptance
 
-# Outside organization asks for endorsement for some event, and includes 
-  #* description of activity, event, organization, etc. 
-  #* statement of level of endorsement requested 
-  #* description of the use of funding (if any requested) 
-# NAACL Board discusses whether the event is appropriate for NAACL endorsement 
-# NAACL Chair calls for a vote
-# If the request is approved, we decide on the level/type to offer 
+# Outside organizations asking for endorsement for an event should include:
+  #* a description of the activity, event, organization, etc. 
+  #* a statement of level of endorsement requested
+  #* a description of the use of funding (if any requested) 
+# On receipt of such requests, the NAACL Board will discuss whether the event is appropriate for NAACL endorsement
+# After the discussion, the NAACL Chair calls for a vote
+# If the request is approved, we decide on the level/type to offer
 
 h3. Criteria for endorsement
 
-* Consonant with the goals of NAACL 
-* Requester appears to be professionally/competently run 
+* It is an open scientific conference or event related to computational linguistics
+* The event appears to be competently organized 
+* ACL membership materials are distributed at the event
 * If sponsorship is requested, use of funds will be adequately monitored and reported 
-
 
 h3. Levels/types of endorsement
 
@@ -33,6 +33,8 @@ h3. Levels/types of endorsement
 * With sponsorship: 
   *# all the above, plus 
   *# we provide some amount of money to the endorsed party 
+
+In either case, there is no implication that ACL will host proceedings in the ACL Anthology, though the board will entertain an additional request to recommend inclusion of the proceedings to the Anthology Editor.  This request should indicate how the submissions will be reviewed and selected for inclusion in the proceedings.
 
 h3. Endorsement language 
 

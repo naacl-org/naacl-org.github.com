@@ -99,6 +99,10 @@ bq. Elections shall be conducted annually as follows: the Nominating Committee s
 
 h2. Decisions made over email
 
+h3. September 24, 2014
+
+The NAACL board unanimously voted to amend the "Policy on Sponsorship or Endorsement Requests":../../policies/sponsorship-requests.html to bring it more in line with a "related ACL resolution":http://aclweb.org/adminwiki/index.php?title=ACL_Resolutions#November_13.2C_2009.
+
 h3. September, 16, 2014
 
 Emily Bender and Katrin Erk reported on the Emerging Regions Fund decisions as follows.
