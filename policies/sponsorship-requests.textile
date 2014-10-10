@@ -34,10 +34,10 @@ h3. Levels/types of endorsement
   *# all the above, plus 
   *# we provide some amount of money to the endorsed party 
 
-In either case, there is no implication that ACL will host proceedings in the ACL Anthology, though the board will entertain an additional request to recommend inclusion of the proceedings to the Anthology Editor.  This request should indicate how the submissions will be reviewed and selected for inclusion in the proceedings.
+In either case, there is no implication that ACL will host proceedings in the ACL Anthology.  However, for endorsed events, the board will forward an additional request to include the proceedings in the ACL Anthology to the Anthology Editor.  This request should indicate how the submissions will be reviewed and selected for inclusion in the proceedings.
 
 h3. Endorsement language 
 
-NAACL is an organization devoted to furthering the study and practice of computational linguistics in North America.  It is a chapter of the international "Association of Computational Linguistics (ACL)":http://www.aclweb.org.  
+NAACL is an organization devoted to furthering the study and practice of computational linguistics in the Americas.  It is a chapter of the international "Association of Computational Linguistics (ACL)":http://www.aclweb.org.  
 
 Members of NAACL include researchers, university organization, and private and public sector organizations.  These members approach computational linguistics with different interests, concerns, and levels of participation.  Often these interests are complementary.  Sometimes they may compete.  For this reason, NAACL endorses initiatives and activities that enable its members to work together to solve common problems, discuss questions of mutual interest, and become engaged in the world of computational linguistics research and practice.  NAACL does not itself take a position on these external activities or initiatives beyond broadly supporting research and development work in its field.
