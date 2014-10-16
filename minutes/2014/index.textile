@@ -99,6 +99,10 @@ bq. Elections shall be conducted annually as follows: the Nominating Committee s
 
 h2. Decisions made over email
 
+h3. October 10, 2014
+
+The NAACL board unanimously voted to endorse a "Workshop on Natural Language Processing":http://jisic.epn.edu.ec/index.php/cronograma/workshop-pnl to be held on October 21, 2014, as part of the 5th Information Systems Research Working Days (JISIC 2014), hosted by the Department of Informatics and Computer Science of the National Polytechnic School of Ecuador.
+
 h3. September 24, 2014
 
 The NAACL board unanimously voted to amend the "Policy on Sponsorship or Endorsement Requests":../../policies/sponsorship-requests.html to bring it more in line with a "related ACL resolution":http://aclweb.org/adminwiki/index.php?title=ACL_Resolutions#November_13.2C_2009.
