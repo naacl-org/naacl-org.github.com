@@ -7,14 +7,15 @@ root: ../../
 The Nominating Committee for the North American Chapter of the Association for Computational Linguistics (NAACL) has chosen the following candidates for the open positions on the NAACL board with two year terms beginning January 2015. Additional nominations can be made until October 31, 2014.
 
 <!--
-Time for additional nominations has passed.  If you are a NAACL member this year, you will be emailed a PIN which you will need in order to submit your vote at the following election website: "http://naacl-election.cs.sfu.ca/2014":http://naacl-election.cs.sfu.ca/2014
+Time for additional nominations has passed.  If you are a NAACL member this year, you will be emailed a PIN which you will need in order to submit your vote at the following election website: "http://www.ling.ohio-state.edu/naacl2015":http://www.ling.ohio-state.edu/naacl2015
 -->
 
 The last date to vote is December 15, 2014. The names below and on the ballot appear in a (fixed) random order.
 
 h2. Treasurer (one opening):
 
-h3(#tetreault). "Joel Tetreault":http://www.cs.rochester.edu/~tetreaul/
+<a name="tetreault"></a>
+h3. "Joel Tetreault":http://www.cs.rochester.edu/~tetreaul/
 
 h4. Bio
 
@@ -28,7 +29,8 @@ For more information on NAACL financials, please see the "2014 Treasurer's repor
 
 h2. Board Member nominees (two openings):
 
-h3(#xia). "Fei Xia":https://faculty.washington.edu/fxia/
+<a name="xia"></a>
+h3. "Fei Xia":https://faculty.washington.edu/fxia/
 
 h4. Bio
 
@@ -42,7 +44,8 @@ Another area that I feel passionate about is to promote more collaboration betwe
 
 Besides general linguistics, there are many other disciplines that would benefit from NLP, such as sociolinguistics, psycholinguistics, social sciences, bioinformatics, and even business schools. For instance, recently there have many studies on using NLP techniques to analyze political blogs, hospital notes, or business reports. There are many ways that NAACL can promote interdisciplinary studies; for instance, we can add a new research area on interdisciplinary studies for NAACL paper submission; we can also work with funding agencies and industry to seek their support in funding such research.
 
-h3(#may). "Jonathan May":http://www.isi.edu/~jonmay/
+<a name="may"></a>
+h3. "Jonathan May":http://www.isi.edu/~jonmay/
 
 h4. Bio
 
@@ -52,7 +55,8 @@ h4. Candidacy Statement
 
 One of the perennial highlights of my summer is attending NAACL-HLT to learn about the state of the art in Computational Linguistics, catch up with old friends, and replenish my pen supply. We belong to a fantastic, vibrant scientific community and as a board member I will work to preserve our high standards of excellence (particularly the pens).  Two areas in which we could improve are (1) to broaden visibility to our future membership and (2) to focus our message to the world at large. For the former, I propose offering free conference registration to a handful of local high school students who have demonstrated active interest in our field. These could be identified via coordination with the annual Computational Linguistics Olympiad (NACLO) and/or the Intel International Science and Engineering Fair (ISEF).  For the latter, I propose active press engagement at our conferences via targeted releases to local media outlets and invitations to guided tours of poster/demo sessions.  This will encourage regular, widely disseminated coverage of the latest advances in CL from a scientific perspective.
 
-h3(#post). "Matt Post":http://cs.jhu.edu/~post/
+<a name="post"></a>
+h3. "Matt Post":http://cs.jhu.edu/~post/
 
 h4. Bio
 
@@ -66,7 +70,8 @@ Reproducibility is the cornerstone of good science, and yet it receives far less
 
 A point of distinction for our research community is the extensive body of code used to produce our annual proceedings and conference manuals.  This has been built up over the years and yields useful, high-quality proceedings. While improvements are made each year to this codebase and the conference management system that surrounds it (including the recent unified login system for reviewers), there remains a lot of relearning, trial-and-error, redundant effort, and subsequent frustration on the part of each year’s conference organizers, reviewers, and submitters.  Softconf has been very helpful in this process so far, but there is much more that could be done were someone to give it some time, money, and attention.
 
-h3(#ji). "Heng Ji":http://nlp.cs.rpi.edu/hengji.html
+<a name="ji"></a>
+h3. "Heng Ji":http://nlp.cs.rpi.edu/hengji.html
 
 h4. Bio
 
