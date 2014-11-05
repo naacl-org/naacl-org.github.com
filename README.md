@@ -1,7 +1,7 @@
 naacl-org.github.com
 ====================
 
-new NAACL website using Jekyll on github hosting and layout coded using twitter bootstrap css (v2.1)
+new NAACL website using Jekyll on github hosting and layout coded using twitter bootstrap css (v3.0)
 
 contact Michael White or Anoop Sarkar for details
 
