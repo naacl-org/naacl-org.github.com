@@ -50,9 +50,9 @@ Adding a new Summer School CFP
 Changing index.html
 -------------------
 
-1. The central view of index.html is a div called the "hero" unit or can be an "alert" unit 
-2. To advertise an upcoming conference you can copy and use the NAACL 2013 hero unit in _includes/naacl2013_hero_div
-3. To use the NAACL poster image instead you can copy and use the default alert unit in _includes/default_alert_div
+1. To modify index.html, you can check the version history for similar past edits, as the files in _includes mentioned next are out of date
+2. To advertise an upcoming conference you can have a look at the NAACL 2013 hero unit in _includes/naacl2013_hero_div
+3. To use the NAACL poster image instead you can have a look at the default alert unit in _includes/default_alert_div
 
 Election season
 ---------------
