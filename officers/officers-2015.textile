@@ -134,7 +134,7 @@ A point of distinction for our research community is the extensive body of code 
 
 h2. Board Member (2015-2016) | "Fei Xia":https://faculty.washington.edu/fxia/ | University of Washington
 
-!>{height:150px}https://faculty.washington.edu/fxia/images/photo4.jpg(Fei Xia)!
+!>{height:150px}http://faculty.washington.edu/fxia/bio/photos/jungle.jpg(Fei Xia)!
 
 h4. Bio
 
