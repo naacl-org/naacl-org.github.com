@@ -1,17 +1,17 @@
 ---
 layout: default
-title: "2014 Emerging Regions CFP"
+title: "2015 Emerging Regions CFP"
 root: ../../../
 ---
 
-h3. 2014 NAACL Emerging Regions Fund Call for Proposals
+h3. 2015 NAACL Emerging Regions Fund Call for Proposals
 
 table(table).
-| Deadline | 31 August 2014 (midnight PST) for events to take place between September 2014 and September 2015 |
+| Deadline | 15 April 2015 (midnight PST) for events to take place between September 2015 and September 2016 |
 
 The goal of the NAACL Emerging Regions fund is to assist the creation of a larger and more cohesive Computational Linguistics community in Latin America, and to enhance more regional interactions among students and researchers anywhere in the Americas. 
 
-If you cannot make this deadline, there will another deadline in December for proposals in the coming year, however depending on funds allocated during this deadline we may not be able to fully fund proposals after December so please try to make this first deadline if you can. NAACL recognizes that each region has specific needs and concerns, and so we are open to a wide range of possible proposals, subject to the constraint that these awards are intended to support individuals, institutions, or events located in the Americas, and to support travel within the Americas. NAACL will not support travel to or from locations outside of the Americas, and in general travel should be limited to a specific region in the Americas. 
+If you cannot make this deadline, there will another deadline in December for proposals in the coming year; however, depending on funds allocated during this deadline, we may not be able to fully fund proposals after December, so please try to make this first deadline if possible. NAACL recognizes that each region has specific needs and concerns, and so we are open to a wide range of possible proposals, subject to the constraint that these awards are intended to support individuals, institutions, or events located in the Americas, and to support travel within the Americas. NAACL will not support travel to or from locations outside of the Americas, and in general travel should be limited to a specific region in the Americas. 
 
 Examples of proposals that might help to build community could include financial support for regional conferences or workshops, or providing financial or material support for Natural Language Processing and Computational Linguistics classes at colleges and universities in Latin America. In addition, NAACL has a long tradition of supporting student participation in conferences, summer schools, and NLP/CL competitions, and would give high priority to such efforts in Latin America or at regional events in the Americas. Note that this fund is not intended to support student travel to the NAACL HLT conference, as there is a separate fund available for the purpose. 
 
@@ -22,12 +22,12 @@ If you have any questions about this CFP please send them to naacl-contact __at_
 table(table).
 | "Submit a proposal":https://docs.google.com/forms/d/1g-acakCHmuc0JbK7HVjKVnSkvlOKYBDMKF6qhM_tfp4/viewform |
 
-h3. Convocatoria Para Regiones Emergentes 2014[1]
+h3. Convocatoria Para Regiones Emergentes 2015[1]
 
 Convocatoria a presentación de propuestas del Fondo de Regiones Emergentes de la NAACL
 
 table(table).
-| Fecha límite | Agosto 31, (medianoche Hora Estándar del Pacífico) para eventos que se llevarán a cabo entre Septiembre de 2014 y Septiembre de 2015 |
+| Fecha límite | Abril 15, (medianoche Hora Estándar del Pacífico) para eventos que se llevarán a cabo entre Septiembre de 2015 y Septiembre de 2016 |
 
 El objetivo del fondo para regiones emergentes de la NAACL es apoyar la formación de una comunidad latinoamericana de computación lingüística cohesiva, y fomentar más interacciones regionales entre estudiantes e investigadores en cualquier región de América.
 
@@ -44,9 +44,9 @@ Cualquier pregunta relacionada con esta convocatoria por favor mandarla por corr
 table(table).
 | "Meter propuesta":https://docs.google.com/forms/d/1g-acakCHmuc0JbK7HVjKVnSkvlOKYBDMKF6qhM_tfp4/viewform |
 
-h3. Chamada de Propostas de 2014 para o Fundo da NAACL para Regiões Emergentes[2]
+h3. Chamada de Propostas de 2015 para o Fundo da NAACL para Regiões Emergentes[2]
 
-Prazo de submissão: 31 de Agosto de 2014 para eventos que ocorrerão entre Setembro de 2014 e Setembro de 2015.
+Prazo de submissão: 15 de Abril de 2015 para eventos que ocorrerão entre Setembro de 2015 e Setembro de 2016.
 
 O propósito do Fundo da NAACL para Regiões Emergentes é apoiar a criação de uma comunidade de Linguística Computacional maior e mais coesa na América Latina e o aumento das interações regionais entre estudantes e pesquisadores das Américas.
 
@@ -60,7 +60,6 @@ Se você tem qualquer dúvida sobre esta chamada, por favor encaminhe-a para naa
 
 table(table).
 | "Submeta uma proposta":https://docs.google.com/forms/d/1g-acakCHmuc0JbK7HVjKVnSkvlOKYBDMKF6qhM_tfp4/viewform |
-
 
 fn1. Thanks to Thamar Solorio for the Spanish translation.
 
