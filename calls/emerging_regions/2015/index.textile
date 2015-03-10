@@ -7,7 +7,7 @@ root: ../../../
 h3. 2015 NAACL Emerging Regions Fund Call for Proposals
 
 table(table).
-| Deadline | 15 April 2015 (midnight PST) for events to take place between September 2015 and September 2016 |
+| Deadline | 15 April 2015 (midnight PST) for events to take place between May 2015 and May 2016 |
 
 The goal of the NAACL Emerging Regions fund is to assist the creation of a larger and more cohesive Computational Linguistics community in Latin America, and to enhance more regional interactions among students and researchers anywhere in the Americas. 
 
@@ -20,7 +20,7 @@ Proposals will be evaluated by a committee consisting of members of the NAACL Ex
 If you have any questions about this CFP please send them to naacl-contact __at__ aclweb.org
 
 table(table).
-| "Submit a proposal":https://docs.google.com/forms/d/1g-acakCHmuc0JbK7HVjKVnSkvlOKYBDMKF6qhM_tfp4/viewform |
+| "Submit a proposal":https://docs.google.com/forms/d/1xv813L-SwG7kdmPXOBEyofrGij0mUCymulnAAYg3ZUM/viewform |
 
 h3. Convocatoria Para Regiones Emergentes 2015[1]
 
@@ -42,7 +42,7 @@ Las propuestas serán evaluadas por un comité formado por miembros de la mesa d
 Cualquier pregunta relacionada con esta convocatoria por favor mandarla por correo electrónico a naacl-contact __at__ aclweb.org
 
 table(table).
-| "Meter propuesta":https://docs.google.com/forms/d/1g-acakCHmuc0JbK7HVjKVnSkvlOKYBDMKF6qhM_tfp4/viewform |
+| "Meter propuesta":https://docs.google.com/forms/d/1xv813L-SwG7kdmPXOBEyofrGij0mUCymulnAAYg3ZUM/viewform |
 
 h3. Chamada de Propostas de 2015 para o Fundo da NAACL para Regiões Emergentes[2]
 
@@ -59,7 +59,7 @@ As propostas serão avaliadas por um comitê consistindo de membros do conselho 
 Se você tem qualquer dúvida sobre esta chamada, por favor encaminhe-a para naacl-contact __at__ aclweb.org
 
 table(table).
-| "Submeta uma proposta":https://docs.google.com/forms/d/1g-acakCHmuc0JbK7HVjKVnSkvlOKYBDMKF6qhM_tfp4/viewform |
+| "Submeta uma proposta":https://docs.google.com/forms/d/1xv813L-SwG7kdmPXOBEyofrGij0mUCymulnAAYg3ZUM/viewform |
 
 fn1. Thanks to Thamar Solorio for the Spanish translation.
 

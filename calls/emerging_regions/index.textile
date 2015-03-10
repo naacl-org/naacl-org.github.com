@@ -18,7 +18,7 @@ h3. Call for Proposals
 
 <p>
 <ul>
-    {% for year in (2013..2014) reversed %}
+    {% for year in (2013..2015) reversed %}
     <li><a href="{{ site.baseurl }}/calls/emerging_regions/{{ year }}/index.html">{{ year }} Emerging Regions CFP</a></li>
     {% endfor %}
 </ul>
