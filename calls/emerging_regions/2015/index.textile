@@ -27,7 +27,7 @@ h3. Convocatoria Para Regiones Emergentes 2015[1]
 Convocatoria a presentación de propuestas del Fondo de Regiones Emergentes de la NAACL
 
 table(table).
-| Fecha límite | Abril 15, (medianoche Hora Estándar del Pacífico) para eventos que se llevarán a cabo entre Septiembre de 2015 y Septiembre de 2016 |
+| Fecha límite | Abril 15, 2015 (medianoche Hora Estándar del Pacífico) para eventos que se llevarán a cabo entre Mayo de 2015 y Mayo de 2016 |
 
 El objetivo del fondo para regiones emergentes de la NAACL es apoyar la formación de una comunidad latinoamericana de computación lingüística cohesiva, y fomentar más interacciones regionales entre estudiantes e investigadores en cualquier región de América.
 
@@ -46,7 +46,7 @@ table(table).
 
 h3. Chamada de Propostas de 2015 para o Fundo da NAACL para Regiões Emergentes[2]
 
-Prazo de submissão: 15 de Abril de 2015 para eventos que ocorrerão entre Setembro de 2015 e Setembro de 2016.
+Prazo de submissão: 15 de Abril de 2015 para eventos que ocorrerão entre Maio de 2015 e Maio de 2016.
 
 O propósito do Fundo da NAACL para Regiões Emergentes é apoiar a criação de uma comunidade de Linguística Computacional maior e mais coesa na América Latina e o aumento das interações regionais entre estudantes e pesquisadores das Américas.
 
