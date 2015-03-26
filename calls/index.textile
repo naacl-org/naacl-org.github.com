@@ -7,5 +7,5 @@ root: ../
 
 table(table).
 | "NAACL Emerging Regions Funding":emerging_regions/index.html |
-| "NAACL Summer School at Johns Hopkins University":summerschool/index.html |
+| "NAACL Johns Hopkins University / Jelinek Summer School":summerschool/index.html |
 
