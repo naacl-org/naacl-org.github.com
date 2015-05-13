@@ -1,0 +1,71 @@
+---
+layout: default
+title: "Minutes for 2015"
+root: ../../
+---
+
+h2. Minutes from NAACL Board Meeting
+
+* Date: May 31, 2015
+* Location: NAACL-HLT 2015 in Denver, CO, USA
+
+h3. Attendance
+
+* Emily Bender (Board Member)
+* Chris Callison-Burch (Past Chair)
+* Hal Daumé III (Chair)
+* Graeme Hirst (ACL Representative)
+* Ed Hovy (Board Member)
+* Matt Post (Board Member)
+* Joel Tetreault (Treasurer)
+* Michael White (Secretary)
+* Fei Xia (Board Member)
+
+h3. etc.
+
+* etc.
+
+h3. Treasurer's Report: Joel
+
+* Joel led discussion of etc.
+
+h3. Elections: Mike
+
+* From the NAACL constitution:
+
+bq. Elections shall be conducted annually as follows: the Nominating Committee shall by the first of September preceding the end of a term of office nominate at least one person for each position to be filled, including any necessary new Nominating Committee member. The Secretary shall send to the Chapter Members notice of the nominations by September 15, at the same time requesting additional nominations. Additional nominations, supported by at least three Chapter Members, may be submitted by the fifteenth of October; evidence must be presented that the nominee will serve if elected. If there is more than one nominee for any position, the Secretary shall send ballots for that position to the Members. A majority vote of the ballots received by the fifteenth of December shall determine the results of such contests. Those elected shall take office on the first of January following.
+
+* Hal noted that the nominating committee has begun its work and that he recommends the committee suggest no more than two nominees per position.
+
+* Outgoing members:
+** Emily Bender (Board Member)
+** Ed Hovy (Board Member)
+** Michael White (Secretary)
+
+* Nominating Committee for 2015 elections:
+** Chris Callison-Burch
+** David Chiang 
+** Mona Diab
+** Katrin Erk
+** Dan Gildea (Chair)
+** Julia Hirschberg
+** Rebecca Hwa
+** Anoop Sarkar
+
+<hr />
+
+h2. Decisions made over email
+
+h3. May 12, 2015
+
+Matt Post reported on the decisions of the Emerging Regions Fund subcommittee as follows.
+
+We received two applications for our "2015 call for funding proposals in emerging regions":../../calls/emerging_regions/2015/index.html. They are both requests for $1,500 and focus on supporting "STIL":http://bracis2015.imd.ufrn.br/events/stil/, the main Brazilian event in NLP. STIL is taking place in Natal, in the northeast of Brazil, on November 4–6. STIL is held joint with BRACIS 2015 (Brazilian Conference on Intelligent Systems), and ENIAC 2015 (Encontro Nacional de Inteligência Artificial e Computacional). We have funded this event in the past.
+
+* The first will fund undergraduate students for the IV Student Workshop on Information and Language Technology (TILic), which will be hosted by the main Brazilian event on NLP &#8212; the X Symposium in Information and Human Language Technology (STIL).
+
+* The second will be used to bring a North American invited speaker to STIL (last time, they brought Mike Riley and Andreas Stolcke). 
+
+We allocated $3,000 for this call. These were the only two responses, and they both look good to us, so Emily and I opted to fund them both.
+
+h3. etc.

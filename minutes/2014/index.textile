@@ -6,7 +6,7 @@ root: ../../
 
 h2. Minutes from NAACL Board Meeting
 
-* Date: June 25, 2013
+* Date: June 25, 2014
 * Location: ACL/NAACL-HLT 2014 in Baltimore, MD, USA
 
 h3. Attendance
@@ -107,7 +107,7 @@ h3. September 24, 2014
 
 The NAACL board unanimously voted to amend the "Policy on Sponsorship or Endorsement Requests":../../policies/sponsorship-requests.html to bring it more in line with a "related ACL resolution":http://aclweb.org/adminwiki/index.php?title=ACL_Resolutions#November_13.2C_2009.
 
-h3. September, 16, 2014
+h3. September 16, 2014
 
 Emily Bender and Katrin Erk reported on the Emerging Regions Fund decisions as follows.
 
