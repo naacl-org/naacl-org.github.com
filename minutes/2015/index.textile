@@ -4,7 +4,6 @@ title: "Minutes for 2015"
 root: ../../
 ---
 
-<!--
 h2. Program Chair and General Chair Report
 
 * "NAACL 2015 Chairs Report":NAACL2015ChairsReport.pdf (by ...)
@@ -15,7 +14,6 @@ h2. Slides from Business Meeting
 * "NAACL 2015 Attendees by Country":2015-NAACL-Attendees-By-Country.pdf
 * "NAACL Registration Statistics":2015-NAACL-registration-stats.pdf
 * "NAACL 2015 Treasurer Report Presentation":NAACL_Treasurer_Presentation_2015.pdf (Joel Tetreault)
--->
 
 h2. Minutes from NAACL Board Meeting
 
@@ -37,7 +35,7 @@ h3. Attendance
 
 h3. Treasurer's Report: Joel
 
-* Joel led discussion of etc.
+* Joel led discussion of "his report":NAACL_Treasurer_Report_2015.pdf
 
 h3. Overview of NAACL 2015 reports: Hal
 
