@@ -12,7 +12,7 @@ table(table).
 | Chair | Hal Daumé III | University of Maryland | 2014-2015 |
 | Secretary | Michael White | The Ohio State University | 2014-2015 |
 | Treasurer | Joel Tetreault | Yahoo Labs | 2015-2016 |
-| Past Chair | Chris-Callison Burch | University of Pennsylvania | 2012-2013 |
+| Past Chair | Chris Callison-Burch | University of Pennsylvania | 2012-2013 |
 
 h2. Executive Board
 
