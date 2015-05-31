@@ -4,16 +4,16 @@ title: "Minutes for 2015"
 root: ../../
 ---
 
-h2. Program Chair and General Chair Report
+#h2. Program Chair and General Chair Report
 
-* "NAACL 2015 Chairs Report":NAACL2015ChairsReport.pdf (by ...)
+#* "NAACL 2015 Chairs Report":NAACL2015ChairsReport.pdf (by ...)
 
-h2. Slides from Business Meeting
+#h2. Slides from Business Meeting
 
-* "NAACL 2015 Business Meeting":NAACL_2015_business_meeting.pdf (by ...)
-* "NAACL 2015 Attendees by Country":2015-NAACL-Attendees-By-Country.pdf
-* "NAACL Registration Statistics":2015-NAACL-registration-stats.pdf
-* "NAACL 2015 Treasurer Report Presentation":NAACL_Treasurer_Presentation_2015.pdf (Joel Tetreault)
+#* "NAACL 2015 Business Meeting":NAACL_2015_business_meeting.pdf (by ...)
+#* "NAACL 2015 Attendees by Country":2015-NAACL-Attendees-By-Country.pdf
+#* "NAACL Registration Statistics":2015-NAACL-registration-stats.pdf
+#* "NAACL 2015 Treasurer Report Presentation":NAACL_Treasurer_Presentation_2015.pdf (Joel Tetreault)
 
 h2. Minutes from NAACL Board Meeting
 
@@ -37,7 +37,31 @@ h3. Treasurer's Report: Joel
 
 * Joel led discussion of etc.
 
-h3. Reviewing Models Committee: Mike
+h3. Overview of NAACL 2015 reports: Hal
+
+* Hal reviewed the "2015Q1 NAACL Report to the ACL":http://aclweb.org/adminwiki/index.php?title=2015Q1_Reports:_NAACL
+
+* The board agreed with Hal's proposed refinement of the best paper policy, as follows: "There will always be awards for at least one of each: best longer paper, best short paper and best student paper.  Up to six runners-up in total will be publicized."
+
+* The anti-harassment policy was reviewed and no changes were recommended.
+
+* **ACTION ITEM** Hal will put together a document to serve as a guide for new board members.
+
+h3. NAACL 2016: Hal
+
+* The preliminary NAACL 2016 dates were reviewed; it appears that will work with the ACL schedule to have NAACL submissions after the new year.
+
+* After a discussion of the merits of the author response period, it was agreed that for NAACL conferences the authors should be shown their preliminary overall scores so they can take these into account when deciding how to respond.
+
+* The lack of local restaurants is likely to be an issue for NAACL 2016.  Setting up some local transport may be an option for lunches; Priscilla suggests waiting until she has done a site visit before making any decisions to address this issue.
+
+h3. Overview of ACL 2017 South America proposal:Hal
+
+h3. Backend in START subcommittee: Matt
+
+h3. NAACL in S.A. subcommittee: Fei
+
+h3. Reviewing models subcommittee: Mike
 
 The committee on reviewing models (Emily Bender, Hal Daumé and Michael White, chair) discussed the following topics by email:
 
