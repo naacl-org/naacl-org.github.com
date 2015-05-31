@@ -9,7 +9,7 @@ root: ../
 h2. Officers
 
 table(table).
-| Chair | Chris-Callison Burch | Johns Hopkins University | 2012-2013 |
+| Chair | Chris Callison-Burch | Johns Hopkins University | 2012-2013 |
 | Secretary | Anoop Sarkar | Simon Fraser University  | 2012-2013 |
 | Treasurer | Christopher Manning | Stanford University | 2012-2013 |
 | Past Chair | Rebecca Hwa | University of Pittsburgh | 2012-2013 |
