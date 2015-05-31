@@ -4,6 +4,17 @@ title: "Minutes for 2015"
 root: ../../
 ---
 
+h2. Program Chair and General Chair Report
+
+* "NAACL 2015 Chairs Report":NAACL2015ChairsReport.pdf (by ...)
+
+h2. Slides from Business Meeting
+
+* "NAACL 2015 Business Meeting":NAACL_2015_business_meeting.pdf (by ...)
+* "NAACL 2015 Attendees by Country":2015-NAACL-Attendees-By-Country.pdf
+* "NAACL Registration Statistics":2015-NAACL-registration-stats.pdf
+* "NAACL 2015 Treasurer Report Presentation":NAACL_Treasurer_Presentation_2015.pdf (Joel Tetreault)
+
 h2. Minutes from NAACL Board Meeting
 
 * Date: May 31, 2015
@@ -21,6 +32,10 @@ h3. Attendance
 * Michael White (Secretary)
 * Fei Xia (Board Member, via Skype)
 * Priscilla Rasmussen (ACL Business Manager)
+
+h3. Treasurer's Report: Joel
+
+* Joel led discussion of etc.
 
 h3. Reviewing Models Committee: Mike
 
@@ -46,10 +61,6 @@ The committee on reviewing models (Emily Bender, Hal Daumé and Michael White, c
 h3. etc.
 
 * etc.
-
-h3. Treasurer's Report: Joel
-
-* Joel led discussion of etc.
 
 h3. Elections: Mike
 
