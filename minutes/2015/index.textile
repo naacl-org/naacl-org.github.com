@@ -11,7 +11,7 @@ h2. Minutes from NAACL Board Meeting
 
 h3. Attendance
 
-* Emily Bender (Board Member)
+* Emily Bender (Board Member, via Skype)
 * Chris Callison-Burch (Past Chair)
 * Hal Daumé III (Chair)
 * Graeme Hirst (ACL Representative)
@@ -19,7 +19,40 @@ h3. Attendance
 * Matt Post (Board Member)
 * Joel Tetreault (Treasurer)
 * Michael White (Secretary)
-* Fei Xia (Board Member)
+* Fei Xia (Board Member, via Skype)
+* Priscilla Rasmussen (ACL Business Manager)
+
+h3. Reviewing Models Committee: Mike
+
+The committee on reviewing models (Emily Bender, Hal Daumé and Michael White, chair) discussed the following topics by email:
+
+* Reviewer Feedback
+
+** Emily expanded on her candidacy statement where she noted that there is room to improve the way that reviewers' considerable efforts for the NAACL-HLT conference are focused; in particular, a system of incentives to encourage reviewing that is fair, rigorous, and constructive (rather than superficial and/or unnecessarily mean) could include feedback to reviewers by area chairs, co­reviewers and even authors as well as recognition for outstanding reviewing.
+
+** After some discussion it was agreed that authors, co-reviewers and area chairs should be encouraged to numerically rate reviews on a limited number of dimensions (such as thoroughness, insightfulness, fairness, constructiveness) and provide an overall rating.  Naturally authors are apt to have a different perspective from co-reviewers and area chairs so it's important to gather feedback from all parties.
+
+** The limited utility of the author response was briefly mentioned.  If this is kept in future years, author feedback could encourage reviewers to more often update their reviews to reflect consideration of the author response.
+
+** To help preserve feedback anonymity, it was agreed that reviewers should only be shown their ratings averaged across the authors of all reviewed papers along with their ratings averaged across all co-reviewers and senior PC members.
+
+** Hal suggested that we should make it NAACL policy (or established convention?) to ask their SPCs to nominate their best reviewers for recognition at the conference.
+
+** It was agreed that ideally reviewer ratings should be aggregated over all ACL conferences, so that SPCs can take into these into account when nominating best reviewers as well as throughout their decision making.  Aggregated ratings should indicate the number of conferences, reviews and ratings they're based on, over what time span.
+
+** To facilitate collection of ratings and tracking them over time, it was agreed that it would make sense to discuss integrating this capability into the START system, with the first step to inquire about costs with softconf.  Ideally NAACL could obtain buy-in from the ACL as a whole, though NAACL could also begin the effort and let ACL join in later.
+
+* Public Reviews
+
+** Hal suggested we consider making reviews of accepted papers public, as NIPS has done, suggesting it can be useful (how exactly?).  He also proposed making the submitted versions of papers public as well.
+
+** Emily expressed hesitation noting that many reviewers might feel obligated to produce more polished reviews and thus be less inclined to agree to review.  She also noted the need for community feedback before taking the step of making submitted papers available.
+
+* Summary Rejects
+
+** Hal suggested we consider allowing SPCs to do summary rejects, perhaps after consideration by a pool of special reviewers, in order to drastically cut down on the number of necessary reviews.  Mike noted that this could enable more careful reviewing of papers that make it past this first cut.
+
+** Emily expressed a concern about unclear criteria for summary rejects and whether this might lead to profiling by e.g. institution or English flueny.
 
 h3. etc.
 
@@ -68,4 +101,25 @@ We received two applications for our "2015 call for funding proposals in emergin
 
 We allocated $3,000 for this call. These were the only two responses, and they both look good to us, so Emily and I opted to fund them both.
 
-h3. etc.
+h3. May 4, 2015
+
+The following three students were selected out of 14 applicants to receive a $2,000 scholarship to attend the 2015 Frederick Jelinek Memorial summer school at the University of Washington in Seattle, Washington (USA) from June 22, 2015 to July 2, 2015.
+
+* Keith Herbert (USA)
+* Alberto Manuel Orozco Camacho (MEX)
+* Roxana Lafuente (ARG)
+
+The scholarship covers tuition, housing, a full meal plan for the dates of the summer school and approximately $300 towards travel reimbursements.
+
+The selection committee was chaired by Matt Post, who was joined on the committee by Joel Tetreault, Michael White and Fei Xia.  The committee decided to favor advanced undergraduate students in the selection process for whom the scholarship might be expected to have the greatest potential impact on their decision to pursue a careeer in human language technology.
+
+The call for applications and scholarship selections followed an earlier decision by the whole board to direct $6,000 towards these scholarships.  Given the limited funds available and the larger summer shool expenses in comparison to JHU summer schools in previous years, NAACL was unfortunately able to support far fewer students than previously.
+
+h3. March 23, 2015
+
+Kevin Knight agreed to serve as general chair for NAACL 2016 with Ani Nenkova and Owen Rambow as program co-chairs.
+
+
+h3. February 17, 2015
+
+The NAACL board voted unanimously to approve spending $10k for video recording the 2015 NAACL HLT conference.
