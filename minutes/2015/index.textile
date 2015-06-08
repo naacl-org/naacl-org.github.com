@@ -107,7 +107,7 @@ The committee on reviewing models (Emily Bender, Hal Daumé and Michael White, c
 * Public Reviews
 ** Hal suggested we consider making reviews of accepted papers public, as NIPS has done, suggesting it can be useful for readers new to the topic area.  He also proposed making the submitted versions of papers public as well.
 ** Emily expressed hesitation noting that many reviewers might feel obligated to produce more polished reviews and thus be less inclined to agree to review.  She also noted the need for community feedback before taking the step of making submitted papers available.
-** It was suggested that reviewers could choose which comments to make public, which to share only with authors and which to make confidentially with the PC, thereby providing and opt-in system to ameliorate concerns about reviews needing polish.  Authors might also be given the choice to opt-in to making the submitted version public.
+** It was suggested that reviewers could choose which comments to make public, which to share only with authors and which to make confidentially with the PC, thereby providing and opt-in system to ameliorate concerns about reviews needing polish.  Authors might also be given the choice to opt-in to making the submitted version of their paper public.
 ** Joel and CCB noted that the reviews, along with submitted and final versions of the reviewed papers, could provide useful data for those researching the writing process.
 
 * Summary Rejects
@@ -126,7 +126,7 @@ After the board meeting, further discussion took place at the conference and via
 * Michael Strube (ACL 2015 program co-chair) and Ed expressed opposition to any system for collecting reviewer ratings that was not opt-in and fully public.
 * Ani and Owen expressed concern about trying to make too many changes at once for NAACL 2016, adding that their priority is improving the way reviewers and SPC members are coordinated across paper areas.
 * Ani suggested focusing on enhancing the visibility of the stars reviewers receive when chosen as a best reviewer by an SPC member.
-* The idea of tracking these stars over time was discussed, with Ed suggesting the name ACL Reviewer Honor Roll for this site.  If the Honor Roll were to only list those awarded stars (rather than those not awareded stars, and how often), it seemed unlikely to be objectionable to the membership.
+* The idea of tracking these stars over time was discussed, with Ed suggesting the name ACL Reviewer Honor Roll for this site.  If the Honor Roll were to only list those awarded stars (rather than those not awarded stars, and how often), it seemed unlikely to be objectionable to the membership.
 * At the business meeting, the following additional suggestions were received:
 ** SPC meta-reviews should be made public, in part in order to let authors know that their response has been taken into consideration.
 ** Reviewers could be given a review section for post-response comments.
@@ -134,7 +134,7 @@ After the board meeting, further discussion took place at the conference and via
 ** If reviews are made public, authors should also be given the chance to make a public response.
 ** The ACL Anthology could be extended to allow for public comments and responses.
 * David Jurgens will be running SemEval 2016 and is keen to try out both ratings of reviews and public comments.  As such, the board decided to let SemEval trial these ideas and focus on making best reviewer awards more visible for NAACL 2016.
-* **ACTION ITEM** Mike and Matt will coordinate with David Jurgens on steps to take in this direction for SemEval 2016, including any necessary changes to START, and likewise with Ani and Owen on making NAACL 2016 best reviewer awards more visible.
+* **ACTION ITEM** Mike and Matt will coordinate with David Jurgens on steps to take in this direction for SemEval 2016, including any necessary changes to START.
 
 h3. Elections: Mike
 
