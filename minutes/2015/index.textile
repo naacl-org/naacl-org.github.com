@@ -11,7 +11,7 @@ h2. General Chair and Program Chairs Report
 h2. Slides from Business Meeting
 
 * "NAACL 2015 Business Meeting":NAACL_2015_business_meeting.pdf (Hal Daumé III)
-* "NAACL 2015 Treasurer Report Presentation":NAACL_2015_Treasurer_Report_Business_Meeting.pdf (Joel Tetreault)
+* "NAACL 2015 Treasurer Report Presentation":NAACL_Treasurer_Report_2015.pdf (Joel Tetreault)
 
 h2. Minutes from NAACL Board Meeting
 
