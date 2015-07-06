@@ -4,16 +4,14 @@ title: "Minutes for 2015"
 root: ../../
 ---
 
-h2. Program Chair and General Chair Report
+h2. General Chair and Program Chairs Report
 
-* "NAACL 2015 Chairs Report":NAACL2015ChairsReport.pdf (by ...)
+* "NAACL 2015 Opening Session Presentation":NAACL2015ChairsOpening.pdf (Rada Mihalcea, Joyce Chai, Anoop Sarkar)
 
 h2. Slides from Business Meeting
 
 * "NAACL 2015 Business Meeting":NAACL_2015_business_meeting.pdf (Hal Daumé III)
-* "NAACL 2015 Attendees by Country":2015-NAACL-Attendees-By-Country.pdf
-* "NAACL Registration Statistics":2015-NAACL-registration-stats.pdf
-* "NAACL 2015 Treasurer Report Presentation":NAACL_Treasurer_Presentation_2015.pdf (Joel Tetreault)
+* "NAACL 2015 Treasurer Report Presentation":NAACL_2015_Treasurer_Report_Business_Meeting.pdf (Joel Tetreault)
 
 h2. Minutes from NAACL Board Meeting
 
