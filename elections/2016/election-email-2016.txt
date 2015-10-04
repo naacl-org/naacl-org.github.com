@@ -1,0 +1,99 @@
+---
+subject: "NAACL Board Elections for 2016-2017 Officers"
+---
+
+Dear NAACL members,
+
+The Nominating Committee for the North American Chapter of the
+Association for Computational Linguistics (NAACL) has chosen the
+following candidates for the open positions on the NAACL board with
+two year terms beginning January 2016. Additional nominations can be
+made until October 31st, 2015.
+
+The names below appear in random order.
+
+Chair (one opening):
+
+* Emily Bender
+  University of Washington
+  http://faculty.washington.edu/ebender/
+
+Secretary (one opening):
+
+* Colin Cherry
+  Natural Research Council Canada
+  https://sites.google.com/site/colinacherry/
+
+* Michael White
+  The Ohio State University
+  http://u.osu.edu/mwhite/
+
+Board Member nominees (two openings):
+
+* Thamar Solorio
+  University of Houston
+  http://solorio.uh.edu/
+
+* Marie-Catherine de Marneffe
+  The Ohio State University
+  http://www.ling.ohio-state.edu/~mcdm/
+
+* Julia Hockenmaier
+  University of Illinois at Urbana-Champaign
+  http://juliahmr.cs.illinois.edu/
+
+* Marine Carpuat
+  University of Maryland
+  http://www.cs.umd.edu/~marine/
+
+Candidate statements will be posted at http://naacl.org/elections/2016/.
+
+Additional nominations:
+
+Additional nominations can be submitted until October 31st, 2015. To
+make a nomination, three or more NAACL members should send email to
+Michael White (mwhite __at__ ling.osu.edu), the NAACL secretary,
+expressing support for the nominee and giving evidence that he or she
+will serve if elected. (It is recommended that this evidence consist
+of a forwarded email from the nominee containing a candidate
+statement, a biographical sketch, homepage URL, and a brief
+affirmation of intent to serve if elected.) In addition, the nominees
+for Chair should meet the criteria set out in the NAACL constitution.
+
+Election process:
+
+The voting period will begin once the final slate of candidates and
+voting instructions are announced (soon after October 31st, 2015),
+and is scheduled to close on December 15th, 2015.
+
+Many thanks to the Nominating Committee for doing the hard work of
+putting together an excellent slate of nominees.
+
+Nominating committee for the 2016 elections:
+
+* Dan Gildea (chair)
+* Chris Callison-Burch
+* David Chiang
+* Mona Diab
+* Katrin Erk
+* Julia Hirschberg
+* Chris Manning
+* Anoop Sarkar
+
+For more information about the NAACL, NAACL officer responsibilities,
+and NAACL election procedures, please see the NAACL home page
+(http://naacl.org/) and the NAACL constitution
+(http://naacl.org/policies/constitution.html).
+
+Lapsed Members:
+
+If you were a member of the NAACL last year or the year before and
+wish to participate in these elections, please renew your membership
+for 2015 and you will also receive instructions to vote in this
+election.
+
+Sincerely,
+
+Michael White
+NAACL Secretary
+(mwhite __at__ ling.osu.edu)
