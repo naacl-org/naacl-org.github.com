@@ -48,7 +48,7 @@ The NAACL Secretary is responsible for helping to organize meetings, elections a
 
 <a name="white">&nbsp;</a> 
 
-h3. "Michael White":"http://u.osu.edu/mwhite/"
+h3. Michael White:"http://u.osu.edu/mwhite/"
 
 h4. Bio
 
