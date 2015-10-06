@@ -22,7 +22,7 @@ h2. Chair (one opening):
 
 <a name="bender">&nbsp;</a> 
 
-h3. "Emily Bender":http://faculty.washington.edu/ebender/
+h3. "Emily M. Bender":http://faculty.washington.edu/ebender/
 
 h4. Bio
 
