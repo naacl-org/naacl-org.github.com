@@ -4,7 +4,7 @@ title: "Minutes for 2016"
 root: ../../
 ---
 
-h3. 2106Q1 Report to the ACL, February 2016
+h3. 2016Q1 Report to the ACL, February 2016
 
 * Hal reviewed the "2016Q1 NAACL Report to the ACL":http://aclweb.org/adminwiki/index.php?title=2016Q1_Reports:_NAACL
 
