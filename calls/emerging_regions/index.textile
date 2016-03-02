@@ -18,7 +18,7 @@ h3. Call for Proposals
 
 <p>
 <ul>
-    {% for year in (2013..2015) reversed %}
+    {% for year in (2013..2016) reversed %}
     <li><a href="{{ site.baseurl }}/calls/emerging_regions/{{ year }}/index.html">{{ year }} Emerging Regions CFP</a></li>
     {% endfor %}
 </ul>
@@ -41,7 +41,7 @@ h3. Convocatoria de Propuestas
 
 <p>
 <ul>
-    {% for year in (2013..2015) reversed %}
+    {% for year in (2013..2016) reversed %}
     <li><a href="{{ site.baseurl }}/calls/emerging_regions/{{ year }}/index.html">Convocatoria {{ year }} del Fondo para Regiones Emergentes</a></li>
     {% endfor %}
 </ul>
@@ -64,7 +64,7 @@ h3. Chamada de Propostas
 
 <p>
 <ul>
-    {% for year in (2013..2015) reversed %}
+    {% for year in (2013..2016) reversed %}
     <li><a href="{{ site.baseurl }}/calls/emerging_regions/{{ year }}/index.html">Chamada de {{ year }} para Regiões Emergentes</a></li>
     {% endfor %}
 </ul>
