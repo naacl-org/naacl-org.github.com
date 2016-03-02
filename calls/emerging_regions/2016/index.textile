@@ -17,7 +17,7 @@ Examples of proposals that might help to build community could include financial
 
 Proposals will be evaluated by a committee consisting of members of the NAACL Executive Board. 
 
-If you have any questions about this CFP please send them to naacl.erf __at__ gmail.com .
+If you have any questions about this CFP, please send them to naacl.erf __at__ gmail.com .
 
 table(table).
 | "Submit a proposal":http://goo.gl/forms/qJVK3mEj2q |
@@ -39,7 +39,7 @@ Ejemplos de propuestas que puedan ayudar a establecer una comunidad de investiga
 
 Las propuestas serán evaluadas por un comité formado por miembros de la mesa directiva de la NAACL. 
 
-Cualquier pregunta relacionada con esta convocatoria por favor mandarla por correo electrónico a naacl.erf __at__ gmail.com .
+Cualquier pregunta relacionada con esta convocatoria, por favor mandarla por correo electrónico a naacl.erf __at__ gmail.com .
 
 table(table).
 | "Meter propuesta":http://goo.gl/forms/qJVK3mEj2q |
