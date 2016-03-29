@@ -6,7 +6,7 @@ root: ../
 
 h3. Guidelines for committee membership:
 
-The best paper committee should contain four to six experts from the NLP community. No two should represent the same subfield of NLP, defined broadly by area-chair-like categories.  All should be known in the community, but preferably represent different parts of the NAACL membership, for instance: academia, industry, government.  The committee will be selected by the program chairs in consultation with the general chair, and may include area chairs but need not.
+The best paper committee should contain four to six experts from the NLP community. No two should represent the same subfield of NLP, defined broadly by "area chair"-like categories.  All should be known in the community, but preferably represent different parts of the NAACL membership, for instance: academia, industry, government.  The committee will be selected by the program chairs in consultation with the general chair, and may include area chairs but need not.
 
 h3. Guidelines for paper selection:
 
