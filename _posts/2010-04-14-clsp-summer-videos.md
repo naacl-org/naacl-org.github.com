@@ -1,0 +1,8 @@
+---
+
+layout: post
+title: "CLSP summer school videos online"
+root: ../../
+---
+
+The CLSP summer school videos are now publicly accessible: <http://videolectures.net/clspss09_baltimore/>

@@ -1,0 +1,34 @@
+---
+
+layout: post
+title: "Changes to the NAACL Constitution 2000"
+root: ../../
+---
+
+Below are summaries of the two changes to the NAACL constitution. They were approved by the NAACL members in December 2000, following approval by the NAACL and ACL executive boards.
+
+Nominating Committee Change
+---------------------------
+
+This proposed change allows outgoing officers of the NAACL executive board to become part of the NAACL nominating committee unless they are elected to another office. This change is similar in spirit to what is currently done by the ACL. The idea is that members leaving the executive board will make good members of the nominating committee since they have first-hand experience of what's required for each position on the board. Note that the constitution already ensures that there is always an open nomination period where any NAACL member can nominate additional candidates for any open positions.
+
+Original clause:
+
+4. To oversee the elections, there shall be a Nominating Committee consisting of three persons, who shall each serve a three-year term of office, one person being replaced every year. The Nominating Committee members must be Chapter Members in good standing and shall be elected by the Members as part of the elections of new officers. Every year, the member whose term is about to expire shall chair the Nominating Committee. The outgoing Chair of the Chapter Board shall meet with the Nominating Committee in an ex officio capacity to provide advice about potential nominees.
+
+Proposed new clause:
+
+4. To oversee the elections, there shall be a Nominating Committee consisting of at least three members, who shall each serve a three year term. Retiring members of the Chapter Board who are not re-elected to positions as officers or board members become new members of the Nominating Committee. If the size of the Nominating Committee falls below three, the requisite number of new members shall be elected by the Members as part of the elections of new officers. Nominating Committee members must be Chapter Members in good standing. The Chair of the Nominating Committee shall be determined by random draw from among the members of the Nominating Committee whose terms are about to expire. The outgoing Chair of the Chapter Board shall meet with the Nominating Committee in an ex officio capacity to provide advice about potential nominees.
+
+Schedule for Elections
+----------------------
+
+The second proposed change just makes it clear that NAACL elections will be annual rather than every two years. This change is needed simply to allow for staggered elections when replacing executive board members rather than replacing the entire board en masse.
+
+Original clause:
+
+5. Elections shall be conducted biennially as follows: the Nominating Committee shall by the first of September...
+
+Proposed new clause:
+
+5. Elections shall be conducted annually as follows: the Nominating Committee shall by the first of September...
