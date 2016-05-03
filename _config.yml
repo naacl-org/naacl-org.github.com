@@ -1,4 +1,3 @@
-baseurl: http://naacl.org
 permalink: posts/:year-:month-:day-:title
 markdown: kramdown
 kramdown:
