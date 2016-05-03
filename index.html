@@ -54,7 +54,7 @@ root: ./
     </ul>
   </div>
   {% for post in site.posts limit:5 %}
-  <h2><a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a> <small class="date">{{ post.date | date_to_string }}</small></h2>
+  <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <small class="date">{{ post.date | date_to_string }}</small></h2>
   {{ post.content }}
   {% endfor %}
   </div>
