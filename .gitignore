@@ -1,3 +1,6 @@
 _local
 _site
 .DS_Store
+.bundle/
+Gemfile
+Gemfile.lock
