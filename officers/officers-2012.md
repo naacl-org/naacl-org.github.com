@@ -61,7 +61,7 @@ The past two years as a NAACL executive board member has given me an excellent u
 Secretary (2012-2013) | <a href="http://www.cs.sfu.ca/~anoop/">Anoop Sarkar</a> | Simon Fraser University
 ------------------------------------
 
-<img src="http://www.cs.sfu.ca/~anoop/pictures/mug.jpg" title="Anoop Sarkar" alt="Anoop Sarkar" height="150" />
+<img src="http://www.cs.sfu.ca/~anoop/public/apple-touch-icon-precomposed.png" title="Anoop Sarkar" alt="Anoop Sarkar" height="150" />
 
 ### Bio
 
