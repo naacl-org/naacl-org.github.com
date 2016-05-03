@@ -1,5 +1,4 @@
-baseurl: ""
-root: "file:///Users/cherryc/nlp/naacl/naacl-org.github.com/"
+baseurl: http://naacl-org.github.com
 permalink: posts/:year-:month-:day-:title
 markdown: kramdown
 kramdown:
