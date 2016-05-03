@@ -71,9 +71,6 @@ Anoop Sarkar is an Associate Professor at Simon Fraser University in British Col
 
 There are a few things I would like to get done as Secretary of the NAACL Board.
 
-</p>
-
-<p>
 The <a href="http://naacl.org">naacl.org</a> web-site needs to be updated, not only to look better, but to be more functional as well. It should function as a means for the NAACL membership to interact with and provide feedback about various initiatives to the NAACL board. We should archive for posterity useful information about all previous NAACL conferences at naacl.org.
 
 I attended ACL 1993 as an undergraduate student on a Don Walker scholarship that funded my travel from India to Columbus. Having benefitted from that experience, I believe the NAACL board should encourage the next generation of NLP/CL researchers, in particular by supporting NAACL summer schools, the CL Olympiad (NACLO) and small regional workshops where high school and undergraduate students can be exposed to NLP.

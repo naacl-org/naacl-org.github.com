@@ -1,5 +1,4 @@
 ---
-
 layout: default
 title: NAACL Officers 2013
 root: ../
@@ -64,7 +63,7 @@ The past two years as a NAACL executive board member has given me an excellent u
 Secretary (2012-2013) | <a href="http://www.cs.sfu.ca/~anoop/">Anoop Sarkar</a> | Simon Fraser University
 ------------------------------------
 
-<img src="http://www.cs.sfu.ca/~anoop/pictures/mug.jpg" title="Anoop Sarkar" alt="Anoop Sarkar" height="150" />
+<img src="http://www.cs.sfu.ca/~anoop/public/apple-touch-icon-precomposed.png" title="Anoop Sarkar" alt="Anoop Sarkar" height="150" />
 
 #### Bio
 
@@ -74,17 +73,14 @@ Anoop Sarkar is an Associate Professor at Simon Fraser University in British Col
 
 There are a few things I would like to get done as Secretary of the NAACL Board.
 
-</p>
-
-<p>
 The <a href="http://naacl.org">naacl.org</a> web-site needs to be updated, not only to look better, but to be more functional as well. It should function as a means for the NAACL membership to interact with and provide feedback about various initiatives to the NAACL board. We should archive for posterity useful information about all previous NAACL conferences at naacl.org.
 
 I attended ACL 1993 as an undergraduate student on a Don Walker scholarship that funded my travel from India to Columbus. Having benefitted from that experience, I believe the NAACL board should encourage the next generation of NLP/CL researchers, in particular by supporting NAACL summer schools, the CL Olympiad (NACLO) and small regional workshops where high school and undergraduate students can be exposed to NLP.
 
 I would like the NAACL board to communicate in a friendly, readable way with the NAACL membership. We also need to improve the bidding process for NAACL HLT venues by increasing the number of high quality bids.
 
-Treasurer (2013-2014) | [Joel Tetreault](http://www.cs.rochester.edu/~tetreaul/) | Nuance Communications
------------------------------------
+Treasurer (2013-2014) | <a href="http://www.cs.rochester.edu/~tetreaul/">Joel Tetreault</a> | Nuance Communications
+------------------------------------
 
 <img src="http://farm4.staticflickr.com/3492/3939838335_b908dbea4b_z.jpg" title="Joel Tetreault" alt="Joel Tetreault" height="150" />
 
@@ -114,7 +110,7 @@ My experience over the past two years as a member of the NAACL executive board h
 Board Member (2012-2013) | <a href="http://faculty.washington.edu/ebender/">Emily M. Bender</a> | University of Washington
 -----------------------------------------------------
 
-<img src="http://www.compling.uw.edu/Graphics/bender.jpg" title="Emily M. Bender" alt="Emily M. Bender" height="150" />
+<img src="https://pbs.twimg.com/profile_images/1979897253/EB.jpeg" title="Emily M. Bender" alt="Emily M. Bender" height="150" />
 
 #### Bio
 
