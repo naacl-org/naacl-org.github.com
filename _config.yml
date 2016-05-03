@@ -1,4 +1,4 @@
-baseurl: http://naacl-org.github.com
+baseurl: http://naacl.org
 permalink: posts/:year-:month-:day-:title
 markdown: kramdown
 kramdown:
