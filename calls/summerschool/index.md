@@ -9,7 +9,7 @@ root: ../../
 
 <p>
 <ul>
-{% for year in (2015..2015) reversed %}
+{% for year in (2015..2016) reversed %}
 
 <li>
 <a href="{{ site.baseurl }}/calls/summerschool/{{ year }}/index.html">{{ year }} Summer School</a>
