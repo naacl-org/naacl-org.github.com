@@ -8,14 +8,14 @@
 # Author:Khaja Minhajuddin (http://minhajuddin.com)
 
 # Some constants
-TEMPLATE = "_template.textile"
+TEMPLATE = "_template.md"
 TARGET_DIR = "_posts"
 
 # Get the title which was passed as an argument
 title = ARGV[0]
 # Get the filename
 filename = title.gsub(' ','-')
-filename = "#{ Time.now.strftime('%Y-%m-%d') }-#{filename}.textile" 
+filename = "#{ Time.now.strftime('%Y-%m-%d') }-#{filename}.md" 
 filepath = File.join(TARGET_DIR, filename)
 
 # Create a copy of the template with the title replaced
