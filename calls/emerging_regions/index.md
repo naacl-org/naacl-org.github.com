@@ -39,6 +39,7 @@ There is a Google Group related to NAACL activites in South America: [NAACL-Lati
   <li>The Federal University of Juiz de Fora, to support a theme session of Computational Semantics with Frames and Constructions</li>
   <li>The Instituto Caro y Cuervo and Universidad Nacional de Colombia, for the organization of a national meeting of researchers of Computational Linguistics and Corpus Linguistics</li>
   </ul>
+</li>
 </ul>
 </p>
 
