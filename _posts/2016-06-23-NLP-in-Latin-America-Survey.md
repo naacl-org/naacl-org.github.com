@@ -30,5 +30,10 @@ their email addresses so we can contact them.
 
 Thank you for your time!
 
-Joel Tetreault, Yahoo
+Joel Tetreault, Yahoo <br />
 Fei Xia, University of Washington
+
+*Special thanks to members of the Latin American NLP community and the
+NAACL Board for their help in designing the survey.  And thanks to
+Valeria de Paiva, Carla Parra Escartín and Paloma de Juan for the
+translations.*
