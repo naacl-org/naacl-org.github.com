@@ -60,19 +60,16 @@ They did three things differently this year:
   - Some question of how to encourage people to pick an answer from each category
 
 3. Supporting reviewers
-  - Want every paper to have a fair review, and want authors to understand the decision
   - Encourage ACs to make decisions together - keep areas small (40 papers)
   - They recommend - keep this approach, work on instructing ACs, keep author feedback
   - All papers got a meta-review, but this was kept hidden from the authors
   - Area chairs were encouraged to provide justifications in meta review even when the decision was clear
   - Not much one can do when a reviewer does not take part in the discussion
   - Hard to exert pressure when you have a short period between submission and decision - need more time for discussion
-  - Timing was difficult due to avoiding overlap with ACL
   - Author responses serve to instigate the discussion
   - One side-effect of mixing short and long papers is that reviewers are harder on the short papers
   - Owen and Ani are preparing written report including feedback from chairs and reviewers - **TODO** Collect and archive this report
-  - Ani and Owen did get some support for their process within START
-  - Can we associate keywords with people’s profiles, so it’s permanent and not per-conference?
+  - Can we associate keywords with people’s START profiles, so it’s permanent and not per-conference?
   - Ani and Owen got keywords from a Google spreadsheet - would have been nicer to get the keywords within START
 
 ### Treasurer's Report (Joel)
@@ -80,9 +77,9 @@ They did three things differently this year:
 - Joel led discussion of [his report](NAACL_Treasurer_Report_2016_Board.pdf)
 - Not sure on how NAACL 2015 did - probably lost money
 - Will likely have to cut back for 2017
-- Video recording still has this weird status as a conference thing we have to budget for / vote on each year
-  - This makes sense on some level, as the recording does more for people *not* attending the conference
-  - It is more like an NAACL outreach activity than a benefit to conference attendees
+- Video recording still has this special status as a conference thing we have to budget for / vote on each year
+  - Fold into conference budget?
+  - Argument for no: the recording does more for people *not* attending the conference, it is outreach
 - LSA Summer Institute (which we typically fund) only happens ever second year
 - Joel is encouraging us to seek out sponsorship from smaller / emerging players
   - We already have 3 - 2 global sponsorship chairs and 1 local sponsorship chair (and Priscilla and Joel)
@@ -101,8 +98,7 @@ They did three things differently this year:
   - Moving ERF is easy, but we don't want it to be cut more often
 - **TODO**: Joel volunteered to spearhead the NAACL Inc. sponsorship effort
   - Priscilla did not like the idea of folding NAACL Inc. sponsorship into *ACL conference sponsorship
-  - Any time after ACL would be a good time to approach organizations for sponsorship
-  - Hit as early in the fall as possible - give them time to think about it before January
+  - Any time after ACL would be a good time to approach organizations for sponsorship, earlier is better
 
 ### ACL Treasurer's Report (Graeme)
 
@@ -235,7 +231,168 @@ Minutes from NAACL Business Meeting
 - Date: June 15, 2016
 - Location: NAACL-HLT 2016 in San Diego, CA, USA
 
+- North American Computational Linguistics Olympiad NACLO ($5,000)
+  - NACLO exposes high school students to computational linguistics.
+  - NACLO is looking people to: host a site, write problems, make a donation.
+- Emerging Regions Fund ERF (2x $2,500) supported two events - Brazil and Columbia
+  - **TODO** Colin should make a permanent home (not in posts) for reports from ERF-sponsored events.
+- JSALT Summer School at JHU ($10,500)
+- Joel's treasurer [report](NAACL_Treasurer_Report_2016_Business.pdf)
+  - Looking for more sponsorship.
+- Video recordings. Looking for an “NAACL Video Sponsor.”
+  - Questions for the room: Have you watched a video? A few people raised hands.
+  - Does the existence of videos affect your decision? No feedback there.
+- Best paper policy
+  - Removed best student paper.
+  - Considering a “Best new data source” paper.
+- NAACL in Latin America efforts
+  - Emily summarized Joel’s and Fei’s effort to reach out and better understand LA.
+  - **TODO**: We committed to making the results of the survey available to the wider NAACL community.
+- Improving START / softconf
+  - Matt Post is the lead contact.
+  - Posted link to the [trello page](http://tinyurl.com/start-wishlist) - start-wishlist to collect concerns ideas about START
+- Expanding the size of the board
+  - We will have an item on the ballot for the next election to expand the board.
+- Upcoming conferences
+  - EMNLP 2016 in Austin, Texas: Nov 2-6, 2016; Collocated with AMTA, HCOMP
+  - ACL 2017 in Vancouver, Canada: July 30 - August 4, 2017; Paper submission deadline TBD
+  - EACL 2017 in Valencia, Spain: April, 2017; Submission deadline September 30 (long), 16 December  (short)
 
+### Question period
+
+- Chris Callison-Burch (CCB): Supports idea of adding another board member.
+  - What other adjustments can we do to increase the coverage for chair?
+  - Emily: don’t necessarily want to do away with the constraint for board membership in the past 5 years
+
+- One point raised: we should reach out to Caribbean  (Cuba)
+  - Joel pointed out that Cuba (and the Caribbean) was included in the LA survey
+
+- Question about video recording: why don’t we collection permissions from authors, audience?
+  - We handle the permissions through the copyright consent form when you submit your camera ready.
+  - If you do not want your talk recorded, communicate that concern to the board.
+  - Videos are currently licensed under creative commons
+  - **TODO** we should post our copyright agreement, release agreement on the website
+  - We are not currently getting permission for TACL papers
+  - Keynote speakers are not asked permission to be recorded.
+  - Audience members should be allowed to opt out from having questions recorded
+  - One answer: make an announcement at the beginning of the conference that you can request to have talks / comments deleted in post-production.
+
+- Question about survey in Latin America / South America
+  - Language (research disseminated in English) is a big barrier to LA participation.
+  - Joel explained the survey (presented in Spanish and Portuguese).
+
+- On Reviewing (Meg Mitchell):
+  - Seems like Best Reviewers list is celebrating people for doing things all reviewers should be doing
+  - Is there any potential to have authors provide reviewer feedback?
+  - How can we assure that we have high-quality reviews for every paper?
+  - How can we improve matching of papers to reviewers?
+  - Emily: This year’s new process (small, dynamic areas) is an attempt to improve review matching.
+  - Emily: Is there a way to collect and disseminate best practices for reviewing?
+  - Owen: He sees that the area chairs have a crucial role. We need to admit that this is a lot of work.
+  - Ani and Owen's approach: reduce the size of each area, and then encourage area chairs to really interact with reviewers when making their decisions.
+  - Owen: All papers are important, not just borderline cases. Every decision should have a rationale.
+  - Emily: Making the role of the area chair explicit, making sure they understand it before signing up. Make sure they have time (reviewer discussion window, size of area) to do their job properly.
+  - Meg: What about feedback from authors?
+  - Hal: Anecdotal: a few years ago, authors could comment on how helpful a review is - strong correlation with acceptance, rejection.
+  - Hal: Data driven: NAACL 2013 - did a survey of authors, showing them them the review text and asking them for their review review (helpful, correctness). Delayed by about 6 months to give the authors a chance to cool down. Wound up much less correlated with accept-reject decisions.
+  - Hal: Another topic that comes up is maintaining institutional memory about reviewers; if we delay author feedback on review quality, then we need to have long-term institutional memory.
+  - Emily: Co-reviewers or area chairs could also review reviews.
+  - CCB: We now have a single logon for START. We no have a history for all reviews done by a particular user name. Can expose that history (score deviation from the mean) to the area chairs.
+  - Q: Reviewing is a lot of work. Author response in particular is a lot of work for both the authors and the reviewers. Can we give people less work, and ask them to do it better?
+  - Graeme: Most responses are not going to have an effect. The response making a serious difference is not going to be a regular event. Any response should be to a reviewer misconception.
+  - Owen: used to be critical of author response. PC Chair and Area Chair use the authors response (perhaps more often than the reviewers) - effect of author response is frequently invisible.
+  - Philip Resnik: author responses have turned into point-by-point rebuttals / promises. There are things that are not allowed: new data / new results. Can we go back to original intent? If there is a serious misconception point it out. It should be out of bounds to do a point-by-point rebuttal. A blank author response should mean that there were no misconceptions. It shouldn’t indicate that you aren’t serious if you don’t put up a response.
+  - Meg: in the computer vision community, you can give long responses. You can frequently need to run more experiments, get more numbers. Often times you’re just missing a baseline, which is easy to fix. Do we want to say that adding new information is on the table? CVPR - submit in November, hear back in March, a month for an author response
+  - Q: TACL should be our journal-like venue, not our conferences.
+  - Hal: I am known for being anti-author-response. He did a survey and asked of area chairs, asking what part of the reviewing procedure is mist important. They indicated that the author response was very useful.
+  - Hal: Response shouldn’t make a difference most of the time, but is it worth the time?
+  - Hal: We don’t currently allot enough time for response and discussion.
+
+- Benjamin Van Durme, on behalf of Kevin Duh:
+  - This year, for EMNLP you can click a box to indicate whether you have an arXiv pre-print.
+  - Main issue is that we don’t have a way to share an arXiv link if it is added after submission
+  - Current policy is that reviewers are aware of an arXiv version, and can chose whether to view the paper on arXiv (breaking anonymity)
+  - You have to tell TACL that you pushed a paper to arXiv
+  - Owen: why should a reviewer or author have a choice to de-anonymize a submission
+  - Owen: arXiv should count as a publication
+
+- Brian Roark:
+  - CHI (Computer Human Interaction) has one minute madness for all papers first thing in the morning (even full talks)
+  - CHI has a fringe conference called alt.chi, dangerous, not appropriate, humorous. NAACL could do the same thing.
+
+--- 
 
 Decisions made over e-mail
 --------------------------
+
+### Feb 12 vote: Best paper policy
+
+Voted on endorsement of the following policy:
+
+>Guidelines for committee membership:
+>
+>The best paper committee should contain four to six experts from the NLP community. No two should represent the same subfield of NLP, defined broadly by “area chair”-like categories. All should be known in the community, but preferably represent different parts of the NAACL membership, for instance: academia, industry, government. The committee will be selected by the program chairs in consultation with the general chair, and may include area chairs but need not.
+Guidelines for paper selection:
+>
+>The best paper committee will select best papers for the conference. The precise number and names of these are specified elsewhere; these guidelines discuss what “best” means. When making selections, the committee should keep in mind that there are many ways for a paper to strongly contribute to the body of knowledge in our field. Examples are:
+>
+>* Provide new algorithms, corpora, or technology
+>* Introduce a new insight into language or people
+>* Facilitate reproducibility via code, infrastructure, or data
+>* Provide new evaluation methods and standards
+>
+>The papers selected by the committee should be good for different reasons. A paper need not be flawless in order to be best; being interesting and/or introducing a new idea or methodology to the community can be more important. The committee must write one or two sentences stating why each paper has been selected, for the program chairs to use during their announcement of the best paper awardees.
+
+Hal, Marie-Catherine, Colin, Matt, Julia, Fei, Joel voting. Passes.
+
+Posted [here](../../policies/best-paper.html), but still not linked to main website as we have not yet addressed the concern of where is “elsewhere” in “The precise number and names of these are specified elsewhere.”
+
+### Feb 18 vote: Emerging Regions Fund (ERF)
+Joel and Matt volunteered to manage the fund. Proposal to fund two proposals at $1,500.<br/>
+Emily, Joel, Julie, Marie-Catherine, Matt, Colin, Fie, Graeme voting. Passes.
+
+### Feb 25 vote: Eliminate Best Student paper
+Choice between (a) keeping IBM Best Student Paper as is and (b) eliminating Best Student Paper award, with IBM becoming a “Best Paper Sponsor”.
+
+Colin, Graeme, Hal, Joel, Marie-Catherine, Matt, Emily, Fei voting. (b) carried and we asked Priscilla to contact IBM.
+
+- IBM stopped sponsoring a best paper, but also sponsors NAACL, ACL and EMNLP at the Gold level. NAACL 2016 awarded two best long papers and one best short paper.
+- Fei expressed a good argument against (b): in the future, if there are more papers from research labs and industry without students being the first authors, would getting rid of the best student paper category pose a new problem?
+
+### Feb 29 vote: Recording NAACL 2016 Talks
+
+Approve $10-$15k for recording talks at NAACL 2016 with Weyond.com
+
+Joel, Julia, Colin, Marie-Catherine, Fei voting. Passes.
+
+### Mar 28 vote: JSALT Summer School @ JHU
+Should we fund student scholarships for the summer workshop?
+If so, should it be  a) 10k for 5 students, b) 10k split over 6k students.
+
+Joel, Julia, Matt, Colin, Graeme, Marie-Catherine, Fei voting. Passes.
+
+- We approve funding students the workshop at 10k for 5 students.
+- Matt, Hal and Julia volunteered as reviewers.
+
+### April 15 vote: NACLO
+
+1. Should NAACL allocate $5000 to NACLO?
+2. Should NAACL provide a complimentary exhibit table to NACLO in San Diego?
+
+Matt, Marie-Catherine, Joel, Colin, Fei, Emily voting. Both (1) and (2) pass.
+
+### May 10 Vote: Video recording for NAACL tutorials + main conference
+
+Weyond recording of conference + tutorials cost $9912.50. Vote on whether to spend this much.
+
+Colin, Matt, Marie-Catherine, Joel, Julia voting. Passes.
+
+### May 19 vote: Revisiting video recordings for 2016
+Should we spend $9912.50 to record NAACL talks and tutorials in light of a potential NAACL 2015 loss?
+
+Joel, Colin, Marie-Catherine, Matt, Julia voting. Passes.
+
+### May 23 vote: small additional expenditure for JHU Summer School students
+Should we approve an additional $450 for a student’s travel? Their expenses were much higher than we had budgeted.
+
+Marie-Catherine, Joel, Matt, Hal, Colin voting. Passes.
