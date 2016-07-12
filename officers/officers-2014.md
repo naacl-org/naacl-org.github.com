@@ -47,7 +47,7 @@ Nominating Committee
 Chair (2014-2015) | [Hal Daumé III](http://www.umiacs.umd.edu/~hal/) | University of Maryland
 ------------------------
 
-<img src="http://www.umiacs.umd.edu/~hal/portrait.jpg" title="Hal Daume III" alt="Hal Daume III" height="150" />
+<img src="images/Hal.jpg" title="Hal Daume III" alt="Hal Daume III" height="150" />
 
 #### Bio
 
@@ -60,7 +60,7 @@ NAACL as a conference is great, and we can improve: reviewing, physical and virt
 Secretary (2014-2015) | [Michael White](https://u.osu.edu/white.1240/) | The Ohio State University
 -----------------------------
 
-<img src="http://u.osu.edu/white.1240/files/2013/10/white1240-1sc4vn1.jpg" title="Michael White" alt="Michael White" height="150" />
+<img src="images/White.jpg" title="Michael White" alt="Michael White" height="150" />
 
 #### Bio
 
@@ -73,7 +73,7 @@ One of the main duties of the NAACL secretary is to maintain NAACL's web presenc
 Treasurer (2013-2014) | [Joel Tetreault](http://www.cs.rochester.edu/~tetreaul/) | Yahoo Labs
 ------------------------
 
-<img src="http://farm4.staticflickr.com/3492/3939838335_b908dbea4b_z.jpg" title="Joel Tetreault" alt="Joel Tetreault" height="150" />
+<img src="images/Joel.jpg" title="Joel Tetreault" alt="Joel Tetreault" height="150" />
 
 #### Bio
 
@@ -88,7 +88,7 @@ In addition to the above duties, the Treasurer is an active member of the Board.
 Past Chair (2012-2013) | [Chris-Callison Burch](http://cs.jhu.edu/~ccb/) | Johns Hopkins University
 ------------------------------
 
-<img src="http://www.cs.jhu.edu/~ccb/images/wildflowers.jpg" title="Chris-Callison Burch" alt="Chris-Callison Burch" height="150" />
+<img src="images/CCB.jpg" title="Chris-Callison Burch" alt="Chris-Callison Burch" height="150" />
 
 #### Bio
 
@@ -101,7 +101,7 @@ The past two years as a NAACL executive board member has given me an excellent u
 Board Member (2013-2014) | [Katrin Erk](http://www.katrinerk.com/) | University of Texas at Austin
 -----------------------------
 
-<img src="http://www.katrinerk.com/home/113-1320_img.jpg" title="Katrin Erk" alt="Katrin Erk" height="150" />
+<img src="images/Katrin.jpg" title="Katrin Erk" alt="Katrin Erk" height="150" />
 
 #### Bio
 
@@ -114,7 +114,7 @@ To me, one of the central characteristics of computational linguistics is its in
 Board Member (2013-2014) | [Julia Hirschberg](http://www.cs.columbia.edu/~julia/) | Columbia University
 ----------------------------------
 
-<img src="http://www.cs.columbia.edu/~julia/images/hirschberg_portrait.jpg" title="Julia Hirschberg&quot;" alt="Julia Hirschberg&quot;" height="150" />
+<img src="images/hirschberg_portrait.jpg" title="Julia Hirschberg&quot;" alt="Julia Hirschberg&quot;" height="150" />
 
 #### Bio
 
@@ -127,7 +127,7 @@ My goal in joining the NAACL board would be twofold: a) to increase participatio
 Board Member (2014-2015) | [Emily M. Bender](http://faculty.washington.edu/ebender/) | University of Washington
 ------------------------------------------
 
-<img src="http://faculty.washington.edu/ebender/Emily09.jpg" title="Emily M. Bender" alt="Emily M. Bender" height="150" />
+<img src="images/Emily09.jpg" title="Emily M. Bender" alt="Emily M. Bender" height="150" />
 
 #### Bio
 
@@ -146,7 +146,7 @@ Reinvigorating interdisciplinarity: Solving big problems in human language techn
 Board Member (2014-2015) | [Eduard Hovy](http://www.cs.cmu.edu/~hovy/) | Carnegie Mellon University
 ------------------------------
 
-<img src="http://www.cs.cmu.edu/~hovy/bio-image-hovy.png" title="Eduard Hovy" alt="Eduard Hovy" height="150" />
+<img src="images/bio-image-hovy.png" title="Eduard Hovy" alt="Eduard Hovy" height="150" />
 
 #### Bio
 

@@ -48,7 +48,7 @@ Nominating Committee
 Chair (2012-2013) | <a href="http://cs.jhu.edu/~ccb/">Chris-Callison Burch</a> | Johns Hopkins University
 ------------------------------------
 
-<img src="http://www.cs.jhu.edu/~ccb/images/wildflowers.jpg" title="Chris-Callison Burch" alt="Chris-Callison Burch" height="150" />
+<img src="images/CCB.jpg" title="Chris-Callison Burch" alt="Chris-Callison Burch" height="150" />
 
 ### Bio
 
@@ -61,7 +61,7 @@ The past two years as a NAACL executive board member has given me an excellent u
 Secretary (2012-2013) | <a href="http://www.cs.sfu.ca/~anoop/">Anoop Sarkar</a> | Simon Fraser University
 ------------------------------------
 
-<img src="http://www.cs.sfu.ca/~anoop/public/apple-touch-icon-precomposed.png" title="Anoop Sarkar" alt="Anoop Sarkar" height="150" />
+<img src="images/Anoop.png" title="Anoop Sarkar" alt="Anoop Sarkar" height="150" />
 
 ### Bio
 
@@ -80,7 +80,7 @@ I would like the NAACL board to communicate in a friendly, readable way with the
 Treasurer (2012-2013) | <a href="http://nlp.stanford.edu/~manning/">Christopher Manning</a> | Stanford University
 --------------------------------------------
 
-<img src="http://nlp.stanford.edu/~manning/images/chrism3.jpg" title="Christopher Manning" alt="Christopher Manning" height="150" />
+<img src="images/chrism3.jpg" title="Christopher Manning" alt="Christopher Manning" height="150" />
 
 ### Bio
 
@@ -93,7 +93,7 @@ I feel like I need to be working on promoting stricter term limits for the NAACL
 Past Chair (2010-2011) | <a href="http://www.cs.pitt.edu/~hwa">Rebecca Hwa</a> | University of Pittsburgh
 ------------------------------------
 
-![Rebecca Hwa](http://chronicle2.pitt.edu/media/pcc060109/images/1HWA_rebecca.jpg "Rebecca Hwa")
+![Rebecca Hwa](images/HWA_rebecca.jpg "Rebecca Hwa")
 
 ### Bio
 
@@ -106,7 +106,7 @@ My experience over the past two years as a member of the NAACL executive board h
 Board Member (2011-2012) | <a href="http://www.isi.edu/~chiang/">David Chiang</a> | USC and ISI
 --------------------------
 
-<img src="http://www.isi.edu/~chiang/images/voynich.jpg" title="David Chiang" alt="David Chiang" height="150" />
+<img src="images/chiang-2014.png" title="David Chiang" alt="David Chiang" height="150" />
 
 ### Bio
 
@@ -119,7 +119,7 @@ Three things that I learned from being a local organizer for HLT 2010 that I wou
 Board Member (2011-2012) | <a href="http://www.cs.rochester.edu/~gildea/">Daniel Gildea</a> | University of Rochester
 ------------------------------------------------
 
-<img src="http://www.cs.rochester.edu/~gildea/gildea-small.jpg" title="Daniel Gildea" alt="Daniel Gildea" height="150" />
+<img src="images/gildea-small.jpg" title="Daniel Gildea" alt="Daniel Gildea" height="150" />
 
 ### Bio
 
@@ -134,7 +134,7 @@ I would also like to improve outreach to undergraduates in order to encourage mo
 Board Member (2012-2013) | <a href="http://faculty.washington.edu/ebender/">Emily M. Bender</a> | University of Washington
 -----------------------------------------------------
 
-<img src="http://www.compling.uw.edu/Graphics/bender.jpg" title="Emily M. Bender" alt="Emily M. Bender" height="150" />
+<img src="images/Emily09.jpg" title="Emily M. Bender" alt="Emily M. Bender" height="150" />
 
 ### Bio
 
@@ -153,7 +153,7 @@ Reinvigorating interdisciplinarity: Solving big problems in human language techn
 Board Member (2012-2013) | <a href="http://www1.ccls.columbia.edu/~mdiab/">Mona Diab</a> | Columbia University
 -----------------------------------------
 
-<img src="http://www1.ccls.columbia.edu/~mdiab/images/MonaDiab.jpg" title="Mona Diab" alt="Mona Diab" height="150" />
+<img src="images/MonaDiab.jpg" title="Mona Diab" alt="Mona Diab" height="150" />
 
 ### Bio
 

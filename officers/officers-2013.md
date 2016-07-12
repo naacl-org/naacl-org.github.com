@@ -50,7 +50,7 @@ Ex-Officio Board Members
 Chair (2012-2013) | <a href="http://cs.jhu.edu/~ccb/">Chris-Callison Burch</a> | Johns Hopkins University
 ------------------------------------
 
-<img src="http://www.cs.jhu.edu/~ccb/images/wildflowers.jpg" title="Chris-Callison Burch" alt="Chris-Callison Burch" height="150" />
+<img src="images/CCB.jpg" title="Chris-Callison Burch" alt="Chris-Callison Burch" height="150" />
 
 #### Bio
 
@@ -63,7 +63,7 @@ The past two years as a NAACL executive board member has given me an excellent u
 Secretary (2012-2013) | <a href="http://www.cs.sfu.ca/~anoop/">Anoop Sarkar</a> | Simon Fraser University
 ------------------------------------
 
-<img src="http://www.cs.sfu.ca/~anoop/public/apple-touch-icon-precomposed.png" title="Anoop Sarkar" alt="Anoop Sarkar" height="150" />
+<img src="images/Anoop.png" title="Anoop Sarkar" alt="Anoop Sarkar" height="150" />
 
 #### Bio
 
@@ -82,7 +82,7 @@ I would like the NAACL board to communicate in a friendly, readable way with the
 Treasurer (2013-2014) | <a href="http://www.cs.rochester.edu/~tetreaul/">Joel Tetreault</a> | Nuance Communications
 ------------------------------------
 
-<img src="http://farm4.staticflickr.com/3492/3939838335_b908dbea4b_z.jpg" title="Joel Tetreault" alt="Joel Tetreault" height="150" />
+<img src="images/Joel.jpg" title="Joel Tetreault" alt="Joel Tetreault" height="150" />
 
 #### Bio
 
@@ -97,7 +97,7 @@ In addition to the above duties, the Treasurer is an active member of the Board.
 Past Chair (2010-2011) | <a href="http://www.cs.pitt.edu/~hwa">Rebecca Hwa</a> | University of Pittsburgh
 ------------------------------------
 
-![Rebecca Hwa](http://chronicle2.pitt.edu/media/pcc060109/images/1HWA_rebecca.jpg "Rebecca Hwa")
+![Rebecca Hwa](images/HWA_rebecca.jpg "Rebecca Hwa")
 
 #### Bio
 
@@ -110,7 +110,7 @@ My experience over the past two years as a member of the NAACL executive board h
 Board Member (2012-2013) | <a href="http://faculty.washington.edu/ebender/">Emily M. Bender</a> | University of Washington
 -----------------------------------------------------
 
-<img src="https://pbs.twimg.com/profile_images/1979897253/EB.jpeg" title="Emily M. Bender" alt="Emily M. Bender" height="150" />
+<img src="images/Emily09.jpg" title="Emily M. Bender" alt="Emily M. Bender" height="150" />
 
 #### Bio
 
@@ -129,7 +129,7 @@ Reinvigorating interdisciplinarity: Solving big problems in human language techn
 Board Member (2012-2013) | <a href="http://www1.ccls.columbia.edu/~mdiab/">Mona Diab</a> | George Washington University
 --------------------------------------------------
 
-<img src="http://www1.ccls.columbia.edu/~mdiab/images/MonaDiab.jpg" title="Mona Diab" alt="Mona Diab" height="150" />
+<img src="images/MonaDiab.jpg" title="Mona Diab" alt="Mona Diab" height="150" />
 
 #### Bio
 
@@ -142,7 +142,7 @@ I would like to serve on the board to serve the community in several aspects: 1.
 Board Member (2013-2014) | [Katrin Erk](http://www.katrinerk.com/) | University of Texas at Austin
 -----------------------------
 
-<img src="http://www.katrinerk.com/home/113-1320_img.jpg" title="Katrin Erk" alt="Katrin Erk" height="150" />
+<img src="images/Katrin.jpg" title="Katrin Erk" alt="Katrin Erk" height="150" />
 
 #### Bio
 
@@ -155,7 +155,7 @@ To me, one of the central characteristics of computational linguistics is its in
 Board Member (2013-2014) | [Julia Hirschberg](http://www.cs.columbia.edu/~julia/) | Columbia University
 ----------------------------------
 
-<img src="http://www.cs.columbia.edu/~julia/images/hirschberg_portrait.jpg" title="Julia Hirschberg&quot;" alt="Julia Hirschberg&quot;" height="150" />
+<img src="images/hirschberg_portrait.jpg" title="Julia Hirschberg&quot;" alt="Julia Hirschberg&quot;" height="150" />
 
 #### Bio
 

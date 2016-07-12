@@ -49,7 +49,7 @@ Nominating Committee
 Chair (2016-2017) | [Emily M. Bender](http://faculty.washington.edu/ebender/) | University of Washington
 -----------------------------------
 
-<img src="http://faculty.washington.edu/ebender/Emily09.jpg" title="Emily M. Bender" alt="Emily M. Bender" height="150" />
+<img src="images/Emily09.jpg" title="Emily M. Bender" alt="Emily M. Bender" height="150" />
 
 #### Bio
 
@@ -62,7 +62,7 @@ I believe that science flourishes to the extent that we foster reproducibility, 
 Secretary (2016-2017) | [Colin Cherry](https://sites.google.com/site/colinacherry/) | National Research Council Canada
 -------------------------------------------------
 
-<img src="https://sites.google.com/site/colinacherry/_/rsrc/1255176847823/home/ColinProfile.jpg" title="Colin Cherry" alt="Colin Cherry" height="150" />
+<img src="images/ColinProfile.jpg" title="Colin Cherry" alt="Colin Cherry" height="150" />
 
 #### Bio
 
@@ -75,7 +75,7 @@ The NAACL Secretary is responsible for helping to organize meetings, elections a
 Treasurer (2015-2016) | [Joel Tetreault](http://www.cs.rochester.edu/~tetreaul/) | Yahoo Labs
 ------------------------
 
-<img src="http://farm4.staticflickr.com/3492/3939838335_b908dbea4b_z.jpg" title="Joel Tetreault" alt="Joel Tetreault" height="150" />
+<img src="images/Joel.jpg" title="Joel Tetreault" alt="Joel Tetreault" height="150" />
 
 #### Bio
 
@@ -88,7 +88,7 @@ The NAACL Treasurer monitors and reports on the finances of the organization, pr
 Past Chair (2014-2015) | [Hal Daumé III](http://www.umiacs.umd.edu/~hal/) | University of Maryland
 -----------------------------
 
-<img src="http://www.umiacs.umd.edu/~hal/portrait.jpg" title="Hal Daume III" alt="Hal Daume III" height="150" />
+<img src="images/Hal.jpg" title="Hal Daume III" alt="Hal Daume III" height="150" />
 
 #### Bio
 
@@ -101,7 +101,7 @@ NAACL as a conference is great, and we can improve: reviewing, physical and virt
 Board Member (2015-2016) | [Matt Post](http://cs.jhu.edu/~post/) | Johns Hopkins University
 ----------------------
 
-<img src="http://cs.jhu.edu/~post/images/post-beard.jpg" title="Matt Post" alt="Matt Post" height="150" />
+<img src="images/Post-Beard.jpg" title="Matt Post" alt="Matt Post" height="150" />
 
 #### Bio
 
@@ -118,7 +118,7 @@ A point of distinction for our research community is the extensive body of code 
 Board Member (2015-2016) | [Fei Xia](https://faculty.washington.edu/fxia/) | University of Washington
 --------------------------------
 
-<img src="http://faculty.washington.edu/fxia/bio/photos/jungle.jpg" title="Fei Xia" alt="Fei Xia" height="150" />
+<img src="images/Fei.jpg" title="Fei Xia" alt="Fei Xia" height="150" />
 
 #### Bio
 
@@ -135,7 +135,7 @@ Besides general linguistics, there are many other disciplines that would benefit
 Board Member (2016-2017) | [Marie-Catherine de Marneffe](http://www.ling.ohio-state.edu/~mcdm/) | The Ohio State University
 ------------------------------------------------------
 
-<embed src="https://opic.osu.edu/demarneffe.1" title="Marie-Catherine de Marneffe" height="150" />
+<image src="images/DeMarneffe.jpg" title="Marie-Catherine de Marneffe" height="150" />
 
 #### Bio
 
@@ -148,7 +148,7 @@ In recent years, two focus areas of the NAACL board were the improvement of the 
 Board Member (2016-2017) | [Julia Hockenmaier](http://juliahmr.cs.illinois.edu/) | University of Illinois
 ------------------------------------
 
-<img src="http://ws.engr.illinois.edu/directory/viewphoto/4957" title="Julia Hockenmaier" alt="Julia Hockenmaier" height="150" />
+<img src="images/Julia_Hockenmaier.png" title="Julia Hockenmaier" alt="Julia Hockenmaier" height="150" />
 
 #### Bio
 
