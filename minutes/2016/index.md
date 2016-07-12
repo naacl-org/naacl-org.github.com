@@ -3,13 +3,10 @@ layout: default
 title: "Minutes for 2016"
 root: ../../
 ---
-<!-- General Chair and Program Chairs Report
----------------------------------------
-[NAACL 2016 Opening Session Presentation](TODO_Link_here) (Kevin Knight, Ani Nenkova, Owen Rambow) -->
 
-Slides from Business Meeting
-----------------------------
-
+Slides from NAACL 2016
+----------------------
+- [NAACL 2016 Opening Session Presentation](NAACL_2016_OpeningRemarks.pdf) (Kevin Knight, Ani Nenkova, Owen Rambow) 
 - [NAACL 2016 Business Meeting](NAACL_2016_Business_Meeting.pdf) (Emily M. Bender)
 - [NAACL 2016 Treasurer Report Presentation](NAACL_Treasurer_Report_2016_Business.pdf) (Joel Tetreault)
 
