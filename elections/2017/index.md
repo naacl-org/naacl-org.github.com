@@ -88,7 +88,7 @@ As a member of the NAACL board, I would focus on adapting our conference formats
 
 #### Bio
 
-Ellen Riloff is a Professor of Computer Science at the University of Utah (http://www.cs.utah.edu/~riloff). She received her Ph.D. and M.S. in computer science from the University of Massachusetts at Amherst, and a B.S. in applied mathematics (computer science) from Carnegie Mellon University.  Her primary research areas are information extraction, sentiment analysis, semantic class induction, and bootstrapping methods that learn from unannotated texts. She has served on the Computational Linguistics Editorial Board, Transactions of the Association for Computational Linguistics (TACL) Editorial Board, as Program Co-Chair for the NAACL HLT 2012 and CoNLL 2004 conferences, and as Faculty Advisor for the ACL 2007 Student Research Workshop.
+Ellen Riloff is a Professor of Computer Science at the University of Utah. She received her Ph.D. and M.S. in computer science from the University of Massachusetts at Amherst, and a B.S. in applied mathematics (computer science) from Carnegie Mellon University.  Her primary research areas are information extraction, sentiment analysis, semantic class induction, and bootstrapping methods that learn from unannotated texts. She has served on the Computational Linguistics Editorial Board, Transactions of the Association for Computational Linguistics (TACL) Editorial Board, as Program Co-Chair for the NAACL HLT 2012 and CoNLL 2004 conferences, and as Faculty Advisor for the ACL 2007 Student Research Workshop.
 
 #### Candidacy Statement
 
