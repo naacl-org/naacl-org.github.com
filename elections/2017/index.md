@@ -118,7 +118,7 @@ Fifteen years have passed since ACL established the best paper award, which reco
 Additional nominations:
 -----------------------
 
-Additional nominations can be submitted until October 31, 2016. To make a nomination, three or more NAACL members should send email to colin.a.cherry@gmail.com, the NAACL secretary, expressing support for the nominee and giving evidence that he or she will serve if elected. (It is recommended that this evidence consist of a forwarded email from the nominee containing a candidate statement, a biographical sketch, homepage URL, and a brief affirmation of intent to serve if elected.) In addition, the nominees for Chair should meet the criteria set out in the NAACL constitution.
+Additional nominations can be submitted until October 31, 2016. To make a nomination, three or more NAACL members should send email to colin.a.cherry@gmail.com, the NAACL secretary, expressing support for the nominee and giving evidence that he or she will serve if elected. (It is recommended that this evidence consist of a forwarded email from the nominee containing a candidate statement, a biographical sketch, homepage URL, and a brief affirmation of intent to serve if elected.) In addition, the nominees for Chair should meet the criteria set out in the NAACL [constitution](http://naacl.org/policies/constitution.html).
 
 Election process:
 -----------------
