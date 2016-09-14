@@ -129,13 +129,12 @@ Many thanks to the Nominating Committee for doing the hard work of putting toget
 
 Nominating committee for the 2017 elections:
 
--   Dan Gildea (chair)
--   Chris Callison-Burch
--   David Chiang
--   Mona Diab
--   Katrin Erk
--   Julia Hirschberg
--   Chris Manning
--   Anoop Sarkar
+- Mona Diab (chair)
+- Rebecca Hwa
+- Anoop Sarkar
+- Katrin Erk
+- Julia Hirschberg
+- Michael White
+- Eduard Hovy
 
 For more information about the NAACL, NAACL officer responsibilities, and NAACL election procedures, please see the [NAACL home page](http://naacl.org), and the NAACL constitution, which is available there.
