@@ -1,0 +1,88 @@
+Dear NAACL members,
+
+The Nominating Committee for the North American Chapter of the
+Association for Computational Linguistics (NAACL) has chosen the
+following candidates for the open positions on the NAACL board with
+two year terms beginning January 2017. Additional nominations can be
+made until October 31st, 2016.
+
+The names below appear in random order.
+
+Treasurer (one opening):
+
+* Matthew Stone
+  Rutgers University
+  https://www.cs.rutgers.edu/~mdstone/
+
+* Joel Tetreault
+  Grammarly
+  http://www.cs.rochester.edu/~tetreaul/
+
+Board Member (two openings):
+
+* Philip Resnik
+  University of Maryland
+  http://www.umiacs.umd.edu/~resnik/
+
+* Steven Bethard
+  University of Arizona
+  http://bethard.faculty.arizona.edu/
+
+* Ellen Riloff
+  University of Utah
+  http://www.cs.utah.edu/~riloff/
+
+* Vincent Ng
+  University of Texas at Dallas
+  http://www.hlt.utdallas.edu/~vince/
+
+Candidate statements will be posted at http://naacl.org/elections/2017/.
+
+Additional nominations:
+
+Additional nominations can be submitted until October 31st, 2016. To
+make a nomination, three or more NAACL members should send email to
+Colin Cherry (colin.a.cherry@gmail.com), the NAACL secretary,
+expressing support for the nominee and giving evidence that he or she
+will serve if elected. (It is recommended that this evidence consist
+of a forwarded email from the nominee containing a candidate
+statement, a biographical sketch, homepage URL, and a brief
+affirmation of intent to serve if elected.) In addition, the nominees
+for Chair should meet the criteria set out in the NAACL constitution.
+
+Election process:
+
+The voting period will begin once the final slate of candidates and
+voting instructions are announced (soon after October 31st, 2016),
+and is scheduled to close on December 15th, 2016.
+
+Many thanks to the Nominating Committee for doing the hard work of
+putting together an excellent slate of nominees.
+
+Nominating committee for the 2017 elections:
+
+* Mona Diab (chair)
+* Rebecca Hwa
+* Anoop Sarkar
+* Katrin Erk
+* Julia Hirschberg
+* Michael White
+* Eduard Hovy
+
+For more information about the NAACL, NAACL officer responsibilities,
+and NAACL election procedures, please see the NAACL home page
+(http://naacl.org/) and the NAACL constitution
+(http://naacl.org/policies/constitution.html).
+
+Lapsed Members:
+
+If you were a member of the NAACL last year or the year before and
+wish to participate in these elections, please renew your membership
+for 2016 and you will also receive instructions to vote in this
+election.
+
+Sincerely,
+
+Colin Cherry
+NAACL Secretary
+(colin.a.cherry@gmail.com)
