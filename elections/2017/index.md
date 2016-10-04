@@ -120,6 +120,37 @@ Additional nominations:
 
 Additional nominations can be submitted until October 31, 2016. To make a nomination, three or more NAACL members should send email to the NAACL secretary, Colin Cherry at [colin.a.cherry@gmail.com](mailto:colin.a.cherry@gmail.com), expressing support for the nominee and giving evidence that he or she will serve if elected. (It is recommended that this evidence consist of a forwarded email from the nominee containing a candidate statement, a biographical sketch, homepage URL, and a brief affirmation of intent to serve if elected.) In addition, the nominees for Chair should meet the criteria set out in the NAACL [constitution](http://naacl.org/policies/constitution.html).
 
+<a name="amendment"> </a>
+
+Proposed Constitutional Amendment:
+----------------------------------
+
+In light of the growth of our research community, and in order to
+create a larger pool of candidates for the office of Chair of the
+NAACL Board, the NAACL Board proposes a constitutional amendment,
+changing Article 5, Section 1 of the constitution to increase the
+number of NAACL board members from 4 to 5, as shown below.  If this
+amendment is approved by the membership during this year's elections,
+it will take effect with the following election cycle.
+
+>The administration of the Chapter shall be conducted by the Chapter
+>Board, which shall consist of a Chair, a Secretary, a Treasurer, the
+>most recent past Chair (provided he or she completed a term of duty),
+>and ~~four (4)~~ **five (5)** Board members. All these persons shall
+>be Chapter Members, as defined in Article 4. Except for the past
+>Chair they shall be elected by the Chapter Members for a two-year
+>term of office. The Treasurer of the ACL shall ex-officio be a member
+>of the Chapter Board. If vacancies occur, the Chapter Board shall
+>appoint replacements, subject to approval by the Association
+>Executive Committee, to serve until the next election. Except for the
+>Treasurer, no Board member shall serve more than two (2) terms in any
+>single elected office, and no more than three (3) terms in any
+>elected office. The Treasurer may serve for a maximum of ten (10)
+>years in that position, subject to the satisfaction of the Board, the
+>Members, and the Association Executive Committee. After the first
+>Chair, every Chair must have served on the Board for at least one
+>year during the past five years.
+
 Election process:
 -----------------
 
