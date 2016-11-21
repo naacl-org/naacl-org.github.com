@@ -1,5 +1,4 @@
 ---
-
 layout: default
 title: NAACL Officers 2016
 root: ../
