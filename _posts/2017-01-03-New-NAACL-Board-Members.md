@@ -16,4 +16,4 @@ Thanks to Matt Post and Fei Xia, who have finished their service on the NAACL ex
 
 [Take a look at the 2017 NAACL Board »]({{ site.baseurl }}/officers/officers-2017.html)
 
-[Take a look at the ammended constitution »]({{ site.baseurl }}/policies/constitution.html)
+[Take a look at the amended constitution »]({{ site.baseurl }}/policies/constitution.html)
