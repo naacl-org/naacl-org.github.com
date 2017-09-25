@@ -1,0 +1,102 @@
+Dear NAACL members,
+
+The Nominating Committee for the North American Chapter of the
+Association for Computational Linguistics (NAACL) has chosen the
+following candidates for the open positions on the NAACL board with
+two year terms beginning January 2018. Additional nominations can be
+made until October 31st, 2017.
+
+Note that as per last year’s constitutional ammendment, this year, we
+will add three board members to the board, bringing the total number
+of board members up to five.
+
+The names below appear in random order.
+
+Chair (one opening):
+
+* Julia Hockenmaier
+  University of Illinois at Urbana-Champaign
+  http://juliahmr.cs.illinois.edu/
+
+Secretary (one opening):
+
+* Matthew Stone
+  Rutgers University
+  https://www.cs.rutgers.edu/~mdstone/
+
+* Colin Cherry
+  National Research Council Canada
+  https://sites.google.com/site/colinacherry/
+
+Board Member (three openings):
+
+* Marie-Catherine de Marneffe
+  Ohio State University
+  http://www.ling.ohio-state.edu/~demarneffe.1/
+
+* Marilyn Walker
+  University of California at Santa Cruz
+  https://users.soe.ucsc.edu/~maw/
+
+* Luke Zettlemoyer
+  University of Washington
+  https://www.cs.washington.edu/people/faculty/lsz
+
+* Smaranda Muresan
+  Columbia University
+  http://www.cs.columbia.edu/~smara/
+
+* Aline Villavicencio
+  Federal University of Rio Grande do Sul
+  http://www.inf.ufrgs.br/~avillavicencio/
+  
+
+Candidate statements will be posted at http://naacl.org/elections/2018/.
+
+Additional nominations:
+
+Additional nominations can be submitted until October 31st, 2017. To
+make a nomination, three or more NAACL members should send email to
+Colin Cherry (colin.a.cherry@gmail.com), the NAACL secretary,
+expressing support for the nominee and giving evidence that he or she
+will serve if elected. (It is recommended that this evidence consist
+of a forwarded email from the nominee containing a candidate
+statement, a biographical sketch, homepage URL, and a brief
+affirmation of intent to serve if elected.) In addition, the nominees
+for Chair should meet the criteria set out in the NAACL constitution.
+
+Election process:
+
+The voting period will begin once the final slate of candidates and
+voting instructions are announced (soon after October 31st, 2017),
+and is scheduled to close on December 15th, 2017.
+
+Many thanks to the Nominating Committee for doing the hard work of
+putting together an excellent slate of nominees.
+
+Nominating committee for the 2018 elections:
+
+* Katrin Erk (chair)
+* Julia Hirschberg
+* Michael White
+* Eduard Hovy
+* Matt Post
+* Fei Xia
+
+For more information about the NAACL, NAACL officer responsibilities,
+and NAACL election procedures, please see the NAACL home page
+(http://naacl.org/) and the NAACL constitution
+(http://naacl.org/policies/constitution.html).
+
+Lapsed Members:
+
+If you were a member of the NAACL last year or the year before and
+wish to participate in these elections, please renew your membership
+for 2017 and you will also receive instructions to vote in this
+election.
+
+Sincerely,
+
+Colin Cherry
+NAACL Secretary
+(colin.a.cherry@gmail.com)
