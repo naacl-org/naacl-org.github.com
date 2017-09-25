@@ -4,7 +4,7 @@ title: "Candidate Statements for 2018 NAACL Board Elections"
 root: ../../
 ---
 
-The Nominating Committee for the North American Chapter of the Association for Computational Linguistics (NAACL) has chosen the following candidates for the open positions on the NAACL board with two year terms beginning January 2018. Note that as per last year's constitutional ammendment, this year, we will add __three__ board members to the board, bringing the total number of board members up to five.
+The Nominating Committee for the North American Chapter of the Association for Computational Linguistics (NAACL) has chosen the following candidates for the open positions on the NAACL board with two year terms beginning January 2018. Note that as per last year's constitutional amendment, this year, we will add __three__ board members to the board, bringing the total number of board members up to five.
 
 Additional nominations can be made until October 31, 2017. The voting period will begin once the final slate of candidates and voting instructions are announced (soon after October 31st, 2017), and is scheduled to close on December 15th, 2017.
 
@@ -51,7 +51,7 @@ Matthew Stone is Professor of Computer Science at Rutgers, the State University 
 
 #### Candidacy Statement
 
-Despite constant changes in the way computational linguistics research is carried out, evaluated, and disseminated, NAACL (and ACL) have maintained a stellar record of supporting the community and nuturing the field. The secretary is responsible for communications at the organization and so plays a particularly important part in these activities, notably in outreach efforts that can broaden participation, engage students and break down disciplinary barriers.  I’m excited to help push these activities forward.  
+Despite constant changes in the way computational linguistics research is carried out, evaluated, and disseminated, NAACL (and ACL) have maintained a stellar record of supporting the community and nurturing the field. The secretary is responsible for communications at the organization and so plays a particularly important part in these activities, notably in outreach efforts that can broaden participation, engage students and break down disciplinary barriers.  I’m excited to help push these activities forward.  
 
 At the same time, our marquee activity is a conference that most participants fly to.  We have a big carbon footprint.  I’d like to discuss ways we might deepen the diverse program of collocated events we offer, so conference attendance can substitute for other travel.  In tandem, as secretary, I’d explore online infrastructure and resources that could make the organization more effective at supporting our members, and promoting computational linguistics, anywhere anytime.
 
