@@ -31,7 +31,7 @@ Secretary (one opening):
 Board Member (three openings):
 
 * Marie-Catherine de Marneffe
-  Ohio State University
+  The Ohio State University
   http://www.ling.ohio-state.edu/~demarneffe.1/
 
 * Marilyn Walker
@@ -49,7 +49,10 @@ Board Member (three openings):
 * Aline Villavicencio
   Federal University of Rio Grande do Sul
   http://www.inf.ufrgs.br/~avillavicencio/
-  
+
+* Joyce Chai
+  Michigan State University
+  http://www.cse.msu.edu/~jchai/  
 
 Candidate statements will be posted at http://naacl.org/elections/2018/.
 
