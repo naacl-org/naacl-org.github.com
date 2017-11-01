@@ -61,7 +61,7 @@ At the same time, our marquee activity is a conference that most participants fl
 
 #### Bio
 
-Colin Cherry is a Senior Research Officer at the National Research Council Canada. Previously, he was a Researcher at Microsoft Research. He received his Ph.D. in Computing Science from the University of Alberta. His primary research area is machine translation, but he has also been known to venture into parsing, morphology and information extraction. He is currently secretary for the NAACL and an action editor for the Transactions of the ACL. He has recently served as workshop co-chair for HLT-NAACL 2012, as publications co-chair for HLT-NAACL 2013, on the editorial board of Computational Linguistics from 2013 to 2015, and as machine translation area co-chair for ACL 2014 and IJCNLP 2017.
+Colin Cherry is a Research Scientist at Google. Previously, he has worked at National Research Council Canada and Microsoft Research. He received his Ph.D. in Computing Science from the University of Alberta. His primary research area is machine translation, but he has also been known to venture into parsing, morphology and information extraction. He is currently secretary for the NAACL and an action editor for the Transactions of the ACL. He has recently served as workshop co-chair for HLT-NAACL 2012, as publications co-chair for HLT-NAACL 2013, on the editorial board of Computational Linguistics from 2013 to 2015, and as machine translation area co-chair for ACL 2014 and IJCNLP 2017.
 
 #### Candidacy Statement
 
