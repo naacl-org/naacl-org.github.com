@@ -9,12 +9,12 @@ root: ../
 Officers
 --------
 
-|            |                  |                                  |           |
-|------------|------------------|----------------------------------|-----------|
-| Chair      | Julia Hockenmaier| University of Illinois           | 2018-2019 |
-| Secretary  | Colin Cherry     | National Research Council Canada | 2018-2019 |
-| Treasurer  | Joel Tetreault   | Yahoo Labs                       | 2017-2018 |
-| Past Chair | Emily M. Bender  | University of Washington         | 2018-2019 |
+|            |                  |                           |           |
+|------------|------------------|---------------------------|-----------|
+| Chair      | Julia Hockenmaier| University of Illinois    | 2018-2019 |
+| Secretary  | Colin Cherry     | Google                    | 2018-2019 |
+| Treasurer  | Joel Tetreault   | Grammarly                 | 2017-2018 |
+| Past Chair | Emily M. Bender  | University of Washington  | 2018-2019 |
 
 
 Executive Board
@@ -62,7 +62,7 @@ Boy, do we live in exciting times! Since NLP has joined the deep learning revolu
 In particular, I would like to make sure that our conferences remain events that make it possible for newcomers and established members to meet, interact, and, well, form a community that they want to be a part of. It goes without saying that this should include anybody from the wide range of intellectual, national, and personal backgrounds that (NA)ACL attracts, regardless of whether they are students, faculty, government or industry researchers, or whether they consider themselves computational linguists or machine learning people, or which part of the Americas (or the rest of the world) they reside in. I would also like to strengthen relations with our neighboring disciplines, so that we can share best practices, e.g. for how to maintain double-blind reviewing standards when preprints have become pervasive, or for how to handle the glut of submissions we have to handle.
 I would also like to strengthen the education and outreach work NAACL does through its Emerging Regions Fund and the scholarships for the Jelinek Summer Schools. Finally, as the technologies we create become increasingly commodified, and receive more and more attention in the popular press, I believe that our community has an increasing responsibility to inform the general public both of the actual capabilities of the systems we create, and of the ethical issues that may arise in their deployment. I would like (NA)ACL to promote the exchange and dissemination of ideas around these topics.
 
-Secretary (2018-2019) | [Colin Cherry](https://sites.google.com/site/colinacherry/) | Google Montreal
+Secretary (2018-2019) | [Colin Cherry](https://sites.google.com/site/colinacherry/) | Google
 -------------------------------------------------
 
 <img src="images/ColinProfile.jpg" title="Colin Cherry" alt="Colin Cherry" height="150" />
@@ -81,7 +81,7 @@ As a board member, I would also like to continue to make our conferences family 
 
 I have greatly enjoyed my time as NAACL Secretary, and I sincerely hope you’ll give me the chance to serve for another two years.
 
-Treasurer (2017-2018) | [Joel Tetreault](http://www.cs.rochester.edu/~tetreaul/) | Yahoo Labs
+Treasurer (2017-2018) | [Joel Tetreault](http://www.cs.rochester.edu/~tetreaul/) | Grammarly
 ------------------------
 
 <img src="images/Joel.jpg" title="Joel Tetreault" alt="Joel Tetreault" height="150" />
