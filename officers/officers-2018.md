@@ -33,9 +33,9 @@ Executive Board
 Ex-Officio Board Members
 ------------------------
 
-|              |                       |               |
-|--------------|-----------------------|---------------|
-| Graeme Hirst | University of Toronto | ACL Treasurer |
+|               |                       |                          |           |
+|---------------|-----------------------|--------------------------|-----------|
+| ACL Treasurer | David Yarowsky        | Johns Hopkins University | 2018-2022 |
 
 Nominating Committee
 --------------------
