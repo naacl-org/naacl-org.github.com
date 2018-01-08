@@ -17,4 +17,4 @@ and joining the board as the new ACL treasurer, we have:
 
 Thanks to Hal Daumé III and Graeme Hirst, who have finished their service on the NAACL executive board, and to the nominating committee, chaired by Katrin Erk. Thanks also to everyone who voted in this year's NAACL Board elections.
 
-[Take a look at the 2017 NAACL Board »]({{ site.baseurl }}/officers/officers-2018.html)
+[Take a look at the 2018 NAACL Board »]({{ site.baseurl }}/officers/officers-2018.html)
