@@ -19,7 +19,7 @@ There is a Google Group related to NAACL activites in South America: [NAACL-Lati
 
 <p>
 <ul>
-{% for year in (2013..2017) reversed %}
+{% for year in (2013..2018) reversed %}
 
 <li>
 <a href="{{ site.baseurl }}/calls/emerging_regions/{{ year }}/index.html">{{ year }} Emerging Regions CFP</a>
@@ -60,7 +60,7 @@ Hay un grupo en Google relacionado con actividades en América Latina: [NAACL-La
 
 <p>
 <ul>
-{% for year in (2013..2017) reversed %}
+{% for year in (2013..2018) reversed %}
 
 <li>
 <a href="{{ site.baseurl }}/calls/emerging_regions/{{ year }}/index.html">Convocatoria {{ year }} del Fondo para Regiones Emergentes</a>
@@ -88,7 +88,7 @@ Há um grupo do Google relacionado às atividades da NAACL na América do Sul: [
 
 <p>
 <ul>
-{% for year in (2013..2017) reversed %}
+{% for year in (2013..2018) reversed %}
 
 <li>
 <a href="{{ site.baseurl }}/calls/emerging_regions/{{ year }}/index.html">Chamada de {{ year }} para Regiões Emergentes</a>
