@@ -16,7 +16,7 @@ __What does the scholarship cover?__ The NAACL scholarship is used to support un
 
 __Who can apply for this scholarship?__ Students must be enrolled or pre-enrolled at an institution in the Americas to qualify. Preference will be given to high-quality undergraduate students at a stage in their careers during which attendance at the summer school will provide maximum benefit; in particular, undergraduates who have completed at least their junior year of study. Graduate and Postdoctoral applications will not be accepted. Students who are selected for the summer school are expected to attend all two weeks of the summer school.
 
-__How do I apply for this scholarship?__ Easy! Fill in the form at [https://goo.gl/forms/BY6BEvg0KGGyaM3x2](https://goo.gl/forms/BY6BEvg0KGGyaM3x2) and arrange for one to two short letters of reference to be sent to [naacl-jhu-workshop@googlegroups.com](mailto:naacl-jhu-workshop@googlegroups.com) by __Monday, April 30, 2018__.
+__How do I apply for this scholarship?__ Easy! Fill in the form at [https://goo.gl/forms/sGj8lyc5IJ5rMHfE3](https://goo.gl/forms/sGj8lyc5IJ5rMHfE3) and arrange for one to two short letters of reference to be sent to [naacl-jhu-workshop@googlegroups.com](mailto:naacl-jhu-workshop@googlegroups.com) by __Monday, April 30, 2018__.
 
 ### Important Dates:
 
