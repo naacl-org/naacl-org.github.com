@@ -70,7 +70,7 @@ I have two goals in joining the NAACL executive board. First, I would like to wo
 
 <a name="Villavicencio"> </a>
 
-### [Aline Villavicencio](http://www.inf.ufrgs.br/~avillavicencio/)
+### [Aline Villavicencio](https://sites.google.com/view/alinev/)
 
 #### Bio
 
