@@ -1,7 +1,7 @@
 
 <div class="more">
 <ul class="navigate">
-    {% for year in (2000..2018) %}
+    {% for year in (2000..2019) %}
     <li><a href="{{ root }}officers-{{ year }}.html">{{ year }}</a></li>
     {% endfor %}
     <li><a href="{{ root }}index.html">All</a></li>
