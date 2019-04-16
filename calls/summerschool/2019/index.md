@@ -25,11 +25,11 @@ specialized research topics of current interest in the field.
 
 __What does the scholarship cover?__ The NAACL scholarship is used to support
 undergraduate students from the Americas to participate in the __two-week summer
-school__. Specifically, it covers the mandatory registration for the full
-duration. In addition, up to $1,250 will be given to the student to offset the
-costs of travel and accomodations. Additional travel support may be available
-for students with exceptionally high travel costs. Meals and other incidental
-expenses are not covered.
+school__. Specifically, it covers the mandatory registration and housing costs
+for the full duration. In addition, up to $500 USD will be given to the student
+to offset travel costs. Additional travel support may be available for students
+with exceptionally high travel costs. Meals and other incidental expenses are
+not covered.
 
 __Who can apply for this scholarship?__ Students must be enrolled or
 pre-enrolled at an institution in the Americas to qualify. Preference will be
@@ -78,11 +78,7 @@ __Notification date:__ Friday, May 10, 2019
 **A:** Yes, the deadline is strict and it applies to the entire application package.
 
 **Q:** What does the scholarship include?
-**A:** Some of the scholarship is paid directly to the JSALT summer school to
-cover registration. Furthermore, up to \$1,250 is available to cover travel costs
-and accommodations. Accommodations may be provided by the summer school (this
-will be determined soon, before this scholarship’s notification date), in which
-case only $500 will be reimbursed for travel.
+**A:** Most of the scholarship is paid directly to the JSALT summer school to cover registration and housing. Furthermore, up to $500 USD is available to cover travel costs.
 
 **Q:** What application materials should I submit?
 **A:** The application includes the web form linked above, plus 1–2 reference letters.
