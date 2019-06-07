@@ -15,6 +15,6 @@ As a chapter of the ACL, NAACL follows the [ACL Anti-Harassment Policy](https://
 >
 >**Implementation**
 >
->This policy should be posted prominently on all ACL conference and workshop webpages, with a notice of a list of people who can be contacted by community members with concerns or complaints, which will be forwarded to the Professional Conduct Committee for investigation.
+>This policy should be posted prominently on all ACL conference and workshop webpages, with a notice of a list of people who can be contacted by community members with concerns or complaints, which will be forwarded to the [Professional Conduct Committee](https://aclweb.org/adminwiki/index.php?title=Professional_Conduct_Committee) for investigation.
 
 At NAACL conference and workshops,  any participant who experiences harassment or hostile behavior may contact any current member of the [NAACL Board](/officers/) or the [ACL Executive Committee](https://www.aclweb.org/portal/about) or contact [Priscilla Rasmussen](mailto:acl@aclweb.org), who is usually available at the registration desk of the conference. Members of both executive committees will be instructed to keep any such contact in strict confidence, and those who approach the committee will be consulted before any actions are taken.
