@@ -67,7 +67,7 @@ Minutes from NAACL Board Meeting
 - TODO: Discuss this and nail down a policy later in this board meeting.
 
 ### NAACL 2018 Program Committee (Heng Ji and Amanda Stent)
--As a field was can do better than TPMS for assigning reviewers.
+- As a field was can do better than TPMS for assigning reviewers.
   - We need to be able to have area chairs assign papers to reviewers that they don’t know.
 - May also need tools for checking for submission overlap with TACL and other organizations.
 - We should be able to find near-duplicate submissions.
@@ -75,8 +75,8 @@ Minutes from NAACL Board Meeting
 - Need to start collecting guest blog posts for the chairs blog.
 - Going to put detailed howto notes on their process into the ACL wiki.
 - Started tracking reviewer and chair demographics.
-  - 72 area chairs, 2/3 male,1/3 female.
-  - 2/3 of reviewer pool is less than 0-4 years out of their PhD.
+  - 72 area chairs, 2/3 male, 1/3 female.
+  - 2/3 of reviewer pool is less than 0 to 4 years out of their PhD.
   - Purposely excluded PhD students - this seems very controversial to me (Colin).
 - Many of the 6s handed out were for arXiv papers.
 - Philip: The fact that you think you can guess is an indicator of how mature / familiar you are in your field.
@@ -102,10 +102,10 @@ Minutes from NAACL Board Meeting
   - We are getting complaints about that.
   - David: Competing against arXiv - broader pool is in our interest
   - Philip: In our field it’s important to emphasize that we have a very selective conference. Don’t want to get to the point where people don’t have journal papers, but also don’t have papers at a “selective conference”
-  -Amanda: Interspeech has a higher acceptance rate.
-  -Emily: COLING has an acceptance rate of 37%
-  -Philip: If there is an A / B distinction in conferences, then NAACL needs to be retain an A status
-  -Amanda: H-index is a much better measure for conference quality than acceptance rate.
+  - Amanda: Interspeech has a higher acceptance rate.
+  - Emily: COLING has an acceptance rate of 37%
+  - Philip: If there is an A / B distinction in conferences, then NAACL needs to be retain an A status
+  - Amanda: H-index is a much better measure for conference quality than acceptance rate.
 -Joeal: Conference acceptance rates: https://aclweb.org/aclwiki/Conference_acceptance_rates
 
 ### New initiatives at NAACL 2018 (Marilyn Walker)
@@ -149,9 +149,9 @@ Minutes from NAACL Board Meeting
 - Priscilla: Provide a little more advice on how to put together a good application (emphasize the importance of registering to the conference).
 - Consensus seems to be that there is no call to do something drastic, like only hold the conference in Canada.
 - Emily: There is a fair amount of chatter on social media about people not being able to attend.
-- TODO: we should make a thoughtful statement indicating that we are thinking about immigration issues.
+- TODO: We should make a thoughtful statement indicating that we are thinking about immigration issues.
 - Elen: When people are their visas rejected, are we giving them the possibility to do a remote presentation?
-- TODO: :Look into viability of remote presentations when people cannot attend.
+- TODO: Look into viability of remote presentations when people cannot attend.
 
 ### Conference Costs and Statistics (Priscilla)
 - 80% of registrations are early.
