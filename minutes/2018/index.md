@@ -362,3 +362,88 @@ Jason Eisner: How is the new anonymity policy working out?
 Decisions made over e-mail
 --------------------------
 
+=== ACL 2020 Coordinating Committee
+- Committee to advise on the location and organization of ACL 2020 in North America
+- Members for 2018: Joel, Colin, Julia (January 10, 2018)
+
+=== Honoring Aravind Joshi (February, 2018)
+- Discussion of how to honor Aravind Joshi's passing at NAACL 2019
+- Idea of using clips from the interview Joel did earlier
+- David suggested to bring the idea of honoring all ACL fellows who have past each year to the ACL exec
+
+=== Event Funding (March, 2018)
+- Motion: NAACL will allocate the following funds to the following events in 2018.
+  - NAACL Emerging Regions Fund (ERF): \$3,000.00
+  - NAACL Summer School Scholarship at the Jelinek Memorial Workshop On Speech And Language Technology (JSALT): \$10,000.00
+  - North American Computational Linguistics Olympiad (NACLO): \$5,000.00
+- 10 yes, 0 no, motion passes.
+
+=== Area chair approval by exec (March, 2018)
+- This same issue was raised in 2017, and came up again in 2018
+- The ACL conference handbook states that area chairs should be proposed by the program chairs and approved by the exec
+- We again decided to ignore this rule
+- Julia contacted the ACL to have the handbook change to match what people are actually doing
+  - It turns out that it was actually an outdated page
+
+=== naacl.org up for renewal (April, 2018)
+- Colin proposed to renew naacl.org for 9 year, approved without a formal vote after a very positive discussion amongst the board
+- Details:
+  - Domain Name Renewal: naacl.org: \$314.91
+  - +Web Forwarding for Domain Name naacl.org: \$116.91 
+  - Total: \$431.82 
+  - Service: networksolutions.com
+
+=== WiNLP and early registration (April, 2018)
+- 4 questions came in from WiNLP:
+  - Could we extend the early registration period by a few days? 
+    WiNLP and the student volunteer committee sent their notifications 
+    with only one weekend for participants to take advantage of the early 
+    registration fee.
+  - Can NAACL can offer to cover registration fees (workshop or conference) 
+    for a small number of participants?
+  - Can we instruct authors from developing countries to register with 
+    student pricing even if they are not students anymore (we will verify 
+    the locations against the list provided by the ACL membership site)
+  - For participants who cannot front the money for registration, we would 
+    like to have a procedure for them to register by using the WiNLP existing 
+    funding. Should they register and mark payment as wire transfer which 
+    will be completed from the WiNLP account?
+- Led to an extremely lengthy discussion, where the end result was to leave 
+  the decision up to the GC, with the likely action being that 9 WiNLP 
+  attendees would be allowed to register with delayed payment, and would
+  be charged using the early student rate as a special case.
+- The boards official position is that this should be seen as an exception, 
+  not as a general policy or a precedent for other or future conferences
+- TODO: Make an NAACL (or ACL) level policy on how to make our conferences
+  more accessible and affordable
+
+=== NAACL 2019 General Chair
+- Jill Burstein selected as General Chair on May 25, 2018
+- Ted Pedersen as program co-chair on June 1, 2018
+- Christy Doran and Thamar Solorio as program co-chairs on June 7, 2018
+
+=== Board voting infrastructure/confidentiality (June, 2018)
+- At least one board member privately raised a concern about anonymity of internal votes
+- Current voting process either involves an email to the chair / secretary or filling out a Google form with your name
+- TODO: look into better voting infrastructure for small, anonymous votes
+
+=== NAACL Statement on visa issues (June, 2018)
+- Emily drafted a statement on visa issues in response community concerns
+- Ultimately shelved in favor of an ACL-level effort
+
+=== Accessibility concerns raised at business meeting (June 2018)
+- Email thread summarized the concerns raised during the NAACL business meeting about accessibility issues at the conference.
+- Concerete actions:
+  - Include an item on this for the post-conference survey
+  - Encourage the creation of an Accessibility Chair for the next NAACL
+
+=== Preparing to vote on a budget cushion (June, 2018)
+- Colin initiated a discussion on a budget cushion (minimum amount of cash funds to be held by NAACL before outlays)
+- Shelved momentarily due to there being higher-priority items to discuss
+
+=== Move board discussions from email to Slack? (June, 2018)
+- Jill raised the idea of starting an NAACL slack channel
+- Discussed among the board, with little sign of support
+  - People are happy with email
+  - Concerns about Slack's conversational style, and adding another channel to track
+- Idea was dropped without a vote
