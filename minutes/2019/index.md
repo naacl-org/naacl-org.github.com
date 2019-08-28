@@ -386,18 +386,18 @@ Decisions made over e-mail
 ### Trigger warning for semeval poster (April 2019)
 - Jon raised the following issue:
   - SemEval has two tasks dealing with offensive speech and hate speech and I'm noticing that the proceedings and, ostensibly, subsequent posters, thus contain(s)/will contain lots of language that, if I was randomly walking around in a Minneapolis hotel, I wouldn't expect to see and might be concerned about my children seeing. If I was prepared ahead of time I'd be less shocked and I expect others may feel the same way.
-  - Asked about possibility of signs in addition to SemEval's actions to request authors to carefully choose examples
-  - Priscilla indicated that signage is quite do-able, issue went offline
+- Asked about possibility of signs in addition to SemEval's actions to request authors to carefully choose examples
+- Priscilla indicated that signage is quite do-able, issue went offline
 
 ### NAACL 2021 Location (May 2019)
 - Motion: NAACL 2021 will be held in: 
   - Mexico City, June 6-11, 2021
   - Cancun, June 9-14, 2021
-- Results: Mexico City - 9, Cancun - 1
+- Results: Mexico City 9, Cancun 1
 
 ### Concern Regarding COI in Reviewing (July 2019)
 - Raised by Graham
-- Prompted by a post by (Katharina Kann)[https://cs.nyu.edu/~kann/documents/relationshipsinnlp.pdf)
+- Prompted by [a post by Katharina Kann](https://cs.nyu.edu/~kann/documents/relationshipsinnlp.pdf)
 - Julia/Emily assured us that the ACL Exec is aware and already looking into better COI tracking and a registry for non-expiring COIs
 
 
