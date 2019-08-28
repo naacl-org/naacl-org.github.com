@@ -6,8 +6,8 @@ root: ../../
 
 Slides from NAACL 2018
 ---------------------
-- [NAACL 2016 Business Meeting](NAACL_2018_Business_Meeting_FINAL_VERSION.pdf) (Julia Hockenmaier)
-- [NAACL 2016 Treasurer Report Presentation](NAACL_2018_Treasurer_Report.pdf) (Joel Tetreault)
+- [NAACL 2018 Business Meeting](NAACL_2018_Business_Meeting_FINAL_VERSION.pdf) (Julia Hockenmaier)
+- [NAACL 2018 Treasurer Report Presentation](NAACL_2018_Treasurer_Report.pdf) (Joel Tetreault)
 
 ---
 
@@ -25,7 +25,7 @@ Minutes from NAACL Board Meeting
 - Joel Tetreault (Treasurer)
 - Colin Cherry (Secretary)
 - Philip Resnik (Board Member)
-- Ellen Riloff (BoardMember)
+- Ellen Riloff (Board Member)
 - Marie-Catherine de Marneffe (Board Member)
 - Marilyn Walker (Board Member)
 - Luke Zetttlemoyer (Board Member)
