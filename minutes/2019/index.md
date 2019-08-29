@@ -127,8 +127,7 @@ Minutes from NAACL Board Meeting
   - We have thus far provided services as needed. But D&I makes it more clear that we do this.
 - Emily: nursing room is very important for a nursing mother.
   - Marie: nursing room could be a hotel room - Priscilla says that could work.
-- Priscilla: contracted for assistance for site and hearing impaired attendees, but was able to get out of it.
-  - No one needed it this time around.
+- Priscilla: contracted for assistance for site and hearing impaired attendees, but was able to get out of it when no attendees required assistance.
 - Marie: post-conference survey, ask people what they found valuable and what they used?
 - Registration asked if you were planning to bring your child (yes, maybe, no). We followed up with everyone.
 - Priscilla: gender-neutral bathrooms and pronouns are easy. Stickers were also cheap and popular. Nickname on badge.
