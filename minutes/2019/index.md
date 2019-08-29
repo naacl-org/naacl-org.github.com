@@ -114,7 +114,7 @@ Minutes from NAACL Board Meeting
   - For EMNLP they did awards to reimburse childcare costs.
   - This year, we provided a childcare room with toys and books, etc.
     - Also stickers (cheap).
-    - Box at registration table with toys and games (small)
+    - Box at registration table with toys and games
     - Kids get to keep toys (avoids storing and shipping).
     - Expecting after conference: 
       - Reimbursing travel awardees will be the bulk of the costs.
