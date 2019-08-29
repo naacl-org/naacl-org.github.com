@@ -60,13 +60,10 @@ Minutes from NAACL Board Meeting
 
 ### JSALT Summer School Scholarship (Colin)
 - Funds drawn: \$5k for 3 students
-  - Registration: \$400
-  - Housing: \$500
-  - Travel: up to \$750 per student
 - 24 applicants
   - (surprising number of applications from English-as-a-second-Language-Learners)
 - Selected 3 students: Brazil, Peru and St. Louis
-- Distributed travel funds unevenly to accommodate some who had expenses well over $50
+- Distributed travel funds unevenly to accommodate some who had expenses well over \$500
 - Jon: Concerned about whether or not we are giving scholarships to the same schools as ERF
   - Same university in Peru, different university in Brazil.
 - TODO: Raise issue of whether we place a restriction on where you will be attending university next year
@@ -84,7 +81,7 @@ Minutes from NAACL Board Meeting
   - Julia: do we get reports on impact of ERF? JSALT?
     - A: Yes for ERF.
     - A: No for JSALT.
-- Example: $1000: 2-3 people to Lima plus corpus construction.
+- Example: \$1000: 2-3 people to Lima plus corpus construction.
 - Details in [slides](NAACL-2019-Emerging-Regions-Fund-Report.pdf).
 - ERF money goes quite far.
 - Lyn: What about who we turn down?
@@ -117,7 +114,7 @@ Minutes from NAACL Board Meeting
   - For EMNLP they did awards to reimburse childcare costs.
   - This year, we provided a childcare room with toys and books, etc.
     - Also stickers (cheap).
-    - Box at registration table with toys and games (\$300)
+    - Box at registration table with toys and games (small)
     - Kids get to keep toys (avoids storing and shipping).
     - Expecting after conference: 
       - Reimbursing travel awardees will be the bulk of the costs.
@@ -125,24 +122,23 @@ Minutes from NAACL Board Meeting
     - Priscilla thinks that childcare policy is very good.
 - Julia: BIG is concerned that D&I initiative has grown so large.
 - Emily: Shouldn’t focus on how many people are impacted (re: Prayer/Nursing room, general consensus on this)
-- Graham / David: Contrast this with the impact for \$1,000 at ERF.
 - Emily: If we have a deaf participant that wants sign interpreting, then you do sign interpreting, don’t you?
 - Priscilla: described existing volunteer effort to support a blind attendee, how we’ve supported deaf attendees in the past. 
   - We have thus far provided services as needed. But D&I makes it more clear that we do this.
 - Emily: nursing room is very important for a nursing mother.
   - Marie: nursing room could be a hotel room - Priscilla says that could work.
-- Priscilla: signed \$10,000 for assistance for site and hearing impaired attendees, but was able to get out of it.
+- Priscilla: contracted for assistance for site and hearing impaired attendees, but was able to get out of it.
   - No one needed it this time around.
 - Marie: post-conference survey, ask people what they found valuable and what they used?
 - Registration asked if you were planning to bring your child (yes, maybe, no). We followed up with everyone.
 - Priscilla: gender-neutral bathrooms and pronouns are easy. Stickers were also cheap and popular. Nickname on badge.
 - Julia: D&I also raised some money, right? 
-  - A: \$6k from DeepMind and Google. 
+  - A: Yes
   - Spent on travel grants. Also reimbursing for toys and stickers.
 - Julia: what constraints are on conference organizers on what they can spend money on? 
   - A: for money that they raised, they can spend at will and get reimbursed.
 - Julia: cushion of money for D&I? 
-  - A: Priscilla put in $20k to support D&I.
+  - A: Funds to support D&I drawn from conference budget.
 - Jon: should this decision have gone through the board? 
   - A: this is a decision from Jill Burnstein (NAACL General Chair) on down.
 - Jon: would like to propose that we limit the number of simultaneous tracks.
@@ -161,10 +157,9 @@ Minutes from NAACL Board Meeting
 - Daivd: Could have an industrial rate? Based on size of the company.
 - Priscilla: ACL had discussion on a recruitment event with different costs based on the size of the company.
   - Graham: announce how many travel grants did each company sponsor?
-- Priscilla: \$168k in main conference sponsorship; this helps keep registration fees down. Supporting travel grants does not keep all costs down.
+- Priscilla: main conference sponsorship; this helps keep registration fees down. Supporting travel grants does not keep all costs down.
 - David: NAACL is not doing particularly well at sponsorship compared to EMNLP.
-- Priscilla: ACL: \$400k; EMNP: \$800k; NAACL: $167k. 
-  - Options are: 3-pack, 2-pack.
+- Priscilla: Options are: 3-pack, 2-pack.
   - Priscilla: lots of 2-packs for ACL and EMNLP.
   - One company did a 2-pack at platinum, bu silver for NAACL.
 - Luke: for top level, you have to be able to send a full booth. It’s not the money, it’s the people you need to send.
@@ -185,7 +180,7 @@ Minutes from NAACL Board Meeting
 
 ### Tutorial Renumeration (Priscilla)
 - The remuneration policy for tutorialists is based on the number of attendees.
-  - Paid one tutorial leader $20k under the old formula for 800 attendees.
+  - Old formula can result in very large payments for 100 or more attendees.
 - Luke: can you stop paying people to give tutorials.
 - Discussed and developed NAACL’s official proposal for how to deal with tutorial honorariums:
   - Free conference registration for two tutorial presenters. 
@@ -205,7 +200,6 @@ Minutes from NAACL Board Meeting
 - 90 onsite
 - Jon: Square versus hand-entry of credit card info for onsite?
 - Priscilla: current process is to hand over credit card and she runs it overnight; more secure
-- 385 females; 1,020 males
 - 978 US, 53 Canada. 624 international
 
 ### Treasurer’s report (Jon)
@@ -298,7 +292,7 @@ Minutes from NAACL Business Meeting
 *   Offered childcare grants instead of one-size-fits-all childcare.
 *   Had a kid’s corner; email list for caregivers.
     *   Had difficulty finding local childcare.
-*   $21K total in travel grants to 33 individuals (42 applicants after withdrawals).
+*   \$21K total in travel grants to 33 individuals (42 applicants after withdrawals).
     *   Late sponsorship -> expensive flights
     *   Sliding scale for registration fees?
     *   Most didn’t get the amount they wanted.
@@ -396,8 +390,7 @@ Decisions made over e-mail
 - Results: Mexico City 9, Cancun 1
 
 ### Concern Regarding COI in Reviewing (July 2019)
-- Raised by Graham
-- Prompted by [a post by Katharina Kann](https://cs.nyu.edu/~kann/documents/relationshipsinnlp.pdf)
+- Raised by Graham, prompted by discussion over social media
 - Julia/Emily assured us that the ACL Exec is aware and already looking into better COI tracking and a registry for non-expiring COIs
 
 

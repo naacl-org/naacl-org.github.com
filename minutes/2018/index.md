@@ -410,11 +410,11 @@ Decisions made over e-mail
     will be completed from the WiNLP account?
 - Led to an extremely lengthy discussion, where the end result was to leave 
   the decision up to the GC, with the likely action being that 9 WiNLP 
-  attendees would be allowed to register with delayed payment, and would
-  be charged using the early student rate as a special case.
-- The boards official position is that this should be seen as an exception, 
+  attendees would be allowed to register with delayed (wire transfer) payment, 
+  and would be charged using the early student rate as a special case.
+- The board's official position is that this should be seen as an exception, 
   not as a general policy or a precedent for other or future conferences
-- TODO: Make an NAACL (or ACL) level policy on how to make our conferences
+- TODO: Look into an NAACL (or ACL) level policy on how to make our conferences
   more accessible and affordable
 
 ### NAACL 2019 General Chair
