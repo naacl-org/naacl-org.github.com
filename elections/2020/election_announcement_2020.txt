@@ -1,0 +1,95 @@
+Dear NAACL members,
+
+The Nominating Committee for the North American Chapter of the
+Association for Computational Linguistics (NAACL) has chosen the
+following candidates for the open positions on the NAACL board with
+two year terms beginning January 2020. Additional nominations can be
+made until November 15th, 2019.
+
+The names below appear in random order.
+
+Chair (one opening):
+
+* Colin Cherry
+  Google
+  https://sites.google.com/site/colinacherry/
+
+Secretary (one opening):
+
+* Heng Ji
+  University of Illinois at Urbana-Champaign
+  http://blender.cs.illinois.edu/hengji.html
+
+* Steven Bethard
+  University of Arizona
+  https://bethard.faculty.arizona.edu/
+
+Board Member (three openings):
+
+* David Traum
+  University of Southern California Institute for Creative Technologies
+  http://people.ict.usc.edu/~traum/
+
+* Thamar Solorio
+  University of Houston
+  http://solorio.uh.edu/
+
+* Smaranda Muresan
+  Columbia University
+  http://www.cs.columbia.edu/~smara/
+
+* Aline Villavicencio
+  Federal University of Rio Grande do Sul (Brazil) and the University of Sheffield (UK)
+  https://sites.google.com/view/alinev/
+
+* Amittai Axelrod
+  DiDi Chuxing
+
+Candidate statements will be posted at http://naacl.org/elections/2020/
+
+Additional nominations:
+
+Additional nominations can be submitted until November 15th, 2019. To
+make a nomination, three or more NAACL members should send email to
+Emily Bender (ebender@uw.edu), the NAACL past-chair, expressing
+support for the nominee and giving evidence that he or she will serve
+if elected. (It is recommended that this evidence consist of a
+forwarded email from the nominee containing a candidate statement, a
+biographical sketch, homepage URL, and a brief affirmation of intent
+to serve if elected.) In addition, the nominees for Chair should meet
+the criteria set out in the NAACL constitution.
+
+Election process:
+
+The voting period will begin once the final slate of candidates and
+voting instructions are announced (soon after November 15th, 2019),
+and is scheduled to close on December 15th, 2019.
+
+Many thanks to the Nominating Committee for doing the hard work of
+putting together an excellent slate of nominees.
+
+Nominating committee for the 2020 elections:
+
+* Michael White (chair)
+* Eduard Hovy
+* Matt Post
+* Fei Xia
+* Hal Daumé III
+
+For more information about the NAACL, NAACL officer responsibilities,
+and NAACL election procedures, please see the NAACL home page
+(http://naacl.org/) and the NAACL constitution
+(http://naacl.org/policies/constitution.html).
+
+Lapsed Members:
+
+If you were a member of the NAACL last year or the year before and
+wish to participate in these elections, please renew your membership
+for 2019 and you will also receive instructions to vote in this
+election.
+
+Sincerely,
+
+Emily Bender
+NAACL Past-Chair
+(ebender@uw.edu)
