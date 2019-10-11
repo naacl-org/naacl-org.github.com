@@ -48,9 +48,9 @@ the NAACL board on track with its recurring responsibilities of conference
 organization and community outreach, second to act as a liaison between the
 NAACL and the ACL, and third to enable and amplify the great ideas of NAACL’s
 board members. As a chair candidate, my primary advantage is having served as
-secretary for two great chairs: Julia Hockenmaier and Emily Bender. Over the
-past four years, I have watched them do these things expertly, and if selected
-as chair I will endeavour to do the same.
+secretary for two great NAACL chairs. Over the past four years, I have watched
+them do these things expertly, and if selected as chair I will endeavour to do
+the same.
 
 In terms of a platform, I mostly offer continuity and stability. These are
 extraordinary times for natural language processing, and I have no illusions

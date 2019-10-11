@@ -51,7 +51,7 @@ Additional nominations:
 
 Additional nominations can be submitted until November 15th, 2019. To
 make a nomination, three or more NAACL members should send email to
-Emily Bender (ebender@uw.edu), the NAACL past-chair, expressing
+Emily Bender (ebender@uw.edu), the NAACL Past Chair, expressing
 support for the nominee and giving evidence that he or she will serve
 if elected. (It is recommended that this evidence consist of a
 forwarded email from the nominee containing a candidate statement, a
@@ -91,5 +91,5 @@ election.
 Sincerely,
 
 Emily Bender
-NAACL Past-Chair
+NAACL Past Chair
 (ebender@uw.edu)
