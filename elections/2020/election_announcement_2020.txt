@@ -38,12 +38,12 @@ Board Member (three openings):
   Columbia University
   http://www.cs.columbia.edu/~smara/
 
+* Amittai Axelrod
+  DiDi Chuxing
+
 * Aline Villavicencio
   Federal University of Rio Grande do Sul (Brazil) and the University of Sheffield (UK)
   https://sites.google.com/view/alinev/
-
-* Amittai Axelrod
-  DiDi Chuxing
 
 Candidate statements will be posted at http://naacl.org/elections/2020/
 
