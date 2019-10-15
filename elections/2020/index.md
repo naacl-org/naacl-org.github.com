@@ -246,7 +246,7 @@ infrastructure and it makes it harder for our community to mentor younger
 researchers and scale up our diversity efforts. If elected as a member of the
 NAACL board, I plan to make progress towards the following initiatives:
 
-I would like to explore alternatives to START for our conference submission
+- I would like to explore alternatives to START for our conference submission
 management system, for example, the one used by AAAI. In my experience as PC
 co-chair for NAACL 2019, and as observed in the follow-up conferences, START
 showed technical challenges supporting the number of submissions and
@@ -256,24 +256,24 @@ conference schedule, and app). This manual work makes the process error prone. I
 plan to invest efforts into improving this aspect by investigating other popular
 conference management systems.
 
-Design and launch a “mentor the reviewers” system so that well-seasoned
+- Design and launch a “mentor the reviewers” system so that well-seasoned
 reviewers can provide advice and mentorship to less-experienced reviewers to
 improve the overall quality of the review process while still allowing younger
 researchers and researchers new to NAACL to contribute to the process.
 
-Support initiatives like the WiNLP workshop to increase their visibility by
+- Support initiatives like the WiNLP workshop to increase their visibility by
 exploring ways in which some of the talks can be allocated space during the main
 conference event. For example, talks from previous WiNLP events, voted for by
 workshop attendees, can be invited to be presented at the main conference. In
 this way, awareness of very important issues presented at WiNLP can be broadcast
 to the wider NLP community.
 
-Explore a tiered registration cost to our conference so that large companies pay
-higher registration costs for their researchers, while researchers from places
-with low travel budgets and postdoctoral researchers pay fees closer to the
-student registration costs. This will keep the conference costs manageable while
-allowing more room to support researchers from underrepresented regions and
-institutions.
+- Explore a tiered registration cost to our conference so that large companies
+pay higher registration costs for their researchers, while researchers from
+places with low travel budgets and postdoctoral researchers pay fees closer to
+the student registration costs. This will keep the conference costs manageable
+while allowing more room to support researchers from underrepresented regions
+and institutions.
 
 <a name="Muresan"> </a>
 
