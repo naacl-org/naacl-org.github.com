@@ -316,7 +316,7 @@ raised during the discussion period besides the main points in the reviews.
 
 <a name="Axelrod"> </a>
 
-### Amittai Axelrod
+### [Amittai Axelrod](https://scholar.google.com/citations?user=MDNma1EAAAAJ)
 
 #### Bio
 
