@@ -70,11 +70,11 @@ putting together an excellent slate of nominees.
 
 Nominating committee for the 2020 elections:
 
-* Michael White (chair)
-* Eduard Hovy
-* Matt Post
+* Matt Post (chair)
 * Fei Xia
 * Hal Daumé III
+* Philip Resnik
+* Ellen Riloff
 
 For more information about the NAACL, NAACL officer responsibilities,
 and NAACL election procedures, please see the NAACL home page
