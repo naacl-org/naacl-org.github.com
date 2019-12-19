@@ -91,7 +91,7 @@ it continues in our community and in those of our neighbouring fields.
 Secretary (2020-2021) | [Heng Ji](http://blender.cs.illinois.edu/hengji.html) | University of Illinois at Urbana-Champaign
 --------------------------------------------------------------------------------------------------------------------------
 
-<img src="images/HengJiProfile.jpg" title="Heng Ji" alt="Heng Ji" height="150" />
+<img src="images/HengJiProfile.png" title="Heng Ji" alt="Heng Ji" height="150" />
 
 #### Bio
 
