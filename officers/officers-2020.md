@@ -14,7 +14,7 @@ Officers
 | Chair      | Colin Cherry     | Google                                     | 2020-2021 |
 | Secretary  | Heng Ji          | University of Illinois at Urbana-Champaign | 2020-2021 |
 | Treasurer  | Jonathan May     | University of Southern California / ISI    | 2019-2020 |
-| Past Chair | Julia Hockenmaier| University of Illinois                     | 2020-2021 |
+| Past Chair | Julia Hockenmaier| University of Illinois at Urbana-Champaign | 2020-2021 |
 
 
 Executive Board
@@ -170,7 +170,7 @@ I also have experience with ACL leadership positions. I’m finishing my tenure 
 
 I have plans for improving NAACL as treasurer while continuing the great work done by the current board. I’d like to increase sponsorship of registration fees, continue to support subsidized on-site childcare, continue to support NACLO to promote Computational Linguistics at the high school level, and, where possible, expand the previous board initiatives to support participation in emerging regions, particularly in Mexico, Central, and Southern America. These efforts will help increase diversity in conference attendees and ensure that we have the financial stability we need. However, I will continue the board’s policy of cautious and prudent spending to slowly grow our account to pre-2010 levels without sacrificing the great conference experience we all look forward to.
 
-Past Chair (2020-2021) | [Julia Hockenmaier](http://juliahmr.cs.illinois.edu/) | University of Illinois
+Past Chair (2020-2021) | [Julia Hockenmaier](http://juliahmr.cs.illinois.edu/) | University of Illinois at Urbana-Champaign
 -----------------------------------
 
 <img src="images/Julia_Hockenmaier.png" title="Julia Hockenmaier" alt="Julia Hockenmaier" height="150" />
