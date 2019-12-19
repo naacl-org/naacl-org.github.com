@@ -26,7 +26,7 @@ Executive Board
 | Board Member | Graham Neubig               | Carnegie Mellon University                 | 2019-2020 |
 | Board Member | Smaranda Muresan            | Columbia University                        | 2020-2021 |
 | Board Member | Thamar Solorio              | University of Houston                      | 2020-2021 |
-| Board Member | Aline Villavicencio         | Federal University of Rio Grande do Sul<br>and the University of Sheffield (UK) | 2020-2021 | 
+| Board Member | Aline Villavicencio         | Federal University of Rio Grande do Sul<br>and the University of Sheffield | 2020-2021 |
                                               
 
 Ex-Officio Board Members
@@ -383,7 +383,7 @@ while allowing more room to support researchers from underrepresented regions
 and institutions.
 
 
-Board Member (2020-2021) | [Aline Villavicencio](https://sites.google.com/view/alinev) | Federal University of Rio Grande do Sul (Brazil) and the University of Sheffield (UK)
+Board Member (2020-2021) | [Aline Villavicencio](https://sites.google.com/view/alinev) | Federal University of Rio Grande do Sul and the University of Sheffield
 ------------------------------------
 
 <img src="images/AlineVillavicencioProfile.jpg" title="Aline Villavicencio" alt="Aline Villavicencio" height="150" />
