@@ -388,6 +388,8 @@ Board Member (2020-2021) | [Aline Villavicencio](https://sites.google.com/view/a
 
 <img src="images/AlineVillavicencioProfile.jpg" title="Aline Villavicencio" alt="Aline Villavicencio" height="150" />
 
+#### Bio
+
 Aline Villavicencio is a Reader/Professor in Computer Science affiliated to the
 Federal University of Rio Grande do Sul (Brazil) and to the University of
 Sheffield (UK). Her research interests include lexical semantics,
