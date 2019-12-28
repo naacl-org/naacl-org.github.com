@@ -22,7 +22,7 @@ Executive Board
 
 |              |                             |                                            |           |
 |--------------|-----------------------------|--------------------------------------------|-----------|
-| Board Member | Joyce Chai                  | Michigan State University                  | 2019-2020 |
+| Board Member | Joyce Chai                  | University of Michigan                     | 2019-2020 |
 | Board Member | Graham Neubig               | Carnegie Mellon University                 | 2019-2020 |
 | Board Member | Smaranda Muresan            | Columbia University                        | 2020-2021 |
 | Board Member | Thamar Solorio              | University of Houston                      | 2020-2021 |
@@ -43,6 +43,8 @@ Nominating Committee
 - Hal Daumé III
 - Philip Resnik
 - Ellen Riloff
+
+The nominating committee for next year's 2021 elections will be: Hal Daumé III (chair), Philip Resnik, Ellen Riloff, Emily Bender, Marie-Catherine de Marneffe, Marilyn Walker and Luke Zettlemoyer.
 
 Chair (2020-2021) | [Colin Cherry](https://sites.google.com/site/colinacherry/) | Google
 ----------------------------------------------------------------------------------------
@@ -186,7 +188,7 @@ Boy, do we live in exciting times! Since NLP has joined the deep learning revolu
 In particular, I would like to make sure that our conferences remain events that make it possible for newcomers and established members to meet, interact, and, well, form a community that they want to be a part of. It goes without saying that this should include anybody from the wide range of intellectual, national, and personal backgrounds that (NA)ACL attracts, regardless of whether they are students, faculty, government or industry researchers, or whether they consider themselves computational linguists or machine learning people, or which part of the Americas (or the rest of the world) they reside in. I would also like to strengthen relations with our neighboring disciplines, so that we can share best practices, e.g. for how to maintain double-blind reviewing standards when preprints have become pervasive, or for how to handle the glut of submissions we have to handle.
 I would also like to strengthen the education and outreach work NAACL does through its Emerging Regions Fund and the scholarships for the Jelinek Summer Schools. Finally, as the technologies we create become increasingly commodified, and receive more and more attention in the popular press, I believe that our community has an increasing responsibility to inform the general public both of the actual capabilities of the systems we create, and of the ethical issues that may arise in their deployment. I would like (NA)ACL to promote the exchange and dissemination of ideas around these topics.
 
-Board Member (2019-2020) | [Joyce Chai](http://www.cse.msu.edu/~jchai/) | Michigan State University
+Board Member (2019-2020) | [Joyce Chai](http://www.cse.msu.edu/~jchai/) | University of Michigan
 ------------------------------------
 
 <img src="images/JoyceChai.jpeg" title="Joyce Chai" alt="Joyce Chai" height="150" />
