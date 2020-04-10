@@ -116,7 +116,69 @@ Há um grupo do Google relacionado às atividades da NAACL na América do Sul: [
 </ul>
 </p>
 
+Fonds NAACL pour les Régions Émergentes [3]
+---------------------------------------
+
+L'objectif du Fonds NAACL pour les Régions Émergentes est de renforcer la communauté de linguistique informatique en Amérique Latine, et d'améliorer les intéractions régionales entre les étudiants et les chercheurs partout dans les Amériques.
+
+NAACL reconnaît que chaque région a des besoins et des préoccupations spécifiques, et nous sommes donc ouverts à toute proposition, sous réserve que ces récompenses soient destinées à soutenir des individus, des institutions ou des événements situés dans les Amériques.
+
+Exemples de propositions qui pourraient aider à bâtir une communauté dans les Amériques:
+- Conférences ou ateliers régionaux
+- Cours de traitement du langage naturel (TAL) et de linguistique informatique (LI) dans les collèges et universités.
+- Participation des étudiants aux conférences, aux écoles d'été et aux compétitions de TAL/LI
+Le soutien financier pourra être utilisé pour du matériel, la diffusion / streaming, l'archivage / hébergement, voyages ou tout autre élément que les communautés pourraient trouver utile. D'autres propositions sont les bienvenues!
+
+Veuillez noter que ce fonds n'est pas destiné à soutenir le voyage des étudiants à la conférence principale NAACL-HLT, car un fonds distinct est disponible à cet effet. NAACL ne prendra pas en charge les voyages à destination ou en provenance de sites en dehors des Amériques.
+
+Les propositions seront évaluées par un comité composé de membres du conseil exécutif de NAACL. Les boursiers devront fournir un rapport a posteriori. Les propositions peuvent être soumises dans la langue de votre choix, à condition qu'une traduction en anglais soit également fournie. 
+
+### Appel à Propositions
+
+<p>
+<ul>
+{% for year in (2020..2020) reversed %}
+<li>
+<a href="{{ site.baseurl }}/calls/emerging_regions/{{ year }}/index.html">{{ year }} Appel à Propositions</a>
+</li>
+{% endfor %}
+</ul>
+</p>
+
+
+NAACL Emerging Regions-fonds [4]
+--------------------------------
+
+Het doel van het NAACL Emerging Regions-fonds is het versterken van de Computational Linguistics-gemeenschap in  Latijns-Amerika en het Caribisch Gebied, en het intensiveren van regionale interacties tussen studenten en onderzoekers overal in Amerika.
+
+NAACL erkent dat elke regio specifieke behoeften en zorgen heeft, en daarom staan we open voor een breed scala aan mogelijke voorstellen, op voorwaarde dat deze prijzen bedoeld zijn om individuen, instellingen of evenementen in geheel Amerika te ondersteunen.
+
+Voorbeelden van voorstellen die kunnen helpen bij het opbouwen van een gemeenschap:
+- Regionale conferenties of workshops
+- Natural Language Processing en Computational Linguistics lessen aan hogescholen en universiteiten in Latijns-Amerika en het Caribisch Gebied
+- Deelname van studenten aan conferenties, zomerscholen en NLP / CL-wedstrijden in Amerika.
+Financiële steun kan worden gebruikt voor materiaal, uitzending / streaming, archivering / hosting, reizen of iets anders dat gemeenschappen nuttig kunnen vinden. Andere voorstellen zijn welkom!
+
+Houd er rekening mee dat dit fonds niet bedoeld is om studentenreizen naar de belangrijkste NAACL-HLT-conferentie te ondersteunen, aangezien daarvoor een apart fonds beschikbaar is. NAACL biedt geen ondersteuning voor reizen van of naar locaties buiten Amerika.
+
+Voorstellen worden beoordeeld door een commissie bestaande uit leden van de NAACL Raad van Bestuur. Awardees moeten een post-facto rapport indienen. Voorstellen kunnen in elke gewenste taal worden ingediend, mits er ook een Engelse vertaling wordt verstrekt.
+
+### Oproep om voorstellen in te dienen
+
+<p>
+<ul>
+{% for year in (2020..2020) reversed %}
+<li>
+<a href="{{ site.baseurl }}/calls/emerging_regions/{{ year }}/index.html"> {{ year }} Oproep om voorstellen in te dienen</a>
+</li>
+{% endfor %}
+</ul>
+</p>
 
 [1] Thanks to Thamar Solorio for the Spanish translation.
 
 [2] Thanks to Thiago A. S. Pardo for the Brazilian Portuguese translation.
+
+[3] Thanks to Fred Blain for the French translation.
+
+[4] Thanks to João Sedoc for the Dutch translation.
