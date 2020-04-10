@@ -93,3 +93,26 @@ Veuillez noter que ce fonds n'est pas destiné à soutenir le voyage des étudia
 Les propositions seront évaluées par un comité composé de membres du conseil exécutif de NAACL. Les boursiers devront fournir un rapport a posteriori. Si vous avez des questions sur ce CFP, veuillez les envoyer à : naaclerf@googlegroups.com.
 
 Les propositions peuvent être soumises dans la langue de votre choix, à condition qu'une traduction en anglais soit également fournie. Le formulaire en ligne pour les soumissions est accessible ici: https://forms.gle/rXBnK7upTJgVYK4A8
+
+### NAACL Emerging Regions-fonds
+
+OPROEP OM VOORSTELLEN IN TE DIENEN
+
+__Deadline__: 30 April 2020 (midnight PST) for events to take place between June 2020 and June 2021
+
+Het doel van het NAACL Emerging Regions-fonds is het versterken van de Computational Linguistics-gemeenschap in  Latijns-Amerika en het Caribisch Gebied, en het intensiveren van regionale interacties tussen studenten en onderzoekers overal in Amerika.
+
+NAACL erkent dat elke regio specifieke behoeften en zorgen heeft, en daarom staan we open voor een breed scala aan mogelijke voorstellen, op voorwaarde dat deze prijzen bedoeld zijn om individuen, instellingen of evenementen in geheel Amerika te ondersteunen.
+
+Voorbeelden van voorstellen die kunnen helpen bij het opbouwen van een gemeenschap:
+- Regionale conferenties of workshops
+- Natural Language Processing en Computational Linguistics lessen aan hogescholen en universiteiten in Latijns-Amerika en het Caribisch Gebied
+- Deelname van studenten aan conferenties, zomerscholen en NLP / CL-wedstrijden in Amerika.
+Financiële steun kan worden gebruikt voor materiaal, uitzending / streaming, archivering / hosting, reizen of iets anders dat gemeenschappen nuttig kunnen vinden. Andere voorstellen zijn welkom!
+
+Houd er rekening mee dat dit fonds niet bedoeld is om studentenreizen naar de belangrijkste NAACL-HLT-conferentie te ondersteunen, aangezien daarvoor een apart fonds beschikbaar is. NAACL biedt geen ondersteuning voor reizen van of naar locaties buiten Amerika.
+
+Voorstellen kunnen in elke gewenste taal worden ingediend, mits er ook een Engelse vertaling wordt verstrekt:  https://forms.gle/rXBnK7upTJgVYK4A8
+
+Voorstellen worden beoordeeld door een commissie bestaande uit leden van de NAACL Raad van Bestuur. Awardees moeten een post-facto rapport indienen. Als u vragen heeft over dit GVB, stuur deze dan naar <naaclerf@googlegroups.com>. 
+
