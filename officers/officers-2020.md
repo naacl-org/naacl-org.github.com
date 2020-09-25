@@ -44,7 +44,7 @@ Nominating Committee
 - Philip Resnik
 - Ellen Riloff
 
-The nominating committee for next year's 2021 elections will be: Hal Daumé III (chair), Philip Resnik, Ellen Riloff, Emily Bender, Marie-Catherine de Marneffe, Marilyn Walker and Luke Zettlemoyer.
+The nominating committee for next year's 2021 elections will be: Philip Resnik (chair), Emily Bender, Hal Daumé III, Marie-Catherine de Marneffe, Ellen Riloff, Marilyn Walker and Luke Zettlemoyer.
 
 Chair (2020-2021) | [Colin Cherry](https://sites.google.com/site/colinacherry/) | Google
 ----------------------------------------------------------------------------------------
