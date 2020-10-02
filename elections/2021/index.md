@@ -24,7 +24,7 @@ Treasurer nominee:
 
 <a name="May"> </a>
 
-### [Jonathan May -- Treasurer](https://www.isi.edu/~jonmay/)
+### [Jonathan May](https://www.isi.edu/~jonmay/)
 
 #### Bio
 
@@ -76,7 +76,7 @@ Board Member nominees:
 
 <a name="Benotti"> </a>
 
-### [Luciana Benotti -- Board](https://lucianabenotti.weebly.com)
+### [Luciana Benotti](https://lucianabenotti.weebly.com)
 
 #### Bio
 
