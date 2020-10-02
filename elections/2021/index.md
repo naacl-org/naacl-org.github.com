@@ -76,7 +76,7 @@ Board Member nominees:
 
 <a name="Benotti"> </a>
 
-### [Luciana Benotti](https://lucianabenotti.weebly.com)
+### [Luciana Benotti](https://benotti.github.io/)
 
 #### Bio
 
