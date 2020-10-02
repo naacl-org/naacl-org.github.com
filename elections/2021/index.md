@@ -4,9 +4,9 @@ title: "Candidate Statements for 2021 NAACL Board Elections"
 root: ../../
 ---
 
-The Nominating Committee for the North American Chapter of the Association for
+<!-- The Nominating Committee for the North American Chapter of the Association for
 Computational Linguistics (NAACL) has chosen the following candidates for the
-open positions on the NAACL board with two year terms beginning January 2020.
+open positions on the NAACL board with two year terms beginning January 2020. -->
 <!-- 
 Additional nominations can be made until November 15th, 2019. The voting period
 will begin once the final slate of candidates and voting instructions are
