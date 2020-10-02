@@ -155,27 +155,28 @@ presented by the COVID pandemic. As a board member, I would like to work on the
 following initiatives:
 
 * Explore new hybrid conference formats that allow both in-person and virtual
-* attendance, not only to address the challenges of the COVID pandemic, but to
-* address other challenges like reducing our carbon footprints. A key component
-* of this initiative will be restoring some of the important social interactions
-* that were not well maintained in the virtual conference formats of ACL 2020,
-* etc. Simplify how NAACL proceedings are generated, taking advantage of the
-* recent renovations of the ACL Anthology to generate proceeding directly in the
-* new ACL Anthology format rather than through several layers of ACLPUB
-* complexity. This would provide some needed flexibility, especially as we
-* experiment with new conference formats, and would also make life easier for
-* new workshop organizers and publication chairs. Support existing efforts in
-* diversity, such as the WiNLP workshop, and look to how we might expand these
-* efforts to even earlier in the pipeline, to attract a diverse set of students
-* to apply to graduate schools in NLP. We might allocate funding to bring
-* diverse undergraduate students to some portion of a NAACL conference, or
-* design Jelinek Summer School (JSALT) style events with diversity as an
-* explicit goal. Continue the ongoing work to adapt our reviewing systems to the
-* increasing scale of our community, with a special eye towards reducing
-* duplicate effort. I was pleased, for example, with how EMNLP 2020 was able to
-* share rejected paper reviews with workshops to which those papers had been
-* dual-submitted, and believe we should be doing more of this when it is
-* feasible.
+attendance, not only to address the challenges of the COVID pandemic, but to
+address other challenges like reducing our carbon footprints. A key component of
+this initiative will be restoring some of the important social interactions that
+were not well maintained in the virtual conference formats of ACL 2020, etc.
+* Simplify how NAACL proceedings are generated, taking advantage of the recent
+renovations of the ACL Anthology to generate proceeding directly in the new ACL
+Anthology format rather than through several layers of ACLPUB complexity. This
+would provide some needed flexibility, especially as we experiment with new
+conference formats, and would also make life easier for new workshop organizers
+and publication chairs.
+* Support existing efforts in diversity, such as the WiNLP workshop, and look to
+how we might expand these efforts to even earlier in the pipeline, to attract a
+diverse set of students to apply to graduate schools in NLP. We might allocate
+funding to bring diverse undergraduate students to some portion of a NAACL
+conference, or design Jelinek Summer School (JSALT) style events with diversity
+as an explicit goal.
+* Continue the ongoing work to adapt our reviewing systems to the increasing scale
+of our community, with a special eye towards reducing duplicate effort. I was
+pleased, for example, with how EMNLP 2020 was able to share rejected paper
+reviews with workshops to which those papers had been dual-submitted, and
+believe we should be doing more of this when it is feasible.
+
 
 
 <a name="Traum"> </a>
