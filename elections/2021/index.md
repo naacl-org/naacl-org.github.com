@@ -199,7 +199,6 @@ reviews with workshops to which those papers had been dual-submitted, and
 believe we should be doing more of this when it is feasible.
 
 
-
 <a name="Neubig"></a>
 
 ### [Graham Neubig](http://www.phontron.com)
