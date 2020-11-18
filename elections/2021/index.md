@@ -74,6 +74,27 @@ equate to lack of access.
 Board Member nominees:
 ----------------------
 
+<a name="Al-Onaizan"></a>
+
+### [Yaser Al-Onaizan](https://www.amazon.science/author/yaser-al-onaizan)
+
+#### Bio
+
+Yaser Al-Onaizan is a Senior Manager for Applied Science at Amazon AI. He is currently leading an R&D group working on a variety of human language technologies including building a platform for Conversational AI, Multilingual Information Extraction and Analytics, and Machine Translation. Prior to joining Amazon in 2017, he led a research group at IBM's TJ Watson Research Center focusing on Machine Translation and Multi-lingual NLP R&D. During his 15 years at IBM, he was a Principal Investigator for several 5-year DARA-sponsored projects such as TIDES, GALE, and BOLT where he led a consortium of scientists from Academia and Industrial Research labs. Dr. Al-Onaizan received his MS and Ph.D. from the University of Southern California (Information Sciences Institute) in 1996 and 2002 respectively. He also received an MBA from Columbia University in 2011. He served as an Executive Board Member and Director of Research at AMTA (2012-2016) and an Associate Editor for ACM Transactions on Asian and Low-Resource Language Information Processing (2009-2015). He also served as an area chair for many ACL conferences (ACL, EMNLP, AACL) and has been a reviewer for over 20 years. 
+
+#### Candidacy Statement
+
+Thank you for considering my nomination for a NAACL Board Member. If I'm elected to the board, I would like to focus on the following initiatives:
+
+1. Act as a bridge between Academia and industrial research labs. Many in industrial research labs may not have the same flexibility and freedom in releasing code, data sets, etc. and I would like to use my 18+ years of experience in industrial research labs to help bridge that gap.
+
+2. While I understand that NAACL has a geographic focus on North America, I still see a need for ACL, in general, to reach a much wider audience in South America, Africa, and the Middle East by attracting submissions from those regions and help them with mentoring.
+
+3. Diversity and Outreach: Diversity is paramount to the success of the organization as a whole. I believe outreach is key to increased diversity. For example, kids in some schools started learning to code (as early as elementary school in some areas). Language and computational linguistics can be fun and exciting while being educational. I think NAACL/ACL can engage schools with some educational programs around computational linguistics, NLP, AI, etc. that would diversify the pool of talent that will eventually drive the next generation of NLP researchers.
+
+4. The explosion of paper submissions continue to stress test the review process. I see this trend to continue which will present tremendous challenges to the current process. I would work with colleagues on scaling up the process to meet the demands without compromising the integrity or quality of reviewing. I believe it is time to bring AI and ML to bear in this direction.
+
+
 <a name="Benotti"> </a>
 
 ### [Luciana Benotti](https://benotti.github.io/)
@@ -179,6 +200,44 @@ believe we should be doing more of this when it is feasible.
 
 
 
+<a name="Neubig"></a>
+
+### [Graham Neubig](http://www.phontron.com)
+
+#### Bio
+
+Graham Neubig is an associate professor at the Language Technologies Institute
+of Carnegie Mellon University. His work focuses on natural language processing,
+specifically multi-lingual models that work in many different languages, and
+natural language interfaces that allow humans to communicate with computers in
+their own language. Much of this work relies on machine learning, and he is also
+active in developing methods and algorithms for machine learning over natural
+language data. He publishes regularly in the top venues in natural language
+processing, machine learning, and speech, and his work has won awards at EMNLP
+2016, EACL 2017, and NAACL 2019. He has served on the NAACL board for the
+2019-2020 term.
+
+#### Candidacy Statement
+
+I first ran for the NAACL board in 2018 on a platform of improving two things
+regarding our conferences and publishing. The first was regarding remote
+participation in conferences, with the goal of reducing the barrier of entry for
+researchers who are not able to participating in conferences personally due to
+financial or visa issues. The silver lining on the cloud of the COVID situation
+is that it forced our hand on remote conferences, and I now believe that the
+infrastructure is in place. If elected to a second term, I will advocate for
+continuing to provide a comprehensive remote participation experience even after
+we transition back to in-person conferences. The second issue was improvement of
+our reviewing processes, with the goal of improving efficiency and reviewing
+quality. I am continuing to advocate for this through participation in the ACL
+reviewing committee, where I have developed software for reviewer-paper matching
+(which has been used at ACL 2020 and EMNLP 2020), and also created proposals for
+rolling review that are under consideration for the ACL as a whole. If elected,
+I would like to use my position on the NAACL exec to continue advocating for
+improvements in the reviewing processes for NAACL conferences and the ACL as a
+whole.
+
+
 <a name="Traum"> </a>
 
 ### [David Traum](http://people.ict.usc.edu/~traum/)
@@ -227,44 +286,6 @@ If elected, I would like to help NAACL navigate these and other issues,
 continuing the experimentation with formats and policies, keeping what works to
 achieve its objectives, moving on (or back where appropriate) when the
 objectives are not met, or other problems emerge.
-
-
-<a name="Neubig"></a>
-
-### [Graham Neubig](http://www.phontron.com)
-
-#### Bio
-
-Graham Neubig is an associate professor at the Language Technologies Institute
-of Carnegie Mellon University. His work focuses on natural language processing,
-specifically multi-lingual models that work in many different languages, and
-natural language interfaces that allow humans to communicate with computers in
-their own language. Much of this work relies on machine learning, and he is also
-active in developing methods and algorithms for machine learning over natural
-language data. He publishes regularly in the top venues in natural language
-processing, machine learning, and speech, and his work has won awards at EMNLP
-2016, EACL 2017, and NAACL 2019. He has served on the NAACL board for the
-2019-2020 term.
-
-#### Candidacy Statement
-
-I first ran for the NAACL board in 2018 on a platform of improving two things
-regarding our conferences and publishing. The first was regarding remote
-participation in conferences, with the goal of reducing the barrier of entry for
-researchers who are not able to participating in conferences personally due to
-financial or visa issues. The silver lining on the cloud of the COVID situation
-is that it forced our hand on remote conferences, and I now believe that the
-infrastructure is in place. If elected to a second term, I will advocate for
-continuing to provide a comprehensive remote participation experience even after
-we transition back to in-person conferences. The second issue was improvement of
-our reviewing processes, with the goal of improving efficiency and reviewing
-quality. I am continuing to advocate for this through participation in the ACL
-reviewing committee, where I have developed software for reviewer-paper matching
-(which has been used at ACL 2020 and EMNLP 2020), and also created proposals for
-rolling review that are under consideration for the ACL as a whole. If elected,
-I would like to use my position on the NAACL exec to continue advocating for
-improvements in the reviewing processes for NAACL conferences and the ACL as a
-whole.
 
 
 <!-- Additional nominations:
