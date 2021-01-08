@@ -39,7 +39,7 @@ Ex-Officio Board Members
 Nominating Committee
 --------------------
 - Philip Resnik (chair)
-- Emily Bender
+- Emily M. Bender
 - Hal Daumé III
 - Marie-Catherine de Marneffe
 - Ellen Riloff
