@@ -13,7 +13,7 @@ Officers
 |------------|------------------|--------------------------------------------|-----------|
 | Chair      | Colin Cherry     | Google                                     | 2020-2021 |
 | Secretary  | Heng Ji          | University of Illinois at Urbana-Champaign | 2020-2021 |
-| Treasurer  | Jonathan May     | University of Southern California / ISI    | 2020-2021 |
+| Treasurer  | Jonathan May     | University of Southern California / ISI    | 2021-2022 |
 | Past Chair | Julia Hockenmaier| University of Illinois at Urbana-Champaign | 2020-2021 |
 
 
@@ -22,9 +22,9 @@ Executive Board
 
 |              |                             |                                            |           |
 |--------------|-----------------------------|--------------------------------------------|-----------|
-| Board Member | Luciana Benotti             | Universidad Nacional de Córdoba            | 2020-2021
-| Board Member | Graham Neubig               | Carnegie Mellon University                 | 2020-2021 |
+| Board Member | Luciana Benotti             | Universidad Nacional de Córdoba            | 2021-2022 |
 | Board Member | Smaranda Muresan            | Columbia University                        | 2020-2021 |
+| Board Member | Graham Neubig               | Carnegie Mellon University                 | 2021-2022 |
 | Board Member | Thamar Solorio              | University of Houston                      | 2020-2021 |
 | Board Member | Aline Villavicencio         | Federal University of Rio Grande do Sul<br>and the University of Sheffield | 2020-2021 |
                                               
@@ -38,13 +38,13 @@ Ex-Officio Board Members
 
 Nominating Committee
 --------------------
-- Matt Post (chair)
-- Fei Xia
+- Philip Resnik (chair)
+- Emily Bender
 - Hal Daumé III
-- Philip Resnik
+- Marie-Catherine de Marneffe
 - Ellen Riloff
-
-The nominating committee for next year's 2021 elections will be: Philip Resnik (chair), Emily Bender, Hal Daumé III, Marie-Catherine de Marneffe, Ellen Riloff, Marilyn Walker and Luke Zettlemoyer.
+- Marilyn Walker 
+- Luke Zettlemoyer.
 
 Chair (2020-2021) | [Colin Cherry](https://sites.google.com/site/colinacherry/) | Google
 ----------------------------------------------------------------------------------------
@@ -155,7 +155,7 @@ papers with reviewers. I will focus on the following initiatives.
    multi-institute research efforts, and coordinating NIST TAC-KBP for ten
    years.
 
-Treasurer (2019-2020) | [Jonathan May](http://jonmay.net) | University of Southern California / Information Sciences Institute
+Treasurer (2021-2022) | [Jonathan May](http://jonmay.net) | University of Southern California / Information Sciences Institute
 ------------------------
 
 <img src="images/JonMay.jpg" title="Jonathan May" alt="Jonathan May" height="150" />
@@ -188,7 +188,7 @@ Boy, do we live in exciting times! Since NLP has joined the deep learning revolu
 In particular, I would like to make sure that our conferences remain events that make it possible for newcomers and established members to meet, interact, and, well, form a community that they want to be a part of. It goes without saying that this should include anybody from the wide range of intellectual, national, and personal backgrounds that (NA)ACL attracts, regardless of whether they are students, faculty, government or industry researchers, or whether they consider themselves computational linguists or machine learning people, or which part of the Americas (or the rest of the world) they reside in. I would also like to strengthen relations with our neighboring disciplines, so that we can share best practices, e.g. for how to maintain double-blind reviewing standards when preprints have become pervasive, or for how to handle the glut of submissions we have to handle.
 I would also like to strengthen the education and outreach work NAACL does through its Emerging Regions Fund and the scholarships for the Jelinek Summer Schools. Finally, as the technologies we create become increasingly commodified, and receive more and more attention in the popular press, I believe that our community has an increasing responsibility to inform the general public both of the actual capabilities of the systems we create, and of the ethical issues that may arise in their deployment. I would like (NA)ACL to promote the exchange and dissemination of ideas around these topics.
 
-Board Member (2020-2021) | [Luciana Benotti](https://benotti.github.io) | Universidad Nacional de Córdoba 
+Board Member (2021-2022) | [Luciana Benotti](https://benotti.github.io) | Universidad Nacional de Córdoba 
 ------------------------------------
 
 <img src="images/LucianaBenotti.jpg" title="Luciana Benotti" alt="Luciana Benotti" height="150" />
@@ -208,20 +208,6 @@ If I am elected as a member of the board my first natural goal will be to work t
 3. Reward helpful members: I will propose the implementation of a system of “ACL karma points” for ACL members, that can be obtained by performing activities that directly contribute to the NAACL community (e.g., writing good reviews, volunteer roles at the conference, open sourcing materials, etc.). Karma points could then be exchanged for concrete benefits like free ACL membership or reduced conference registration fees.
 
 4. Lower barriers: I will support ongoing, successful initiatives that already strive to promote diversity and inclusion at NAACL. In particular, I will promote the continuation of the Widening NLP Workshop (WiNLP), and the Emerging Regions Funds. Moreover, during this year the organization of virtual conferences has successfully increased participation of underrepresented communities, and this format should be seriously considered in the future.
-
-
-Board Member (2020-2021) | [Graham Neubig](http://www.phontron.com) | Carnegie Mellon University
-------------------------------------
-
-<img src="images/GrahamNeubig.jpg" title="Graham Neubig" alt="Graham Neubig" height="150" />
-
-#### Bio
-
-Graham Neubig is an associate professor at the Language Technologies Institute of Carnegie Mellon University. His work focuses on natural language processing, specifically multi-lingual models that work in many different languages, and natural language interfaces that allow humans to communicate with computers in their own language. Much of this work relies on machine learning, and he is also active in developing methods and algorithms for machine learning over natural language data. He publishes regularly in the top venues in natural language processing, machine learning, and speech, and his work has won awards at EMNLP 2016, EACL 2017, and NAACL 2019. He has served on the NAACL board for the 2019-2020 term.
-
-#### Candidacy Statement
-
-I first ran for the NAACL board in 2018 on a platform of improving two things regarding our conferences and publishing. The first was regarding remote participation in conferences, with the goal of reducing the barrier of entry for researchers who are not able to participating in conferences personally due to financial or visa issues. The silver lining on the cloud of the COVID situation is that it forced our hand on remote conferences, and I now believe that the infrastructure is in place. If elected to a second term, I will advocate for continuing to provide a comprehensive remote participation experience even after we transition back to in-person conferences. The second issue was improvement of our reviewing processes, with the goal of improving efficiency and reviewing quality. I am continuing to advocate for this through participation in the ACL reviewing committee, where I have developed software for reviewer-paper matching (which has been used at ACL 2020 and EMNLP 2020), and also created proposals for rolling review that are under consideration for the ACL as a whole. If elected, I would like to use my position on the NAACL exec to continue advocating for improvements in the reviewing processes for NAACL conferences and the ACL as a whole.
 
 
 Board Member (2020-2021) | [Smaranda Muresan](http://www.cs.columbia.edu/~smara/) | Columbia University
@@ -263,6 +249,20 @@ quality reviews. And last but not least, I would argue in favor of keeping the
 author response as part of the reviewing process and having a constructive
 meta-review for each paper that communicates to the authors the main issues
 raised during the discussion period besides the main points in the reviews.
+
+Board Member (2021-2022) | [Graham Neubig](http://www.phontron.com) | Carnegie Mellon University
+------------------------------------
+
+<img src="images/GrahamNeubig.jpg" title="Graham Neubig" alt="Graham Neubig" height="150" />
+
+#### Bio
+
+Graham Neubig is an associate professor at the Language Technologies Institute of Carnegie Mellon University. His work focuses on natural language processing, specifically multi-lingual models that work in many different languages, and natural language interfaces that allow humans to communicate with computers in their own language. Much of this work relies on machine learning, and he is also active in developing methods and algorithms for machine learning over natural language data. He publishes regularly in the top venues in natural language processing, machine learning, and speech, and his work has won awards at EMNLP 2016, EACL 2017, and NAACL 2019. He has served on the NAACL board for the 2019-2020 term.
+
+#### Candidacy Statement
+
+I first ran for the NAACL board in 2018 on a platform of improving two things regarding our conferences and publishing. The first was regarding remote participation in conferences, with the goal of reducing the barrier of entry for researchers who are not able to participating in conferences personally due to financial or visa issues. The silver lining on the cloud of the COVID situation is that it forced our hand on remote conferences, and I now believe that the infrastructure is in place. If elected to a second term, I will advocate for continuing to provide a comprehensive remote participation experience even after we transition back to in-person conferences. The second issue was improvement of our reviewing processes, with the goal of improving efficiency and reviewing quality. I am continuing to advocate for this through participation in the ACL reviewing committee, where I have developed software for reviewer-paper matching (which has been used at ACL 2020 and EMNLP 2020), and also created proposals for rolling review that are under consideration for the ACL as a whole. If elected, I would like to use my position on the NAACL exec to continue advocating for improvements in the reviewing processes for NAACL conferences and the ACL as a whole.
+
 
 Board Member (2020-2021) | [Thamar Solorio](http://solorio.uh.edu/) | University of Houston
 ------------------------------------
