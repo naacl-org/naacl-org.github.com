@@ -44,7 +44,7 @@ Nominating Committee
 - Marie-Catherine de Marneffe
 - Ellen Riloff
 - Marilyn Walker 
-- Luke Zettlemoyer.
+- Luke Zettlemoyer
 
 Chair (2020-2021) | [Colin Cherry](https://sites.google.com/site/colinacherry/) | Google
 ----------------------------------------------------------------------------------------
