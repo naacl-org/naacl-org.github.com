@@ -21,7 +21,7 @@ We would also like to thank our outgoing board member Joyce Chai for her service
 Great thanks again to the nominating committee:
 Philip Resnik (chair), Emily M. Bender, Hal Daumé III, Marie-Catherine de Marneffe, Ellen Riloff, Marilyn Walker and Luke Zettlemoyer.
 
-The configuration of the new board is here: https://naacl.org/officers/officers-2021.html
+The configuration of the new board is here: (https://naacl.org/officers/officers-2021.html)
 
 Heng Ji, NAACL Secretary
 (for the Nominating Committee and the Executive Board)
