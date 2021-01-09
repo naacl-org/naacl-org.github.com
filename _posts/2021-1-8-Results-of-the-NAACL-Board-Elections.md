@@ -14,6 +14,7 @@ The results of the NAACL2021 Board elections are in. Here are the newly elected 
 - Graham Neubig (Re-elected)
 
 Congratulations Jon, Luciana and Graham! Thanks very much to other candidates for running in the election. It was great to have such a strong set of candidates.  
+
 We would like to thank all of the NAACL members who have voted. Your input is highly valuable.
 
 We would also like to thank our outgoing board member Joyce Chai for her service.
