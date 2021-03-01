@@ -12,7 +12,7 @@ root: ../../../
 
 [Français](#apel-à-propositions-du-fonds-naacl-pour-les-régions-américaines)
 
-[Nederlands](#oproep-om-voorstellen-in-te-dienen-van-het-naacl-emerging-regions-fonds)
+[Nederlands](#oproep-om-voorstellen-in-te-dienen-van-het-naacl-regionaal-americas-fonds)
 
 
 ### 2021 NAACL Regional Americas Fund Call for Proposals
@@ -107,12 +107,12 @@ Les propositions seront évaluées par un comité composé de membres du conseil
 Les propositions peuvent être soumises dans la langue de votre choix, à condition qu'une traduction en anglais soit également fournie. Le formulaire en ligne pour les soumissions est accessible ici: https://forms.gle/KAh5XvstQuRHEjL2A
 
 
-### Oproep om Voorstellen in te Dienen van het NAACL Emerging Regions-fonds 
+### Oproep om Voorstellen in te Dienen van het NAACL Regionaal Americas-Fonds
 
 __Einddatum__:  30 april 2021 (middernacht PDT) voor evenementen die plaatsvinden tussen juni 2021 en juni 2022
 
 
-Het doel van het NAACL Regionaal Americas-Fund is het versterken van de Computational Linguistics-gemeenschap in  Latijns-Amerika en het Caribisch Gebied, en het intensiveren van regionale interacties tussen studenten en onderzoekers overal in Amerika.
+Het doel van het NAACL Regionaal Americas-Fonds is het versterken van de Computational Linguistics-gemeenschap in  Latijns-Amerika en het Caribisch Gebied, en het intensiveren van regionale interacties tussen studenten en onderzoekers overal in Amerika.
 
 NAACL erkent dat elke regio specifieke behoeften en zorgen heeft, en daarom staan we open voor een breed scala aan mogelijke voorstellen, op voorwaarde dat deze prijzen bedoeld zijn om individuen, instellingen of evenementen in geheel Amerika te ondersteunen.
 
