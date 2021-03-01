@@ -4,6 +4,13 @@ title: "2021 Regional Americas Fund CFP"
 root: ../../../
 ---
 
+[English](###-2021-NAACL-Regional-Americas-Fund-Call-for-Proposals)
+[Português](###-Chamada-de-Propostas-para-o-Fundo-NAACL-para-Regiões Americanas)
+[Español](###-Convocatoria-del-Fondo-para-Regiones-Americanas-NAACL)
+[Français](###-Apel-à-Propositions-du-Fonds-NAACL-pour-les-Régions-Américaines)
+[Nederlands](###-Oproep-om-Voorstellen-in-te-Dienen-van-het-NAACL-Emerging-Regions-fonds)
+
+
 ### 2021 NAACL Regional Americas Fund Call for Proposals
 
 __Deadline__: 30 April 2021 (midnight PDT) for events to take place between June 2021 and June 2022
@@ -73,7 +80,7 @@ Las propuestas serán evaluadas por un comité formado por miembros de la Junta 
 
 Las propuestas pueden enviarse en cualquier lengua, siempre que se proporcione también una traducción al inglés. El formulario de envío online está disponible aquí: https://forms.gle/KAh5XvstQuRHEjL2A
 
-### Fonds NAACL pour les Régions Américaines Apel à Propositions
+### Apel à Propositions du Fonds NAACL pour les Régions Américaines
 
 __Date limite__: 30 avril 2021 (minuit PDT) pour les événements qui auront lieu entre juin 2021 et juin 2022
 
@@ -96,7 +103,7 @@ Les propositions seront évaluées par un comité composé de membres du conseil
 Les propositions peuvent être soumises dans la langue de votre choix, à condition qu'une traduction en anglais soit également fournie. Le formulaire en ligne pour les soumissions est accessible ici: https://forms.gle/KAh5XvstQuRHEjL2A
 
 
-### NAACL Emerging Regions-fonds Oproep om Voorstellen in te Dienen
+### Oproep om Voorstellen in te Dienen van het NAACL Emerging Regions-fonds 
 
 __deadline__: 30 April 2021 PST
 
