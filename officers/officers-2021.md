@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NAACL Officers 2020
+title: NAACL Officers 2021
 root: ../
 ---
 
@@ -13,7 +13,7 @@ Officers
 |------------|------------------|--------------------------------------------|-----------|
 | Chair      | Colin Cherry     | Google                                     | 2020-2021 |
 | Secretary  | Heng Ji          | University of Illinois at Urbana-Champaign | 2020-2021 |
-| Treasurer  | Jonathan May     | University of Southern California / ISI    | 2019-2020 |
+| Treasurer  | Jonathan May     | University of Southern California / ISI    | 2021-2022 |
 | Past Chair | Julia Hockenmaier| University of Illinois at Urbana-Champaign | 2020-2021 |
 
 
@@ -22,9 +22,9 @@ Executive Board
 
 |              |                             |                                            |           |
 |--------------|-----------------------------|--------------------------------------------|-----------|
-| Board Member | Joyce Chai                  | University of Michigan                     | 2019-2020 |
-| Board Member | Graham Neubig               | Carnegie Mellon University                 | 2019-2020 |
+| Board Member | Luciana Benotti             | Universidad Nacional de Córdoba            | 2021-2022 |
 | Board Member | Smaranda Muresan            | Columbia University                        | 2020-2021 |
+| Board Member | Graham Neubig               | Carnegie Mellon University                 | 2021-2022 |
 | Board Member | Thamar Solorio              | University of Houston                      | 2020-2021 |
 | Board Member | Aline Villavicencio         | Federal University of Rio Grande do Sul<br>and the University of Sheffield | 2020-2021 |
                                               
@@ -38,13 +38,13 @@ Ex-Officio Board Members
 
 Nominating Committee
 --------------------
-- Matt Post (chair)
-- Fei Xia
+- Philip Resnik (chair)
+- Emily M. Bender
 - Hal Daumé III
-- Philip Resnik
+- Marie-Catherine de Marneffe
 - Ellen Riloff
-
-The nominating committee for next year's 2021 elections will be: Philip Resnik (chair), Emily Bender, Hal Daumé III, Marie-Catherine de Marneffe, Ellen Riloff, Marilyn Walker and Luke Zettlemoyer.
+- Marilyn Walker 
+- Luke Zettlemoyer
 
 Chair (2020-2021) | [Colin Cherry](https://sites.google.com/site/colinacherry/) | Google
 ----------------------------------------------------------------------------------------
@@ -155,22 +155,22 @@ papers with reviewers. I will focus on the following initiatives.
    multi-institute research efforts, and coordinating NIST TAC-KBP for ten
    years.
 
-Treasurer (2019-2020) | [Jonathan May](http://jonmay.net) | University of Southern California / Information Sciences Institute
+Treasurer (2021-2022) | [Jonathan May](http://jonmay.net) | University of Southern California / Information Sciences Institute
 ------------------------
 
 <img src="images/JonMay.jpg" title="Jonathan May" alt="Jonathan May" height="150" />
 
 #### Bio
 
-Jonathan May is a Research Assistant Professor in the Computer Science Department of the Viterbi School of Engineering at the University of Southern California, as well as a Computer Scientist with USC's Information Sciences Institute, where he received his PhD in 2010. He has previously worked at BBN Technologies and at Language Weaver (now SDL Research). His research interests include automata theory, machine translation, semantic parsing, and machine learning. He is currently a co-organizer of the SemEval workshop. Jon previously served as an Area Chair and as Handbook Chair for NAACL 2018, social media co-chair for NAACL in 2016, and local arrangements co-chair for NAACL in 2010.
+Jonathan May is a Research Assistant Professor in the Computer Science Department of the Viterbi School of Engineering at the University of Southern California, as well as a Research Lead with USC’s Information Sciences Institute, where he received a PhD in 2010. He has previously worked at BBN Technologies and at Language Weaver (now SDL Research). His interests include automata theory, machine translation, common-sense reasoning, semantic parsing, and dialogue. He is currently treasurer of NAACL. Jon previously served as workshop co-organizer and task organizer of SemEval from 2016 to 2019, handbook chair for NAACL 2018, social media co-chair for NAACL in 2016, and local arrangements co-chair for NAACL in 2010.
 
 #### Candidacy Statement
 
-Thank you for considering me for the position of NAACL treasurer. When I was asked to run for this position, the first thing I thought of was how fun the job sounds. No, I’m not kidding! I actually enjoy the logistics and the satisfaction of getting everything into place, which I do a lot as a PI of several large grants and an instructor of a large class. That's given me experience in keeping complicated budgets on target, planning ahead, and communicating our progress to the people who need to know.
+Thank you for considering me for an additional term as NAACL treasurer. The past two years have been fun and productive ones, as I’ve learned more about NAACL’s financial health, implemented changes to improve efficiency, given advice to mitigate risk while supporting interests critical to our community, and weathered the current crisis. I look forward to building on the past term’s learning experience and continuing to keep NAACL financially sound.
 
-I also have experience with ACL leadership positions. I’m finishing my tenure as SemEval co-organizer, which requires lots of coordination with many of the people I’d be working with on the NAACL board. Last year I was the (emergency) handbook chair of NAACL, with a compressed schedule of one week. I really enjoyed the logistics and the satisfaction of getting everything into place. There’s something so soothing about perfectly balanced books, like a compiled paper draft that just fits the page limit.
+Apart from our annual conference, NAACL continues to support NACLO, to promote CL/NLP awareness at the high school level. We provide scholarship funds for the JSALT summer workshop series. And we sponsor initiatives in emerging regions of the Americas via the ERF. As a member of the ERF committee, I am proud that we have been able to maintain funding levels even in a time of uncertainty and have sponsored worthwhile projects in Brazil, Peru, Mexico, and Colombia. And we have innovated our sponsorship payment process to speed up international transactions and reduce international exchange fees.
 
-I have plans for improving NAACL as treasurer while continuing the great work done by the current board. I’d like to increase sponsorship of registration fees, continue to support subsidized on-site childcare, continue to support NACLO to promote Computational Linguistics at the high school level, and, where possible, expand the previous board initiatives to support participation in emerging regions, particularly in Mexico, Central, and Southern America. These efforts will help increase diversity in conference attendees and ensure that we have the financial stability we need. However, I will continue the board’s policy of cautious and prudent spending to slowly grow our account to pre-2010 levels without sacrificing the great conference experience we all look forward to.
+My goal for the coming term is to expand our support of these and other worthy causes that promote the equitable expansion of research in natural language processing and computational linguistics. Thanks to our hardworking ACL treasurer David Yarowsky and ACL business manager Priscilla Rasmussen, ACL is resolving long-standing uncertainties with regard to its financial health that have necessitated caution in our spending. With these uncertainties resolved, NAACL will be able to expand its support to increase NACLO, JSALT, and ERF participation, which exposes as wide a population in the Americas as possible to our field. When travel resumes, I will suggest we use available NAACL funds to facilitate low-cost conference child support and provide conference travel grants. In this way we will work toward ensuring that lack of money does not equate to lack of access.
 
 Past Chair (2020-2021) | [Julia Hockenmaier](http://juliahmr.cs.illinois.edu/) | University of Illinois at Urbana-Champaign
 -----------------------------------
@@ -188,105 +188,27 @@ Boy, do we live in exciting times! Since NLP has joined the deep learning revolu
 In particular, I would like to make sure that our conferences remain events that make it possible for newcomers and established members to meet, interact, and, well, form a community that they want to be a part of. It goes without saying that this should include anybody from the wide range of intellectual, national, and personal backgrounds that (NA)ACL attracts, regardless of whether they are students, faculty, government or industry researchers, or whether they consider themselves computational linguists or machine learning people, or which part of the Americas (or the rest of the world) they reside in. I would also like to strengthen relations with our neighboring disciplines, so that we can share best practices, e.g. for how to maintain double-blind reviewing standards when preprints have become pervasive, or for how to handle the glut of submissions we have to handle.
 I would also like to strengthen the education and outreach work NAACL does through its Emerging Regions Fund and the scholarships for the Jelinek Summer Schools. Finally, as the technologies we create become increasingly commodified, and receive more and more attention in the popular press, I believe that our community has an increasing responsibility to inform the general public both of the actual capabilities of the systems we create, and of the ethical issues that may arise in their deployment. I would like (NA)ACL to promote the exchange and dissemination of ideas around these topics.
 
-Board Member (2019-2020) | [Joyce Chai](http://www.cse.msu.edu/~jchai/) | University of Michigan
+Board Member (2021-2022) | [Luciana Benotti](https://benotti.github.io) | Universidad Nacional de Córdoba 
 ------------------------------------
 
-<img src="images/JoyceChai.jpeg" title="Joyce Chai" alt="Joyce Chai" height="150" />
+<img src="images/LucianaBenotti.jpg" title="Luciana Benotti" alt="Luciana Benotti" height="150" />
 
 #### Bio
 
-Joyce Chai is a Professor in the Department of Computer Science and Engineering at Michigan State University, where she directs the Language and Interaction Research Lab. Prior to joining MSU in 2003, she was a researcher at IBM T. J. Watson Research Center. Her research interests include natural language processing, situated dialogue agents, information extraction and retrieval, and intelligent user interfaces. Her recent work has focused on grounded language processing to facilitate situated communication with robots and other artificial agents. Throughout the years, she has served on many conference/workshop organizations in different roles. More recently, she served as Program Co-chair for the Special Interest Group in Dialogue and Discourse (SIGDIAL) in 2011, the ACM International Conference on Intelligent User Interfaces (IUI) in 2014, and the North America Chapter of ACL – Human Language Technology (NAACL-HLT) in 2015. She holds a Ph.D. in Computer Science from Duke University.
+Luciana Benotti is an Associate Professor at the Department of Computer Science in the Universidad Nacional de Córdoba, from Argentina. Her research interests include different aspects of situated dialogue systems, including the study of misunderstandings, clarification requests and grounding. She has applied her research in computer assisted learning systems for interactive language acquisition. She has an Erasmus Mundus MSc, and a PhD in Computer Science completed at INRIA Nancy Grand Est. She received an IBM SUR award for her work on robust conversational interfaces, and a Google RISE award for her outreach efforts in developing AI-based technology for education. She has been an invited scholar at the University of Trento (2019), Stanford University (2018), Roskilde University (2014), University of Lorraine (2013), Universidad de Costa Rica (2012), and University of Southern California (2010). She regularly serves under different roles in the ACL community. She has been a volunteer during conferences, a reviewer since 2010, an area chair for dialogue and interactive systems several times, and a member of the executive board of SIGDIAL and SIGSEM.
 
 #### Candidacy Statement
 
-I have two goals in joining the NAACL executive board. First, I would like to work with the board to seek more opportunities to broaden interdisciplinary participation. We should find ways to encourage more interdisciplinary work at NAACL, for example, in the intersection of language, vision, robotics, and cognitive modeling. We should continue to reach out to relevant communities and actively solicit and invite interdisciplinary workshop/tutorial proposals for NAACL. We can also collocate our annual meeting with other major conferences in related areas and jointly create opportunities (e.g., brown bag lunches at the meeting) for interested researchers to meet and connect. Second, I would like to explore ways that NAACL can help encourage young researchers to enter academia and help them make a successful transition. NAACL can provide a platform to connect junior faculty and senior people. For example, NAACL can host a gathering at its annual conference to bring junior/senior people together to share experiences in NLP pedagogy, student supervising, grant writing, work-life balance, and other issues related to an academic career.
+If I am elected as a member of the board my first natural goal will be to work towards maintaining the high quality of the conference while I focus on supporting diversity and inclusion. As a latinamerican researcher I know first hand the serious problems that overlooking these issues provoke. I will aim to boost diversity and inclusion at NAACL through the following initiatives:
 
+1. Care about ethics: I will propose to require the inclusion of an ethical impact statement to all papers submitted to NAACL as it is now required by other conferences in the field (e.g., Neurips). Such statements should not only consider gender and race, but also take economy, power and climate into account.
 
-Board Member (2019-2020) | [Graham Neubig](http://www.phontron.com) | Carnegie Mellon University
-------------------------------------
+2. Encourage reproducibility: I will explore incentives to encourage the release of implementation code, data, and trained models required to reproduce the results of all papers submitted to NAACL. These measures would not only improve transparency, but they would help researchers with low computing budgets implement their ideas and even help reduce our carbon footprint.
 
-<img src="images/GrahamNeubig.jpg" title="Graham Neubig" alt="Graham Neubig" height="150" />
+3. Reward helpful members: I will propose the implementation of a system of “ACL karma points” for ACL members, that can be obtained by performing activities that directly contribute to the NAACL community (e.g., writing good reviews, volunteer roles at the conference, open sourcing materials, etc.). Karma points could then be exchanged for concrete benefits like free ACL membership or reduced conference registration fees.
 
-#### Bio
+4. Lower barriers: I will support ongoing, successful initiatives that already strive to promote diversity and inclusion at NAACL. In particular, I will promote the continuation of the Widening NLP Workshop (WiNLP), and the Emerging Regions Funds. Moreover, during this year the organization of virtual conferences has successfully increased participation of underrepresented communities, and this format should be seriously considered in the future.
 
-Graham Neubig is an assistant professor at the Language Technologies
-Institute of Carnegie Mellon University. His work focuses on natural
-language processing, specifically multi-lingual models that work in
-many different languages, and natural language interfaces that allow
-humans to communicate with computers in their own language. Much of
-this work relies on machine learning to create these systems from
-data, and he is also active in developing methods and algorithms for
-machine learning over natural language data. He is also active in
-developing open-source software, and is the main developer of the
-DyNet neural network toolkit.
-
-He publishes regularly in the top venues in natural language
-processing, machine learning, and speech, and his work occasionally
-wins awards such as best papers at EMNLP and EACL. He is frequently an
-area chair for conferences such as NAACL, ACL, COLING, and ICLR. He
-also was the founder of multiple ACL-affiliated workshops, most
-recently the Workshop on Neural Machine Translation.
-
-#### Candidacy Statement
-
-I think NAACL has a lot to be proud of, particularly its premier
-high-impact conference that is growing year-by-year. However, I think
-there are growing pains related to being part of such a burgeoning
-field. While there are undoubtedly a wide variety of issues facing
-NAACL, in particular there are two that I would like to advocate for:
-maintaining quality of the reviewing process, and better mechanisms
-for remote participation in conferences:
-
-First, with regards to reviewing, how can we ensure that our community
-can strive for the best results possible given the constraints on time
-that we will inevitably have to deal with? Also, how can we make it
-the most pleasant experience possible for all parties? Some
-preliminary ideas I have on this front include the following:
-
-1. It would be nice if reviewers could review papers that match their
-interests. We could help ensure this is the case by introducing
-automatic tools for matching reviewers to papers such as the Toronto
-Paper Matching System.
-2. Given the rapid expansion of the field and more junior reviewers,
-it would be nice to ensure that we have a good mix of junior and
-senior reviewers on each paper. We could keep track of the career
-stage of each reviewer, and consider this in allocations. It would
-also be useful overall to have a more formal process of maintaining
-information about who reviewed for which conferences under which
-areas.
-3. I strongly believe that author responses and the resulting
-discussion make the review process better, but feel we lack
-transparency in this process. Perhaps we could make post-response
-discussions public to the authors so they could understand what went
-in to making the decisions.
-4. I think the simple but structured review form we saw in EMNLP 2018
-(which was in turn inspired by NAACL 2018) was a huge step forward. I
-would propose adding one more box to the form on "constructive
-suggestions for future work". I think this would make the review
-process more friendly and beneficial for all parties.
-
-I don't think that we can expect conference or area chairs to
-implement each of these processes manually, so coming up with
-systematic and automated ways of doing so that are passed down
-conference-by-conference is imperative.
-
-Second, I would like to consider methods for improving remote
-participation in conferences. We live in an age where it is now very
-possible to broadcast our events online, which would be a great boon
-to those who could not attend the conference. I would specifically
-like to consider the following improvements:
-
-1. Live broadcasts of talks in all of the sessions. Depending on
-budgetary constraints, this could be done more formally through the AV
-people at the venue, or informally through simple streaming services
-staffed by volunteers.
-2. Contingent on 1., we could also use a live internet Q&A site to
-allow people who were joining remotely to ask questions, and have
-other participants vote on the questions they were most interested in.
-3. Finally, given that many people cannot join the conference for
-visa, financial, or personal reasons, I would like to consider
-allowing some subset of the presenters to make their presentations
-remotely.
 
 Board Member (2020-2021) | [Smaranda Muresan](http://www.cs.columbia.edu/~smara/) | Columbia University
 ------------------------------------
@@ -327,6 +249,20 @@ quality reviews. And last but not least, I would argue in favor of keeping the
 author response as part of the reviewing process and having a constructive
 meta-review for each paper that communicates to the authors the main issues
 raised during the discussion period besides the main points in the reviews.
+
+Board Member (2021-2022) | [Graham Neubig](http://www.phontron.com) | Carnegie Mellon University
+------------------------------------
+
+<img src="images/GrahamNeubig.jpg" title="Graham Neubig" alt="Graham Neubig" height="150" />
+
+#### Bio
+
+Graham Neubig is an associate professor at the Language Technologies Institute of Carnegie Mellon University. His work focuses on natural language processing, specifically multi-lingual models that work in many different languages, and natural language interfaces that allow humans to communicate with computers in their own language. Much of this work relies on machine learning, and he is also active in developing methods and algorithms for machine learning over natural language data. He publishes regularly in the top venues in natural language processing, machine learning, and speech, and his work has won awards at EMNLP 2016, EACL 2017, and NAACL 2019. He has served on the NAACL board for the 2019-2020 term.
+
+#### Candidacy Statement
+
+I first ran for the NAACL board in 2018 on a platform of improving two things regarding our conferences and publishing. The first was regarding remote participation in conferences, with the goal of reducing the barrier of entry for researchers who are not able to participating in conferences personally due to financial or visa issues. The silver lining on the cloud of the COVID situation is that it forced our hand on remote conferences, and I now believe that the infrastructure is in place. If elected to a second term, I will advocate for continuing to provide a comprehensive remote participation experience even after we transition back to in-person conferences. The second issue was improvement of our reviewing processes, with the goal of improving efficiency and reviewing quality. I am continuing to advocate for this through participation in the ACL reviewing committee, where I have developed software for reviewer-paper matching (which has been used at ACL 2020 and EMNLP 2020), and also created proposals for rolling review that are under consideration for the ACL as a whole. If elected, I would like to use my position on the NAACL exec to continue advocating for improvements in the reviewing processes for NAACL conferences and the ACL as a whole.
+
 
 Board Member (2020-2021) | [Thamar Solorio](http://solorio.uh.edu/) | University of Houston
 ------------------------------------
@@ -433,3 +369,4 @@ interdisciplinary initiatives in NAACL events for facilitating collaborations.
       tables[i].className = 'table table-striped';
    }
 </script>
+
