@@ -127,7 +127,6 @@ Há um grupo do Google relacionado às atividades da NAACL na América do Sul: [
 </p>
 
 ## Fonds NAACL pour les Régions Américaines [3]
----------------------------------------
 
 L'objectif du Fonds NAACL pour les Régions Américaines est de renforcer la communauté de linguistique informatique en Amérique Latine, et d'améliorer les intéractions régionales entre les étudiants et les chercheurs partout dans les Amériques.
 
@@ -154,8 +153,7 @@ Les propositions seront évaluées par un comité composé de membres du conseil
 </p>
 
 
-NAACL Regionaal Americas-Fonds [4]
---------------------------------
+## NAACL Regionaal Americas-Fonds [4]
 
 Het doel van het NAACL Regionaal Americas-Fonds is het versterken van de Computational Linguistics-gemeenschap in  Latijns-Amerika en het Caribisch Gebied, en het intensiveren van regionale interacties tussen studenten en onderzoekers overal in Amerika.
 
