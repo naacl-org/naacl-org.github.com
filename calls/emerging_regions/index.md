@@ -1,11 +1,23 @@
 ---
 
 layout: default
-title: "NAACL Emerging Regions Funding"
+title: "NAACL Regional Americas Fund"
 root: ../../
 ---
 
-At their June 2010 meeting, the NAACL Executive Board decided to merge two small funds programs created in 2009 (the Latin American Fund and the Regional Conferences Fund) to form the Emerging Regions Fund. This fund is intended to assist the creation of a larger and more cohesive Computational Linguistics community in Latin America and the Caribbean, and to enhance  regional interactions among students and researchers anywhere in the Americas.
+[English](#naacl-regional-americas-fund)
+
+[Español](#fondo-de-la-naacl-para-regiones-americanas)
+
+[Português](#fundo-da-naacl-para-regiões-americanas)
+
+[Français](#fonds-naacl-pour-les-régions-américaines)
+
+[Nederlands](#naacl-regionaal-americas-fonds)
+
+## NAACL Regional Americas Fund
+
+In June 2010 the NAACL Executive Board decided to form the Regional Americas Fund by merging two small funds programs created in 2009: the Latin American Fund and the Regional Conferences Fund. This fund is intended to assist the creation of a larger and more cohesive Computational Linguistics community in Latin America and the Caribbean, and to enhance  regional interactions among students and researchers anywhere in the Americas. The Regional Americas Fund was known as the "Emerging Regions Fund" until January 2021.
 
 <!-- There will be two deadlines for proposals in the coming year, and approximately half of the funds will be awarded after each deadline. NAACL recognizes that each region has specific needs and concerns, and so we are open to a wide range of possible proposals, subject to the constraint that these awards are intended to support individuals, institutions, or events located in the Americas, and to support travel within the Americas. NAACL will not support travel to or from locations outside of the Americas, and in general travel should be limited to a specific region in the Americas.
 
@@ -48,10 +60,9 @@ There is a Google Group related to NAACL activites in Latin America and the Cari
 </ul>
 </p>
 
-Fondo para Regiones Emergentes de la NAACL [1]
----------------------------------------------
+## Fondo de la NAACL para Regiones Americanas [1]
 
-En la junta de Junio 2010, la mesa directiva de la NAACL decidió combinar dos programas de pequeños fondos creados en 2009 (el Fondo Latinoamericano y el Fondo de Conferencias Regionales) para formar el Fondo para Regiones Emergentes. Este fondo tiene la intención de fortalecer la comunidad de Lingüística Computacional (LC) en América Latina y el Caribe, y fomentar  interacciónes regionales entre estudiantes e investigadores en cualquier parte de las Américas.
+En la junta de Junio 2010, la mesa directiva de la NAACL decidió combinar dos programas de pequeños fondos creados en 2009 (el Fondo Latinoamericano y el Fondo de Conferencias Regionales) para formar el Fondo para Regiones Americanas. Este fondo tiene la intención de fortalecer la comunidad de Lingüística Computacional (LC) en América Latina y el Caribe, y fomentar  interacciónes regionales entre estudiantes e investigadores en cualquier parte de las Américas.
 
 <!--
 Habrán dos fechas límite para recibir propuestas en el próximo año, y aproximadamente la mitad de los fondos será alocado en cada ciclo. La NAACL reconoce que cada región tiene necesidades específicas, así que estamos abiertos a una gran diversidad de posibles propuestas, sujetas a las restricciones de que los fondos tienen el propósito de apoyar individuos, instituciones, o eventos localizados en América, y apoyar viajes dentro del continente Americano. La NAACL no apoyará viajes hacia o desde lugares fuera del continente Americano, y en general, los viajes deberán ser restringidos a una región específica de América.
@@ -84,10 +95,9 @@ Hay un grupo en Google relacionado con actividades en América Latina y el Carib
 </ul>
 </p>
 
-Fundo da NAACL para Regiões Emergentes [2]
------------------------------------------
+## Fundo da NAACL para Regiões Americanas [2]
 
-Em seu encontro em Junho de 2010, o conselho executivo da NAACL decidiu unir dois programas pequenos de financiamento criados em 2009 (o Fundo Latino-americano e o Fundo para Conferências Regionais) para formar o Fundo para Regiões Emergentes. Esse fundo destina-se a apoiar a criação de uma comunidade de Linguística Computacional maior e mais coesa na América Latina e a aumentar as interações regionais entre estudantes e pesquisadores das Américas.
+Em seu encontro em Junho de 2010, o conselho executivo da NAACL decidiu unir dois programas pequenos de financiamento criados em 2009 (o Fundo Latino-americano e o Fundo para Conferências Regionais) para formar o Fundo para Regiões Americanas. Esse fundo destina-se a apoiar a criação de uma comunidade de Linguística Computacional maior e mais coesa na América Latina e a aumentar as interações regionais entre estudantes e pesquisadores das Américas.
 
 <!--
 
@@ -116,10 +126,10 @@ Há um grupo do Google relacionado às atividades da NAACL na América do Sul: [
 </ul>
 </p>
 
-Fonds NAACL pour les Régions Émergentes [3]
+## Fonds NAACL pour les Régions Américaines [3]
 ---------------------------------------
 
-L'objectif du Fonds NAACL pour les Régions Émergentes est de renforcer la communauté de linguistique informatique en Amérique Latine, et d'améliorer les intéractions régionales entre les étudiants et les chercheurs partout dans les Amériques.
+L'objectif du Fonds NAACL pour les Régions Américaines est de renforcer la communauté de linguistique informatique en Amérique Latine, et d'améliorer les intéractions régionales entre les étudiants et les chercheurs partout dans les Amériques.
 
 NAACL reconnaît que chaque région a des besoins et des préoccupations spécifiques, et nous sommes donc ouverts à toute proposition, sous réserve que ces récompenses soient destinées à soutenir des individus, des institutions ou des événements situés dans les Amériques.
 
@@ -127,9 +137,7 @@ Exemples de propositions qui pourraient aider à bâtir une communauté dans les
 - Conférences ou ateliers régionaux
 - Cours de traitement du langage naturel (TAL) et de linguistique informatique (LI) dans les collèges et universités.
 - Participation des étudiants aux conférences, aux écoles d'été et aux compétitions de TAL/LI
-Le soutien financier pourra être utilisé pour du matériel, la diffusion / streaming, l'archivage / hébergement, voyages ou tout autre élément que les communautés pourraient trouver utile. D'autres propositions sont les bienvenues!
-
-Veuillez noter que ce fonds n'est pas destiné à soutenir le voyage des étudiants à la conférence principale NAACL-HLT, car un fonds distinct est disponible à cet effet. NAACL ne prendra pas en charge les voyages à destination ou en provenance de sites en dehors des Amériques.
+Le soutien financier pourra être utilisé pour du matériel, la diffusion / streaming, l'archivage / hébergement, voyages ou tout autre élément que les communautés pourraient trouver utile. D'autres propositions sont les bienvenues! Veuillez noter que ce fonds n'est pas destiné à soutenir le voyage des étudiants à la conférence principale NAACL-HLT, car un fonds distinct est disponible à cet effet. NAACL ne prendra pas en charge les voyages à destination ou en provenance de sites en dehors des Amériques.
 
 Les propositions seront évaluées par un comité composé de membres du conseil exécutif de NAACL. Les boursiers devront fournir un rapport a posteriori. Les propositions peuvent être soumises dans la langue de votre choix, à condition qu'une traduction en anglais soit également fournie. 
 
@@ -146,10 +154,10 @@ Les propositions seront évaluées par un comité composé de membres du conseil
 </p>
 
 
-NAACL Emerging Regions-fonds [4]
+NAACL Regionaal Americas-Fonds [4]
 --------------------------------
 
-Het doel van het NAACL Emerging Regions-fonds is het versterken van de Computational Linguistics-gemeenschap in  Latijns-Amerika en het Caribisch Gebied, en het intensiveren van regionale interacties tussen studenten en onderzoekers overal in Amerika.
+Het doel van het NAACL Regionaal Americas-Fonds is het versterken van de Computational Linguistics-gemeenschap in  Latijns-Amerika en het Caribisch Gebied, en het intensiveren van regionale interacties tussen studenten en onderzoekers overal in Amerika.
 
 NAACL erkent dat elke regio specifieke behoeften en zorgen heeft, en daarom staan we open voor een breed scala aan mogelijke voorstellen, op voorwaarde dat deze prijzen bedoeld zijn om individuen, instellingen of evenementen in geheel Amerika te ondersteunen.
 
