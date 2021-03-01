@@ -109,7 +109,8 @@ Les propositions peuvent être soumises dans la langue de votre choix, à condit
 
 ### Oproep om Voorstellen in te Dienen van het NAACL Emerging Regions-fonds 
 
-__deadline__: 30 April 2021 PST
+__Einddatum__:  30 april 2021 (middernacht PDT) voor evenementen die plaatsvinden tussen juni 2021 en juni 2022
+
 
 Het doel van het NAACL Regionaal Americas-Fund is het versterken van de Computational Linguistics-gemeenschap in  Latijns-Amerika en het Caribisch Gebied, en het intensiveren van regionale interacties tussen studenten en onderzoekers overal in Amerika.
 
