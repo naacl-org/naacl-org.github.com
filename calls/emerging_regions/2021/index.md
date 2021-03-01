@@ -6,9 +6,9 @@ root: ../../../
 
 [English](#2021-naacl-regional-americas-fund-call-for-proposals)
 
-[Português](#chamada-de-propostas-para-o-fundo-naacl-para-regiões-americanas)
-
 [Español](#convocatoria-del-fondo-para-regiones-americanas-naacl)
+
+[Português](#chamada-de-propostas-para-o-fundo-naacl-para-regiões-americanas)
 
 [Français](#apel-à-propositions-du-fonds-naacl-pour-les-régions-américaines)
 
@@ -39,6 +39,28 @@ Proposals will be evaluated by a committee consisting of members of the NAACL Ex
 Proposals may be submitted in any preferred language, as long as an English translation is also provided. The online form for submissions is here: https://forms.gle/KAh5XvstQuRHEjL2A
 
 
+### Convocatoria del Fondo para Regiones Americanas NAACL
+
+__Fecha límite__: 30 de abril de 2021 (medianoche, Hora del Pacífico), para eventos que se celebren entre junio de 2021 y junio de 2022
+
+El objetivo del Fondo para Regiones Americanas NAACL es fortalecer la comunidad de Lingüística Computacional (LC) en América Latina y mejorar la interacción regional entre estudiantes e investigadores de cualquier parte de las Américas.
+
+NAACL reconoce que cada región tiene sus necesidades y preocupaciones específicas, por lo que estamos abiertos a una amplia variedad de posibles propuestas, con la limitación de que estos premios están destinados a apoyar a personas, instituciones o eventos ubicados en cualquier parte de las Américas.
+
+Ejemplos de propuestas que pueden ayudar a crear comunidad en las Américas:
+
+- Congresos o workshops regionales.
+- Clases de Procesamiento del Lenguaje Natural (PLN) y Lingüística Computacional en facultades y universidades
+- Participación de estudiantes en congresos, escuelas de verano, y competiciones de PLN/LC
+
+El apoyo económico podría utilizarse para compra de materiales, difusión/streaming, archivando/hosting, viajes, o cualquier otra cosa que las comunidades consideren útil. Agradecemos también otras propuestas.
+
+Téngase en cuenta que este fondo no está destinado a apoyar el viaje de estudiantes al congreso NAACL-HLT, ya que existe un fondo específico para ese propósito. Asimismo, NAACL no apoyará viajes a o desde lugares fuera de las Américas.
+
+Las propuestas serán evaluadas por un comité formado por miembros de la Junta Directiva de NAACL, y las personas agraciadas deberán entregar un informe final. Si tiene cualquier duda sobre esta convocatoria, por favor, envíela a <naaclerf@googlegroups.com> .
+
+Las propuestas pueden enviarse en cualquier lengua, siempre que se proporcione también una traducción al inglés. El formulario de envío online está disponible aquí: https://forms.gle/KAh5XvstQuRHEjL2A
+
 ### Chamada de Propostas para o Fundo NAACL para Regiões Americanas
 
 __Prazo de submissão__: 30 de Abril de 2021 para eventos que ocorrerão entre Junho de 2021 e Junho de 2022.
@@ -61,28 +83,6 @@ As propostas serão avaliadas por um comitê consistindo de membros do conselho 
 
 Propostas podem ser submetidas na língua de sua preferência, contanto que sejam acompanhadas de uma tradução em inglês.   A submissão de propostas é através do formulário online: https://forms.gle/KAh5XvstQuRHEjL2A 
 
-
-### Convocatoria del Fondo para Regiones Americanas NAACL
-
-__Fecha límite__: 30 de abril de 2021 (medianoche, Hora del Pacífico), para eventos que se celebren entre junio de 2021 y junio de 2022
-
-El objetivo del Fondo para Regiones Americanas NAACL es fortalecer la comunidad de Lingüística Computacional (LC) en América Latina y mejorar la interacción regional entre estudiantes e investigadores de cualquier parte de las Américas.
-
-NAACL reconoce que cada región tiene sus necesidades y preocupaciones específicas, por lo que estamos abiertos a una amplia variedad de posibles propuestas, con la limitación de que estos premios están destinados a apoyar a personas, instituciones o eventos ubicados en cualquier parte de las Américas.
-
-Ejemplos de propuestas que pueden ayudar a crear comunidad en las Américas:
-
-- Congresos o workshops regionales.
-- Clases de Procesamiento del Lenguaje Natural (PLN) y Lingüística Computacional en facultades y universidades
-- Participación de estudiantes en congresos, escuelas de verano, y competiciones de PLN/LC
-
-El apoyo económico podría utilizarse para compra de materiales, difusión/streaming, archivando/hosting, viajes, o cualquier otra cosa que las comunidades consideren útil. Agradecemos también otras propuestas.
-
-Téngase en cuenta que este fondo no está destinado a apoyar el viaje de estudiantes al congreso NAACL-HLT, ya que existe un fondo específico para ese propósito. Asimismo, NAACL no apoyará viajes a o desde lugares fuera de las Américas.
-
-Las propuestas serán evaluadas por un comité formado por miembros de la Junta Directiva de NAACL, y las personas agraciadas deberán entregar un informe final. Si tiene cualquier duda sobre esta convocatoria, por favor, envíela a <naaclerf@googlegroups.com> .
-
-Las propuestas pueden enviarse en cualquier lengua, siempre que se proporcione también una traducción al inglés. El formulario de envío online está disponible aquí: https://forms.gle/KAh5XvstQuRHEjL2A
 
 ### Apel à Propositions du Fonds NAACL pour les Régions Américaines
 
