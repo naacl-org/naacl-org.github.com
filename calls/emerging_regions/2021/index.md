@@ -4,11 +4,15 @@ title: "2021 Regional Americas Fund CFP"
 root: ../../../
 ---
 
-[English](###-2021-NAACL-Regional-Americas-Fund-Call-for-Proposals)
-[Português](###-Chamada-de-Propostas-para-o-Fundo-NAACL-para-Regiões Americanas)
-[Español](###-Convocatoria-del-Fondo-para-Regiones-Americanas-NAACL)
-[Français](###-Apel-à-Propositions-du-Fonds-NAACL-pour-les-Régions-Américaines)
-[Nederlands](###-Oproep-om-Voorstellen-in-te-Dienen-van-het-NAACL-Emerging-Regions-fonds)
+[English](#2021-naacl-regional-americas-fund-call-for-proposals)
+
+[Português](#chamada-de-propostas-para-o-fundo-naacl-para-regiões-americanas)
+
+[Español](#convocatoria-del-fondo-para-regiones-americanas-naacl)
+
+[Français](#apel-à-propositions-du-fonds-naacl-pour-les-régions-américaines)
+
+[Nederlands](#oproep-om-voorstellen-in-te-dienen-van-het-naacl-emerging-regions-fonds)
 
 
 ### 2021 NAACL Regional Americas Fund Call for Proposals
