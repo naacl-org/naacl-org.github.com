@@ -12,6 +12,3 @@ PC Co-Chairs:
 - Marine Carpuat (University of Maryland)
 - Marie-Catherine de Marneffe (Ohio State University)
 - Ivan Vladimir Meza Ruiz (National Autonomous University of Mexico)
-
-Heng Ji, NAACL Secretary  
-(for the Nominating Committee and the Executive Board)
