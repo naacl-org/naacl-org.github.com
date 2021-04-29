@@ -13,9 +13,5 @@ PC Co-Chairs:
 - Marie-Catherine de Marneffe (Ohio State University)
 - Ivan Vladimir Meza Ruiz (National Autonomous University of Mexico)
 
-let me know when you are done so I can double check.
-
-Thanks
-
 Heng Ji, NAACL Secretary  
 (for the Nominating Committee and the Executive Board)
