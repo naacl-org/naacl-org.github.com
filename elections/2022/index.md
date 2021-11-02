@@ -108,55 +108,6 @@ will work on initiatives to broaden participation and improve access:
   presenter, similar to what we did at EMNLP 2020.  I will also
   explore options to offer captions for live presentations.
 
-<a name="Muresan"> </a>
-
-### [Smaranda Muresan](http://www.cs.columbia.edu/~smara/)
-
-#### Bio
-Smaranda Muresan is a Research Scientist at the Data Science Institute
-at Columbia University and an Amazon Scholar. Her research interests
-are in the area of computational semantics and discourse, particularly
-figurative language understanding and generation, and argument mining
-and generation. Most recently, she has been interested in applying NLP
-to education and public health, as well as in building NLP
-technologies for low resource languages. She served as a Faculty
-Advisor for NAACL 2015 Student Research Workshop and as a co-organizer
-of the 2nd Workshop on Argumentation Mining at NAACL 2015 and the
-Workshop on Figurative Language Processing at NAACL 2018 and ACL 2020. She is currently serving as a board member of the North American
-Chapter of the Association for Computational Linguistics (NAACL) and
-will serve as a Program Co-Chair for ACL 2022.
-
-#### Candidacy Statement
-I first ran for the NAACL board in 2019 with the main goal of
-improving the reviewing quality and process and thus ensuring that a
-larger number of creative and non-main stream ideas would be part of
-our conference programs. One solution I have started to work towards
-is to create a centralized database of outstanding reviewers gathered
-from past *ACL conferences.  As a current program co-chair for ACL
-2022, I have been working closely with the ACL 2022 and NAACL 2022
-teams to help implement the vision of using ACL Rolling Review for
-*ACL conferences in order to improve reviewing quality and to allow
-maximum flexibility to authors. In close collaboration with the ARR
-team and the senior program committee teams of ACL 2022 and NAACL
-2022, we can further develop the centralized database of high-quality
-reviewers for all *ACL conferences moving forward. If elected, I would
-like to use my position on the NAACL board to continue advocating for
-and implementing improvements in the reviewing process for NAACL and
-ACL conferences, in close collaboration with other members of the
-board. I would like to use my experience as a program co-chair for ACL
-2022 and my position on the board to help better utilize the ARR
-process both for authors and Action Editors and reviewers. For
-example, authors and reviewers would benefit more if our conferences
-would be better spread out throughout the year and not having
-deadlines too close to each other, which might make the ARR process
-less effective. Another issue I would like to contribute to, if
-elected, is the design of standardized and simplified ethical
-statement templates for papers and clear guidelines for these
-statements to streamline the process both for authors and the ethical
-committee reviewers. The goal would be to minimize the need for
-conditional accepts or even worse, rejects based on ethical
-considerations.
-
 <a name="Rumshisky"> </a>
 
 ### [Anna Rumshisky](https://www.cs.uml.edu/~arum/)
