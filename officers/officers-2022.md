@@ -159,53 +159,63 @@ Graham Neubig is an associate professor at the Language Technologies Institute o
 I first ran for the NAACL board in 2018 on a platform of improving two things regarding our conferences and publishing. The first was regarding remote participation in conferences, with the goal of reducing the barrier of entry for researchers who are not able to participating in conferences personally due to financial or visa issues. The silver lining on the cloud of the COVID situation is that it forced our hand on remote conferences, and I now believe that the infrastructure is in place. If elected to a second term, I will advocate for continuing to provide a comprehensive remote participation experience even after we transition back to in-person conferences. The second issue was improvement of our reviewing processes, with the goal of improving efficiency and reviewing quality. I am continuing to advocate for this through participation in the ACL reviewing committee, where I have developed software for reviewer-paper matching (which has been used at ACL 2020 and EMNLP 2020), and also created proposals for rolling review that are under consideration for the ACL as a whole. If elected, I would like to use my position on the NAACL exec to continue advocating for improvements in the reviewing processes for NAACL conferences and the ACL as a whole.
 
 
-Board Member (2022-2023) | [Aline Villavicencio](https://sites.google.com/view/alinev/) | University of Massachusetts Lowell
+Board Member (2022-2023) | [Anna Rumshisky](https://www.cs.uml.edu/~arum/) | University of Massachusetts Lowell
 ------------------------------------
 
 <!-- <img src="images/SmarandaMuresanProfile.jpg" title="Smaranda Muresan" alt="Smaranda Muresan" height="150" /> -->
 
 #### Bio
-Aline Villavicencio is a Professor in the Department of Computer
-Science, University of Sheffield (UK) also affiliated to the Federal
-University of Rio Grande do Sul (Brazil). Her research interests
-include lexical semantics and multiword expressions, multilinguality,
-and cognitively motivated NLP. She received her MSc from the Federal
-University of Rio Grande do Sul (Brazil), PhD and MPhil from
-the University of Cambridge (UK), and held postdoc positions at the
-University of Cambridge and University of Essex (UK) and was a
-Visiting Scholar at institutions like the Massachusetts Institute of
-Technology (USA) and ?cole Normale Sup?rieure (France). She serves as
-editorial board member for TACL, JNLE, Journal of Language Modelling
-and Linguamatica, as well as Book Review Editor for Computational
-Linguistics. She is the PC co-chair of ACL-2022, was the PC co-chair
-for CoNLL-2019, General co-chair for the 13th Int. Conf. on
-Computational Processing of Portuguese (PROPOR 2018), and has been SAC
-and AC for events including *ACL conferences, IJCAI and AAAI. In
-addition, she co-chaired numerous *ACL workshops on Cognitive Aspects
-of Computational Language Acquisition and on Multiword Expressions,
-and co-edited special issues and books dedicated to these topics. She
-is also a member of the advisory board of WiNLP.
+Anna Rumshisky is an Associate Professor in the Department of Computer
+Science at the University of Massachusetts Lowell. She works on
+representation learning for computational semantics and temporal
+reasoning, model interpretability & analysis, and natural language
+modeling for clinical informatics. She is currently a Visiting
+Academic at Amazon Alexa AI. She was previously a postdoctoral fellow
+at MIT CSAIL and received a PhD in Computer Science from Brandeis
+University in 2009. She is a recipient of the NSF CAREER award in
+2017 and the best thematic paper award at NAACL-HLT 2019. Her research
+has been supported by the NSF, NIH, Army Research Office, National
+Endowment for the Humanities, among others. She has served as a
+Program Co-Chair for NAACL 2021, area chair for ACL 2020, NAACL-HLT
+2019, and COLING 2018, and co-organized a number of workshops,
+including Insights from Negative Results in NLP (Insights @ EMNLP
+2020, EMNLP 2021), Evaluating Vector Space Representations for NLP
+(RepEval @ NAACL 2019), and the Clinical Natural Language Processing
+Workshop (COLING 2016, NAACL 2019, EMNLP 2020).
 
 #### Candidacy Statement
-Many thanks for considering me for an additional term as NAACL board
-member. The first term has provided an extremely interesting
-opportunity to get involved in NAACL activities and its presence
-within our various communities, in particular as a member of
-the Regional Americas Fund (RAF) committee. For the second term, my
-plan is to continue to work towards promoting and supporting
-initiatives, like WiNLP, for increasing diversity and inclusion of
-underrepresented NLP communities, supporting the growth of programs,
-like the Regional Americas Fund (RAF) and the amazing actions that it
-supports throughout the Americas, with its rich ecosystem of languages
-(and cultures) and the brave communities that have worked for their
-documentation and processing, often in (very) low-resourced
-settings. This also includes helping to promote opportunities for
-supporting language diversity in our events, to increase visibility
-and dissemination of regional efforts and help to strengthen links and
-fostering collaborations among the communities. In addition, I will
-continue to support greater presence of interdisciplinary initiatives
-in NAACL events for facilitating interactions that include a diversity
-of areas.
+As a board member, I would like to ensure that we work on the
+following issues:
+
+- Reproducibility. As in many other fields, we currently face a
+    reproducibility crisis. We need formal mechanisms to
+    counteract it that go beyond contacting the authors and discussing
+    issues on social media and in our personal networks. A
+    number of methods have now been proposed to encourage
+    reproducibility, but most have not been widely implemented. As a
+    board member, I would like to ensure that we take action towards
+    formalizing some of the proposed mechanisms.
+
+- Accessibility. One clear benefit of switching conferences to
+    virtual format this year was improved access to top
+    conferences so many of us who would not be able attend in
+    person. It is clear that we need to figure out how to run
+    conferences in a hybrid mode without creating a two-tier
+    system. Should we have remote and live components to every
+    conference, with papers presented at both or randomly assigned to
+    one of the modalities? Which events can be run in both
+    modalities? As a board member, I would like to explore and
+    understand what our solutions should be.
+
+- Ethics and social impact. Amid growing concerns about research
+    ethics and social impact of our research, a number of
+    initiatives have been undertaken recently to change how we think
+    about potential impact of our research both on different
+    social groups and society at large. Ethics are a delicate matter,
+    and hasty decisions may easily lead to disastrous
+    effects. I would work to ensure that such initiatives are
+    systematic and well thought-out, and that we have a wide
+    community support.
 
 
 Board Member (2022-2023) | [Thamar Solorio](http://solorio.uh.edu/) | University of Houston
