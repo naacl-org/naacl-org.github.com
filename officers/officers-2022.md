@@ -118,7 +118,7 @@ on the editorial board of Computational Linguistics from 2013 to 2015, and as an
 area chair for ACL 2014, IJCNLP 2017 and EMNLP 2019. He co-organized the
 Workshop on Deep Learning Approaches for Low-Resource NLP (DeepLo) in 2018 and
 2019, and he was Research Program co-chair for the conference of the Association
-for Machine Translation in the Americas (AMTA) in 2018.
+for Machine Translation in the Americas (AMTA) in 2018. He is currently a Past Chair for NAACL 2022-2023.
 
 #### Candidacy Statement
 
