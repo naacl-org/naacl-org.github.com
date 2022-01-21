@@ -22,6 +22,7 @@ Executive Board
 
 |              |                             |                                            |           |
 |--------------|-----------------------------|--------------------------------------------|-----------|
+| Board Member | Eduardo Blanco              | Arizona State University                   | 2022      |
 | Board Member | Graham Neubig               | Carnegie Mellon University                 | 2021-2022 |
 | Board Member | Anna Rumshisky              | University of Massachusetts Lowell         | 2022-2023 |
 | Board Member | Thamar Solorio              | University of Houston                      | 2022-2023 |
@@ -143,6 +144,53 @@ properly and consistently. Reviewing, of course, remains an ongoing concern as
 we attempt to scale our processes to an ever-growing flood of submissions. I
 will ensure that the NAACL board remains actively engaged in this discussion as
 it continues in our community and in those of our neighbouring fields.
+
+Board Member (2022) | [Eduardo Blanco](http://www.cse.unt.edu/~blanco/) | Arizona State University
+------------------------------------
+
+#### Bio
+Eduardo Blanco is an Associate Professor at Arizona State
+University. He was previously an Assistant Professor (2014-2020) and
+Associate Professor (2020-2021) at University of North Texas. He
+received his PhD in 2011 from The University of Texas at Dallas. He
+has been a reviewer for *ACL conferences for over a decade and
+currently serves in the standing reviewer team of the Computational
+Linguistics and Transactions of the Association for Computational
+Linguistics journals. He has co-organized multiple workshops
+collocated with *ACL conferences and served as Area Chair and Demo
+Chair for several ACL, NAACL and EMNLP conferences. He also served as
+Virtual Infrastructure Co-Chair for EMNLP 2020, where he was
+responsible for designing and coordinating the caption editing process
+to improve accessibility of prerecorded presentations.
+
+#### Candidacy Statement
+The community has proposed and implemented several initiatives to
+improve the reviewing process, ensure high quality programs in
+conferences, and broaden participation (Student Research Workshops,
+Emerging Regions funds, WiNLP, etc.). If elected to the NAACL board, I
+will work on initiatives to broaden participation and improve access:
+
+- Geography. The NAACL constitution states that NAACL will serve ACL
+  members in Central America and South America until regional chapters
+  are created. I will support ongoing initiatives (LatinX in AI,
+  Emerging Regions Fund, etc.) and work towards having more in-person
+  conferences in these regions (assuming the pandemic allows us to).
+
+- Cost. Attending our conferences is outside the budget of many
+  researchers. Based on what I learned serving as Virtual
+  Infrastructure Co-Chair for EMNLP 2020, I will work towards
+  standardizing processes to offer hybrid conferences. I believe that
+  hybrid conferences will allow many more researchers to participate
+  and that most researchers who currently attend in person will
+  continue to do so.
+
+- Non-native English speakers and ableism. Many researchers in our
+  region are non-native English speakers or hard of hearing. Offering
+  captions will not only enhance the experience of non-native
+  speakers, but also partially address ableism. Prerecorded
+  presentations can be automatically captioned and then edited by the
+  presenter, similar to what we did at EMNLP 2020.  I will also
+  explore options to offer captions for live presentations.
 
 
 Board Member (2021-2022) | [Graham Neubig](http://www.phontron.com) | Carnegie Mellon University
