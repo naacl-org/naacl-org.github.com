@@ -101,7 +101,7 @@ Apart from our annual conference, NAACL continues to support NACLO, to promote C
 
 My goal for the coming term is to expand our support of these and other worthy causes that promote the equitable expansion of research in natural language processing and computational linguistics. Thanks to our hardworking ACL treasurer David Yarowsky and ACL business manager Priscilla Rasmussen, ACL is resolving long-standing uncertainties with regard to its financial health that have necessitated caution in our spending. With these uncertainties resolved, NAACL will be able to expand its support to increase NACLO, JSALT, and ERF participation, which exposes as wide a population in the Americas as possible to our field. When travel resumes, I will suggest we use available NAACL funds to facilitate low-cost conference child support and provide conference travel grants. In this way we will work toward ensuring that lack of money does not equate to lack of access.
 
-Past Chair (2020-2021) | [Colin Cherry](https://sites.google.com/site/colinacherry/) | Google
+Past Chair (2022-2023) | [Colin Cherry](https://sites.google.com/site/colinacherry/) | Google
 ----------------------------------------------------------------------------------------
 
 <!-- <img src="images/ColinProfile.jpg" title="Colin Cherry" alt="Colin Cherry" height="150" /> -->
