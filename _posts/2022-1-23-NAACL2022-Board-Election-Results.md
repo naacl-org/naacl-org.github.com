@@ -5,13 +5,13 @@ root: ../../
 ---
 Dear NAACL members,
 
-NAACL2022 Board election results are in: http://naacl.org/officers/officers-2022.html. Here are the newly elected officers for 2022:
+NAACL2022 Board election results are in [here](http://naacl.org/officers/officers-2022.html). Here are the newly elected officers for 2022:
 
 Officers:
 - Luciana Benotti (Chair)
 - Heng Ji (Secretary, re-elected)
 
-Members:
+Board Members:
 - Eduardo Blanco
 - Anna Rumshisky
 - Thamar Solorio (re-elected)
