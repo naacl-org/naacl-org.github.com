@@ -5,10 +5,8 @@ title: "2022 Jelinek Summer School"
 root: ../../../
 ---
 
-Call For NAACL Scholarship Applications To The Two-Week Undergraduate
-Summer School At The 2022 Annual Jelinek Memorial Workshop On Speech
-And Language Technology (JSALT)
----
+Call For NAACL Scholarship Applications To The Two-Week Undergraduate Summer School At The 2022 Annual Jelinek Memorial Workshop On Speech And Language Technology (JSALT)
+----------------------------------
 
 The North American Chapter of the Association for Computational
 Linguistics (NAACL) is again offering an exciting summer school
@@ -46,24 +44,24 @@ selected for the summer school are expected to attend all two weeks of
 the summer school.
 
 __How do I apply for this scholarship?__ Easy! Fill in the form at
-https://forms.gle/XdhghF4QhtN45EWL9 and arrange for one to two short
-letters of reference to be sent to naacl-jhu-workshop@googlegroups.com
+<https://forms.gle/XdhghF4QhtN45EWL9> and arrange for one to two short
+letters of reference to be sent to <naacl-jhu-workshop@googlegroups.com>
 by __Wednesday, May 11, 2022__.
 
 ### Important Facts and Dates:
-|------------------------|-----------------------------------------------------------------------------------|
-|Summer School Dates:    |  June 13 (Monday) to June 24 (Friday), 2022                                       |
-|Summer School Location: |  Johns Hopkins University in Baltimore, MD                                        |
-|Summer School Website:  |  https://www.clsp.jhu.edu/2022-eighth-frederick-jelinek-memorial-summer-workshop/ |
-|__NAACL Scholarship Application Deadline:__ | Wednesday, May 11, 2022 at 11:59pm PDT                        |
-|Notification date:      | Friday, May 13, 2022                                                              |
-|------------------------------------------------------------------------------------------------------------|
+|--------------------------------------------|-------------------------------------------------------------------------------------|
+|Summer School Dates:                        |  June 13 (Monday) to June 24 (Friday), 2022                                         |
+|Summer School Location:                     |  Johns Hopkins University in Baltimore, MD                                          |
+|Summer School Website:                      |  <https://www.clsp.jhu.edu/2022-eighth-frederick-jelinek-memorial-summer-workshop/> |
+|__NAACL Scholarship Application Deadline:__ | Wednesday, May 11, 2022 at 11:59pm PDT                                              |
+|Notification date:                          | Friday, May 13, 2022                                                                |
+|--------------------------------------------|-------------------------------------------------------------------------------------|
 
 This is a very firm deadline, and applications submitted prior to this
 date will be much appreciated. The deadline also applies to reference
 letters.  Applications with late references will not be
 considered. The application form is here:
-https://forms.gle/XdhghF4QhtN45EWL9
+<https://forms.gle/XdhghF4QhtN45EWL9>
 
 ***********************************************************************************************************************
 
@@ -76,7 +74,7 @@ https://forms.gle/XdhghF4QhtN45EWL9
 **A:** Yes.
 
 **Q:** What about visa issues?
-**A:** If you are selected and are from a country that requires a visa, we will work with you on necessary paperwork. Note that there could be a big delay to obtain US visas due to the pandemic situation, which is not necessarily compatible with the gap between the notification date and the summer school’s start date. You can check your visa wait times here: https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/wait-times.html
+**A:** If you are selected and are from a country that requires a visa, we will work with you on necessary paperwork. Note that there could be a big delay to obtain US visas due to the pandemic situation, which is not necessarily compatible with the gap between the notification date and the summer school’s start date. You can check your visa wait times here: <https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/wait-times.html>
 
 **Q:** Must all materials be submitted by the deadline, including the letters of recommendation?
 **A:** Yes, the deadline is strict and it applies to the entire application package.
@@ -91,7 +89,7 @@ https://forms.gle/XdhghF4QhtN45EWL9
 **A:** Please email your reference letters to naacl-jhu-workshop@googlegroups.com. You can expect to receive a response verifying the receipt of your application within one business day.
 
 **Q:** What’s the schedule?
-**A:** It’s not yet finalized, but the summer workshop schedule from 2019 can be found at https://www.clsp.jhu.edu/workshops/19-workshop/2019-hlt/
+**A:** It’s not yet finalized, but the summer workshop schedule from 2019 can be found at <https://www.clsp.jhu.edu/workshops/19-workshop/2019-hlt/>
 
 **Q:** If I have any questions, who should I contact?
-**A:** Please email us at naacl-jhu-workshop@googlegroups.com
+**A:** Please email us at <naacl-jhu-workshop@googlegroups.com>
