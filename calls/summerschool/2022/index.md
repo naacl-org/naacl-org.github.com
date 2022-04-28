@@ -50,12 +50,12 @@ by __Wednesday, May 11, 2022__.
 
 ### Important Facts and Dates:
 
-|--------------------------------------------|-------------------------------------------------------------------------------------|
-|Summer School Dates:                        |  June 13 (Monday) to June 24 (Friday), 2022                                         |
-|Summer School Location:                     |  Johns Hopkins University in Baltimore, MD                                          |
-|Summer School Website:                      |  <https://www.clsp.jhu.edu/2022-eighth-frederick-jelinek-memorial-summer-workshop/> |
-|__NAACL Scholarship Application Deadline:__ | Wednesday, May 11, 2022 at 11:59pm PDT                                              |
-|Notification date:                          | Friday, May 13, 2022                                                                |
+|--------------------------------------|-------------------------------------------------------------------------------------|
+|Summer School Dates:                  |  June 13 (Monday) to June 24 (Friday), 2022                                         |
+|Summer School Location:               |  Johns Hopkins University in Baltimore, MD                                          |
+|Summer School Website:                |  <https://www.clsp.jhu.edu/2022-eighth-frederick-jelinek-memorial-summer-workshop/> |
+|__Scholarship Application Deadline:__ | Wednesday, May 11, 2022 at 11:59pm PDT                                              |
+|Notification date:                    | Friday, May 13, 2022                                                                |
 
 
 This is a very firm deadline, and applications submitted prior to this
