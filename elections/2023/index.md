@@ -11,7 +11,7 @@ Board Member nominees:
 ----------------------
 <a name="Blanco"> </a>
 
-### [Eduardo Blanco](http://www.cse.unt.edu/~blanco/)
+### [Eduardo Blanco](https://eduardoblanco.github.io/)
 
 #### Bio
 
