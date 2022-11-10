@@ -63,6 +63,42 @@ It is an exciting time for the CL/NLP field with many opportunities and challeng
 **Supporting growth of the community**: With the increasing attention on diversity and inclusiveness of our community, community building activities (e.g. ACL mentoring, WiNLP, etc) are also growing. I would like to strengthen the existing community building activities by supporting efforts to enable more coordination among them for broader impact. In addition, I would like to extend such initiatives to attract more talents (e.g. undergraduates) from a diverse background into the field and provide more support for the growth of junior researchers, from senior PhD students to new faculty members and junior industry researchers. 
 
 
+<a name="Jessy_Li"> </a>
+
+### [Junyi Jessy Li](https://jessyli.com/)
+
+#### Bio
+
+Jessy Li is an assistant professor in the Department of Linguistics at the University of Texas at Austin. She received her PhD in 2017 from the Department of Computer and Information Science at the University of Pennsylvania. Her research looks into models for discourse processing, natural language generation, and methods to better understand social discourse. Jessy has served as a reviewer for more than 30 *ACL and AI conferences, and a standing reviewer for the TACL and CL journals. She has been an Area Chair or Senior Area chair for ACL, NAACL, EMNLP and AAAI, an Action Editor for ACL Rolling Review, and an Associate Editor for the Dialogue & Discourse journal. She was honored as an Outstanding Area Chair (EMNLP 2020) and an Outstanding Senior Program Committee Member (AAAI 2020). She was a Program Co-Chair for SIGDIAL 2022, after serving on the SIGDIAL board from 2019--2021. She has also been a co-organizer for the Workshop on Computational Approaches to Discourse since its inauguration in 2020, and the First Workshop on Natural Language Processing for Programming co-located with ACL 2021.
+
+#### Candidacy Statement
+
+CL/NLP as a field has been rapidly evolving, not just in terms of research and what is considered cutting-edge, but also how we submit to and participate in conferences. This is an exciting time, yet challenging to navigate. If elected, I would work on several aspects to support our dynamic & diverse community:
+- Transparency: in a time of rapid change, it is one of my goals to help maintain a clear communication channel and feedback loop within the community for conference-related decisions, the evolving nature of review guidelines, and new themes; for instance, regular updates disseminated via blogs/social media and regular, open surveys.
+- Reviewer mentoring: to help cope with the scale at which CL/NLP has been growing, we need a strong reviewer pool. How we train the younger generation of reviewers means everything to the future of our field. I will work towards improving our review mentoring process even more, e.g., recognition for both mentors and mentees, a more open way to sign up to be mentored, and a balanced review workload for mentors.
+- Accessibility and virtual conference: As we emerge from the online era, virtual participation of conferences has dropped drastically; this can have a negative impact on researchers who cannot travel for a variety of reasons. I will make sure that we provide (1) a better design of the virtual format to improve participation; (2) more travel and lodging subsidies; (3) on-site childcare service.
+- Linguistic diversity: I would like to advocate for a more diverse linguistic profile within the NAACL community, including (1) calling for and promoting special tracks and workshops about work on low-resource languages, indigenous languages, as well as sign languages; (2) making plans for increased travel support and interpreters and translators to improve conference accessibility.
+
+
+<a name="Xu"> </a>
+
+### [Wei Xu](https://cocoxu.github.io/)
+
+#### Bio
+
+Wei Xu is an assistant professor in the School of Interactive Computing at Georgia Institute of Technology. She received her Ph.D. in Computer Science from New York University and BS/MS from Tsinghua University. Her recent research focuses on text generation, semantics, NLP for social media, and reading/writing assistive technology. She is a recipient of the NSF CAREER Award in 2022 and a Best Paper Award at COLING 2018. She was the workshop chair for ACL 2017 and co-wrote the current ACL Workshop Chair Handbook with Jonathan Berant to help standardize the workshop organization and selection procedure. She has also served as senior area chair and area chair for ACL/NAACL/EMNLP regularly since 2016; co-founded/organized three workshops, including the Workshop on Noisy User-generated Text (WNUT) that has been running annually for the past 8 years.
+
+#### Candidacy Statement
+
+I would like to focus on listening broadly to the opinions of the NAACL community from researchers at different career stages and regions, preserving institutional memory, and carrying out one well-thought-out initiative (if the NAACL community also thinks it is a good idea) that is effective and sustainable to make the world a better place. The current ideas and priorities I have in mind are the following, for which I will love to hear your suggestions or concerns (email me at wei.xu@cc.gatech.edu).
+
+(1) Supporting students to present work at regional mini-NLP conferences: The pandemic together with other factors (e.g., costs, visa issues, etc) has made it difficult in recent years for some students and early career researchers to attend conferences, meet people, and present their work in recent years. I will work to facilitate and coordinate the revival, continuation, and creation of more regional student colloquiums (such as “Mid-Atlantic Student Colloquium on Speech, Language and Learning” and “Midwest Speech and Language Days"), which will be 1-2 day events (no registration fee) where students/postdocs/faculty/researchers can meet and present their work. We can have a more streamlined process and shared organization handbook, and help secure funds to reduce the burden from the organizers; we can also coordinate event dates, and call-for-participation via the ACL member mailing list to reach out more broadly to the NAACL community, etc. If successful, this practice can be extended to more locations, including Latin America and other continents.
+
+(2) Supporting students and early-career researchers to attend conferences: I would like to work towards (a) a better hybrid format to improve conference experiences for both in-person and virtual participants; (b) more spotlight opportunities at conferences for students who are close to graduation as well as new faculty and other early-career researchers to gain visibility; (c) travel grants to lower the cost for students to attend ACL/EMNLP/NAACL conferences.
+
+(3) Stabilizing the reviewing system: The peer-review process is a complicated system that impacts everyone (and can be fragile). I will try my best to help the board to make good and careful decisions if and when any motions/changes come forward.
+
+
 Treasurer nominees:
 ----------------------
 
