@@ -22,8 +22,6 @@ Executive Board
 
 |              |                             |                                            |           |
 |--------------|-----------------------------|--------------------------------------------|-----------|
-| Board Member | Eduardo Blanco              | Arizona State University                   | 2022      |
-| Board Member | Graham Neubig               | Carnegie Mellon University                 | 2021-2022 |
 | Board Member | Yunyao Li                   | Apple                                      | 2023-2024 |                                         
 | Board Member | Anna Rumshisky              | University of Massachusetts Lowell         | 2022-2023 |
 | Board Member | Thamar Solorio              | University of Houston                      | 2022-2023 |
@@ -87,7 +85,7 @@ Heng Ji is a professor at Computer Science Department, and an affiliated faculty
 In the past one and a half years, I have run the NAACL election in a well-organized, fair and transparent format, with the great help from the nomination committee and the ACL Information Technology Director Dr. Nitin Madnani. I have handled external communications through the NAACL website, mailing lists and social media in a clear and timely manner, and took meeting notes. I have constructed a repository of guidelines and materials for PC chairs, and built "ReviewRobot", an automatic paper scoring and review generation system [Wang et al., INLG2020] which can potentially serve as a review assistant. I have also started building a Who's Who knowledge base for NLP researchers using the information extraction and knowledge base population techniques that my research group has developed. I would appreciate the opportunity to serve for another term as NAACL secretary so I could have sufficient time to wrap up and release the PC chair material repository, and work with NAACL and ACL executive committees to figure out the best way to integrate and utilize the ReviewRobot and the NLP Who's Who KB in NAACL/ACL platforms.
 
 
-Treasurer (2021-2022) | [Jonathan May](http://jonmay.net) | University of Southern California / Information Sciences Institute
+Treasurer (2023-2024) | [Jonathan May](http://jonmay.net) | University of Southern California / Information Sciences Institute
 ------------------------
 
 <!-- <img src="images/JonMay.jpg" title="Jonathan May" alt="Jonathan May" height="150" /> -->
@@ -147,67 +145,6 @@ properly and consistently. Reviewing, of course, remains an ongoing concern as
 we attempt to scale our processes to an ever-growing flood of submissions. I
 will ensure that the NAACL board remains actively engaged in this discussion as
 it continues in our community and in those of our neighbouring fields.
-
-Board Member (2022) | [Eduardo Blanco](http://www.cse.unt.edu/~blanco/) | Arizona State University
-------------------------------------
-
-#### Bio
-Eduardo Blanco is an Associate Professor at Arizona State
-University. He was previously an Assistant Professor (2014-2020) and
-Associate Professor (2020-2021) at University of North Texas. He
-received his PhD in 2011 from The University of Texas at Dallas. He
-has been a reviewer for *ACL conferences for over a decade and
-currently serves in the standing reviewer team of the Computational
-Linguistics and Transactions of the Association for Computational
-Linguistics journals. He has co-organized multiple workshops
-collocated with *ACL conferences and served as Area Chair and Demo
-Chair for several ACL, NAACL and EMNLP conferences. He also served as
-Virtual Infrastructure Co-Chair for EMNLP 2020, where he was
-responsible for designing and coordinating the caption editing process
-to improve accessibility of prerecorded presentations.
-
-#### Candidacy Statement
-The community has proposed and implemented several initiatives to
-improve the reviewing process, ensure high quality programs in
-conferences, and broaden participation (Student Research Workshops,
-Emerging Regions funds, WiNLP, etc.). If elected to the NAACL board, I
-will work on initiatives to broaden participation and improve access:
-
-- Geography. The NAACL constitution states that NAACL will serve ACL
-  members in Central America and South America until regional chapters
-  are created. I will support ongoing initiatives (LatinX in AI,
-  Emerging Regions Fund, etc.) and work towards having more in-person
-  conferences in these regions (assuming the pandemic allows us to).
-
-- Cost. Attending our conferences is outside the budget of many
-  researchers. Based on what I learned serving as Virtual
-  Infrastructure Co-Chair for EMNLP 2020, I will work towards
-  standardizing processes to offer hybrid conferences. I believe that
-  hybrid conferences will allow many more researchers to participate
-  and that most researchers who currently attend in person will
-  continue to do so.
-
-- Non-native English speakers and ableism. Many researchers in our
-  region are non-native English speakers or hard of hearing. Offering
-  captions will not only enhance the experience of non-native
-  speakers, but also partially address ableism. Prerecorded
-  presentations can be automatically captioned and then edited by the
-  presenter, similar to what we did at EMNLP 2020.  I will also
-  explore options to offer captions for live presentations.
-
-
-Board Member (2021-2022) | [Graham Neubig](http://www.phontron.com) | Carnegie Mellon University
-------------------------------------
-
-<!-- <img src="images/GrahamNeubig.jpg" title="Graham Neubig" alt="Graham Neubig" height="150" /> -->
-
-#### Bio
-
-Graham Neubig is an associate professor at the Language Technologies Institute of Carnegie Mellon University. His work focuses on natural language processing, specifically multi-lingual models that work in many different languages, and natural language interfaces that allow humans to communicate with computers in their own language. Much of this work relies on machine learning, and he is also active in developing methods and algorithms for machine learning over natural language data. He publishes regularly in the top venues in natural language processing, machine learning, and speech, and his work has won awards at EMNLP 2016, EACL 2017, and NAACL 2019. He has served on the NAACL board for the 2019-2020 term.
-
-#### Candidacy Statement
-
-I first ran for the NAACL board in 2018 on a platform of improving two things regarding our conferences and publishing. The first was regarding remote participation in conferences, with the goal of reducing the barrier of entry for researchers who are not able to participating in conferences personally due to financial or visa issues. The silver lining on the cloud of the COVID situation is that it forced our hand on remote conferences, and I now believe that the infrastructure is in place. If elected to a second term, I will advocate for continuing to provide a comprehensive remote participation experience even after we transition back to in-person conferences. The second issue was improvement of our reviewing processes, with the goal of improving efficiency and reviewing quality. I am continuing to advocate for this through participation in the ACL reviewing committee, where I have developed software for reviewer-paper matching (which has been used at ACL 2020 and EMNLP 2020), and also created proposals for rolling review that are under consideration for the ACL as a whole. If elected, I would like to use my position on the NAACL exec to continue advocating for improvements in the reviewing processes for NAACL conferences and the ACL as a whole.
 
 
 Board Member (2023-2024) | [Yunyao Li](https://yunyaoli.github.io/) | Apple
