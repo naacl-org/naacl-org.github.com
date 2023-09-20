@@ -82,7 +82,7 @@ Minutes from NAACL Exec Meeting
 +	Diyi: let’s setup a discussion forum to include everyone and students in these discussions too
 +	Thamar: I’m interested in engaging in these discussions as I have feedback I would like to share regarding how to make the internship programs more friendly toward advisors
 
-### Conference pricing, speakers program for emerging regions (23 minutes)
+### Conference pricing and speakers program for emerging regions (23 minutes)
 +	Thamar: high pricing is making conferences difficult to access, can we add more industry support?
 +	David: need volunteers to help manage industry fund and review applications 
 +	Thamar: can we have a new paid position at ACL dedicated to make the conferences more accessible
@@ -102,7 +102,7 @@ Minutes from NAACL Exec Meeting
         +	Thamar and Jon: we need to work out concrete plans/ logistics such as host and student matching and applications
 
 
-### NAACL conference surveys, Arxiv policy for NAACL (21 minutes)
+### NAACL conference surveys and ArXiv policy (21 minutes)
 
 +	Diyi: Should NAACL send  out a before and after conference survey and share the survey results?
     +	Heng and Thamar: we need to design questions carefully and need to tell people the survey results will be shared publicly
