@@ -6,7 +6,7 @@ root: ../../
 
 Minutes from NAACL Exec Meeting
 --------------------------------
-- Date: Friday Sept 8, 2023
+- Date: Friday September 8, 2023
 - Time: 10:00am - 11.30am Central Time (UTC-5)
 
 ### Participants
