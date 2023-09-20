@@ -7,7 +7,7 @@ root: ../../
 Minutes from NAACL Exec Meeting
 --------------------------------
 - Date: Friday Sept 8, 2023
-- Time: 10:00am - 11.30am: Central time (UTC-5)
+- Time: 10:00am - 11.30am Central Time (UTC-5)
 
 ### Participants
 
@@ -23,7 +23,7 @@ Minutes from NAACL Exec Meeting
 + Yarowsky 
 + Yunyao Li
 
-### NAACL'25 location, budget update, RAF update (15 real minutes)
+### NAACL'25 location, budget update, RAF update (15 minutes)
 
 +	(Jon May) NAACL Budget Update: Current Budget is about $90K, 10K for support of khipu, 2.5K for NACLO, 10.7K for RAF awardees
 +	(David Yarowsky) We need to think about ways to effectively spend the NAACL budget
@@ -40,7 +40,7 @@ Minutes from NAACL Exec Meeting
     +	One payee has yet to receive funds - Jennifer will look into it.
 
 
-### Transparency of the board (14 real minutes)
+### Transparency of the board (14 minutes)
 +	Wei: release meeting notes?
 +	Jon and Heng: we will wait for one week for the NAACL board to check meeting notes, and release the notes from this meeting and previous meetings on NAACL website.
 +	Wei: more frequent communications with ACL and NAACL members, including motion, vote, work-in-progress?
@@ -82,7 +82,7 @@ Minutes from NAACL Exec Meeting
 +	Diyi: let’s setup a discussion forum to include everyone and students in these discussions too
 +	Thamar: I’m interested in engaging in these discussions as I have feedback I would like to share regarding how to make the internship programs more friendly toward advisors
 
-### Conference pricing, speakers program for emerging regions (23 real minutes)
+### Conference pricing, speakers program for emerging regions (23 minutes)
 +	Thamar: high pricing is making conferences difficult to access, can we add more industry support?
 +	David: need volunteers to help manage industry fund and review applications 
 +	Thamar: can we have a new paid position at ACL dedicated to make the conferences more accessible
@@ -102,7 +102,7 @@ Minutes from NAACL Exec Meeting
         +	Thamar and Jon: we need to work out concrete plans/ logistics such as host and student matching and applications
 
 
-### NAACL conference surveys, Arxiv policy for NAACL (21 real minutes)
+### NAACL conference surveys, Arxiv policy for NAACL (21 minutes)
 
 +	Diyi: Should NAACL send  out a before and after conference survey and share the survey results?
     +	Heng and Thamar: we need to design questions carefully and need to tell people the survey results will be shared publicly
