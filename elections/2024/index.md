@@ -4,19 +4,9 @@ title: "Candidate Statements for 2024 NAACL Board Elections"
 root: ../../
 ---
 
-**Chair**: Graham Neubig
+The names below and on the ballot appear in alphabetical order based on last names.
 
-**Secretary**: Jessy Li, Saif Mohammad
-
-**Board**:  
-
-+ Committee nominated: Huan Sun, Hanna Hajishirzi, Anna Rumshisky
-
-+ Community nominated: Rui Zhang, Greg Durrett, Dilek Hakkani-Tur, Zornitsa Kozareva, Manuel Mager
-
-
-
-Chair:
+Chair Nominee:
 ----------------------
 <a name="Graham Neubig"> </a>
 
@@ -36,7 +26,7 @@ My major goals as NAACL chair are two-fold:
 I believe my past experience as the initiator of several workshops, member of the NAACL board, role in handling the logistics of ARR, and participant in several grassroots NLP initiatives run by language communities (such as Masakhane and AmericasNLP), have left me well prepared to take on these tasks.
 
 
-Secretary:
+Secretary Nominees:
 ----------------------
 <a name="Jessy Li"> </a>
 
@@ -77,87 +67,8 @@ NAACL has had great initiatives such as the Emerging Regions Fund for some time 
 I also believe we need to rethink our conference formats. Despite recent initiatives like BoF and Affinity groups, they are far too focused on the author/presenter, and not so much on the attendee. We have relied too much on a great location to draw attendees to conferences. However, with virtual attendance being so beneficial for those who cannot travel, we need to center the attendees (in-person and virtual) and think hard about how our conference formats can be fun, interactive, and foster a sense of belonging and community for all.
 
 
-Board Members (Committee Nominated):
+Board Members:
 ----------------------
-<a name="Huan Sun"> </a>
-
-### [Huan Sun](https://web.cse.ohio-state.edu/~sun.397/)
-
-#### Bio
-
-Huan Sun is an endowed College of Engineering Innovation Scholar and a tenured associate professor in the Department of Computer Science and Engineering at The Ohio State University. Her research interests lie in natural language processing and artificial intelligence, especially language agents, large language model analysis and evaluation. Huan received Honorable Mentions for Best Paper Awards at ACL’23 (for two papers), 2022 ACM SIGMOD Research Highlight Award, BIBM Best Paper Award, Google Research Scholar and Google Faculty Award, NSF CAREER Award, OSU Lumley Research Award, and SIGKDD Ph.D. Dissertation Runner-Up Award, among others. Her team TacoBot won third place in the first Alexa Prize TaskBot challenge and was the only award-winning team in the US. 
-
-
-#### Candidacy Statement
-
-It’s a great honor for me to be considered as a NAACL board member. I will be committed to serving the NLP community if elected. My vision revolves around three core principles, which I believe are crucial for the continued growth and excellence of our community.
-
-1. Facilitating discussions on conference policies: The policies governing paper submission (e.g., anonymity, arXiv), reviewing, and awards are at the heart of our community's fairness and transparency. I aim to facilitate open and constructive dialogues to refine these policies. As a board member, I will work tirelessly to ensure that our conference policies are inclusive, equitable, and adaptive, especially given the fast pace of current research development. I will actively seek feedback from the community and advocate for policies that align with our collective values.
-   
-2. Promoting interdisciplinary work: Our field is undergoing a revolution driven by the advances in large language models (LLMs). On the one hand, it is crucial that we extend the reach of NLP beyond our traditional boundaries and harness its transformative potential to address real-world challenges in various domains such as healthcare, social justice, and environmental science. On the other hand, it is important for the NLP community to draw insights from other disciplines like psychology and neuroscience to develop innovative techniques. As a board member, I will support the creation of dedicated tracks, workshops, and incentives for interdisciplinary research. By fostering collaboration across domains, we can facilitate the growth of both NLP and other fields in a mutually beneficial manner .
-   
-3. Supporting students and low-resourced researchers: One of the most pressing issues in our community is the financial barrier that prevents many students and low-resourced researchers from participating in *CL conferences. Travel costs are often prohibitively high, and a limited budget from funding agencies leaves many deserving researchers unable to attend. If elected, I am committed to expanding travel support for students and low-resourced researchers (e.g., researchers who have papers to present but are transitioning between jobs or just start on a new position and have to support multiple students to attend), especially those from underrepresented groups. By seeking additional sponsorship and optimizing the allocation of resources,  I hope to ensure that a more diverse and representative group of young researchers benefit from the invaluable experiences *CL conferences offer.
-
-
-<a name="Hanna Hajishirzi"> </a>
-
-### [Hanna Hajishirzi](https://homes.cs.washington.edu/~hannaneh/)
-
-#### Bio
-
-Hanna Hajishirzi is a Torode Family Associate Professor at the University of Washington and a Senior Director of NLP at AI2. Her research spans different areas in NLP and AI, more recently on the science of language models and language models for science. Honors include an NSF CAREER, Sloan Fellowship, Allen Distinguished Investigator Award, Intel rising star award, UIUC alumni award. She has received a best paper and several honorable mention paper awards and has served as an area chair and senior area chair at NLP and Machine Learning conferences, including NAACL, EMNLP, ACL, AAAI, and NeurIPS. 
-
-
-#### Candidacy Statement
-
-As a board member, I am excited to work on these issues within the NLP community: 
-
-Modernize the reviewing and archiving process. The imposition of anonymity deadlines by NLP conferences has resulted in authors refraining from submitting some of their most influential papers to these forums. Conversely, a majority of machine learning and AI conferences permit the archiving of papers and facilitate open discussions subsequent to paper submissions. I hope to contribute to the modernization of the review process by advocating for the elimination of anonymity deadlines, thereby ensuring that NAACL remains the focal point of NLP-related research, including rapidly advancing research areas. 
-
-Promote open research. With all advances in language modeling, the NLP and scientific community needs access to open models, open data, and open evaluation settings to understand and advance the science of language models. I hope to advocate for open, well-document, and reproducible research papers from the community. Consequently, this bridges the academic and industry research gap.  
-
-Advocate for interdisciplinary research. Recently, language models have demonstrated notable efficacy in practical applications.  However, there exists potential for substantial enhancement through interdisciplinary research, thereby extending the scientific foundations of language models into diverse domains such as medicine and to scientific discovery.  I hope to promote and facilitate interdisciplinary research efforts that integrate various facets of AI and NLP into tangible real-world applications. 
-
-AI literacy for public, k-12 students, and undergraduates: It is an exciting time for the NLP field. I am enthusiastic about disseminating knowledge to both the general public and younger generations, elucidating the capabilities and limitations inherent to language models and the broader NLP field. 
-
-
-
-<a name="Anna Rumshisky"> </a>
-
-### [Anna Rumshisky](https://www.uml.edu/research/digital-health/faculty-staff-affiliates/rumshisky-anna.aspx)
-
-#### Bio
-
-Anna Rumshisky is an Associate Professor in the Department of Computer Science at the University of Massachusetts Lowell. She works on large language models, model interpretability & analysis, temporal reasoning, and natural language modeling for clinical informatics. She is currently a Visiting Academic at Amazon Alexa AI. She was previously a postdoctoral fellow at MIT CSAIL and received a PhD in Computer Science from Brandeis University in 2009.  She is a recipient of the NSF CAREER award in 2017 and the best thematic paper award at NAACL-HLT 2019. Her research has been supported by the NSF, NIH, Army Research Office, National Endowment for the Humanities, among others. She has served as a Program Co-Chair for NAACL 2021, senior area chair for NeurIPS 2023 and ICLR 2024, area chair for ACL 2020, NAACL-HLT 2019, and COLING 2018, and co-organized a number of workshops, including Insights from Negative Results in NLP (Insights @ EMNLP 2020, EMNLP 2021, ACL 2022, EACL 2023), Evaluating Vector Space Representations for NLP (RepEval @ NAACL 2019), and the Clinical Natural Language Processing Workshop (COLING 2016, NAACL 2019, EMNLP 2020, NAACL 2022, ACL 2023). 
-
-
-#### Candidacy Statement
-
-As a board member, I would like to ensure that we work on the following issues:
-
-Engagement. One issue that I see as pivotal is keeping our conferences exciting, accessible and welcoming to both junior and senior researchers. Recent years have seen some active NLP researchers drift away and disengage, preferring to present their work at general machine learning venues instead. While  it's great to see more NLP work presented to the larger ML community, I'd like to make sure that we have policies in place that encourage engagement and  participation. This includes making sure our publication and anonymity policies are acceptable to community members, that service and participation in conference organization committees is properly incentivised, that our policies are transparent, accessible, and aligned with the *CL community at large.
-
-Reproducibility. As in many other fields, we currently face a reproducibility crisis. We need formal mechanisms to counteract it that go beyond contacting the authors and discussing issues on social media and in our personal networks. A number of methods have now been proposed to encourage reproducibility, but most have not been widely implemented. As a board member, I would like to ensure that we take action towards formalizing some of the proposed mechanisms. 
-Ethics and social impact. Amid growing concerns about research ethics and social impact of our research, a number of initiatives have been undertaken recently to change how we think about potential impact of our research both on different social groups and society at large. Ethics are a delicate matter, and hasty decisions may easily lead to disastrous effects. I would work to ensure that such initiatives are systematic and well thought-out, and that we have a wide community support.
-
-
-Board Members (Community Nominated):
-----------------------
-<a name="Rui_Zhang"> </a>
-
-### [Rui Zhang](https://ryanzhumich.github.io/)
-
-#### Bio
-
-Rui Zhang is an Assistant Professor in the Computer Science and Engineering Department of Penn State University. He is a co-director of the PSU Natural Language Processing Lab. He served as an area chair at NAACL, EMNLP, NeurIPS, AACL, NLPCC, a tutorial chair at NAACL, and a mentor in ACL Year-Round Mentorship. He also co-organized several workshops including Structured and Unstructured Knowledge Integration at NAACL 2022, Multilingual Information Access at NAACL 2022, and Interactive and Executable Semantic Parsing at EMNLP 2020. His research interest lies in Actionable and Agentic Language Models, Trustworthy and Responsible Text Generation, and Efficient and Generalizable Methods. He received an Amazon Research Award, an eBay Research Award, and a Cisco Research Award. He received B.S. degrees from both Shanghai Jiao Tong University and the University of Michigan in 2015 and received his Ph.D. from the Computer Science Department at Yale University in 2020.
-
-#### Candidacy Statement
-
-The very recent rapid advancement of NLP has opened up many challenges and opportunities for our community. If elected as a NAACL board member, I would like to be dedicated to the following initiatives:
-Supporting Aspiring Academics. The rapid development of large language models and generative AI has left many young students in academia uncertain about their research direction. Aspiring academics need guidance more than ever. I aim to provide support for junior students by fostering a sense of community and establishing seamless communication via mentoring programs where they can receive advice from senior researchers.
-Advancing NLP for Social Good through Interdisciplinary Collaboration. One of my visions is to translate NLP technology of research models to real-world applications that eventually create positive impacts for humans and society. I aspire to drive interdisciplinary efforts between NLP and other fields such as education, healthcare, and law. This will be achieved by organizing new workshops and inviting speakers from other fields to facilitate the design, development, and deployment of NLP for social good.
-Modernizing and Strengthening the Reviewing System. Our community has recently seen heated discussions that highlighted the urgent need for an evolved reviewing system. I am dedicated to establishing a reviewing system that is both modern to accommodate fast research development and robust to align with the meticulous nature of scientific progress. I will work closely with other parties such as ARR editors and underrepresented research members to fully incorporate diverse opinions and voices of different stakeholders to inform our collective decision.
-
 
 <a name="Greg Durrett"> </a>
 
@@ -183,6 +94,28 @@ I propose to support the following initiatives within NAACL, with the eventual a
 - Continue to expand diversity initiatives. Widening NLP, DEI chairs for conferences, the Student Research Workshop, and more have had major positive impacts on our community. To improve access to our conference further, I strongly support the creation of an "ACLv" (fully virtual) conference, proposed by Barbara Plank and others, to expand access.
 
 - Continue the trend of NAACL’s increased engagement with Latin America. I strongly support continuing to host conferences in underserved regions. I am eager to hear input and discuss how to properly nurture such initiatives and grow the *CL presence there further.
+
+
+<a name="Hanna Hajishirzi"> </a>
+
+### [Hanna Hajishirzi](https://homes.cs.washington.edu/~hannaneh/)
+
+#### Bio
+
+Hanna Hajishirzi is a Torode Family Associate Professor at the University of Washington and a Senior Director of NLP at AI2. Her research spans different areas in NLP and AI, more recently on the science of language models and language models for science. Honors include an NSF CAREER, Sloan Fellowship, Allen Distinguished Investigator Award, Intel rising star award, UIUC alumni award. She has received a best paper and several honorable mention paper awards and has served as an area chair and senior area chair at NLP and Machine Learning conferences, including NAACL, EMNLP, ACL, AAAI, and NeurIPS. 
+
+
+#### Candidacy Statement
+
+As a board member, I am excited to work on these issues within the NLP community: 
+
+Modernize the reviewing and archiving process. The imposition of anonymity deadlines by NLP conferences has resulted in authors refraining from submitting some of their most influential papers to these forums. Conversely, a majority of machine learning and AI conferences permit the archiving of papers and facilitate open discussions subsequent to paper submissions. I hope to contribute to the modernization of the review process by advocating for the elimination of anonymity deadlines, thereby ensuring that NAACL remains the focal point of NLP-related research, including rapidly advancing research areas. 
+
+Promote open research. With all advances in language modeling, the NLP and scientific community needs access to open models, open data, and open evaluation settings to understand and advance the science of language models. I hope to advocate for open, well-document, and reproducible research papers from the community. Consequently, this bridges the academic and industry research gap.  
+
+Advocate for interdisciplinary research. Recently, language models have demonstrated notable efficacy in practical applications.  However, there exists potential for substantial enhancement through interdisciplinary research, thereby extending the scientific foundations of language models into diverse domains such as medicine and to scientific discovery.  I hope to promote and facilitate interdisciplinary research efforts that integrate various facets of AI and NLP into tangible real-world applications. 
+
+AI literacy for public, k-12 students, and undergraduates: It is an exciting time for the NLP field. I am enthusiastic about disseminating knowledge to both the general public and younger generations, elucidating the capabilities and limitations inherent to language models and the broader NLP field. 
 
 
 <a name="Dilek Hakkani-Tur"> </a>
@@ -219,7 +152,6 @@ Ensuring High Quality Reviews: the NLP community has been exponentially growing 
 Creating NLP Expert-Industry Marketplace: each year, the NLP community unveils stellar research and groundbreaking innovations, we nurture brilliant minds and develop algorithms that continue to propel the field forward. Yet, one of the most common topics that I encountered over the years is the challenge faced by NLP experts (including graduate students, PhDs, young and mid career scientists), in securing NLP job opportunities and internships in industry. At the same time, while wearing my industry hat, I often hear colleagues complaining about the lack of candidates and seeking referrals. Despite the different efforts we have tried, there seems to be a disconnect. If I am elected on the NAACL Board, I would love to work on closing this gap and establishing the NLP Marketplace to actively connect NLP experts with industry opportunities.
 Supporting Undergraduate & High School Students: I am a big believer in nurturing the scientists of tomorrow. What a better way to accomplish this than by introducing the world of NLP to high school and undergraduate students at an early stage, offering them opportunities to engage in research and enabling them to showcase their findings at the NAACL conference. I am enthusiastic about establishing summer programs and crafting tutorials specifically tailored to students at this level. Also I would love to create a fund that provides free registration and travel support, thereby making it more accessible for young talents to participate and thrive in our NLP Community.
 
-
 <a name="Manuel Mager"> </a>
 
 ### Manuel Mager
@@ -238,6 +170,72 @@ Linguistic Diversity. Pushing forward the agenda of linguistical diversity, work
 Inclusion of the South. I will also work to continue with integrating researchers from all the regions and communities of the Americas (LATAM/Caribbean/indigenous) into the NAACL chapter. The main points (but not limited to) are: i) continue to have more NAACL conferences south of the USA border; ii) prioritize visa friendly countries to held conferences; iii) unification between the north and the south NLP communities; iv) change “North America“ from NAACL to “Pan-American” (or any term that includes all the continent); v) interact constantly with researchers from the south, so I can bring their needs and thoughts to the board.
 Open research and reproducibility. In order to have a more equal research community spread around the world, we need also to double down on the basics of science: open research; reproducibility; double-blind reviewing; and bias reduction.
 Build community and Unity. I will also support and learn from other communities present on the board and outside, to hear their needs and aims. If we learn to listen to each other, we can growth our research community unity. For this, we also need transparency at all levels inside our organization.
+
+<a name="Anna Rumshisky"> </a>
+
+### [Anna Rumshisky](https://www.uml.edu/research/digital-health/faculty-staff-affiliates/rumshisky-anna.aspx)
+
+#### Bio
+
+Anna Rumshisky is an Associate Professor in the Department of Computer Science at the University of Massachusetts Lowell. She works on large language models, model interpretability & analysis, temporal reasoning, and natural language modeling for clinical informatics. She is currently a Visiting Academic at Amazon Alexa AI. She was previously a postdoctoral fellow at MIT CSAIL and received a PhD in Computer Science from Brandeis University in 2009.  She is a recipient of the NSF CAREER award in 2017 and the best thematic paper award at NAACL-HLT 2019. Her research has been supported by the NSF, NIH, Army Research Office, National Endowment for the Humanities, among others. She has served as a Program Co-Chair for NAACL 2021, senior area chair for NeurIPS 2023 and ICLR 2024, area chair for ACL 2020, NAACL-HLT 2019, and COLING 2018, and co-organized a number of workshops, including Insights from Negative Results in NLP (Insights @ EMNLP 2020, EMNLP 2021, ACL 2022, EACL 2023), Evaluating Vector Space Representations for NLP (RepEval @ NAACL 2019), and the Clinical Natural Language Processing Workshop (COLING 2016, NAACL 2019, EMNLP 2020, NAACL 2022, ACL 2023). 
+
+
+#### Candidacy Statement
+
+As a board member, I would like to ensure that we work on the following issues:
+
+Engagement. One issue that I see as pivotal is keeping our conferences exciting, accessible and welcoming to both junior and senior researchers. Recent years have seen some active NLP researchers drift away and disengage, preferring to present their work at general machine learning venues instead. While  it's great to see more NLP work presented to the larger ML community, I'd like to make sure that we have policies in place that encourage engagement and  participation. This includes making sure our publication and anonymity policies are acceptable to community members, that service and participation in conference organization committees is properly incentivised, that our policies are transparent, accessible, and aligned with the *CL community at large.
+
+Reproducibility. As in many other fields, we currently face a reproducibility crisis. We need formal mechanisms to counteract it that go beyond contacting the authors and discussing issues on social media and in our personal networks. A number of methods have now been proposed to encourage reproducibility, but most have not been widely implemented. As a board member, I would like to ensure that we take action towards formalizing some of the proposed mechanisms. 
+Ethics and social impact. Amid growing concerns about research ethics and social impact of our research, a number of initiatives have been undertaken recently to change how we think about potential impact of our research both on different social groups and society at large. Ethics are a delicate matter, and hasty decisions may easily lead to disastrous effects. I would work to ensure that such initiatives are systematic and well thought-out, and that we have a wide community support.
+
+
+<a name="Huan Sun"> </a>
+
+### [Huan Sun](https://web.cse.ohio-state.edu/~sun.397/)
+
+#### Bio
+
+Huan Sun is an endowed College of Engineering Innovation Scholar and a tenured associate professor in the Department of Computer Science and Engineering at The Ohio State University. Her research interests lie in natural language processing and artificial intelligence, especially language agents, large language model analysis and evaluation. Huan received Honorable Mentions for Best Paper Awards at ACL’23 (for two papers), 2022 ACM SIGMOD Research Highlight Award, BIBM Best Paper Award, Google Research Scholar and Google Faculty Award, NSF CAREER Award, OSU Lumley Research Award, and SIGKDD Ph.D. Dissertation Runner-Up Award, among others. Her team TacoBot won third place in the first Alexa Prize TaskBot challenge and was the only award-winning team in the US. 
+
+
+#### Candidacy Statement
+
+It’s a great honor for me to be considered as a NAACL board member. I will be committed to serving the NLP community if elected. My vision revolves around three core principles, which I believe are crucial for the continued growth and excellence of our community.
+
+1. Facilitating discussions on conference policies: The policies governing paper submission (e.g., anonymity, arXiv), reviewing, and awards are at the heart of our community's fairness and transparency. I aim to facilitate open and constructive dialogues to refine these policies. As a board member, I will work tirelessly to ensure that our conference policies are inclusive, equitable, and adaptive, especially given the fast pace of current research development. I will actively seek feedback from the community and advocate for policies that align with our collective values.
+   
+2. Promoting interdisciplinary work: Our field is undergoing a revolution driven by the advances in large language models (LLMs). On the one hand, it is crucial that we extend the reach of NLP beyond our traditional boundaries and harness its transformative potential to address real-world challenges in various domains such as healthcare, social justice, and environmental science. On the other hand, it is important for the NLP community to draw insights from other disciplines like psychology and neuroscience to develop innovative techniques. As a board member, I will support the creation of dedicated tracks, workshops, and incentives for interdisciplinary research. By fostering collaboration across domains, we can facilitate the growth of both NLP and other fields in a mutually beneficial manner .
+   
+3. Supporting students and low-resourced researchers: One of the most pressing issues in our community is the financial barrier that prevents many students and low-resourced researchers from participating in *CL conferences. Travel costs are often prohibitively high, and a limited budget from funding agencies leaves many deserving researchers unable to attend. If elected, I am committed to expanding travel support for students and low-resourced researchers (e.g., researchers who have papers to present but are transitioning between jobs or just start on a new position and have to support multiple students to attend), especially those from underrepresented groups. By seeking additional sponsorship and optimizing the allocation of resources,  I hope to ensure that a more diverse and representative group of young researchers benefit from the invaluable experiences *CL conferences offer.
+   
+
+<a name="Rui_Zhang"> </a>
+
+### [Rui Zhang](https://ryanzhumich.github.io/)
+
+#### Bio
+
+Rui Zhang is an Assistant Professor in the Computer Science and Engineering Department of Penn State University. He is a co-director of the PSU Natural Language Processing Lab. He served as an area chair at NAACL, EMNLP, NeurIPS, AACL, NLPCC, a tutorial chair at NAACL, and a mentor in ACL Year-Round Mentorship. He also co-organized several workshops including Structured and Unstructured Knowledge Integration at NAACL 2022, Multilingual Information Access at NAACL 2022, and Interactive and Executable Semantic Parsing at EMNLP 2020. His research interest lies in Actionable and Agentic Language Models, Trustworthy and Responsible Text Generation, and Efficient and Generalizable Methods. He received an Amazon Research Award, an eBay Research Award, and a Cisco Research Award. He received B.S. degrees from both Shanghai Jiao Tong University and the University of Michigan in 2015 and received his Ph.D. from the Computer Science Department at Yale University in 2020.
+
+#### Candidacy Statement
+
+The very recent rapid advancement of NLP has opened up many challenges and opportunities for our community. If elected as a NAACL board member, I would like to be dedicated to the following initiatives:
+Supporting Aspiring Academics. The rapid development of large language models and generative AI has left many young students in academia uncertain about their research direction. Aspiring academics need guidance more than ever. I aim to provide support for junior students by fostering a sense of community and establishing seamless communication via mentoring programs where they can receive advice from senior researchers.
+Advancing NLP for Social Good through Interdisciplinary Collaboration. One of my visions is to translate NLP technology of research models to real-world applications that eventually create positive impacts for humans and society. I aspire to drive interdisciplinary efforts between NLP and other fields such as education, healthcare, and law. This will be achieved by organizing new workshops and inviting speakers from other fields to facilitate the design, development, and deployment of NLP for social good.
+Modernizing and Strengthening the Reviewing System. Our community has recently seen heated discussions that highlighted the urgent need for an evolved reviewing system. I am dedicated to establishing a reviewing system that is both modern to accommodate fast research development and robust to align with the meticulous nature of scientific progress. I will work closely with other parties such as ARR editors and underrepresented research members to fully incorporate diverse opinions and voices of different stakeholders to inform our collective decision.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
