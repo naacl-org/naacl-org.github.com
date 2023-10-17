@@ -154,7 +154,7 @@ Supporting Undergraduate & High School Students: I am a big believer in nurturin
 
 <a name="Manuel Mager"> </a>
 
-### Manuel Mager
+### [Manuel Mager](https://www.linkedin.com/in/manuelmager/en)
 
 #### Bio
 
