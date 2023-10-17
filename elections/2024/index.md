@@ -67,7 +67,7 @@ NAACL has had great initiatives such as the Emerging Regions Fund for some time 
 I also believe we need to rethink our conference formats. Despite recent initiatives like BoF and Affinity groups, they are far too focused on the author/presenter, and not so much on the attendee. We have relied too much on a great location to draw attendees to conferences. However, with virtual attendance being so beneficial for those who cannot travel, we need to center the attendees (in-person and virtual) and think hard about how our conference formats can be fun, interactive, and foster a sense of belonging and community for all.
 
 
-Board Members:
+Board Member Nominees:
 ----------------------
 
 <a name="Greg Durrett"> </a>
