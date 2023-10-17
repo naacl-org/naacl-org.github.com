@@ -4,7 +4,7 @@ title: "Candidate Statements for 2024 NAACL Board Elections"
 root: ../../
 ---
 
-The names below and on the ballot appear in alphabetical order based on last names.
+The names below and on the ballot appear in the alphabetical order based on last names.
 
 Chair Nominee:
 ----------------------
