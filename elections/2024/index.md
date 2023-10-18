@@ -115,7 +115,7 @@ As a board member, I am excited to work on these issues within the NLP community
 
 + **Advocate for interdisciplinary research.** Recently, language models have demonstrated notable efficacy in practical applications.  However, there exists potential for substantial enhancement through interdisciplinary research, thereby extending the scientific foundations of language models into diverse domains such as medicine and to scientific discovery.  I hope to promote and facilitate interdisciplinary research efforts that integrate various facets of AI and NLP into tangible real-world applications. 
 
-AI literacy for public, k-12 students, and undergraduates: It is an exciting time for the NLP field. I am enthusiastic about disseminating knowledge to both the general public and younger generations, elucidating the capabilities and limitations inherent to language models and the broader NLP field. 
++ **AI literacy for public, k-12 students, and undergraduates:** It is an exciting time for the NLP field. I am enthusiastic about disseminating knowledge to both the general public and younger generations, elucidating the capabilities and limitations inherent to language models and the broader NLP field. 
 
 
 <a name="Dilek Hakkani-Tur"> </a>
