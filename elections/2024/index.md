@@ -154,7 +154,7 @@ We live in the most exciting times for NLP, where groundbreaking developments ar
 
 <a name="Manuel Mager"> </a>
 
-### [Manuel Mager](https://www.linkedin.com/in/manuelmager/en)
+### [Manuel Mager](http://code.kiutz.com/)
 
 #### Bio
 
