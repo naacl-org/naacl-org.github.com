@@ -14,7 +14,7 @@ Officers
 | Chair      | Graham Neubig  | Carnegie Mellon University            | 2024-2025 |
 | Secretary  | Jessy Li         | University of Texas at Austin | 2024-2025 |
 | Treasurer  | Jonathan May     | University of Southern California / ISI    | 2023-2024 |
-| Past Chair | Luciana Benotti  | Universidad Nacional de Córdoba            | 2022-2023 |
+| Past Chair | Luciana Benotti  | Universidad Nacional de Córdoba            | 2024-2025 |
 
 
 Executive Board
@@ -98,7 +98,7 @@ Apart from our annual conference, NAACL continues to support NACLO, to promote C
 
 My goal for the coming term is to expand our support of these and other worthy causes that promote the equitable expansion of research in natural language processing and computational linguistics. Thanks to our hardworking ACL treasurer David Yarowsky and ACL business manager Priscilla Rasmussen, ACL is resolving long-standing uncertainties with regard to its financial health that have necessitated caution in our spending. With these uncertainties resolved, NAACL will be able to expand its support to increase NACLO, JSALT, and ERF participation, which exposes as wide a population in the Americas as possible to our field. When travel resumes, I will suggest we use available NAACL funds to facilitate low-cost conference child support and provide conference travel grants. In this way we will work toward ensuring that lack of money does not equate to lack of access.
 
-Past Chair (2022-2023) | [Luciana Benotti](https://benotti.github.io/) | Universidad Nacional de Córdoba
+Past Chair (2024-2025) | [Luciana Benotti](https://benotti.github.io/) | Universidad Nacional de Córdoba
 ----------------------------------------------------------------------------------------
 
 <!-- <img src="images/ColinProfile.jpg" title="Colin Cherry" alt="Colin Cherry" height="150" /> -->
