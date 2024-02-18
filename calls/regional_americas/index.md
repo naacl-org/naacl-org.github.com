@@ -49,16 +49,38 @@ There is a Google Group related to NAACL activites in Latin America and the Cari
 
 ### Past Awardees
 
-<p>
-<ul>
-<li>2016
-  <ul>
-  <li>The Federal University of Juiz de Fora, to support a theme session of Computational Semantics with Frames and Constructions</li>
-  <li>The Instituto Caro y Cuervo and Universidad Nacional de Colombia, for the organization of a national meeting of researchers of Computational Linguistics and Corpus Linguistics</li>
-  </ul>
-</li>
-</ul>
-</p>
+* 2023
+  * $1500 to Christopher Clarke and Jason Mars of University of Michigan / University of Guyana, to support corpus creation of Caribean creole language data sets 
+  * $2000 to Raimundo Moura of Federal University of Piauí, Brazil, to support student travel to the TiLIC workshop 
+  * $1500 to Mauricio Mazuecos of Universidad Nacional de Córdoba, Argentina, to support the 2nd Argentinian NLP workshop
+  * $1500 to Pastor Lopez of Mathematics Research Center Mexico, to support student travel and attendance at a workshop on data processing held in Guanajuato 
+  * $1500 to Juan Antonio Lossio-Ventura of Monterrey Institute of Technology and Higher Education, Mexico City, MX, for travel for students to the SIMBig conference 
+  * $1000 to Jorge Andres Alvarado Valencia of Pontificia Universidad Javeriana, Colombia, to support student attendance at an NLP summer school in Bogota 
+  * $2200 to Leidiana Freitas of Brasileiras em PLN (BPLN), to support female student travel to STIL in Brazil
+  * $3000 to Claudio Gutierrez and Antonios Anastasopoulos of Universidad de Chile and GMU, to support travel and attendance of students at Chilean indigenous language hackathon
+
+* 2022
+  * Edgar Altszyler, Universidad de Buenos Aires, Argentina: 1st Argentinean NLP workshop
+  * Fazlourrahman Balouchzahi, Instituto Politécnico Nacional, Mexico: annotating Hate Speech data in social media texts in Spanish and English
+  * Laura Alonso Alemany, Universidad Nacional de Córdoba, Argentina: public challenge to provide counternarratives for hate speech
+  * Blanda Mello, Universidade do Vale do Rio dos Sinos, Brazil: BARNLP: Building up an Academic Research journey on NLP workshop
+  * Juan Antonio Lossio-Ventura, Universidad Nacional Mayor de San Marcos, Peru: SIMBig: International Conference on Information Management and Big Data
+  * André V. Lopes Coneglian, Universidade Federal de Minas Gerais, Brazil: Portuguese online dependency syntax course
+
+* 2021
+  * Helena de Medeiros Caseli, Federal University of São Carlos, Brazil 
+  * Francis Tyers, Indiana University, USA 
+  * Evandro L. T. P. Cunha, Federal University of Minas Gerais, Brazil 
+
+* 2020
+  * Federal University of Minas Gerais (Brazil) for NLP course development in Portuguese
+  * Universidad Nacional Autónoma de México (Mexico) for workshop on open corpora (OpenCor) attendance support
+  * Universidad de Antioquia (Colombia) for virtual NLP conference (CILCC) support
+  * Pontificia Universidad Católica del Perú (Peru) for summer school attendance support (Peruvian native languages focus)
+
+* 2016
+  * The Federal University of Juiz de Fora, to support a theme session of Computational Semantics with Frames and Constructions
+  * The Instituto Caro y Cuervo and Universidad Nacional de Colombia, for the organization of a national meeting of researchers of Computational Linguistics and Corpus Linguistics
 
 ## Fondo de la NAACL para Regiones Americanas [1]
 
