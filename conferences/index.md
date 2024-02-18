@@ -6,8 +6,11 @@ group: "navigation"
 root: ../
 ---
 
-### Past NAACL Conferences
+### NAACL Conferences
 
+- [NAACL-HLT 2024](https://2024.naacl.org)
+- [NAACL-HLT 2022](https://2022.naacl.org)
+- [NAACL-HLT 2021](https://2021.naacl.org)
 - [HLT-NAACL 2019](http://naacl.org/naacl-hlt-2019/)
 - [HLT-NAACL 2018](http://naacl.org/naacl-hlt-2018/)
 - [ACL 2017](http://acl2017.org/)
