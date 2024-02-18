@@ -39,7 +39,7 @@ There is a Google Group related to NAACL activites in Latin America and the Cari
 {% for year in (2013..2021) reversed %}
 
 <li>
-<a href="{{ site.baseurl }}/calls/emerging_regions/{{ year }}/index.html">{{ year }} Emerging Regions CFP</a>
+<a href="{{ site.baseurl }}/calls/regional_americas/{{ year }}/index.html">{{ year }} Emerging Regions CFP</a>
 
 </li>
 {% endfor %}
@@ -87,7 +87,7 @@ Hay un grupo en Google relacionado con actividades en América Latina y el Carib
 {% for year in (2013..2021) reversed %}
 
 <li>
-<a href="{{ site.baseurl }}/calls/emerging_regions/{{ year }}/index.html">Convocatoria {{ year }} del Fondo para Regiones Emergentes</a>
+<a href="{{ site.baseurl }}/calls/regional_americas/{{ year }}/index.html">Convocatoria {{ year }} del Fondo para Regiones Emergentes</a>
 
 </li>
 {% endfor %}
@@ -118,7 +118,7 @@ Há um grupo do Google relacionado às atividades da NAACL na América do Sul: [
 {% for year in (2013..2021) reversed %}
 
 <li>
-<a href="{{ site.baseurl }}/calls/emerging_regions/{{ year }}/index.html">Chamada de {{ year }} para Regiões Emergentes</a>
+<a href="{{ site.baseurl }}/calls/regional_americas/{{ year }}/index.html">Chamada de {{ year }} para Regiões Emergentes</a>
 
 </li>
 {% endfor %}
@@ -146,7 +146,7 @@ Les propositions seront évaluées par un comité composé de membres du conseil
 <ul>
 {% for year in (2020..2021) reversed %}
 <li>
-<a href="{{ site.baseurl }}/calls/emerging_regions/{{ year }}/index.html">{{ year }} Appel à Propositions</a>
+<a href="{{ site.baseurl }}/calls/regional_americas/{{ year }}/index.html">{{ year }} Appel à Propositions</a>
 </li>
 {% endfor %}
 </ul>
@@ -175,7 +175,7 @@ Voorstellen worden beoordeeld door een commissie bestaande uit leden van de NAAC
 <ul>
 {% for year in (2020..2021) reversed %}
 <li>
-<a href="{{ site.baseurl }}/calls/emerging_regions/{{ year }}/index.html"> {{ year }} Oproep om voorstellen in te dienen</a>
+<a href="{{ site.baseurl }}/calls/regional_americas/{{ year }}/index.html"> {{ year }} Oproep om voorstellen in te dienen</a>
 </li>
 {% endfor %}
 </ul>
