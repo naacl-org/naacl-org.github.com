@@ -78,9 +78,35 @@ There is a Google Group related to NAACL activites in Latin America and the Cari
   * Universidad de Antioquia (Colombia) for virtual NLP conference (CILCC) support
   * Pontificia Universidad Católica del Perú (Peru) for summer school attendance support (Peruvian native languages focus)
 
+* 2019
+  * Helena Caseli - Federal University of São Carlos (UFSCar) and Cláudia Freitas - Pontifical Catholic University of Rio de Janeiro (PUC-Rio), $1000 for Student Registration for TILic attendance
+  * Arturo Oncevay, Pontificia Universidad Católica del Perú (PUCP), $1000 for Student travel to MT Summer School in Lima, Peru and parallel Corpora creation for peruvian native languages
+  * Adrián Pastor Lopez-Monroy, Mathematics Research Center (CIMAT), Guanajuato, $1000 for Student travel to PLAGAA workshop in Guanajuato
+
+* 2018
+  * Universidade de São Paulo (Group of Computational Linguistics), $1000 to Support GLiC student participation at NLP events in Latin America
+  * First International Meeting for Artificial Intelligence and its Applications (RIIAA@MEX), $1000 to Support student registration for RIIAA@MEX
+  * Universidad del Pacifico / SIMBig, $1000 of Student travel grants to attend the SIMBig conference in Peru
+
+* 2017
+  * Gabriel Quiroz, Research Group in Translation and New Technologies-TNT, School of Languages, University of Antioquia (Colombia), $1500 to support a new Fall School for students to get introduced to NLP in Colombia.
+  * Ximena Gutierrez, National Autonomous University of Mexico (UNAM), $1500 to create a workshop focused on introducing students to NLP and encouraging them (through small projects) to use NLP to research under-resourced indigenous Mexican languages
+
 * 2016
-  * The Federal University of Juiz de Fora, to support a theme session of Computational Semantics with Frames and Constructions
-  * The Instituto Caro y Cuervo and Universidad Nacional de Colombia, for the organization of a national meeting of researchers of Computational Linguistics and Corpus Linguistics
+  * Tiago Torrent, The Federal University of Juiz de Fora, $1500 to support a theme session of Computational Semantics with Frames and Constructions
+  * Ruth Rubio, The Instituto Caro y Cuervo and Universidad Nacional de Colombia, $1500 for the organization of a national meeting of researchers of Computational Linguistics and Corpus Linguistics
+
+* 2015
+  * IV Student Workshop on Information and Language Technology (TILic) (co-located with STIL) (Brazil), $1500 to fund undergraduate students
+  * STIL (Brazil), $1500 to fund travel for an invited speaker from North America
+
+* 2014
+  * NLP Hackathon in Mexico, $1500 to support the travel of 10 participants
+  * PROPOR (Brazil), $1500 to support student participation
+
+* 2013
+  * TILic 2013, $1500 to fund 16 students to attend TILic
+
 
 ## Fondo de la NAACL para Regiones Americanas [1]
 
