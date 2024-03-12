@@ -38,9 +38,9 @@ Note that this fund is not intended to support student travel to the conferences
 
 Proposals will be evaluated by a committee consisting of members of the NAACL Executive Board. Awardees must provide a post-facto report. If you have any questions about this CFP please send them to <naaclraf@googlegroups.com> . 
 
-Proposals may be submitted in any preferred language, as long as an English translation is also provided. The online form for submissions is here: https://forms.gle/gBDWyKv55L7JEQtr9 
+Proposals may be submitted in any preferred language, as long as an English translation is also provided. The online form for submissions is here: <https://forms.gle/gBDWyKv55L7JEQtr9>
 
-Reports from previous awardees can be found here: https://naacl.org/calls/regional_americas/index.html 
+Reports from previous awardees can be found here: <https://naacl.org/calls/regional_americas/index.html> 
 
 ### Chamada de Propostas para o Fundo NAACL para Regiões Americanas
 
@@ -64,7 +64,7 @@ Note que este fundo não se destina a apoiar viagens de estudantes para conferê
 
 As propostas serão avaliadas por um comitê consistindo de membros do conselho executivo da NAACL. Os contemplados deverão enviar um relatório final sobre o uso dos fundos. Se você tiver qualquer dúvida sobre esta chamada, por favor encaminhe-a para <naaclraf@googlegroups.com> .
 
-Propostas podem ser submetidas na língua de sua preferência, contanto que sejam acompanhadas de uma tradução em inglês.   A submissão de propostas é através do formulário online: https://forms.gle/gBDWyKv55L7JEQtr9 
+Propostas podem ser submetidas na língua de sua preferência, contanto que sejam acompanhadas de uma tradução em inglês.   A submissão de propostas é através do formulário online: <https://forms.gle/gBDWyKv55L7JEQtr9> 
 
 
 ### Convocatoria del Fondo para Regiones Americanas NAACL
@@ -89,9 +89,9 @@ Téngase en cuenta que este fondo no está destinado a apoyar el viaje de estudi
 
 Las propuestas serán evaluadas por un comité formado por miembros de la Junta Directiva de NAACL, y las personas agraciadas deberán entregar un informe final. Si tiene cualquier duda sobre esta convocatoria, por favor, envíela a <naaclraf@googlegroups.com> .
 
-Las propuestas pueden enviarse en cualquier lengua, siempre que se proporcione también una traducción al inglés. El formulario de envío online está disponible aquí: https://forms.gle/gBDWyKv55L7JEQtr9 
+Las propuestas pueden enviarse en cualquier lengua, siempre que se proporcione también una traducción al inglés. El formulario de envío online está disponible aquí: <https://forms.gle/gBDWyKv55L7JEQtr9> 
 
-Informes de los ganadores anteriores se pueden encontrar aquí: https://naacl.org/calls/regional_americas/index.html 
+Informes de los ganadores anteriores se pueden encontrar aquí: <https://naacl.org/calls/regional_americas/index.html> 
 
 ### Apel à Propositions du Fonds NAACL pour les Régions Américaines
 
@@ -115,9 +115,9 @@ Veuillez noter que ce fonds n'est pas destiné à soutenir le voyage des étudia
 
 Les propositions seront évaluées par un comité composé de membres du conseil exécutif de NAACL. Les boursiers devront fournir un rapport a posteriori. Si vous avez des questions sur ce CFP, veuillez les envoyer à : naaclraf@googlegroups.com.
 
-Les propositions peuvent être soumises dans la langue de votre choix, à condition qu'une traduction en anglais soit également fournie. Le formulaire en ligne pour les soumissions est accessible ici: https://forms.gle/gBDWyKv55L7JEQtr9 
+Les propositions peuvent être soumises dans la langue de votre choix, à condition qu'une traduction en anglais soit également fournie. Le formulaire en ligne pour les soumissions est accessible ici: <https://forms.gle/gBDWyKv55L7JEQtr9> 
 
-Les rapports des lauréats précédents peuvent être consultés ici: https://naacl.org/calls/regional_americas/index.html 
+Les rapports des lauréats précédents peuvent être consultés ici: <https://naacl.org/calls/regional_americas/index.html> 
 
 ### Oproep om Voorstellen in te Dienen van het NAACL Regionaal Americas-Fonds
 
@@ -142,6 +142,6 @@ Het doel van het NAACL Regionaal Americas-Fund is het versterken van de Computat
 
    Voorstellen worden beoordeeld door een commissie bestaande uit leden van de NAACL Raad van Bestuur. Awardees moeten een post-facto rapport indienen. Als u vragen heeft over dit GVB, stuur deze dan naar <naaclraf@googlegroups.com>.
 
-Voorstellen kunnen in elke gewenste taal worden ingediend, mits er ook een Engelse vertaling wordt verstrekt: https://forms.gle/gBDWyKv55L7JEQtr9 
+Voorstellen kunnen in elke gewenste taal worden ingediend, mits er ook een Engelse vertaling wordt verstrekt: <https://forms.gle/gBDWyKv55L7JEQtr9> 
 
  
