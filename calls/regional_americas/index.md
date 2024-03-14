@@ -36,7 +36,7 @@ There is a Google Group related to NAACL activites in Latin America and the Cari
 
 <p>
 <ul>
-{% for year in (2013..2024) reversed %}
+{% for year in (2021..2024) reversed %}
 
 <li>
 <a href="{{ site.baseurl }}/calls/regional_americas/{{ year }}/index.html">{{ year }} Regional Americas Fund CFP</a>
