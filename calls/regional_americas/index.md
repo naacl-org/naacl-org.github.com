@@ -39,6 +39,14 @@ There is a Google Group related to NAACL activites in Latin America and the Cari
 {% for year in (2013..2024) reversed %}
 
 <li>
+<a href="{{ site.baseurl }}/calls/regional_americas/{{ year }}/index.html">{{ year }} Regional Americas Fund CFP</a>
+
+</li>
+{% endfor %}
+
+{% for year in (2013..2020) reversed %}
+
+<li>
 <a href="{{ site.baseurl }}/calls/regional_americas/{{ year }}/index.html">{{ year }} Emerging Regions CFP</a>
 
 </li>
