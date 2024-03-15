@@ -4,8 +4,6 @@ layout: default
 title: "Calls"
 group: "navigation"
 root: ../
-redirect_from:
-  - /emerging_regions
 ---
 
 |                                                                                  |

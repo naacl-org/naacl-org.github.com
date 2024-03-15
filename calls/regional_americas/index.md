@@ -3,6 +3,8 @@
 layout: default
 title: "NAACL Regional Americas Fund"
 root: ../../
+redirect_from:
+  - /emerging_regions
 ---
 
 [English](#naacl-regional-americas-fund)
