@@ -2,6 +2,8 @@
 layout: default
 title: "2018 Emerging Regions CFP"
 root: ../../../
+redirect_from:
+  - /calls/emerging_regions/2018/
 ---
 
 ### 2018 NAACL Emerging Regions Fund Call for Proposals

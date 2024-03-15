@@ -2,6 +2,8 @@
 layout: default
 title: "2021 Regional Americas Fund CFP"
 root: ../../../
+redirect_from:
+  - /calls/emerging_regions/2024/
 ---
 
 [English](#2021-naacl-regional-americas-fund-call-for-proposals)
