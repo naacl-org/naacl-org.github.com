@@ -4,8 +4,6 @@ title: "A Note on the NAACL Name Change Survey"
 root: ../../
 ---
 
-## A Note on the NAACL Name Change Survey
-
 Dear NAACL members,
 
 We recently released a [survey](https://forms.gle/r8SWiu8goG79kwFH8) asking the NAACL membership about their opinions regarding the possibility of changing the chapter’s current name “North American Chapter of the Association for Computational Linguistics” to a different name that is more inclusive of all parts of the Americas. In doing so, we received some questions about the possible justification behind such a name change. To better explain some of the arguments for this, several members of our community who reside or originate from the Americas outside of the US and Canada have written an open letter that explains some of the reasoning. I have attached this letter below; please take a look if you are interested, and fill out the survey if you have not already!
@@ -16,7 +14,7 @@ NAACL Board Chair
 
 ---
 
-### It's not just North America. NAACL and the path to include us.
+## It's not just North America. NAACL and the path to include us.
 
 Our NAACL chapter has a long tradition of being the meeting point and union our our area. During its long history, we have managed to put our association and conference at the center of the latest advances in NLP and computational linguistics, gaining strong recognition. Canada and the United States have traditionally played a central role in the academic production of the chapter. However, in recent years, we have had an increasing presence of scientists from other countries in the Americas. In fact, as a recognition of the growing numbers and engagement from other countries in the American continent, the NAACL board updated its mandate to represent all of the Americas. Still, this update is not reflected in the name of the chapter or the acronym of the conference hosted by the chapter, which leads to a more fundamental question. Why have we restricted our chapter name and as a consequence, the conference acronym, to two or three countries? Latin America and other regions do not understand this unintended division. But let us give some context on how regional conceptions differ on this side of the world.
 
