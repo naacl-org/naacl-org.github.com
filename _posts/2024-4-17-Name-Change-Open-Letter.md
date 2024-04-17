@@ -4,7 +4,7 @@ title: "A Note on the NAACL Name Change Survey"
 root: ../../
 ---
 
-# A Note on the NAACL Name Change Survey
+## A Note on the NAACL Name Change Survey
 
 Dear NAACL members,
 
@@ -16,15 +16,15 @@ NAACL Board Chair
 
 ---
 
-# It's not just North America. NAACL and the path to include us.
+### It's not just North America. NAACL and the path to include us.
 
 Our NAACL chapter has a long tradition of being the meeting point and union our our area. During its long history, we have managed to put our association and conference at the center of the latest advances in NLP and computational linguistics, gaining strong recognition. Canada and the United States have traditionally played a central role in the academic production of the chapter. However, in recent years, we have had an increasing presence of scientists from other countries in the Americas. In fact, as a recognition of the growing numbers and engagement from other countries in the American continent, the NAACL board updated its mandate to represent all of the Americas. Still, this update is not reflected in the name of the chapter or the acronym of the conference hosted by the chapter, which leads to a more fundamental question. Why have we restricted our chapter name and as a consequence, the conference acronym, to two or three countries? Latin America and other regions do not understand this unintended division. But let us give some context on how regional conceptions differ on this side of the world.
 
-## Americas, America, South and North?
+### Americas, America, South and North?
 
 This discussion arises from a cultural clash that makes it difficult to understand the vision of others. For most English-speaking countries, the landmass west of Europe and Africa, across the Atlantic Ocean, is divided into two continents: North and South America. Under this definition, the North includes all countries from Canada to Panama(including Central America and the Caribbean region). Under this definition Central America and the Caribbean regions are largely invisibilized. On the other hand, it might be natural to divide this land mass into cultural areas: Latin America, the Caribbean, and the North (only the USA and Canada). However, the existence of regions does not lead to the existence of different continents. In contrast, for Latin American countries, the term America is defined, understood, and used to refer to a single continent, with various regions, but without abrupt divisions. In fact, in Latin America, we consider everyone, from the north pole to the south pole of the American continent as Americans.
 
-## Our proposal
+### Our proposal
 
 With the growing "southern" NLP scientific community becoming more integrated with ACL, we have started to ask: where is our place in ACL? The initial thought was that the North American Chapter (NAACL) would be the appropriate place to participate. From our integrationist perspective, where America is considered a continent and not just a country, we started working with the NAACL community. Fortunately, NAACL has been open and welcoming, and together we have established a mandate that includes Central and South America.
 
@@ -41,7 +41,7 @@ Therefore, Pan American, American Continent, Nations of America, the Americas, a
 
 Of course, as has been expressed by other members, changing the name of our conference also carries risks. The most important, and one that has been constantly mentioned, is the value that the NAACL acronym carries, and the prestige it has earned. While this is an important factor to consider, it must also be remembered that other important conferences in nearby areas have changed their names with the idea of including communities (example: NIPS changed its name to NeurIPS, without losing its importance or reputation).
 
-## To conclude
+### To conclude
 
 In the [survey](https://forms.gle/r8SWiu8goG79kwFH8) that the NAACL board has published, we hope to hear the sentiment of the community. Its observations and inclinations. If we should change the name of the conference or not. If so, what the most viable alternatives for it are. We hope to be able to achieve the objective of integrating all members of our community, to make an inclusive space, and at the same time ensure the scientific excellence that has allowed us to be one of the top NLP and CL conferences.
 
