@@ -14,7 +14,11 @@ NAACL Board Chair
 
 <details>
 
-<summary>Open letter: It's not just North America. NAACL and the path to include us.</summary>
+<summary>
+
+Click to read: _**Open letter: It's not just North America. NAACL and the path to include us.**_
+
+</summary>
 
 ## It's not just North America. NAACL and the path to include us.
 
