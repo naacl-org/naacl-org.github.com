@@ -8,8 +8,8 @@ Dear NAACL members,
 
 We recently released a [survey](https://forms.gle/r8SWiu8goG79kwFH8) asking the NAACL membership about their opinions regarding the possibility of changing the chapter’s current name “North American Chapter of the Association for Computational Linguistics” to a different name that is more inclusive of all parts of the Americas. In doing so, we received some questions about the possible justification behind such a name change. To better explain some of the arguments for this, several members of our community who reside or originate from the Americas outside of the US and Canada have written an open letter that explains some of the reasoning. I have attached this letter below; please take a look if you are interested, and fill out the survey if you have not already!
 
-Sincerely,
-Graham Neubig
+Sincerely, <br />
+Graham Neubig <br />
 NAACL Board Chair
 
 <details>
