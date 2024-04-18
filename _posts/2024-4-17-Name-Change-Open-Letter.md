@@ -13,6 +13,7 @@ Graham Neubig
 NAACL Board Chair
 
 <details>
+
 <summary>Open letter: It's not just North America. NAACL and the path to include us.</summary>
 
 ## It's not just North America. NAACL and the path to include us.
@@ -44,12 +45,12 @@ Of course, as has been expressed by other members, changing the name of our conf
 
 In the [survey](https://forms.gle/r8SWiu8goG79kwFH8) that the NAACL board has published, we hope to hear the sentiment of the community. Its observations and inclinations. If we should change the name of the conference or not. If so, what the most viable alternatives for it are. We hope to be able to achieve the objective of integrating all members of our community, to make an inclusive space, and at the same time ensure the scientific excellence that has allowed us to be one of the top NLP and CL conferences.
 
-Manuel Mager (Amazon) </ br>
-Tiago Torrent (Universidade Federal de Juiz de Fora | FrameNet Brasil)  </ br>
-Edgar Altszyler (Quantit | Universidad de Buenos Aires, Argentina)  </ br>
-Luciana Benotti (Universidad Nacional de Córdoba | CONICET, Argentina)  </ br>
-Aiala Rosá (Universidad de la República, Uruguay)  </ br>
-Luis Chiruzzo (Universidad de la República, Uruguay)  </ br>
-Thamar Solorio (University of Houston | MBZUAI)
+Manuel Mager (Amazon) <br />
+Tiago Torrent (Universidade Federal de Juiz de Fora | FrameNet Brasil)  <br />
+Edgar Altszyler (Quantit | Universidad de Buenos Aires, Argentina)  <br />
+Luciana Benotti (Universidad Nacional de Córdoba | CONICET, Argentina)  <br />
+Aiala Rosá (Universidad de la República, Uruguay)  <br />
+Luis Chiruzzo (Universidad de la República, Uruguay)  <br />
+Thamar Solorio (University of Houston | MBZUAI) <br />
 
 </details>
