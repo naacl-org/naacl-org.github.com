@@ -9,7 +9,7 @@ root: ../
 ### Minutes of the NAACL Board Meetings
 
 <ul>
-{% for year in (2000..2023) reversed %}
+{% for year in (2000..2024) reversed %}
 
 <li>
 <a href="{{ site.baseurl }}/minutes/{{ year }}/index.html">Minutes from {{ year }}</a>
