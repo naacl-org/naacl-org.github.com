@@ -8,6 +8,7 @@ root: ../
 
 ### NAACL Conferences
 
+- [NAACL-HLT 2025](https://2025.naacl.org)
 - [NAACL-HLT 2024](https://2024.naacl.org)
 - [NAACL-HLT 2022](https://2022.naacl.org)
 - [NAACL-HLT 2021](https://2021.naacl.org)
