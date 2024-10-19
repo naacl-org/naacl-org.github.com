@@ -11,7 +11,7 @@ root: ../
 
 </p>
 
-The North American Chapter of the Association for Computational Linguistics (NAACL) provides a regional focus for members of the Association for Computational Linguistics (ACL) in North America as well as in Central and South America, organizes annual conferences, promotes cooperation and information exchange among related scientific and professional societies, encourages and facilitates ACL membership by people and institutions in the Americas, and provides a source of information on regional activities for the ACL Executive Committee.
+The Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL) provides a regional focus for members of the Association for Computational Linguistics (ACL) in North, Central, and South America, organizes annual conferences, promotes cooperation and information exchange among related scientific and professional societies, encourages and facilitates ACL membership by people and institutions in the Americas, and provides a source of information on regional activities for the ACL Executive Committee.
 
 ### Contact NAACL
 
