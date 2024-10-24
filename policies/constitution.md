@@ -5,13 +5,13 @@ title: NAACL Constitution
 root: ../
 ---
 
-Constitution of the North American Chapter of the Association for Computational Linguistics
+Constitution of the Nations of the Americas Chapter of the Association for Computational Linguistics
 ===========================================================================================
 
 Name
 ----
 
-**Article 1**. The name of the chapter is "North American Chapter of the Association for Computational Linguistics"; it may also be known as "North American ACL" or "NAACL", and hereinafter will be referred to as "the Chapter".
+**Article 1**. The name of the chapter is "Nations of the Americas Chapter of the Association for Computational Linguistics"; it may also be known as "Nations of the Americas ACL" or "NAACL", and hereinafter will be referred to as "the Chapter".
 
 Registered Office
 -----------------
@@ -23,13 +23,13 @@ Purpose
 
 **Article 3**.
 
-1.  The purpose of the chapter is to constitute the North American Chapter of the Association for Computational Linguistics as it was chartered (on August eight, one thousand nine hundred ninety-eight) by the Executive Committee of the Association for Computational Linguistics, an association and legal entity according to the laws of Virginia, United States of America. The Chapter is a constituent of the Association and is subject to its Constitution and to all its rules and regulations unless expressly exempted.
+1.  The purpose of the chapter is to constitute the Nations of the Americas Chapter of the Association for Computational Linguistics as it was chartered (on August eight, one thousand nine hundred ninety-eight) by the Executive Committee of the Association for Computational Linguistics, an association and legal entity according to the laws of Virginia, United States of America. The Chapter is a constituent of the Association and is subject to its Constitution and to all its rules and regulations unless expressly exempted.
 2.  In addition to those of the Association as expressed in its Constitution, the purposes of the Chapter are:
-    1.  To encourage and facilitate membership in the Association by persons and institutions in North America.
-    2.  To provide a regional focus for members of the Association in North America and a source of information on North American activities for the Association Executive Committee.
-    3.  If necessary, to establish banking facilities in North America that simplify financial transactions with the Association by its North American members.
+    1.  To encourage and facilitate membership in the Association by persons and institutions in North, Central, and South America.
+    2.  To provide a regional focus for members of the Association in North, Central, and South America and a source of information on Nations of the Americas activities for the Association Executive Committee.
+    3.  If necessary, to establish banking facilities in North, Central, and South America that simplify financial transactions with the Association by its Nations of the Americas members.
     4.  To establish distribution facilities for the dissemination of Association and Chapter publications and information materials.
-    5.  To promote cooperation and information exchange among related scientific and professional societies within North America.
+    5.  To promote cooperation and information exchange among related scientific and professional societies within North, Central, and South America.
 
 3.  The only financial distributions that may be made to the founders of the Chapter or to those who are members of its bodies are funds to be used to support the business of the Chapter, such as organizing workshops, traveling to meetings, etc.
 
@@ -38,8 +38,8 @@ Constituency
 
 **Article 4**.
 
-1.  Within the rules of the constitution of the Association, the Chapter will serve all members of the Association who reside in North America. In addition, until regional chapters are created for the Association members in the adjacent regions of Central America and South America, the Chapter will serve them as well. These persons will hereinafter be referred to as "the Chapter Members".
-2.  Members of the Association who presently reside elsewhere but who believe that their interests are best represented by the North American chapter may petition for membership in the North American chapter instead of the chapter most pertinent to their current geographical residence. Such petitions will be reviewed by the Chapter Board; upon a majority vote of the Board in favor of approving the petition, the petitioner will be granted membership for five years.
+1.  Within the rules of the constitution of the Association, the Chapter will serve all members of the Association who reside in North, Central, and South America. In addition, until regional chapters are created for the Association members in the adjacent regions of Central America and South America, the Chapter will serve them as well. These persons will hereinafter be referred to as "the Chapter Members".
+2.  Members of the Association who presently reside elsewhere but who believe that their interests are best represented by the Nations of the Americas chapter may petition for membership in the Nations of the Americas chapter instead of the chapter most pertinent to their current geographical residence. Such petitions will be reviewed by the Chapter Board; upon a majority vote of the Board in favor of approving the petition, the petitioner will be granted membership for five years.
 
 Board
 -----
@@ -47,7 +47,7 @@ Board
 **Article 5**.
 
 1.  The administration of the Chapter shall be conducted by the Chapter Board, which shall consist of a Chair, a Secretary, a Treasurer, the most recent past Chair (provided he or she completed a term of duty), and five (5) Board members. All these persons shall be Chapter Members, as defined in Article 4. Except for the past Chair they shall be elected by the Chapter Members for a two-year term of office. The Treasurer of the ACL shall ex-officio be a member of the Chapter Board. If vacancies occur, the Chapter Board shall appoint replacements, subject to approval by the Association Executive Committee, to serve until the next election. Except for the Treasurer, no Board member shall serve more than two (2) terms in any single elected office, and no more than three (3) terms in any elected office. The Treasurer may serve for a maximum of ten (10) years in that position, subject to the satisfaction of the Board, the Members, and the Association Executive Committee. After the first Chair, every Chair must have served on the Board for at least one year during the past five years.
-2.  In the event that the Chapter be given funds by the ACL Executive to administer separately and independently from the ACL, the Chapter Treasurer is empowered to receive, deposit, and disburse such funds on behalf of the Association and the Chapter in North America and, together with the Chapter Secretary, to make arrangements for handling the affairs of the Association and the Chapter in North America.
+2.  In the event that the Chapter be given funds by the ACL Executive to administer separately and independently from the ACL, the Chapter Treasurer is empowered to receive, deposit, and disburse such funds on behalf of the Association and the Chapter in North, Central, and South America and, together with the Chapter Secretary, to make arrangements for handling the affairs of the Association and the Chapter in North, Central, and South America.
 3.  The Chapter Board shall:
     \#\* a) determine the place and time of Chapter conferences and meetings;
     \#\* b) appoint members to be responsible for organizing the programs and local arrangements of such conferences and meetings;
