@@ -7,6 +7,7 @@ root: ../../
 As announced in the NAACL Business Meeting, and through emails to the membership, the NAACL board was considering a changing the official name of the organization:
 
 **From**: The North American Chapter of the Association for Computational Linguistics
+
 **To**: The Nations of the Americas Chapter of the Association for Computational Linguistics
 
 We concluded the vote on September 15th 2024, with the following result:
