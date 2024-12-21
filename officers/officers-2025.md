@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NAACL Officers 2024
+title: NAACL Officers 2025
 root: ../
 ---
 
