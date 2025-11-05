@@ -319,7 +319,7 @@ I am excited by the prospect of working with the board and all of you to build a
 
 <a name="Wenpeng Yin"> </a>
 
-### [Wenpeng Yin](https://www.cs.uml.edu/~arum/)
+### [Wenpeng Yin](https://www.wenpengyin.org)
 
 #### Bio
 Wenpeng Yin is an Assistant Professor in the Department of Computer Science and Engineering at Penn State University. Prior to Penn State, he was an Assistant Professor at Temple University, Senior Research Scientist at Salesforce Research, and Postdoc at UPenn. Dr. Yin's research focuses on three major thrusts: (i) developing AI, especially language techniques, to assist and accelerate scientific discovery while safeguarding academic integrity, (ii) making LLMs more controllable and deployable at the edge, and (iii) enabling robust AI reasoning in dynamic, real-world settings. He was among the early researchers advancing deep representation learning for NLP, with representative work including attention mechanisms for convolutional NNs, NLI-driven universal NLP, and his recent AI4Research series. He has co-chaired a series of workshops (e.g., Wise-Supervision 2022, AI4Research workshop series 2024–2025, SciSoc-LLM Workshop at KDD 2025, Mid-Atlantic Student Colloquium on AI, Language, and Learning 2025), served as a Senior Area Chair for leading NLP venues (e.g., ACL Rolling Review, NAACL, EMNLP, etc.), and received a couple of paper awards. NSF and Sanofi have supported his research.
