@@ -27,6 +27,28 @@ If elected as Chair, I would focus on the following three areas:
 **Expanding Regional Engagement Across the Americas.** NAACL's evolution to represent the Nations of the Americas is more than a name change - it's a commitment to genuinely serve researchers across both continents. My experience founding the New England NLP Meeting series has shown me the value of regional community building. I will work to support and expand similar initiatives throughout the Americas, ensuring that researchers in underserved regions have pathways to participate fully in NAACL. This includes advocating for conference locations beyond major US cities and expanding mentorship and financial support programs for researchers from underrepresented institutions.
 
 
+Secretary Nominee:
+----------------------
+<a name="Jessy Li"> </a>
+
+### [Jessy Li](https://jessyli.com/)
+
+#### Bio
+
+Jessy Li is an associate professor in the Department of Linguistics at the University of Texas at Austin. She received her PhD in 2017 from the Department of Computer and Information Science at the University of Pennsylvania. Her research looks into models for discourse processing, generation, and pragmatics & alignment. Jessy has been a (Senior) Area Chair for numerous \*CL conferences, a (Senior) Action Editor for ACL Rolling Review, an Action Editor for the TACL journal and the Computational Linguistics Journal, and an Associate Editor for the Dialogue & Discourse journal (2021--2025). She was honored as an Outstanding Area Chair (EMNLP 2020, 2023) and an Outstanding Senior Program Committee Member (AAAI 2020). She was a Program Chair for SIGDIAL 2022, and has served on the SIGDIAL board from 2019--2021 and from 2023–2025. She has also been a co-organizer for the Workshop on Computational Approaches to Discourse (CODI) since its inauguration in 2020, and co-organized the First Workshop on Natural Language Processing for Programming co-located with ACL 2021. Jessy is the current NAACL secretary, and will be a Program Chair for EMNLP 2026.
+
+#### Candidacy Statement
+
+It is the NAACL secretary’s responsibility to communicate within the NAACL executive committee and to the community broadly, e.g., to organize meetings, ballots, and to maintain and update media outlets. As we brace for the changing era we are in now, we have also witnessed an uptick of the frequency of major policy changes at ACL over recent years. Thus it is critical to have more timely and transparent communication than ever before. I will commit to:
++ Maintain a regular channel and feedback loop within the community for NAACL board actions, processes, and decisions. During my term as NAACL Secretary, we have strived for a high level of transparency  through community-wide surveys and elections (e.g., the NAACL renaming process), and I will continue to faithfully executing decisions from the NAACL community and the executive board.
++ Build a stronger social media presence. As the landscape of social media shifts, we need to (i) maintain a presence on multiple social media platforms to reach different groups; (ii) regularly communicate meeting minutes to the community via these channels; (iii) promote NAACL activities and communicate policies.
+
+As part of the NAACL board, I will additionally work on the following:
++ Refine our submission, review, and ethics policies according to the changing landscape of scientific research, in particular the ethical and unethical uses of AI.
++ Reviewer mentoring: How we train the younger generation of reviewers means everything to the future of our field. I will work towards improving our review mentoring process even more, e.g., recognition for both mentors and mentees, a more open way to sign up to be mentored, and a balanced review workload for mentors.
+
+
+
 Board Member Nominees:
 ----------------------
 
