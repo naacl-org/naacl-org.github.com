@@ -35,7 +35,7 @@ Secretary Nominee:
 
 #### Bio
 
-Jessy Li is an associate professor in the Department of Linguistics at the University of Texas at Austin. She received her PhD in 2017 from the Department of Computer and Information Science at the University of Pennsylvania. Her research looks into models for discourse processing, generation, and pragmatics & alignment. Jessy has been a (Senior) Area Chair for numerous \*CL conferences, a (Senior) Action Editor for ACL Rolling Review, an Action Editor for the TACL journal and the Computational Linguistics Journal, and an Associate Editor for the Dialogue & Discourse journal (2021--2025). She was honored as an Outstanding Area Chair (EMNLP 2020, 2023) and an Outstanding Senior Program Committee Member (AAAI 2020). She was a Program Chair for SIGDIAL 2022, and has served on the SIGDIAL board from 2019--2021 and from 2023–2025. She has also been a co-organizer for the Workshop on Computational Approaches to Discourse (CODI) since its inauguration in 2020, and co-organized the First Workshop on Natural Language Processing for Programming co-located with ACL 2021. Jessy is the current NAACL secretary, and will be a Program Chair for EMNLP 2026.
+Jessy Li is an associate professor in the Department of Linguistics at the University of Texas at Austin. She received her PhD in 2017 from the Department of Computer and Information Science at the University of Pennsylvania. Her research looks into models for discourse processing, generation, and pragmatics & alignment. Jessy has been a (Senior) Area Chair for numerous \*CL conferences, a (Senior) Action Editor for ACL Rolling Review, an Action Editor for the TACL journal and the Computational Linguistics Journal, and an Associate Editor for the Dialogue & Discourse journal (2021--2025). She was honored as an Outstanding Area Chair (EMNLP 2020, 2023) and an Outstanding Senior Program Committee Member (AAAI 2020). She was a Program Chair for SIGDIAL 2022, and has served on the SIGDIAL board from 2019--2021 and from 2023–2025. She has also been a co-organizer for the Workshop on Computational Approaches to Discourse (CODI) since its inauguration in 2020, and co-organized the First Workshop on Natural Language Processing for Programming co-located with ACL 2021. Jessy is the current NAACL Secretary, and will be a Program Chair for EMNLP 2026.
 
 #### Candidacy Statement
 
@@ -290,7 +290,7 @@ NAACL has long been a home for rigorous science and a vibrant community. I would
 
 <a name="Avi Sil"> </a>
 
-### [Avi Sil](https://www.linkedin.com/in/avirupsil/)
+### [Avi Sil](https://avisil.github.io/)
 
 #### Bio
 Avi Sil is a Senior Director of Applied Science at Oracle leading several teams on AI Agents for products. Previously, he was a people manager at IBM Research, leading the strategy for Agentic workflows and their integration into products like code assistants and IT incident management. With over a decade of experience, Avi is internationally recognized for his contributions to Retrieval-Augmented Generation (RAG) and Agentic Workflows involving large language models. His research also covers inference-scaling algorithms, uncertainty in LLMs, reinforcement learning-based verifiers, and natural language to code. He has been actively involved also in academia via various collaborations on NLP with Stanford, CMU, UIUC, UMass, Stony Brook and MIT among many others.
