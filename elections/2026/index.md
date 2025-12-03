@@ -76,7 +76,7 @@ As NAACL expands to serve the entire Americas and as our field increasingly shap
 ### [Sunipa Dev](https://sunipa.github.io/)
 
 #### Bio
-Sunipa Dev is a Senior Research Scientist in the Future of AI and Society organization at Google Research. Her work focuses on the intersection of language, AI, and society, with the goal of developing safe, inclusive, and globally useful AI systems. Currently, she is concentrating on grounding generative models in socio-cultural contexts to ensure their responses cater to diverse user experiences and needs worldwide.
+Sunipa Dev is a Staff Research Scientist in the Future of AI and Society organization at Google Research. Her work focuses on the intersection of language, AI, and society, with the goal of developing safe, inclusive, and globally useful AI systems. Currently, she is concentrating on grounding generative models in socio-cultural contexts to ensure their responses cater to diverse user experiences and needs worldwide.
 
 Sunipa is deeply involved in the \*CL and affiliated conference communities. She has organized several workshops, notably co-founding the Cross Cultural Considerations in NLP workshop, which has been instrumental in uniting researchers focused on multi-cultural NLP. She also previously served as an organizer for the Widening NLP (WiNLP) workshop, dedicated to supporting early-career and underrepresented researchers. Her extensive service includes roles such as Ethics Chair for EMNLP 2024, Workshop Chair for EMNLP 2025, and upcoming Program Chair for EMNLP 2026, in addition to her ongoing involvement as a Senior Area Chair (SAC) for ARR and CL conferences.
 
