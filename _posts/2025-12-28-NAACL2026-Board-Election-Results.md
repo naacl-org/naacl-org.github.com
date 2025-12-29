@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NAACL Board 2027-2027 Election Results"
+title: "NAACL Board 2026-2027 Election Results"
 root: ../../
 ---
 Dear NAACL members,

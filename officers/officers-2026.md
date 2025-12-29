@@ -13,7 +13,7 @@ Officers
 |------------|------------------|--------------------------------------------|-----------|
 | Chair      | Anna Rumshisky   | University of Massachusetts Lowell         | 2026-2027 |
 | Secretary  | Jessy Li         | University of Texas at Austin              | 2026-2027 |
-| Treasurer  | Steven Bethard   | University of Arizona                      | 2026-2027 |
+| Treasurer  | Steven Bethard   | University of Arizona                      | 2025-2026 |
 | Past Chair | Graham Neubig    | Carnegie Mellon University                 | 2024-2025 |
 
 
