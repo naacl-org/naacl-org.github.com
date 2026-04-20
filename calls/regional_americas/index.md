@@ -38,22 +38,15 @@ There is a Google Group related to NAACL activites in Latin America and the Cari
 
 <p>
 <ul>
-{% for year in (2021..2024) reversed %}
-
+{% for year in (2013..2026) reversed %}
+{% capture year_url %}{{ site.baseurl }}/calls/regional_americas/{{ year }}/{% endcapture %}
+{% assign year_page = site.html_pages | where: "url", year_url | first %}
+{% if year_page %}
 <li>
-<a href="{{ site.baseurl }}/calls/regional_americas/{{ year }}/index.html">{{ year }} Regional Americas Fund CFP</a>
-
+<a href="{{ year_url }}">{{ year }} {% if year < 2021 %}Emerging Regions{% else %}Regional Americas{% endif %} Fund CFP</a>
 </li>
+{% endif %}
 {% endfor %}
-
-{% for year in (2013..2020) reversed %}
-
-<li>
-<a href="{{ site.baseurl }}/calls/regional_americas/{{ year }}/index.html">{{ year }} Emerging Regions CFP</a>
-
-</li>
-{% endfor %}
-
 </ul>
 </p>
 
@@ -117,7 +110,6 @@ There is a Google Group related to NAACL activites in Latin America and the Cari
 * 2013
   * TILic 2013, $1500 to fund 16 students to attend TILic
 
-
 ## Fondo de la NAACL para Regiones Americanas [1]
 
 En la junta de Junio 2010, la mesa directiva de la NAACL decidió combinar dos programas de pequeños fondos creados en 2009 (el Fondo Latinoamericano y el Fondo de Conferencias Regionales) para formar el Fondo para Regiones Americanas. Este fondo tiene la intención de fortalecer la comunidad de Lingüística Computacional (LC) en América Latina y el Caribe, y fomentar  interacciónes regionales entre estudiantes e investigadores en cualquier parte de las Américas.
@@ -142,14 +134,15 @@ Hay un grupo en Google relacionado con actividades en América Latina y el Carib
 
 <p>
 <ul>
-{% for year in (2013..2021) reversed %}
-
+{% for year in (2013..2026) reversed %}
+{% capture year_url %}{{ site.baseurl }}/calls/regional_americas/{{ year }}/{% endcapture %}
+{% assign year_page = site.html_pages | where: "url", year_url | first %}
+{% if year_page %}
 <li>
-<a href="{{ site.baseurl }}/calls/regional_americas/{{ year }}/index.html">Convocatoria {{ year }} del Fondo para Regiones Emergentes</a>
-
+<a href="{{ year_url }}">Convocatoria de Propuestas {{ year }}</a>
 </li>
+{% endif %}
 {% endfor %}
-
 </ul>
 </p>
 
@@ -173,14 +166,15 @@ Há um grupo do Google relacionado às atividades da NAACL na América do Sul: [
 
 <p>
 <ul>
-{% for year in (2013..2021) reversed %}
-
+{% for year in (2013..2026) reversed %}
+{% capture year_url %}{{ site.baseurl }}/calls/regional_americas/{{ year }}/{% endcapture %}
+{% assign year_page = site.html_pages | where: "url", year_url | first %}
+{% if year_page %}
 <li>
-<a href="{{ site.baseurl }}/calls/regional_americas/{{ year }}/index.html">Chamada de {{ year }} para Regiões Emergentes</a>
-
+<a href="{{ year_url }}">Chamada de Propostas {{ year }}</a>
 </li>
+{% endif %}
 {% endfor %}
-
 </ul>
 </p>
 
@@ -202,10 +196,14 @@ Les propositions seront évaluées par un comité composé de membres du conseil
 
 <p>
 <ul>
-{% for year in (2020..2021) reversed %}
+{% for year in (2013..2026) reversed %}
+{% capture year_url %}{{ site.baseurl }}/calls/regional_americas/{{ year }}/{% endcapture %}
+{% assign year_page = site.html_pages | where: "url", year_url | first %}
+{% if year_page %}
 <li>
-<a href="{{ site.baseurl }}/calls/regional_americas/{{ year }}/index.html">{{ year }} Appel à Propositions</a>
+<a href="{{ year_url }}">Apel à Propositions {{ year }}</a>
 </li>
+{% endif %}
 {% endfor %}
 </ul>
 </p>
@@ -231,10 +229,14 @@ Voorstellen worden beoordeeld door een commissie bestaande uit leden van de NAAC
 
 <p>
 <ul>
-{% for year in (2020..2021) reversed %}
+{% for year in (2013..2026) reversed %}
+{% capture year_url %}{{ site.baseurl }}/calls/regional_americas/{{ year }}/{% endcapture %}
+{% assign year_page = site.html_pages | where: "url", year_url | first %}
+{% if year_page %}
 <li>
-<a href="{{ site.baseurl }}/calls/regional_americas/{{ year }}/index.html"> {{ year }} Oproep om voorstellen in te dienen</a>
+<a href="{{ year_url }}">Oproep om voorstellen in te dienen {{ year }}</a>
 </li>
+{% endif %}
 {% endfor %}
 </ul>
 </p>
