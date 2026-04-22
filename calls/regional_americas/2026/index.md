@@ -75,7 +75,7 @@ __Prazo de submissão__: 2026-04-30 23:59 (AoE) para eventos que ocorrerão entr
 
 O propósito do Fundo NAACL para Regiões Americanas é fortalecer a comunidade de Linguística Computacional na América Latina e aumentar as interações regionais entre estudantes e pesquisadores das Américas.
 
-A NAACL reconhece que cada região tem suas necessidades e preocupações específicas, e, portanto, estamos abertos a uma grande variedade de propostas, sujeitas à restrição de que esses fundos se destinam a apoiar indivíduos, instituições ou eventos localizados nas Américas.
+A NAACL reconhece que cada região tem suas necessidades e preocupações específicas, e, portanto, estamos abertos a uma grande variedade de propostas, sujeitas à restrição de que esses fundos se destinem a apoiar indivíduos, instituições ou eventos localizados nas Américas.
 
 Exemplos de propostas que podem ajudar a estabelecer a comunidade:
 
@@ -89,9 +89,9 @@ O apoio financeiro pode ser usado para materiais, retransmissões, arquivamentos
 
 Note que este fundo não se destina a apoiar viagens de estudantes para conferências, pois há outro fundo específico para este fim. A NAACL não apoiará viagens envolvendo regiões fora das Américas.
 
-As propostas serão avaliadas por um comitê consistindo de membros do conselho executivo da NAACL. Os contemplados deverão enviar um relatório final sobre o uso dos fundos. Se você tiver qualquer dúvida sobre esta chamada, por favor encaminhe-a para <naacl-exec@googlegroups.com>.
+As propostas serão avaliadas por um comitê consistindo de membros do conselho executivo da NAACL. Os contemplados deverão enviar um relatório final sobre o uso dos fundos. Se você tiver qualquer dúvida sobre esta chamada, por favor as encaminhe para <naacl-exec@googlegroups.com> .
 
-Propostas podem ser submetidas na língua de sua preferência, contanto que sejam acompanhadas de uma tradução em inglês.   A submissão de propostas é através do formulário online:  <https://forms.gle/XPxN3MuSVo7rnma57>
+Propostas podem ser submetidas na língua de sua preferência, contanto que sejam acompanhadas de uma tradução em inglês. A submissão de propostas é através do formulário online: <https://forms.gle/XPxN3MuSVo7rnma57>
 
 Relatórios de vencedores anteriores podem ser encontrados aqui: <https://naacl.org/calls/regional_americas/>
 
