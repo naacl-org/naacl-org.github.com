@@ -17,7 +17,7 @@ root: ../../../
 
 ### NAACL Regional Americas Fund Call for Proposals
 
-__Deadline__: 2026-04-30 23:59 (AoE) for events to take place between June 2026 and June 2027
+__Deadline__: 2026-05-06 23:59 (AoE) for events to take place between June 2026 and June 2027
 
 The goal of the NAACL Regional Americas fund is to strengthen the Computational Linguistics community in Latin America and the Caribbean, and to enhance regional interactions among students and researchers anywhere in the Americas.
 
@@ -44,7 +44,7 @@ Reports from previous awardees can be found here: <https://naacl.org/calls/regio
 
 ### Convocatoria de propuestas para el fondo de desarrollo para Regiones Americanas NAACL
 
-__Fecha límite__: 2026-04-30 23:59 (AoE), para el soporte de eventos que ocurran entre junio de 2026 y junio de 2027
+__Fecha límite__: 2026-05-06 23:59 (AoE), para el soporte de eventos que ocurran entre junio de 2026 y junio de 2027
 
 El objetivo del Fondo para Regiones Americanas NAACL es fortalecer a la comunidad de Lingüística Computacional (LC) en América Latina y mejorar la interacción regional entre estudiantes e investigadores de cualquier parte del continente americano. Con ese fin, se establece un fondo de desarrollo para apoyar dichos eventos.
 
@@ -71,7 +71,7 @@ Informes de los ganadores anteriores se pueden encontrar aquí: <https://naacl.o
 
 ### Chamada de Propostas para o Fundo NAACL para Regiões Americanas
 
-__Prazo de submissão__: 2026-04-30 23:59 (AoE) para eventos que ocorrerão entre Junho de 2026 e Junho de 2027
+__Prazo de submissão__: 2026-05-06 23:59 (AoE) para eventos que ocorrerão entre Junho de 2026 e Junho de 2027
 
 O propósito do Fundo NAACL para Regiões Americanas é fortalecer a comunidade de Linguística Computacional na América Latina e aumentar as interações regionais entre estudantes e pesquisadores das Américas.
 
@@ -98,7 +98,7 @@ Relatórios de vencedores anteriores podem ser encontrados aqui: <https://naacl.
 
 ### Apel à Propositions du Fonds NAACL pour les Régions Américaines
 
-__Date limite__: 2026-04-30 23:59 (AoE) pour les événements qui auront lieu entre juin 2026 et juin 2027
+__Date limite__: 2026-05-06 23:59 (AoE) pour les événements qui auront lieu entre juin 2026 et juin 2027
 
 L'objectif du Fonds NAACL pour les Régions Américaines est de renforcer la communauté de linguistique informatique en Amérique Latine, et d'améliorer les intéractions régionales entre les étudiants et les chercheurs partout dans les Amériques.
 
@@ -125,7 +125,7 @@ Les rapports des lauréats précédents peuvent être consultés ici: <https://n
 
 ### Oproep om Voorstellen in te Dienen van het NAACL Regionaal Americas-Fonds
 
-__Einddatum__: 2026-04-30 23:59 (AoE) voor evenementen die plaatsvinden tussen juni 2026 en juni 2027
+__Einddatum__: 2026-05-06 23:59 (AoE) voor evenementen die plaatsvinden tussen juni 2026 en juni 2027
 
 Het doel van het NAACL Regionaal Americas-Fund is het versterken van de Computational Linguistics-gemeenschap in Latijns-Amerika en het Caribisch Gebied, en het intensiveren van regionale interacties tussen studenten en onderzoekers overal in Amerika.
 
