@@ -52,6 +52,25 @@ There is a Google Group related to NAACL activites in Latin America and the Cari
 
 ### Past Awardees
 
+* 2026
+  * $2,500 to Tadesse Destaw Belay (Instituto Politécnico Nacional, Mexico) for "Building a Multicultural and Multimodal Safety Benchmark for LLMs"
+  * $2,500 to Francielle Vargas (University of Chile, Chile) for "1st Workshop on Language Model Interpretability and Alignment"
+  * $2,500 to Bernardo Marenco (Universidad de la República, Uruguay) for "A biannual school organized by the Centro Interdisciplinario en Ciencia de Datos y Aprendizaje Automático"
+  * $2,000 to Enzo Ferrante (Universidad de Buenos Aires, Argentina) for "Deep Learning Spring School"
+  * $2,500 to Juan Antonio Lossio-Ventura (SIMBig Organization, Peru) for "13th International Conference on Information Management and Big Data" and "2nd Latin American School of AI"
+  * $2,500 to Adriana Pagano (Federal University of Minas Gerais, Brazil) for "First Brasileiras em PLN School on Natural Language Processing"
+  * $2,500 to Manuel Mager (Universidad Iberoamericana, Mexico) for "Foundational NLP resources for the Yucatec Maya language"
+  * $1,500 to Laura Galvis (Universidad Industrial de Santander, Columbia) for "Processing and annotation the Oral Archive of Memory of Victims"
+  * $1,500 to Ximena Gutierrez-Vasques (National Autonomous University of Mexico, Mexico) for "AI in the Face of Multilingual and Pluricultural Contexts"
+  * $1,500 to Ana Rocío Cárdenas Maita (Universidad de Ingeniería y Tecnología, Peru) for "¿La IA es capaz de entender la cultura? Bases para tecnologías de lenguaje con sentido social"
+
+* 2024
+  * $2,050 to Tadesse Destaw Belay (Instituto Politécnico Nacional, Mexico) for "Multi-label Basic Emotion Dataset Creation for Spanish and English"
+  * $2,000 to Tiago Timponi Torrent (Universidade Federal de Juiz de Fora, Brazil) for "Publication of a book for school students on computational linguistics"
+  * $3,000 to Fabián Villena (Instituto Milenio Fundamentos de los Datos, Chile) for "School on clinical NLP"
+  * $2,000 to Guido Ivetta (Fundación Vía Libre NGO, Argentina) for "Workshop on Responsible NLP"
+  * $3,656 to Miguel Rodriguez (Pontificia Universidad Católica del Perú), Peruvian Sign Language Processing workshop.
+
 * 2023
   * $1500 to Christopher Clarke and Jason Mars of University of Michigan / University of Guyana, to support corpus creation of Caribean creole language data sets 
   * $2000 to Raimundo Moura of Federal University of Piauí, Brazil, to support student travel to the TiLIC workshop 
