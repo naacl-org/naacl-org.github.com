@@ -5,24 +5,26 @@ pageclass: frontpage
 root: ./
 ---
 
-    <div class="jumbotron visible-md visible-lg visible-sm" style="overflow: auto;">
-        <div class="container">
-            <div class="page-header">
-              <h2>The Nations of the Americas Chapter of the Association for Computational Linguistics</h2>
-	      <!--
+<div class="jumbotron visible-md visible-lg visible-sm" style="overflow: auto;">
+  <div class="container">
+    <div class="page-header">
+      <h2>The Nations of the Americas Chapter of the Association for Computational Linguistics</h2>
+      <!--
 	      <p><a class="btn btn-primary btn-large" href="elections/2016/index.html">Elections for 2016 members &raquo;</a></p>
 	      -->
-	    </div>
-	    <div class="linker">
-          <div class="row">
-            <div class="col-md-12">
-              <h1>ACL 2026</h1>
-              <p>The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026) will be held in San Diego, California, United States from July 2–7, 2026.</p>
-              <p><a class="btn btn-primary btn-large" href="https://2026.aclweb.org">Visit the conference website &raquo;</a></p>
-            </div>
-          </div> <!-- row -->
-	    </div>
-	    <!--
+    </div>
+    <div class="linker">
+      <div class="row">
+        <div class="col-md-12">
+          <h1>NAACL 2027</h1>
+          <p>The 2027 Annual Conference of the Nations of the Americas Chapter of the Association for Computational
+            Linguistics (NAACL 2027) will be held in San Francisco, California, United States from June 1 - 5, 2027.</p>
+          <p><a class="btn btn-primary btn-large" href="https://2027.naacl.org/">Visit the conference website
+              &raquo;</a></p>
+        </div>
+      </div> <!-- row -->
+    </div>
+    <!--
             <div class="row">
                 <div class="col-md-4">
                     <p><img width="320px" height="auto" src="{{ site.baseurl }}/images/naacl-poster-sm.jpg" alt="NAACL Poster"></p>
@@ -33,35 +35,36 @@ root: ./
                 </div>
             </div>
 	    -->
-        </div>
-    </div> <!-- jumbotron -->
+  </div>
+</div> <!-- jumbotron -->
 
 <div class="container">
-<div class="row">
-  <div class="col-md-9">
-  <h1>News</h1>
-  <div class="more">
-    <ul class="navigate">
-        {% assign lastyear = nil %}
-        {% for post in site.posts limit:5 %}
-        {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-        {% if year != lastyear %}
-            <li><a href="{{ site.baseurl }}/posts/index.html#year{{ year }}">{{ year }}</a></li>
-            {% assign lastyear = year %}
-        {% endif %}
-        {% endfor %}
-        <li><a href="{{ site.baseurl }}/posts/index.html">All</a></li>
-    </ul>
+  <div class="row">
+    <div class="col-md-9">
+      <h1>News</h1>
+      <div class="more">
+        <ul class="navigate">
+          {% assign lastyear = nil %}
+          {% for post in site.posts limit:5 %}
+          {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+          {% if year != lastyear %}
+          <li><a href="{{ site.baseurl }}/posts/index.html#year{{ year }}">{{ year }}</a></li>
+          {% assign lastyear = year %}
+          {% endif %}
+          {% endfor %}
+          <li><a href="{{ site.baseurl }}/posts/index.html">All</a></li>
+        </ul>
+      </div>
+      {% for post in site.posts limit:5 %}
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <small class="date">{{ post.date |
+          date_to_string }}</small></h2>
+      {{ post.content }}
+      {% endfor %}
+    </div>
+    <div class="col-md-3 visible-sm visible-lg">
+      <a class="twitter-timeline" data-dnt=true href="https://twitter.com/naacl"
+        data-widget-id="257327005056516096">Tweets by @naacl</a>
+      <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
+    </div><!--/span-->
   </div>
-  {% for post in site.posts limit:5 %}
-  <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <small class="date">{{ post.date | date_to_string }}</small></h2>
-  {{ post.content }}
-  {% endfor %}
-  </div>
-  <div class="col-md-3 visible-sm visible-lg">
-  <a class="twitter-timeline" data-dnt=true href="https://twitter.com/naacl" data-widget-id="257327005056516096">Tweets by @naacl</a>
-  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-  </div><!--/span-->
 </div>
-</div>
-
