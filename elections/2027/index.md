@@ -9,6 +9,38 @@ The names below and on the ballot appear in the alphabetical order based on last
 Board Member Nominees:
 ----------------------
 
+<a name="Malihe Alikhani"> </a>
+
+### [Malihe Alikhani](https://www.malihealikhani.com)
+
+#### Bio
+Malihe Alikhani is an Assistant Professor at Northeastern University's Khoury College of Computer Sciences, where she leads the Contextual AI Lab, and a Visiting Fellow at the Brookings Institution's Center on Regulation and Markets. Her research focuses on AI evaluation, alignment, and governance. Through the lens of language, embodiment, and context, she explores how AI shapes the ways we communicate, act, make meaning, and build knowledge.
+
+Her service to the NLP community includes serving as Ethics Co-Chair of ACL Rolling Review since 2023, Workshop Chair for NAACL 2024, and Senior Area Chair at major NLP conferences. She has also organized research workshops, led inclusive AI education and mentorship initiatives, and co-organized AI Policy Summer Schools to foster connections between scientific research and public policy.
+
+As a Congressional AI Fellow, she advised Representative Alexandria Ocasio-Cortez and contributed to the 2024 U.S. House AI Task Force report. She is also a member of the ACM U.S. Technology Policy Committee. Her research has received multiple paper awards, including at EMNLP 2023, ACL 2021, and UAI 2022, and has been supported by NSF, NIH, DARPA, CDC, Google, and Amazon.
+
+#### Candidacy Statement
+AI policy does more than set rules for technology. It shapes what research gets funded, which problems receive attention, and who has the resources to pursue new ideas. Our research, in turn, should inform the decisions that shape how AI is developed and used. I am running for the NAACL Board to strengthen this exchange in both directions.
+
+**From research to policy.** My experience advising Congress on AI policy showed me how much policymakers need independent scientific expertise. I want to help NAACL build lasting connections with policymakers across the Americas, creating opportunities for our researchers to contribute to public consultations, share scientific evidence, and make a stronger case for sustained investment in independent AI research. I also want to create pathways for students and early career researchers interested in science policy fellowships and public service.
+
+**From policy to research.** That experience also showed me how questions emerging from policy and society can reveal gaps in our scientific understanding and open new directions for discovery. I want to bring these questions into NAACL conferences and research collaborations, creating opportunities for researchers, policymakers, and affected communities to identify pressing challenges, turn them into meaningful research questions, and build partnerships that support new ideas and attract resources for independent research.
+
+I envision NAACL as a community whose research helps shape public decisions and whose engagement with the world inspires new scientific questions.
+
+
+<a name="Taylor Berg-Kirkpatrick"> </a>
+
+### [Taylor Berg-Kirkpatrick](https://cseweb.ucsd.edu/~tberg/)
+
+#### Bio
+Taylor Berg-Kirkpatrick is an Associate Professor of Computer Science and Engineering at UC San Diego. His research uses machine learning to understand and generate structured human data: natural language, but also music, historical documents, ciphers, and other complex artifacts. Recent work looks at how to make models efficient enough to run on smaller hardware and how LLMs interact with cybersecurity. Before UC San Diego he was an Assistant Professor at Carnegie Mellon University, and he received his PhD from UC Berkeley. His work has been recognized with an NSF CAREER Award, two Schmidt Sciences awards (the Humanities and AI Virtual Institute, HAVI, and Trust & Safety), a Google Trust & Safety Research Award, Amazon and Google faculty research awards.
+
+#### Candidacy Statement
+I said yes to this nomination because I owe a lot to this community and would like to give some time back. My view is pretty simple. Language models have brought enormous attention and many new people to our field, and that is mostly good news. But it makes the things NAACL has always done well more important, not less: careful evaluation, honest claims, and taking language itself seriously, in many languages and not just English. These models are extremely powerful plausibility engines, and our community is well placed to measure what they actually do and where they fail. On the board, I'd push to keep our venues a home for that kind of careful work, including work from small academic labs and from linguistics, alongside large-scale model building.
+
+
 <a name="Helena Gómez Adorno"> </a>
 
 ### [Helena Gómez Adorno](https://helenagomez-adorno.github.io)
@@ -98,24 +130,3 @@ I would prioritize initiatives that reach countries and institutions with limite
 I would encourage transparent reporting of computational costs, recognition of meaningful advances achieved with modest resources, and reuse of datasets, tools, and educational materials. In NAACL activities, I would support participation options that balance in-person exchange with remote access, considering affordability, environmental impacts, and volunteer workloads.
 
 My goal is a NAACL that people across North, Central, and South America can participate in and help shape: useful to academia and industry, open to different research traditions, and a place where linguists and machine learning researchers learn from one another. I would work toward this through collaborative decision-making and practical initiatives developed with the community.
-
-
-<a name="Francisco (Paco) Guzmán"> </a>
-
-### [Francisco (Paco) Guzmán](https://guzmanhe.github.io/)
-
-#### Bio
-I'm Francisco (Paco) Guzmán, Head of AI Research at Handshake. I lead research on data quality and evaluation; creating data and systems that expand the knowledge and reliability of frontier AI through expert data. Previously at Meta, I led efforts like NLLB-200 (expanding translation to 200 languages and billions of speakers) and SeamlessM4T (recognized by TIME as one of 2023's best inventions), pushing multilingual and open-science work that expanded language technology access worldwide. I also led post-training teams for Llama 3.1, 3.2, and 3.3; advancing open-weights models that empower researchers globally.
-
-I created the AI Learning Alliance (AILA) with Georgia Tech, partnering with HBCUs, HSIs to democratize AI education; co-created the TICO-19 initiative to make COVID-19 information accessible in 35+ languages; organized the first WMT shared task on African languages; and have served as Co-Research Director at AMTA (2020-2022), Ethics Co-Chair at EMNLP 2023, and Area Chair at conferences including NeurIPS, ACL, and EMNLP.  I'm deeply committed to mentorship and to building research ecosystems in industry and academia that scale inclusion and provide opportunities for everyone.
-
-#### Candidacy Statement
-NAACL is where rigor, openness, and inclusivity converge. I'm running for the Board to strengthen those pillars by investing in three areas:
-
-**Compute access fund:** Access to compute has become the major inequalizer in research. Smaller universities across the Americas, particularly in Latin America, cannot compete when frontier research requires resources only industry can afford. I will establish a NAACL Compute Fund in partnership with cloud providers (e.g., AWS, Google Cloud, Azure), making grants available to researchers at institutions without significant compute budgets. This fund will lower the entrance bar so more researchers in the Americas can conduct cutting-edge research and remain competitive in the AI era. Success will be measured by: number of institutions served, papers published using the grants, and geographic distribution across the hemisphere.
-
-**Evaluation standards and reproducibility:** With training data contamination threatening benchmark validity, establish lightweight, NAACL-endorsed rubrics for dataset quality, reproducibility, and contamination checks. This raises the floor for fairness and transparency in our review and benchmark culture, protecting research integrity while making good science easier to verify.
-
-**Mentorship and regional collaboration:** Scale mentorship programs connecting students with experienced researchers from academia and industry. Establish a NAACL Research Apprenticeship Program that provides grants for paid internships at leading labs across the Americas; targeting not only NLP students but also researchers from other disciplines (Biology, Physics, Chemistry, Social Sciences) to foster interdisciplinary AI research addressing real-world problems across language barriers. Support regional workshops and shared tasks that strengthen our continental identity; ensuring researchers have platforms to showcase work on problems unique to the Americas.
-
-NAACL's strength lies in its people and its standards. My goal is to help the organization set both higher and fairer; so good science is easier to do and verify across the Americas. I commit to substantial time for board work and championing transparency in our publication guidelines.
