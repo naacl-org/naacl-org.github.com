@@ -102,7 +102,7 @@ NAACL is facing a set of challenges in the era of LLMs and fast-paced research. 
 
 <a name="Adriana Pagano"> </a>
 
-### [Adriana Pagano](https://www.alphaxiv.org/@adriana-s-pagano)
+### [Adriana Pagano](https://www.researchgate.net/profile/Adriana-Pagano)
 
 #### Bio
 Adriana Pagano is Full Professor at the Federal University of Minas Gerais (UFMG), Brazil. Originally from Argentina, she holds undergraduate degrees in Language studies and translation from Universidad Nacional de La Plata (UNLP). She built her academic career in Brazil, with research and teaching appointments in Europe, Asia, and North America. Her work connects applied linguistics, Systemic Functional Linguistics, and translation studies with computational linguistics and responsible AI.
